@@ -7,6 +7,7 @@ export default function UpdatedAt({ date }) {
     day: '2-digit',
     hour: '2-digit',
     minute: '2-digit',
+    timeZone: 'Europe/Lisbon'
   };
 
   const a = new Intl.DateTimeFormat("pt-PT", options);

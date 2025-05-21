@@ -1,8 +1,7 @@
-import dynamic from "next/dynamic";
 import { promises as fs } from 'fs';
 
-import Article from "../components/Article";
-import UpdatedAt from "../components/UpdatedAt";
+import Article from "./components/Article";
+import UpdatedAt from "./components/UpdatedAt";
 
 export default async function Home() {
   const file = await fs.readFile(process.cwd() + '/articles/latest.json', 'utf8');
@@ -15,9 +14,9 @@ export default async function Home() {
       <br></br>
       <br></br>
 
-      <articles>
+      <main>
         {data.map(article => <Article key={article.title} {...article} />)}
-      </articles>
+      </main>
     </div>
   );
 

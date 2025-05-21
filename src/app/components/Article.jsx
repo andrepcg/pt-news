@@ -24,7 +24,7 @@ export default function Article({ title, tags, urls, date }) {
         <span>{formatDate(date)}</span>
         {' · '}
         <span className='tags'>
-          {tags.map(t => (<span>{t}</span>))}
+          {tags.map(t => (<span key={t}>{t}</span>))}
         </span>
       </p>
       <ul className='links'>

@@ -1,8 +1,6 @@
-"use client";
-
-// we want to render a date in a human readable format based on the user's locale
 
 export default function UpdatedAt({ date }) {
+
   const options = {
     year: 'numeric',
     month: '2-digit',
@@ -10,7 +8,8 @@ export default function UpdatedAt({ date }) {
     hour: '2-digit',
     minute: '2-digit',
   };
-  const a = new Intl.DateTimeFormat(navigator.language, options);
+
+  const a = new Intl.DateTimeFormat("pt-PT", options);
 
   return (
     <span>

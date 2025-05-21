@@ -1,17 +1,8 @@
-import Image from "next/image";
+import dynamic from "next/dynamic";
 import { promises as fs } from 'fs';
 
 import Article from "../components/Article";
-
-function updatedAt(date) {
-  return date.toLocaleString('pt-PT', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit',
-  }).replace(',', '');
-}
+import UpdatedAt from "../components/UpdatedAt";
 
 export default async function Home() {
   const file = await fs.readFile(process.cwd() + '/articles/latest.json', 'utf8');
@@ -20,7 +11,7 @@ export default async function Home() {
   return (
     <div>
       <h1>Últimas Notícias</h1>
-      <span>Actualizado às {updatedAt(new Date())}</span>
+      <UpdatedAt date={new Date()}/>
       <br></br>
       <br></br>
 

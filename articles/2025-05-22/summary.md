@@ -1,17 +1,7 @@
-Aqui estão os principais destaques das notícias de hoje:
+Em destaque hoje, o Presidente da República está a auscultar os partidos para indigitar o primeiro-ministro após as eleições legislativas, com o Chega a mostrar-se disponível para uma revisão constitucional que inclua a prisão perpétua.
 
-**Política Nacional:** Marcelo Rebelo de Sousa iniciou as auscultações aos partidos para indigitar o novo primeiro-ministro, enquanto o Chega manifestou disponibilidade para rever a Constituição, com abertura à prisão perpétua. O governo reiterou o compromisso com a verificação de factos para garantir a democracia e anunciou que vai suportar 50% das assinaturas digitais da imprensa.
+No plano internacional, dois funcionários da embaixada de Israel foram assassinados nos EUA, gerando uma onda de condenações e reforço da segurança. A Coreia do Norte lançou vários mísseis de cruzeiro para o mar, aumentando as tensões regionais, e um "acidente grave" ocorreu durante o lançamento de um navio de guerra. Um sismo de magnitude 6.1 atingiu Creta e Santorini. A Rússia abateu 35 drones ucranianos sobre Moscovo, enquanto a Finlândia se prepara para o "pior" face à expansão militar russa na fronteira. As inundações na Austrália causaram três mortes e isolaram milhares de pessoas.
 
-**Economia:** As taxas Euribor voltaram a subir a três, seis e doze meses. O Bitcoin atingiu um novo máximo histórico, ultrapassando os 111 mil dólares. A EasyJet reportou prejuízos, mas prevê lucros com o aumento da procura por voos. A indústria têxtil portuguesa está a exigir uma taxa de 20 euros sobre as compras na Temu e Shein. As famílias portuguesas continuam a investir em Certificados de Aforro, que atingiram um novo máximo de 37 mil milhões de euros.
+Na economia, o Bitcoin bateu um novo recorde, ultrapassando os 111 mil dólares. As taxas Euribor subiram a três, seis e 12 meses. A indústria têxtil portuguesa exige uma taxa de 20 euros para compras na Temu e Shein. A EasyJet reportou prejuízos, mas prevê lucros com o aumento da procura por voos. O valor aplicado em Certificados de Aforro atingiu um novo máximo de 37 mil milhões de euros.
 
-**Mundo:** A tensão internacional aumentou com o assassinato de funcionários da embaixada de Israel nos EUA, desencadeando uma onde de condenações e reforço da segurança. Um sismo de magnitude 6.1 atingiu Creta e Santorini, na Grécia. A Coreia do Norte lançou vários mísseis para o mar, aumentando as tensões regionais, e sofreu um "acidente grave" no lançamento de um navio de guerra. Registaram-se inundações graves na Austrália, com mortos e milhares de pessoas isoladas.
-
-**Sociedade:** A Arquidiocese dos EUA vai pagar 153 milhões de euros a vítimas de abusos sexuais. Em Portugal, foram recebidos 78 pedidos de compensação financeira por abusos na Igreja. Há relatos de longas filas de imigrantes nos serviços consulares, apesar das medidas anunciadas pelo governo. No Porto, foi descoberto um restaurante em Arroios que funcionava como dormitório ilegal para imigrantes.
-
-**Justiça:** Começou o julgamento do ex-motorista de Cabrita, acusado de homicídio por negligência num atropelamento mortal na A6. Também teve início o julgamento do suspeito do assalto ao Ministério da Administração Interna (MAI).
-
-**Ambiente:** A população de lince ibérico aumentou 19%, ultrapassando os 2400 animais. A ONU alertou para a destruição da biodiversidade pela humanidade.
-
-**Ciência e Tecnologia:** A Universidade de Coimbra vai produzir um radiofármaco para a deteção precoce de Alzheimer.
-
-**Desporto:** Alvalade vai ser palco da final da Liga dos Campeões feminina entre o FC Barcelona e o Arsenal.
+Em Portugal, o julgamento do ex-motorista de Cabrita teve início, enquanto o julgamento do suspeito do assalto ao MAI também começou. A Universidade de Coimbra vai produzir um radiofármaco para deteção precoce de Alzheimer. A PJ deteve uma mulher em Setúbal por tentar introduzir haxixe na prisão. Os trabalhadores do Metro de Lisboa farão greve, o que poderá ter impacto na final da Liga dos Campeões feminina e nos Santos Populares. Face aos atrasos na AIMA, o Governo garantiu que os imigrantes não perderão direitos.

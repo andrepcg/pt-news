@@ -61,3 +61,15 @@ h2 a {
 .links li a:hover {
   text-decoration: underline;
 }
+
+.summary {
+  font-size: 0.875rem;
+  color: #333;
+  margin: 1rem 0;
+}
+
+.summary blockquote {
+  font-style: italic;
+  color: #666;
+  margin: 0.5rem 0;
+}

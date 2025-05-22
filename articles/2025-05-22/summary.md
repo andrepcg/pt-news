@@ -1,11 +1,7 @@
-Em destaque, o assassinato de dois funcionários da embaixada de Israel em Washington, com forte condenação internacional e reforço da segurança. Um sismo de magnitude 6.1 abalou Creta e Santorini, na Grécia.
+Hoje, as notícias foram marcadas por tensões internacionais e desenvolvimentos políticos internos. No plano internacional, dois funcionários da embaixada de Israel foram assassinados nos EUA, gerando ondas de choque globais e aumento da segurança. As tensões aumentaram também no leste europeu com a Finlândia a preparar-se para o pior face à expansão militar russa. A Coreia do Norte lançou vários mísseis para o mar, enquanto a Rússia abateu drones ucranianos sobre Moscovo. Um sismo de magnitude 6.1 atingiu a Grécia, causando apreensão. Na Austrália, inundações ceifaram vidas e isolaram milhares.
 
-Na política nacional, o Presidente da República ausculta os partidos para indigitar o primeiro-ministro, com o Chega a mostrar-se disponível para uma revisão constitucional. Nas eleições legislativas, a AD captou mais 150 mil votos, a um custo de 13.800 euros por eleitor.
+Em Portugal, o Presidente da República ausculta os partidos para indigitar o primeiro-ministro após as eleições legislativas. O Chega manifestou disponibilidade para uma revisão constitucional, enquanto Paula Teixeira da Cruz se opôs. Na justiça, iniciou-se o julgamento do ex-motorista de Cabrita e do suspeito de assalto ao MAI. A SIBS e a EDP anunciaram uma parceria bem-sucedida no combate a fraudes em pagamentos, evitando prejuízos de 65 mil euros.
 
-No mundo, a Coreia do Norte realizou um lançamento de um navio de guerra que resultou num "acidente grave". A Rússia abateu 35 drones ucranianos sobre Moscovo, enquanto a Finlândia se prepara para o pior face à expansão militar russa. Nas Filipinas, o Presidente exigiu a demissão do Governo após resultados eleitorais desfavoráveis.
+No âmbito económico, o Bitcoin atingiu um novo recorde acima de 111 mil dólares, enquanto a indústria têxtil portuguesa defende uma taxa para compras na Temu e Shein. As famílias portuguesas continuam a investir em Certificados de Aforro. O Metro de Lisboa enfrenta uma greve que poderá afetar a final da Champions feminina e os Santos Populares.
 
-Ainda a nível internacional, a Arquidiocese dos EUA pagou 153 milhões de euros a vítimas de abusos sexuais. A ONU alertou para a destruição da biodiversidade pela humanidade. A China e o Canadá reagiram a disparos contra diplomatas israelitas.
-
-Na economia realça-se o Bitcoin a atingir um novo recorde acima dos 111 mil dólares. A indústria têxtil portuguesa exige uma taxa de 20 euros para compras na Temu e Shein. A EasyJet reportou prejuízos, mas prevê lucros com o aumento da procura por voos, e a SIBS e a EDP combateram fraudes em pagamentos.
-
-Outros temas incluem o aumento da população de lince ibérico, abusos na Igreja Católica, a greve no Metro de Lisboa que pode afetar a final da Champions feminina e os Santos Populares, e o Dia Nacional da Segurança Infantil.
+Na área social, foram recebidos 78 pedidos de compensação financeira por abusos na Igreja. A população de lince ibérico aumentou 19%, ultrapassando os 2400 animais.

@@ -30,9 +30,16 @@ export default async function Page({ params }) {
   );
 }
 
+export async function generateMetadata({ params }) {
+  const { date } = await params
+
+  return {
+    title: `Notícias do dia ${date}`,
+  }
+}
+
 export async function generateStaticParams() {
   const dates = await listOfDates();
-  console.log(dates);
 
   return dates.map((d) => ({ date: d }))
 }

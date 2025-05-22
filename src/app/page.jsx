@@ -4,6 +4,7 @@ import { getSummary } from "./utils";
 
 import Article from "./components/Article";
 import UpdatedAt from "./components/UpdatedAt";
+import Summary from './components/Summary';
 
 function getDate() {
   const isoString = new Date().toISOString();
@@ -25,12 +26,7 @@ export default async function Home() {
         <li><a href="/date">Notícias por data</a></li>
       </ul>
 
-      {summary && (
-        <div className="summary">
-          <h2>Resumo de hoje</h2>
-          <blockquote>{summary}</blockquote>
-        </div>
-      )}
+      <Summary summary={summary} />
       <br></br>
 
       <main>

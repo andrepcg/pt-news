@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs';
 
 import Article from "../../components/Article";
+import Summary from '@/app/components/Summary';
 import { listOfDates, loadArticles, getSummary } from "../../utils";
 
 export default async function Page({ params }) {
@@ -18,12 +19,7 @@ export default async function Page({ params }) {
       <ul className="links">
         <li><a href="/">Home</a></li>
       </ul>
-      {summary && (
-        <div className="summary">
-          <h2>Resumo</h2>
-          <blockquote>{summary}</blockquote>
-        </div>
-      )}
+      <Summary summary={summary} title="Resumo" />
       <br></br>
       <br></br>
 

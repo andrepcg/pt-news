@@ -20,6 +20,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
+        <footer className="footer">
+          <a href="https://github.com/andrepcg/pt-news" target="_blank" rel="noopener noreferrer">
+            GitHub
+          </a>
+        </footer>
       </body>
     </html>
   );

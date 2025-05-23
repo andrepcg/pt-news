@@ -1,15 +1,42 @@
 Aqui fica um resumo das principais notícias de 23 de maio de 2025:
 
-**Política Nacional:** José Luís Carneiro deverá ser o único candidato à liderança do PS, com Medina e Vieira da Silva a retirarem as suas candidaturas. O Chega poderá ganhar mais câmaras nas próximas autárquicas. O Governo reforçou os serviços consulares devido às filas de imigrantes, mas a AIMA já recusou mais de 30 mil vistos. Há debate sobre primárias no PS, com Daniel Adrião a propor eleições só após as autárquicas. André Ventura propõe acordo à direita para revisão constitucional.
+**Política e Economia:**
 
-**Economia:** A TAP agravou os prejuízos para 108 milhões de euros no primeiro trimestre. O Governo cortou 60% dos vales para combater a pobreza energética. Empresas enfrentam dificuldades no resgate de milhões do Fundo de Compensação do Trabalho. A Conclusion planeia novas aquisições em Portugal e Espanha. A ANA registou lucros recorde em 2024. Portugal tem uma das taxas de desemprego de longa duração mais altas da UE, apesar do desemprego na UE ter atingido um mínimo histórico. Os preços dos combustíveis vão descer na próxima semana. Os lucros dos cinco maiores bancos em Portugal recuaram ligeiramente e o BCP aprovou o pagamento de dividendos e a recompra de ações. O Portal das Finanças apresentou falhas após um apagão. A Navigator confirmou a saída de 125 trabalhadores. Há um novo investimento de um "retail park" em Portimão.
+*   O cenário político nacional está centrado na corrida à liderança do PS, com José Luís Carneiro como único candidato após desistências de outros. André Ventura propõe um acordo à AD e IL para a revisão constitucional.
+*   O Governo anunciou um corte de 60% nos vales para combater a pobreza energética devido à falta de procura. Houve um reforço das equipas para regularizar imigrantes, embora a AIMA tenha rejeitado mais de 30 mil vistos e as filas nos consulados persistam.
+*   A TAP agravou os prejuízos para 108 milhões de euros no primeiro trimestre de 2025. A ANA, por outro lado, registou lucros recorde.
+*   Os lucros dos cinco maiores bancos em Portugal recuaram ligeiramente no primeiro trimestre. O BCP aprovou o pagamento de dividendos e um programa de recompra de ações. A Navigator negou pressões após denúncias sobre saídas de trabalhadores.
+*   O Portal das Finanças apresentou falhas após um apagão, levando contabilistas a pedir novo adiamento do Modelo 22 e IES.
+*   Os preços dos combustíveis deverão descer na próxima semana.
 
-**Saúde:** A IGAI recebeu um número recorde de queixas contra a atuação da polícia em 2024. Mais de 1400 doentes oncológicos ultrapassaram o tempo máximo de espera em março. O plano de emergência da saúde não mostra progressos significativos nos cuidados primários e faltam dados para avaliar o impacto da consulta do dia seguinte. Especialistas sugerem tratamento não cirúrgico para reduzir listas de espera. Em Portugal, aumenta o risco de exposição à radiação UV. A venda de fármacos para a obesidade em 2025 quase iguala o total de 2024. Há urgências encerradas no fim de semana em Lisboa, Setúbal e Braga, e tempo de espera por consulta de obesidade pode chegar aos 4 anos.
+**Saúde:**
 
-**Mundo:** O Conselho de Segurança da ONU condenou um ataque a um autocarro escolar no Paquistão. Inundações recorde na Austrália causaram quatro mortos e milhares de isolados. Há uma crise de combustíveis em Moçambique. Ataques israelitas em Gaza causaram dezenas de mortos. A China criticou a proibição de estudantes estrangeiros em Harvard. Drones ucranianos visaram Moscovo. A Venezuela realizou eleições legislativas e regionais em meio a contestação. A África do Sul rejeitou alegações de Trump sobre "genocídio branco". Há uma troca de prisioneiros entre a Rússia e a Ucrânia. A ONU acusou os EUA de tentarem limitar o debate e protestos nas universidades.
+*   O setor da saúde enfrenta desafios, com mais de 1400 doentes oncológicos a ultrapassar o tempo máximo de espera para cirurgia. O plano de emergência da saúde não apresenta progressos significativos nos cuidados primários, com falta de dados e profissionais.
+*   Há preocupações com o aumento do risco de exposição à radiação UV em Portugal e alertas sobre os perigos de planos de emagrecimento rápido nas redes sociais.
+*   O tempo de espera por consulta de obesidade pode chegar aos 4 anos no SNS. A venda de fármacos para a obesidade está quase a igualar o total de 2024.
+*   O Hospital de Santa Maria pediu desculpa por trocar a medicação de um utente.
+*   Foram encerradas urgências no fim de semana em Lisboa, Setúbal e Braga.
 
-**Sociedade:** A PSP desmantelou uma rede de tráfico de droga em Beja. Um casal desapareceu em Oliveira do Bairro após uma noite numa danceteria. Uma criança de 3 anos está em estado grave após um afogamento numa creche em Guimarães.
+**Sociedade:**
 
-**Cultura:** Luísa Costa Gomes venceu o Grande Prémio dst de Literatura com 'Visitar Amigos e Outros Contos'. Portugal apresentou duas curtas à Palma de Ouro em Cannes. Bordalo II expôs "Irréversible" em Paris. Morreu o fotógrafo Sebastião Salgado aos 81 anos.
+*   A IGAI recebeu um número recorde de queixas contra a atuação da polícia em 2024, com a PSP como a mais visada.
+*   A taxa de desemprego na UE atingiu um mínimo histórico de 5,9% em 2024, embora Portugal esteja acima da média no desemprego de longa duração.
+*   Um restaurante em Arroios foi alvo de uma operação da Polícia Municipal que retirou imigrantes em situação precária.
+*   Uma criança de 3 anos encontra-se gravemente ferida após afogamento numa creche em Guimarães e uma criança de 5 anos foi encontrada sozinha na estação do Pinhal Novo.
 
-**Desporto:** Sporting e Benfica disputarão a final da Taça de Portugal.
+**Mundo:**
+
+*   No cenário internacional, o Conselho de Segurança da ONU condenou um ataque a um autocarro escolar no Paquistão.
+*   Inundações recorde na Austrália causaram mortes e isolamento de milhares.
+*   Ataques israelitas em Gaza causaram dezenas de mortos.
+*   A Rússia e a Ucrânia realizaram uma troca de prisioneiros.
+*   A Universidade de Harvard processa a administração Trump devido a proibições de matrículas de estudantes estrangeiros, medida essa criticada pela China.
+*   Aumento da idade da reforma para 70 anos foi aprovada na Dinamarca.
+*   Trump ameaça a UE com tarifas de 50%.
+
+**Outros:**
+
+*   Na cultura, Luísa Costa Gomes venceu o Grande Prémio dst de Literatura. O fotógrafo Sebastião Salgado faleceu aos 81 anos.
+*   No desporto, Sporting e Benfica disputam a final da Taça de Portugal.
+*   Em Coimbra, a abertura da Queima das Fitas foi marcada pela Serenata Monumental.
+*   Registou-se um aumento do risco de exposição à radiação UV em Portugal.

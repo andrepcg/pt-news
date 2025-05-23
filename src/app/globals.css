@@ -43,6 +43,15 @@ h2 a {
   font-size: 0.75rem;
 }
 
+.tags span:hover {
+  background: #e0e0e0;
+}
+.tags a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+
 .links {
   list-style: none;
   padding: 0;
@@ -94,4 +103,34 @@ h2 a {
 .footer a:hover {
   color: #333;
   text-decoration: underline;
+}
+
+.tag-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* Adjust gap between tags as needed */
+  margin-top: 1rem; /* Add some space above the tag list */
+}
+
+.tag-list-item {
+  background-color: #f2f2f2; /* Light grey background */
+  color: #333; /* Darker text color */
+  padding: 0.5rem 1rem;
+  border-radius: 20px; /* More rounded corners */
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s, color 0.2s;
+  display: inline-flex; /* Allows for better alignment if needed */
+  align-items: center;
+}
+
+.tag-list-item:hover {
+  background-color: #e0e0e0; /* Slightly darker on hover */
+  color: #000; /* Black text on hover */
+}
+
+.tag-frequency {
+  margin-left: 0.5rem;
+  font-size: 0.8rem;
+  color: #555; /* Grey for frequency count */
 }

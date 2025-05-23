@@ -15,9 +15,14 @@ export const metadata = {
   title: "Últimas Notícias 🇵🇹 "
 };
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+};
+
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="pt">
       <body>
         {children}
         <footer className="footer">

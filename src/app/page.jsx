@@ -18,18 +18,19 @@ export default async function Home() {
 
   return (
     <div>
-      <h1>Últimas Notícias</h1>
+      <h1 id="page-title">Últimas Notícias</h1>
       <UpdatedAt date={new Date()}/>
 
-
-      <ul className="links" style={{ marginBottom: '2rem' }}>
-        <li><a href="/date">Notícias por data</a></li>
-      </ul>
+      <nav aria-label="Navegação secundária">
+        <ul className="links" style={{ marginBottom: '2rem' }}>
+          <li><a href="/date">Notícias por data</a></li>
+        </ul>
+      </nav>
 
       <Summary summary={summary} />
       <br></br>
 
-      <main>
+      <main aria-labelledby="page-title">
         {data.map(article => <Article key={article.title} {...article} />)}
       </main>
     </div>

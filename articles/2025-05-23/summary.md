@@ -1,0 +1,7 @@
+Em resumo das notícias de hoje, a IGAI registou um número recorde de queixas contra a polícia em 2024, enquanto o Governo cortou 60% dos vales para combater a pobreza energética. Na saúde, mais de 1400 doentes oncológicos ultrapassaram o tempo máximo de espera em Março, e o plano de emergência da saúde enfrenta dificuldades nos cuidados primários, com peritos a apontarem para a falta de dados para avaliar o impacto da consulta do dia seguinte e a sugerirem tratamento não cirúrgico para reduzir as listas de espera.
+
+Na economia, a TAP agravou os prejuízos para 108 milhões de euros no primeiro trimestre, enquanto empresas enfrentam dificuldades no resgate de milhões do Fundo de Compensação do Trabalho. O incumprimento das linhas de crédito do Banco de Fomento diminuiu 20% em 2024. A Neerlandesa Conclusion planeia novas aquisições em Portugal e Espanha, e Miranda Sarmento criticou a possível venda do Novobanco ao Caixabank.
+
+Na política, José Luís Carneiro deverá ser o único candidato à liderança do PS, e a Frente Cívica pediu indemnizações da REN a Luís Montenegro pelo apagão.
+
+A nível internacional, o Conselho de Segurança da ONU condenou o ataque a um autocarro escolar no Paquistão, inundações recorde na Austrália causaram quatro mortos e milhares de isolados, e a crise de combustíveis em Moçambique preocupa a gestora do Porto da Beira, com os EUA a manterem a produção de petróleo apesar dos preços baixos.

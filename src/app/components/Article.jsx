@@ -22,7 +22,7 @@ export default function Article({ title, tags, urls, date }) {
     <article>
       <h2>{title}</h2>
       <p className='meta'>
-        <span>{formatDate(date)}</span>
+        <time dateTime={date}>{formatDate(date)}</time>
         {' · '}
         <span className='tags'>
           {tags.map(t => (<span key={t}>{t}</span>))}

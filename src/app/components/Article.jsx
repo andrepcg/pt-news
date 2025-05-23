@@ -1,4 +1,3 @@
-
 import Link from 'next/link'
 
 function formatDate(date) {
@@ -19,17 +18,17 @@ function extractHost(url) {
 
 export default function Article({ title, tags, urls, date }) {
   return (
-    <article>
-      <h2>{title}</h2>
+    <article itemScope itemType="http://schema.org/NewsArticle">
+      <h2 itemProp="headline">{title}</h2>
       <p className='meta'>
-        <time dateTime={date}>{formatDate(date)}</time>
+        <time itemProp="datePublished" dateTime={date}>{formatDate(date)}</time>
         {' · '}
-        <span className='tags'>
+        <span className='tags' itemProp="keywords">
           {tags.map(t => (<span key={t}>{t}</span>))}
         </span>
       </p>
       <ul className='links'>
-        {urls.map(url => (<li key={url}><Link href={url}>{extractHost(url)}</Link></li>))}
+        {urls.map(url => (<li key={url}><Link href={url} itemProp="url">{extractHost(url)}</Link></li>))}
       </ul>
     </article>
   )

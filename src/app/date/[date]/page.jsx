@@ -3,6 +3,7 @@ import { promises as fs } from 'fs';
 import Article from "../../components/Article";
 import Summary from '@/app/components/Summary';
 import { listOfDates, loadArticles, getSummary } from "../../utils";
+import Link from 'next/link'; // Import Link
 
 export default async function Page({ params }) {
   const { date } = await params;
@@ -13,12 +14,31 @@ export default async function Page({ params }) {
     return <div>No articles found for {date}</div>;
   }
 
+  const allDates = await listOfDates(); // Fetch all dates
+  allDates.sort((a, b) => new Date(a) - new Date(b)); // Ensure dates are sorted
+
+  const currentIndex = allDates.indexOf(date);
+  const prevDate = currentIndex > 0 ? allDates[currentIndex - 1] : null;
+  const nextDate = currentIndex < allDates.length - 1 ? allDates[currentIndex + 1] : null;
+
   return (
     <div>
       <h1>Notícias do dia {date}</h1>
       <ul className="links">
         <li><a href="/">Home</a></li>
       </ul>
+      <div style={{ display: 'flex', justifyContent: 'space-between', margin: '10px 0' }}>
+        {prevDate ? (
+          <Link href={`/date/${prevDate}`}>&larr; Dia Anterior ({prevDate})</Link>
+        ) : (
+          <span>&nbsp;</span> // Placeholder for alignment
+        )}
+        {nextDate ? (
+          <Link href={`/date/${nextDate}`}>Próximo Dia ({nextDate}) &rarr;</Link>
+        ) : (
+          <span>&nbsp;</span> // Placeholder for alignment
+        )}
+      </div>
       <Summary summary={summary} title="Resumo" />
       <br></br>
       <br></br>

@@ -1,0 +1,7 @@
+Em Portugal, o PS reúne a Comissão Nacional para analisar os resultados eleitorais após a demissão de Pedro Nuno Santos, enquanto a incidência de cancro do pulmão continua a aumentar no país. A AIMA enfrenta dificuldades no atendimento a imigrantes em Lisboa e no Porto. Adicionalmente, Portugal defende o Estado da Palestina soberano na ONU. Em Almada, foi detido preventivamente um suspeito de roubos em escolas.
+
+A nível internacional, centenas de pessoas vivem em situação precária no aeroporto de Madrid. Um ataque russo com drones e mísseis em Kyiv resultou em feridos. O Papa Leão XIV recebeu o Primeiro-Ministro búlgaro no Vaticano. A Amnistia Internacional alerta para um aumento alarmante de detenções de ativistas na Venezuela e uma agência da ONU destaca o agravamento da insegurança alimentar na RDCongo. Na Bolívia, o governo promete combater a especulação face à crise económica.
+
+No mundo do desporto, o Bayern de Munique está de olho em Bruno Fernandes após o falhanço de Wirtz, e o Barcelona e o Arsenal disputaram a final da Champions feminina em Alvalade.
+
+Na ciência e tecnologia, Ardem Patapoutian alerta para o movimento anti-ciência nos EUA, um estudo revela o uso de plantas psicoativas por árabes há 2700 anos, uma nova espécie de réptil marinho do Cretáceo foi descoberta, e a IA demonstra potencial para detetar sinais de depressão através da análise da linguagem. A Boeing evitou um processo criminal por engano sobre o 737 Max. Por fim, o grupo Mulheres do Brasil traz o 'violentômetro' para Portugal.

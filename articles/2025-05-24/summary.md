@@ -1,9 +1,9 @@
-Destaque para a política nacional com o PS a reunir a Comissão Nacional para analisar os resultados eleitorais e definir o futuro após a demissão de Pedro Nuno Santos. No mundo, um ataque russo a Kyiv fez vários feridos, enquanto a Rússia se diz pronta para apresentar propostas de paz à Ucrânia, que por sua vez realizou uma troca de prisioneiros com a Rússia. A Amnistia Internacional alertou para o aumento de detenções de ativistas na Venezuela. António Guterres criticou o bloqueio da ajuda humanitária a Gaza.
+Hoje, o PS reuniu a Comissão Nacional para analisar a derrota eleitoral e definir o calendário interno após a demissão de Pedro Nuno Santos, marcando eleições internas para 27 e 28 de junho. No plano internacional, a Rússia atacou Kyiv, causando feridos, enquanto a Ucrânia afirma ter abatido drones e mísseis. A Amnistia Internacional alertou para o aumento de detenções de ativistas na Venezuela. Portugal defendeu na ONU um Estado Palestiniano soberano.
 
-Em Portugal, a incidência de cancro do pulmão está a aumentar, alunos realizaram provas ModA em corredores devido à falta de rede e foi detido um suspeito de roubos em escolas de Almada. Registaram-se crimes como um homicídio em Rio de Mouro, uma detenção por sequestro em Montalegre e um caso de abuso de menor em Loures.
+Na Europa, centenas de pessoas vivem em condições precárias no aeroporto de Madrid. Em França, um apagão afetou 160 mil casas, apesar do Festival de Cannes prosseguir. A Provedoria de Justiça Europeia investiga o alívio de regras ecológicas por Bruxelas.
 
-No desporto, Barcelona e Arsenal disputaram a final da Liga dos Campeões feminina em Alvalade. O Bayern de Munique está interessado em Bruno Fernandes.
+No Brasil, uma empresa chinesa iniciou a venda de veículos elétricos e híbridos. A Unicef alertou que 3,4 milhões de crianças moçambicanas precisam de apoio urgente.
 
-A nível internacional, centenas de pessoas vivem em situação precária no aeroporto de Madrid. Uma nova espécie de réptil marinho do Cretáceo foi descoberta no Canadá. Um estudo revelou o uso de plantas psicoativas por árabes há 2700 anos. A Boeing evitou um processo criminal por engano sobre o 737 Max. Portugal defende um Estado da Palestina soberano na ONU. A China lançou um porta-drones com capacidade para 100 drones.
+Em Portugal, registou-se um aumento da incidência de cancro do pulmão. Um suspeito de roubos em escolas de Almada foi detido preventivamente, e um homem foi morto em Rio de Mouro, Sintra. Em Loures, um inquilino é acusado de abusar de uma menor, e uma casa foi assaltada por homens disfarçados de polícias. Alunos realizaram provas ModA em corredores devido à falta de rede.
 
-Na área da tecnologia, a IA pode detetar sinais de depressão através da análise da linguagem.
+No desporto, o Barcelona e o Arsenal disputarão a final da Champions feminina em Alvalade, e o Bayern de Munique estaria interessado em Bruno Fernandes.

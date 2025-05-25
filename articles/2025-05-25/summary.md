@@ -1,21 +1,11 @@
-*   **Política Nacional:** O PS debate a derrota eleitoral e o futuro da liderança após Pedro Nuno Santos, enquanto Portugal pondera a relação com as suas antigas colónias.
+Em Portugal, o PS debate a derrota eleitoral e a sucessão de Pedro Nuno Santos, enquanto se reflete sobre a interação do país com as ex-colónias. No Porto, a situação de pessoas que perderam o RSI é crítica. No Reino Unido, o autor de um homicídio no Bairro Alto foi extraditado. Controladores de tráfego aéreo podem ter férias de verão canceladas.
 
-*   **Conflitos Internacionais:** Israel intensificou a ofensiva em Gaza, com relatos de mensagens de reféns a civis. A Rússia atacou novamente a capital da Ucrânia. Na República Democrática do Congo, o conflito está a gerar uma crise alimentar.
+No mundo, Israel intensificou a ofensiva em Gaza, onde 52 pessoas morreram desde sábado, e cidadãos receberam mensagens de reféns. A Rússia atacou novamente Kyiv, causando mortes também no oeste da Ucrânia. A Síria acolheu favoravelmente o fim das sanções dos EUA. No entanto, o Supremo dos EUA suspendeu o reporte de uma agência de Elon Musk. A Universidade de Hong Kong está a oferecer vagas a estudantes de Harvard após restrições de Trump. Na República Democrática do Congo, um conflito está a desencadear uma crise alimentar. A Malásia apelou à unidade na ASEAN face às tarifas dos EUA. Moçambique enfrenta uma grave crise humanitária, afetando milhões de crianças, alertou a ONU, que também reportou sobre o aumento da desnutrição em Angola.
 
-*   **Crise Humanitária:** ONGs alertam para uma grave crise humanitária que afeta 3,4 milhões de crianças em Moçambique.
+Economicamente, Trump ameaça com tarifas a Samsung se não produzir nos EUA. A AllianzGI avisa que os mercados penalizam quem não se adapta à nova realidade global. A CPLP é vista como um bloco estratégico e alternativa energética.
 
-*   **Economia e Comércio:** Trump ameaça com tarifas a fabricantes, incluindo a Samsung, se não produzirem nos EUA. A AllianzGI avisa que os mercados penalizam quem não se adapta à nova realidade global. A CPLP é vista como um bloco estratégico com potencial energético.
+No desporto, Gary Neville foi banido de um estádio em Inglaterra, e o PSG rejeitou uma proposta do Real Madrid por Vitinha. A final da Taça de Portugal será entre o Benfica e o Sporting.
 
-*   **Justiça:** O autor de um homicídio no Bairro Alto foi extraditado do Reino Unido para Portugal. O Supremo dos EUA suspendeu o reporte de uma agência de Elon Musk.
+Na área da saúde, especialistas alertam para os perigos de protetores solares na saúde e ambiente, enquanto se discute a prevenção do cancro através de ações individuais e de políticas públicas.
 
-*   **Saúde e Ambiente:** Especialistas alertam para os perigos dos protetores solares na saúde humana e no ambiente.
-
-*   **Educação:** A Universidade de Hong Kong está a oferecer vagas a estudantes de Harvard após restrições impostas por Trump.
-
-*   **Tecnologia:** A Disney está a processar o YouTube por alegado "roubo" de um executivo.
-
-*   **Desporto:** Gary Neville foi banido de um estádio em Inglaterra.
-
-*   **Sociedade:** A situação de pessoas que perderam o Rendimento Social de Inserção (RSI) no Porto expõe os desafios da justiça social.
-
-*   **Mundo:** A Síria reage favoravelmente ao fim das sanções dos EUA. Um homem incapacitado foi salvo de uma linha de comboio nos EUA. Foi revelada a existência de uma filha secreta de Freddie Mercury. São analisadas as relações entre o Parlamento Europeu e a Assembleia da República.
+Por fim, o médium brasileiro Divaldo Franco faleceu.

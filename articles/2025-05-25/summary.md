@@ -1,11 +1,11 @@
-Em Portugal, o PS discute a derrota eleitoral e a sucessão de Pedro Nuno Santos, enquanto um homicida do Bairro Alto foi extraditado do Reino Unido. O país também reflete sobre a interação com as ex-colónias e enfrenta casos de cortes no RSI, com dificuldades de sobrevivência para os afetados. Em Alcobaça, um homem foi detido por caça ilegal e na Amadora-Sintra registou-se um caso de baleamento, e em Leiria, um suspeito de violência doméstica foi detido por cultivar canábis.
+Hoje, as notícias foram marcadas por tensões internacionais e crises humanitárias. Israel intensificou a ofensiva em Gaza, enquanto a Rússia atacou novamente a Ucrânia, causando mortes em várias cidades. A ONU alertou para graves crises humanitárias em Moçambique e Angola, com milhões a precisar de ajuda urgente devido à desnutrição.
 
-A nível internacional, Israel intensificou a ofensiva em Gaza, onde 52 pessoas morreram desde sábado, com relatos de cidadãos a receber mensagens de reféns. A Rússia atacou novamente a capital ucraniana, causando mortes e o encerramento temporário de aeroportos em Moscovo. A Síria acolheu positivamente o fim das sanções dos EUA e a Universidade de Hong Kong oferece vagas a estudantes de Harvard após restrições de Trump.
+No plano político, o PS debate a derrota eleitoral e a sucessão de Pedro Nuno Santos. A Síria recebeu positivamente o fim das sanções impostas pelos EUA, enquanto a Malásia apelou à unidade na ASEAN face às tarifas ameaçadas por Trump, que também ameaça a Samsung e outros fabricantes com tarifas se não produzirem nos EUA.
 
-A ONU alertou para uma tripla crise humanitária em Moçambique, afetando milhões de crianças, e para o aumento da desnutrição em Angola. Na República Democrática do Congo, o conflito agrava a crise alimentar. Um acidente de autocarro na Colômbia resultou em dez mortos.
+Em Portugal, um homicida do Bairro Alto foi extraditado do Reino Unido, e um homem foi detido em Alcobaça por caçar javalis com armadilha. Controladores de tráfego aéreo podem ter as férias de verão canceladas.
 
-Na economia, Trump ameaça com tarifas fabricantes que não produzam nos EUA, e a Malásia apela à unidade na ASEAN face a estas tarifas. A CPLP é vista como um bloco estratégico com alternativa energética. A empresa ferroviária britânica regressou à propriedade pública.
+No desporto, Benfica e Sporting disputam a final da Taça de Portugal no Jamor. Gary Neville foi banido de um estádio em Inglaterra.
 
-No desporto, o Benfica e o Sporting disputam a final da Taça de Portugal no Jamor. Gary Neville foi banido de um estádio em Inglaterra.
+Na área económica, a CPLP é vista como um bloco estratégico e alternativa energética, enquanto a empresa ferroviária britânica regressou à propriedade pública. A AllianzGI alerta que os mercados estão a castigar quem não se adapta à nova realidade global. Foi ainda noticiada a existência de fraude no consumo de biocombustíveis.
 
-Outros destaques incluem alertas de especialistas sobre os perigos de protetores solares,  revelação da filha secreta de Freddie Mercury e o falecimento do médium brasileiro Divaldo Franco.
+Em outros temas, Divaldo Franco, médium brasileiro, faleceu, e foi revelada a filha secreta de Freddie Mercury. Um novo carro elétrico do Rei Carlos III custa quase 200.000 euros.

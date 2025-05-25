@@ -1,11 +1,9 @@
-As notícias de hoje, 25 de maio de 2025, são marcadas por tensões internacionais, crises humanitárias e desenvolvimentos económicos e políticos.
+Em Portugal, o PS debate a derrota eleitoral e a sucessão de Pedro Nuno Santos. No país, registaram-se ainda uma extradição por homicídio no Bairro Alto e detenções por caça ilegal, tráfico de droga e violência doméstica. O Governo de Cabo Verde requisitou pilotos devido à greve na companhia aérea estatal e Aguiar Branco apelou à maturidade dos partidos na nova legislatura.
 
-Em destaque, estão a intensificação do conflito israelo-palestiniano com o aumento de mortos em Gaza e a continuidade dos ataques russos na Ucrânia, causando mortes e disrupção. A ONU emitiu alertas sobre graves crises humanitárias em Moçambique e Angola, com milhões de pessoas a necessitarem de ajuda urgente devido à desnutrição.
+No mundo, Israel intensificou a ofensiva em Gaza, onde se registaram dezenas de mortos, e intercetou um míssil vindo do Iémen. A Rússia atacou novamente a Ucrânia, causando mortes e o encerramento de aeroportos em Moscovo e Kiev, apesar da troca de prisioneiros entre os dois países. A ONU alertou para uma grave crise humanitária em Moçambique, com milhões a necessitar de ajuda, e para o aumento da desnutrição em Angola. Na Síria, o governo vai ajudar os EUA a encontrar americanos desaparecidos.
 
-No cenário político, o PS discute a derrota eleitoral e a sucessão de Pedro Nuno Santos em Portugal, enquanto a Síria acolhe o fim das sanções dos EUA. A nível económico, Trump ameaça com tarifas fabricantes que não produzam nos EUA, e a Malásia apela à unidade da ASEAN face a estas tarifas. A CPLP é vista como um bloco estratégico com potencial energético.
+A nível económico, Trump ameaça com tarifas fabricantes que não produzam nos EUA, enquanto a Malásia apela à unidade na ASEAN face a estas tarifas. A CPLP é vista como um bloco estratégico e alternativa energética. A Europa enfrenta uma fraude fiscal no setor têxtil relacionada com plataformas como a Shein e Temu, e o consumo de biocombustível fraudulento supera a produção mundial.
 
-Em Portugal, um homicida do Bairro Alto foi extraditado do Reino Unido e houve várias ocorrências policiais, incluindo detenções por tráfico de droga e caça ilegal. No desporto, o Benfica e o Sporting preparam-se para a final da Taça de Portugal no Jamor e Gary Neville foi banido de um estádio em Inglaterra.
+No desporto, Benfica e Sporting disputam a final da Taça de Portugal no Jamor e Gary Neville foi banido de um estádio em Inglaterra.
 
-No mundo, desastres naturais como inundações na Índia e cheias na Austrália causaram estragos, com helicópteros a entregarem alimentos a agricultores isolados. A Coreia do Norte está a investigar um acidente com um novo navio de guerra e deteve responsáveis.
-
-Por fim, registou-se o falecimento do médium brasileiro Divaldo Franco e a revelação de uma filha secreta de Freddie Mercury.
+Outros destaques incluem um alerta de especialistas sobre os perigos de protetores solares, a revelação de uma filha secreta de Freddie Mercury, e o falecimento do médium brasileiro Divaldo Franco.

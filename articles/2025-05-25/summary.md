@@ -1,23 +1,9 @@
-**Resumo do Dia (2025-05-25)**
+Em Portugal, o PS debate a derrota eleitoral e a sucessão de Pedro Nuno Santos. No âmbito da justiça, um autor de homicídio no Bairro Alto foi extraditado do Reino Unido, um homem foi detido em Alcobaça por caça ilegal e outro por cultivar canábis em Leiria, enquanto a PSP deteve vários indivíduos por tráfico de droga em Lisboa. Há ainda um pedido de auditoria a um médico do Santa Maria. A Autoridade Marítima Nacional apelou à segurança nas praias. O Metro de Lisboa sofreu uma avaria na linha amarela, interrompendo a circulação entre Odivelas e Campo Grande. A final da Taça de Portugal, entre Benfica e Sporting, realizou-se no Jamor.
 
-*   **Política Nacional:** O PS debate a derrota eleitoral e a sucessão de Pedro Nuno Santos. Aguiar Branco apela à maturidade dos partidos na nova legislatura e José Luís Carneiro defende estabilidade no PS. Paulo Raimundo (PCP) critica o governo e avisa que eleitores de direita serão vítimas de políticas de direita. Portugal reflete sobre a interação com as ex-colónias.
+No plano internacional, Israel intensificou a ofensiva em Gaza, onde os ataques já fizeram dezenas de mortos, incluindo nove médicos palestinianos e suas famílias. A Rússia atacou novamente a capital ucraniana causando mortes. A ONU alertou para uma grave crise humanitária em Moçambique, afetando milhões de crianças. A Síria recebeu positivamente o fim das sanções impostas pelos EUA e vai ajudar os EUA a encontrar americanos desaparecidos. A Universidade de Hong Kong ofereceu vagas a estudantes de Harvard após restrições de Trump. Divaldo Franco, conhecido médium brasileiro, faleceu. A Malásia apelou à unidade na ASEAN face às tarifas dos Estados Unidos. A Coreia do Norte investiga um acidente com um novo navio de guerra e deteve dirigentes. Na Colômbia, um acidente de autocarro causou a morte de dez jovens.
 
-*   **Conflitos Internacionais:** Israel intensifica ofensiva em Gaza, resultando em dezenas de mortos e o exército interceta um míssil disparado do Iémen. A Rússia atacou novamente a Ucrânia, causando mortes em Kiev e encerramento temporário de aeroportos em Moscovo. A ONU alerta para uma crise humanitária crescente em Moçambique.
+Na área económica, Trump ameaçou com tarifas a fabricantes que não produzam nos EUA. A AllianzGI alertou que os mercados estão a penalizar quem não se adapta à nova realidade global. O consumo de biocombustível fraudulento levantou preocupações. A União Europeia enfrenta uma crise no setor têxtil.
 
-*   **Economia:** Trump ameaça com tarifas fabricantes que não produzam nos EUA, enquanto a Malásia apela à unidade na ASEAN face às tarifas dos EUA. A Europa enfrenta uma "maior fraude fiscal do século XXI" no setor têxtil. O Governo de Cabo Verde requisita pilotos durante greve e a empresa ferroviária britânica regressa à propriedade pública.
+No desporto, Xabi Alonso é o novo treinador do Real Madrid. Gary Neville foi banido de um estádio em Inglaterra. Marco Bezzecchi venceu o Grande Prémio de Inglaterra de MotoGP e Lando Norris venceu o Grande Prémio do Mónaco de Fórmula 1.
 
-*   **Justiça:** Autor de homicídio no Bairro Alto foi extraditado do Reino Unido para Portugal. O Supremo dos EUA suspendeu o reporte de uma agência de Elon Musk.
-
-*   **Sociedade:** ONGs alertam para crise humanitária em Moçambique, com 5,2 milhões a precisarem de ajuda. A ONU alerta para aumento da desnutrição em Angola. A Queima das Fitas de Coimbra é marcada por participação e mensagens políticas.
-
-*   **Desporto:** Benfica e Sporting disputam a final da Taça de Portugal no Jamor e o FC Porto está perto da final do playoff no basquetebol. Xabi Alonso é o novo treinador do Real Madrid e Marco Bezzecchi vence o Grande Prémio de Inglaterra de MotoGP.
-
-*   **Tecnologia:** A Disney processou o YouTube por "roubo" de executivo. Google integra IA nos automóveis começando na Volvo.
-
-*   **Mundo:** A Síria recebeu positivamente o fim das sanções impostas pelos EUA e a Universidade de Hong Kong oferece vagas a estudantes de Harvard após restrições de Trump. O Japão enfrenta uma crise de natalidade com a taxa mais baixa de sempre.
-
-*   **Obituário:** Divaldo Franco, o médium brasileiro, faleceu.
-
-*   **Clima:** Tempestade causa inundações em Nova Deli e cheias isolam agricultores na Austrália, com alimentos a serem entregues por helicópteros.
-
-*   **Saúde:** Especialistas alertam para perigos de protetores solares na saúde e ambiente.
+Outras notícias incluem alertas de especialistas para os perigos de protetores solares, o falecimento do médium brasileiro Divaldo Franco, o aumento da desnutrição em Angola, a revelação da existência de uma filha secreta de Freddie Mercury e protestos na Guiné-Bissau por liberdade e democracia.

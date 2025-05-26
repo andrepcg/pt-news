@@ -1,13 +1,7 @@
-Os conflitos internacionais dominaram as notícias, com ataques israelitas em Gaza a causarem dezenas de mortos, incluindo numa escola da ONU, e a Rússia a intensificar os seus ataques na Ucrânia, levando a críticas de Trump e apelos ao reforço de sanções. Trump aliviou as tarifas à UE após negociações com Von der Leyen.
+O dia ficou marcado por tensões internacionais e domésticas. Em Gaza, ataques israelitas, incluindo um a uma escola da ONU, causaram dezenas de mortos. Na Ucrânia, a Rússia intensificou os ataques com drones, levando Trump a criticar Putin e a ponderar sanções, embora tenha aliviado tarifas à UE após negociações.
 
-Em Moçambique, investiga-se a fuga de terroristas. A China alertou para o aumento de espiões estrangeiros e Maduro declarou vitória nas eleições legislativas da Venezuela, marcadas por denúncias de fraude.
+Na Venezuela, Maduro declarou vitória nas legislativas, mas a oposição denunciou fraude. Moçambique investiga a fuga de terroristas, enquanto a China alertou para espionagem estrangeira.
 
-Em Portugal, uma campanha solidária para a compra de medicamentos arrancou, e as candidaturas ao Pedido Único terminaram. Nuno Borges avançou para a segunda ronda de Roland Garros, enquanto o Sporting venceu a Taça de Portugal numa final marcada por críticas à arbitragem.
+Em Portugal, a final da Taça de Portugal, ganha pelo Sporting, foi marcada por críticas à arbitragem, e a PSP deteve sete pessoas devido a material pirotécnico. Nuno Borges avançou em Roland Garros. No âmbito económico, Bruxelas prevê desvio orçamental significativo em Portugal, mas os preços dos combustíveis desceram. Bancos portugueses lucraram com depósitos no Banco Central, e a EDP vendeu a sua participação remanescente na central de Pecém, no Brasil. A Autoridade da Concorrência perdeu uma ação movida por grossistas de tabaco.
 
-Na economia, Bruxelas prevê um desvio orçamental significativo em Portugal. Os preços dos combustíveis desceram, e os bancos portugueses lucraram 1,6 mil milhões de euros com depósitos no Banco de Portugal em 2024. A Autoridade da Concorrência perdeu uma ação movida por grossistas de tabaco. A Jerónimo Martins reforçou a sua aposta na aquacultura. A Euribor caiu para mínimos de 2022.
-
-No país, as buscas por crianças desaparecidas na praia de Pedrógão foram retomadas, e o julgamento de promotores de marcha lenta contra portagens começou na Guarda. Um homem está em estado crítico após um esfaqueamento em Viana do Castelo.
-
-A Autoridade Marítima apelou a "muito cuidado no acesso ao mar" após o desaparecimento das crianças. A Comissão Europeia mobilizou bombeiros e aviões da UE para combater incêndios em Portugal. O CEO da Cloudflare criticou Portugal e ameaçou com corte de investimento devido à burocracia. A TAP  recusou o transporte de um cão de assistência, causando o cancelamento de um voo.
-
-Na saúde, o IGAS iniciou auditorias urgentes aos serviços de obstetrícia nos hospitais de Almada e Barreiro, após ser tornado público o pagamento de 51 mil euros a um dermatologista num dia de trabalho.
+Na área social, uma campanha solidária para compra de medicamentos arrancou, e as buscas por crianças desaparecidas na praia de Pedrógão foram retomadas. Um ataque com tesoura em Viana do Castelo deixou um homem em estado crítico. As candidaturas ao Pedido Único foram prolongadas. A TAP esteve sob críticas por recusar o transporte de um cão de assistência, e uma família agrediu enfermeiros no Curry Cabral. O IGAS está a investigar pagamentos a um dermatologista do Hospital de Santa Maria.

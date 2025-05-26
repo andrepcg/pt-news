@@ -1,7 +1,11 @@
-Em destaque nas notícias de 26 de maio de 2025, estão os intensos ataques israelitas em Gaza, que resultaram em dezenas de mortos, incluindo crianças numa escola da ONU, enquanto o Hamas terá aceite a proposta de cessar-fogo, rejeitada por Israel. Paralelamente, Trump criticou Putin face à intensificação dos ataques russos na Ucrânia, após a Rússia ter lançado um ataque aéreo recorde com drones.
+O dia foi marcado por tensões internacionais, com ataques israelitas em Gaza a causarem dezenas de mortos, incluindo numa escola da ONU, e a Rússia a intensificar os seus ataques contra a Ucrânia, levando Trump a criticar Putin e a ponderar sanções. Trump aliviou as tarifas à UE após negociações com Von der Leyen.
 
-Na economia, Trump adiou tarifas para a UE após acordo com Von der Leyen, e a EDP vendeu a sua participação remanescente na central de Pecém, no Brasil. A Euribor atingiu mínimos de 2022. Bruxelas prevê um desvio orçamental significativo em Portugal, enquanto que a vice-governadora do Banco de Portugal alertou para a má evolução das contas públicas. Surgiu a notícia de que os bancos portugueses lucraram 1,6 mil milhões com depósitos no Banco de Portugal em 2024.
+Na Venezuela, Maduro declarou vitória nas eleições legislativas, com a oposição a denunciar fraude. A China alertou para a presença de espiões estrangeiros. Em Moçambique, as autoridades investigam a fuga de terroristas.
 
-Em Portugal, a final da Taça de Portugal, vencida pelo Sporting, foi o programa mais visto do ano, marcada por críticas à arbitragem. Nuno Borges avançou para a segunda ronda de Roland Garros. As buscas por crianças desaparecidas na praia de Pedrógão foram retomadas. O Governo aumentou os salários na eSPap, mas exige mais horas de trabalho e o fim do vínculo público permanente.
+Em Portugal, a final da Taça de Portugal, ganha pelo Sporting, ficou marcada por críticas à arbitragem. Nuno Borges avançou para a segunda ronda de Roland Garros. A campanha solidária para a compra de medicamentos arrancou, e terminam hoje as candidaturas ao Pedido Único. Os preços dos combustíveis desceram e a Euribor atingiu mínimos de 2022. Bruxelas prevê um desvio orçamental significativo em Portugal. O Governo aumentou os salários na eSPap, mas exige mais horas de trabalho.
 
-No mundo, a China alertou para um aumento de espiões estrangeiros disfarçados, as autoridades moçambicanas investigam a fuga de terroristas de Niassa, e Maduro declarou vitória nas eleições legislativas da Venezuela, com a oposição a denunciar fraude. No desporto internacional, Xabi Alonso é apontado como o novo treinador do Real Madrid e Kylian Mbappé conquistou a Bota de Ouro.
+No mundo empresarial, Jerónimo Martins reforçou a aposta na aquacultura, e a EDP vendeu a participação remanescente na central de Pecém, no Brasil. A Lufthansa prolongou a suspensão de voos para Telavive.
+
+As buscas por crianças desaparecidas na praia de Pedrógão foram retomadas com intensidade, e a Autoridade Marítima apelou a redobrados cuidados no acesso ao mar.
+
+O mundo do futebol ficou marcado por Xabi Alonso como novo treinador do Real Madrid e Ten Hag no Bayer Leverkusen.

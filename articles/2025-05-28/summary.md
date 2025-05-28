@@ -1,15 +1,7 @@
-Hoje, os resultados dos círculos da emigração nas Legislativas 2025 vão ser conhecidos, com a possibilidade de decidirem quem será a oposição, PS ou Chega. O Governo da AD poderá tomar posse na primeira semana de junho, com a viabilização do PS.
+Em Portugal, aguarda-se a divulgação dos resultados dos círculos da emigração nas eleições legislativas, cruciais para definir se o PS ou o Chega serão a oposição. O Governo da AD poderá tomar posse na primeira semana de junho, com viabilização do PS, enquanto Gouveia e Melo avança para a corrida a Belém. Um estudo do ISCTE revela que a maioria dos portugueses defende um novo referendo sobre a regionalização. No âmbito económico, o regime híbrido de trabalho ganha força entre contabilistas, metade dos pensionistas da Segurança Social recebe até 500 euros, e Bruxelas critica Portugal pela falta de ambição na transição energética e subsídios a combustíveis fósseis. António Filosa sucede a Carlos Tavares como CEO da Stellantis. A Euribor continua a descer, e o Governo estendeu o prazo para pagamento do IMI devido a atrasos. A PSP registou um aumento de acidentes com trotinetes e velocípedes, enquanto vários distritos estão sob aviso devido ao aumento do calor e risco de incêndio.
 
-No panorama internacional, Trump ofereceu proteção ao Canadá caso este se torne o 51.º estado dos EUA, enquanto António Costa está no Brasil para reforçar o acordo UE-Mercosul com Lula, que regressou ao trabalho. Zelensky visitou Berlim. A China recebeu enviados de Países Insulares do Pacífico para solidificar a sua influência.
+A nível internacional, Trump ofereceu proteção ao Canadá caso este se junte aos EUA como o 51.º estado, e Zelensky visita Berlim. António Costa está no Brasil para reforçar o acordo UE-Mercosul com Lula, que regressou ao trabalho. A China recebe enviados de Países Insulares do Pacífico para reforçar a sua influência. Na Ucrânia, foram lançados quase 300 drones contra a Rússia. Um estudo aponta que o escândalo "Dieselgate" causou milhares de mortes prematuras na Europa.
 
-Na economia, o regime híbrido de trabalho ganha força entre os contabilistas certificados, uma multinacional francesa instalou um 'mini-data center' em Lisboa, e a plataforma New Career Network, com IA, acelera a requalificação de portugueses. António Filosa substitui Carlos Tavares como CEO da Stellantis. O Governo estendeu o prazo de pagamento do IMI devido a atrasos na emissão das notas de liquidação. A Euribor continua a descer.
+No desporto, Nuno Borges fez história ao vencer Ruud em Roland Garros, e a PGR abriu inquérito a Matheus Reis por alegada agressão. Carlos Vicens é o novo treinador do Sporting de Braga. Serena Williams venceu o Prémio Princesa das Astúrias do Desporto 2025.
 
-Um estudo do ISCTE revela que a maioria dos portugueses defende um novo referendo sobre a regionalização. Gouveia e Melo avança para a corrida a Belém.
-
-O país enfrenta um risco de incêndio máximo em vários distritos devido ao aumento do calor. A PSP registou um aumento de acidentes com trotinetes e velocípedes.
-
-No desporto, americanos injetam 11,5 milhões de euros na sociedade de investimento no Benfica, Matheus Reis negou agressão a Belotti na final da Taça de Portugal e Nuno Borges fez história ao vencer Ruud em Roland Garros. A Federação Portuguesa de Judo foi suspensa internacionalmente devido a uma dívida, e Serena Williams venceu o Prémio Princesa das Astúrias do Desporto 2025.
-
-Na área da Justiça, a ministra mostrou-se preocupada com um relatório que critica a atuação de juízes em casos de violência doméstica, e o MP pediu pena suspensa para a atual e ex-bastonária dos enfermeiros por desvio de fundos.
-
-O Banco Alimentar lançou uma campanha de recolha de alimentos a nível nacional. Metade dos pensionistas da Segurança Social recebe até 500 euros, abaixo do limiar da pobreza.
+Na cultura, Andrea Bocelli atuou em Leiria, e os Kings of Leon cancelaram o concerto no NOS Alive.

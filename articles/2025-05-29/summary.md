@@ -1,22 +1,50 @@
-## Resumo das Notícias de 29 de Maio de 2025
+Aqui estão os principais destaques das notícias de 29 de maio de 2025:
 
-### Política e Economia
-Luís Montenegro foi indigitado Primeiro-Ministro, com PS e Chega a viabilizarem o Governo. André Ventura viabiliza programa de Governo mas recusa acordos. O Chega venceu as eleições legislativas no Brasil com um aumento significativo de votos e cresceu nos votos da emigração em Portugal, enquanto o PS perdeu deputados. Gouveia e Melo avançou com a sua candidatura à Presidência da República. António Costa criticou Israel, afirmando que a sua legitimidade moral está a desaparecer.
-Um tribunal dos EUA travou as tarifas de Trump impostas sem aprovação do Congresso, com Trump a recorrer. Musk critica plano fiscal de Trump. Deco reclama medidas para baixar o preço da eletricidade, enquanto a Europa aposta em energias renováveis para reduzir a dependência do gás russo.
-A Euribor a três meses caiu abaixo de 2%, aliviando as prestações de créditos à habitação. O Governo definiu regras para a declaração automática de IVA periódica, embora os contribuintes no regime de IVA de caixa estejam excluídos. O cabaz alimentar voltou a ficar mais caro e o preço do café aumentou. A Super Bock lançou uma campanha focada na importância da amizade.
-A Cloudflare ameaça sair de Portugal devido à burocracia e atrasos nos vistos. A AIMA já analisou 440 mil pedidos de imigrantes, faltando decidir um terço. A CAP alerta que a "via verde" para imigrantes só funciona com alojamento adequado. O Supremo Tribunal de Justiça reconheceu o vínculo laboral entre um estafeta e a Glovo.
+**Política e Economia:**
 
-### País
-A PJ realizou buscas na Força Aérea e em empresas por suspeitas de corrupção em contratos de combate a incêndios e também investiga a contratação de helicópteros. A ANAC confirmou as buscas relacionadas com os meios de combate a incêndios. O Governo autorizou a pré-aposentação de 500 polícias da PSP e prolongou o prazo para a limpeza de terrenos florestais até 15 de junho, existindo vários concelhos de Coimbra e Faro em perigo máximo de incêndio. Um incêndio agrícola em Beja consumiu cerca de 300 hectares. A região de Coimbra proibiu queimas no período crítico. Foram ainda descobertos dormitórios ilegais de imigrantes na Penha de França, em Lisboa. O SNS Grávida triou 172 mil mulheres no primeiro ano. Uma menina foi atacada por um cão pitbull numa escola em Santa Maria da Feira e uma aeronave despenhou-se em Alcácer do Sal, provocando um ferido grave. Um jovem morreu afogado na praia fluvial de Gramido, em Gondomar.
+*   Luís Montenegro foi indigitado Primeiro-Ministro, com Chega e PS a viabilizarem o Governo. André Ventura, do Chega, assegurou que não será "muleta" do governo.
+*   Gouveia e Melo avança com a candidatura à Presidência da República, prometendo uma abordagem "diferente".
+*   O Chega venceu as eleições legislativas no Brasil e liderou os votos da emigração nas legislativas portuguesas, enquanto o PSD, Chega e PS voltam a Belém para negociações. Carneiro (PS) defende que o seu partido se mantém como segunda força política.
+*   Um tribunal dos EUA travou as tarifas impostas por Trump. O ex-presidente recorreu da decisão.
+*   A Euribor a três meses caiu abaixo de 2%, aliviando os créditos à habitação. Deco reclama medidas para baixar o preço da eletricidade. CEO da Cloudflare ameaça retirar sede europeia de Portugal devido à burocracia.
+*    A Europa tem investido em energias renováveis para reduzir a dependência do gás russo.
+*   Foi reconhecido pelo Supremo Tribunal de Justiça, o vínculo laboral entre um estafeta e a Glovo.
 
-### Saúde
-Um novo sistema de gestão de cirurgias do SNS avança em setembro com tempos de triagem definidos. A IGAS abriu uma inspeção à ULS de Gaia/Espinho após denúncias contra o ex-presidente, investigando também cirurgias realizadas no SIGIC e suspeitas de gestão danosa. A Faculdade de Medicina do Porto está a investigar a hiperatividade e défice de atenção em crianças. O aumento da quota de genéricos em ambulatório atingiu um novo máximo em 2024, com a venda de medicamentos genéricos a atingir também um novo máximo em Portugal.
+**Judiciário e Segurança:**
 
-### Mundo
-Nos Estados Unidos, a administração Trump cortou milhões em financiamento a Harvard e suspendeu vistos de estudantes chineses, levando a China a criticar estas ações discriminatórias. Na Coreia do Sul, um avião de patrulha da Marinha caiu durante um exercício. Israel autorizou novos colonatos na Cisjordânia ocupada. Em Moçambique, o governo vai leiloar mais de 100 carros apreendidos e mais de 60% das crianças enfrentam limitações no desenvolvimento. Um surto de cólera no Sudão causou 70 mortes em dois dias. Em Hong Kong, foi estabelecido um centro de mediação internacional proposto pela China. Uma aldeia nos Alpes Suíços foi destruída devido ao colapso de um glaciar.
+*   A PJ realizou buscas na Força Aérea e ANAC por suspeitas de corrupção em contratos de combate a incêndios, envolvendo também um financiador do Chega. O Ministro da Defesa já pediu informações sobre as buscas.
+*   Um homem procurado na Bélgica por burla qualificada foi detido pela PJ em Cascais.
+*   O Governo autorizou a pré-aposentação de 500 polícias da PSP.
 
-### Cultura e Desporto
-Wes Anderson inspirou-se no sogro para o seu novo filme, 'O Esquema Fenício'. Os Muse substituíram os Kings of Leon como cabeças de cartaz no NOS Alive. Shawn Mendes anunciou um concerto em Lisboa para agosto. O quarteto de portugueses do PSG procura o título na Liga dos Campeões. Henrique Rocha avançou para a terceira ronda de Roland Garros. Villas-Boas confirmou negociações do FC Porto por Gabri Veiga e a renovação de Alan Varela. Anulado julgamento da morte de Maradona.
+**Saúde:**
 
-### Crime e Justiça
-A PJ desmantelou uma rede de clonagem de cartões bancários que causou um prejuízo de 450 mil euros, e deteve um homem procurado na Bélgica por burla qualificada em Cascais. Dois suspeitos de burla e branqueamento foram detidos em Portugal a pedido das autoridades neerlandesas. O Tribunal aplicou prisão preventiva para um homem detido em Barcelos por furto de veículo pesado em Espanha. O Supremo Tribunal de Justiça reconheceu o vínculo laboral entre um estafeta e a Glovo.
+*   O SNS Grávida triou 172 mil mulheres no primeiro ano. O Ministério da Saúde anunciou o SINAC para melhorar a gestão de cirurgias.
+*   A IGAS abriu uma inspeção à ULS de Gaia/Espinho após denúncias contra o ex-presidente. Autarca de Ourique criará regulamento para atrair médicos.
+*   A Faculdade de Medicina do Porto investiga a hiperatividade e défice de atenção em crianças.
+
+**Incêndios:**
+
+*   Dez concelhos de Coimbra e Faro estão em perigo máximo de incêndio e o Governo prolongou o prazo para limpeza de terrenos até 15 de junho.
+
+**Internacional:**
+
+*   António Costa criticou Israel, afirmando que a sua legitimidade moral "está a desaparecer". Israel autorizou novos colonatos na Cisjordânia ocupada.
+*   A China criticou os EUA por ações discriminatórias contra estudantes chineses.
+*   Um avião de patrulha da Marinha sul-coreana caiu durante um exercício.
+*    Erdogan apelou ao diálogo entre Kyiv e Moscovo para solucionar o conflito na Ucrânia.
+*   Nova Iorque e Amazon fecharam acordo para uso de conteúdo em IA generativa.
+*   Colapso de um glaciar destrói aldeia nos Alpes Suíços, resultando num desaparecido.
+
+**Desporto:**
+
+*   André Villas-Boas, do FC Porto, confirmou negociações por Gabri Veiga e a renovação de Alan Varela. O clube renovou mesmo contrato com o jogador até 2030.
+*   Houve processos disciplinares instaurados a Matheus Reis e Maxi Araújo após o recente dérbi.
+
+**Cultura:**
+
+*   Os Muse substituem os Kings of Leon como cabeças de cartaz no NOS Alive. Shawn Mendes atuará em Lisboa em agosto.
+
+**Sociedade:**
+
+* Menina de 8 anos atacada por pitbull em escola de Santa Maria da Feira.
+*   Foi descoberto um dormitório ilegal de imigrantes na Penha de França, em Lisboa.

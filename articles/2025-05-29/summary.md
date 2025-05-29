@@ -1,19 +1,15 @@
-*   **Política Nacional:** Gouveia e Melo oficializa candidatura à Presidência da República. Apurados os votos da emigração, PSD, Chega e PS serão novamente ouvidos em Belém.
+No dia de hoje, destacam-se vários acontecimentos a nível nacional e internacional.
 
-*   **Política Internacional:** Chega vence eleições legislativas no Brasil com mais 50% dos votos do que em 2024. Costa termina visita ao Brasil sem se encontrar com Lula. António Costa critica Israel, considerando que a sua legitimidade moral "está a desaparecer". Israel autoriza novos colonatos na Cisjordânia ocupada. China critica os EUA por ações discriminatórias contra estudantes chineses.
+Na política nacional, Gouveia e Melo formaliza a sua candidatura à Presidência da República, enquanto o Chega consolida-se como a maior força política nas eleições legislativas no Brasil, com um aumento de 50% dos votos em relação a 2024. Apurados os votos da emigração, PSD, Chega e PS voltam a ser ouvidos em Belém. Em simultâneo, António Costa critica Israel, colocando em causa a sua legitimidade moral.
 
-*   **Economia:** Tribunal trava tarifas de Trump impostas sem aprovação do Congresso. Musk deixa o governo dos EUA criticando o plano fiscal de Trump. Deco reclama medidas para baixar o preço da eletricidade. Mota-Engil celebra contrato de 240 milhões com a Petrobras no Brasil. Euribor a três meses cai abaixo de 2%. Finanças definem regras para declaração automática de IVA periódica.
+No âmbito da economia, o Tribunal travou as tarifas de Trump impostas sem aprovação do Congresso. Deco reclama medidas para baixar o preço da eletricidade. A Euribor a três meses regista uma queda, aliviando as prestações de créditos à habitação. A Mota-Engil celebra um contrato de 240 milhões com a Petrobras no Brasil. O cabaz alimentar volta a ficar mais caro e o preço do café aumenta.
 
-*   **Saúde:** Novo sistema de gestão de cirurgias do SNS avança em setembro com tempos de triagem definidos. Aumento da quota de genéricos atinge novo máximo em 2024. IGAS abre inspeção à ULS de Gaia/Espinho após denúncias contra ex-presidente e investiga ex-presidente da ULS Gaia por cirurgias realizadas no SIGIC.
+Na justiça e segurança, a PJ desmantelou uma rede de clonagem de cartões bancários que causou um prejuízo de 450 mil euros e realizou buscas no Estado-Maior da Força Aérea e em empresas por suspeitas de corrupção em contratos de combate a incêndios, com a ANAC a confirmar as buscas relacionadas com os meios de combate a incêndios. Um homem procurado na Bélgica por Burla qualificada foi detido pela PJ em Cascais. O governo autorizou a pré-aposentação de 500 polícias da PSP.
 
-*   **Justiça:** PJ desmantela rede de clonagem de cartões bancários causando prejuízo de 450 mil euros. PJ faz buscas no Estado-Maior da Força Aérea e em empresas por suspeitas de corrupção em contratos de combate a incêndios. Homem procurado na Bélgica por burla qualificada é detido pela PJ em Cascais.
+Na saúde, o novo sistema de gestão de cirurgias do SNS avança em setembro com tempos de triagem definidos. A quota de genéricos em ambulatório atinge um novo máximo em 2024 e a IGAS abriu uma inspeção à ULS de Gaia/Espinho após denúncias contra o ex-presidente. A Faculdade de Medicina do Porto está a investigar a hiperatividade e défice de atenção em crianças.
 
-*   **Incêndios:** Dez concelhos de Coimbra e Faro estão em perigo máximo de incêndio.
+No mundo, um avião de patrulha da Marinha sul-coreana caiu durante um exercício. Israel autorizou novos colonatos na Cisjordânia ocupada. António Costa terminou a sua visita ao Brasil sem se encontrar com Lula devido a problemas de agenda. Um surto de cólera no Sudão causou 70 mortes em dois dias. Mais de metade dos estudantes universitários chineses desvalorizam o casamento e filhos.
 
-*   **Mundo:** Avião de patrulha da Marinha sul-coreana cai durante exercício. Hong Kong estabelece centro de mediação internacional proposto pela China. Mais de metade dos estudantes universitários chineses desvaloriza casamento e filhos. Governo moçambicano vai leiloar mais de 100 carros apreendidos. Um surto de cólera no Sudão já causou 70 mortes em dois dias.
+No âmbito dos incêndios, dez concelhos de Coimbra e Faro estão em perigo máximo.
 
-*   **Energia:** Europa aposta em energias renováveis para reduzir dependência do gás russo.
-
-*   **Tecnologia e Empresas:** Empresas enfrentam desafios na gestão de talento e na integração da Inteligência Artificial.
-
-*   **Cinema:** Wes Anderson inspirou-se no sogro para o seu novo filme 'O Esquema Fenício'.
+Na cultura, os Muse substituíram os Kings of Leon como cabeças de cartaz no NOS Alive. Wes Anderson inspirou-se no sogro para o seu novo filme 'O Esquema Fenício'.

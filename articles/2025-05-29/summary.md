@@ -1,15 +1,31 @@
-Esta quinta-feira ficou marcada por vários acontecimentos em Portugal e no mundo.
+## Resumo das Notícias de 29 de Maio de 2025
 
-Na política nacional, Luís Montenegro foi indigitado Primeiro-Ministro, com Chega e PS a viabilizarem o governo. Gouveia e Melo avançou com a candidatura à Presidência da República, propondo uma liderança "diferente". Após o apuramento dos votos da emigração, PSD, Chega e PS voltam a ser ouvidos em Belém e José Luís Carneiro defende que o PS se mantém como segunda força política. Resultados da emigração confirmam crescimento do Chega.
+### Política Nacional e Eleições
+Luís Montenegro foi indigitado Primeiro-Ministro, com a viabilização do Governo assegurada pelo Chega e PS, embora André Ventura tenha afirmado que o Chega não será "muleta". Gouveia e Melo lançou a sua candidatura à Presidência da República, prometendo unir o país. Resultados da emigração confirmam o crescimento do Chega, com PSD, Chega e PS a regressarem a Belém. A anulação recorde de votos no estrangeiro levantou questões sobre a necessidade de revisão da lei eleitoral e a legislação em vigor.
 
-Ainda em Portugal, a PJ realizou buscas na Força Aérea e em empresas por suspeitas de corrupção em contratos de combate a incêndios, enquanto a ANAC confirmou as buscas relacionadas com os meios de combate a incêndios. O Governo autorizou a pré-aposentação de 500 polícias da PSP e prolongou, novamente, o prazo para a limpeza de terrenos florestais até 15 de junho. A IGAS abriu uma inspeção à ULS de Gaia/Espinho após denúncias contra o ex-presidente, e o antigo presidente da ULS de Gaia/Espinho é alvo de investigação por cirurgias realizadas no SIGIC. O Supremo Tribunal de Justiça reconheceu o vínculo laboral entre um estafeta e a Glovo. Uma menina foi atacada por um cão pitbull numa escola em Santa Maria da Feira. O cabaz alimentar voltou a ficar mais caro.
+### Economia
+O Supremo Tribunal de Justiça reconheceu o vínculo laboral entre estafetas e a Glovo. A Euribor a três meses caiu abaixo de 2%, aliviando as prestações de créditos à habitação. Deco alertou para a urgência de baixar o preço da eletricidade. Empresas enfrentam desafios na gestão de talento e na integração da Inteligência Artificial. A Mota-Engil celebrou um contrato de 240 milhões com a Petrobras no Brasil. A Cloudflare ameaça sair de Portugal devido à burocracia e atrasos em vistos. O cabaz alimentar e o preço do café voltaram a aumentar. Portugal Fashion regressará em julho com fundos do Portugal 2030.
 
-Na economia, a Euribor a três meses caiu abaixo de 2%, aliviando as prestações de créditos à habitação. Deco reclamou medidas para baixar o preço da eletricidade. O Tribunal dos EUA travou as tarifas impostas por Trump, decisão da qual este recorreu. A Europa aposta em energias renováveis para reduzir a dependência do gás russo. Há desafios para as empresas na gestão de talento e na integração da Inteligência Artificial.
+### Saúde
+O SNS Grávida triou 172 mil mulheres no primeiro ano. O novo sistema de gestão de cirurgias do SNS avança em setembro com tempos de triagem definidos, e o Ministério da Saúde anunciou o SINAC para melhorar a gestão de cirurgias. A IGAS abriu inspeção à ULS de Gaia/Espinho após denúncias contra o ex-presidente, havendo também suspeitas de gestão danosa na mesma unidade. A Faculdade de Medicina do Porto investiga hiperatividade e défice de atenção em crianças.
 
-No mundo, o Chega venceu as eleições legislativas no Brasil com mais 50% de votos do que em 2024 e Mota-Engil celebrou um contrato de 240 milhões com a Petrobras no Brasil. António Costa terminou a visita ao Brasil sem um encontro com Lula devido a problemas de agenda. Israel autorizou novos colonatos na Cisjordânia ocupada, postura que levou António Costa a criticar Israel, afirmando que a sua legitimidade moral "está a desaparecer". Um avião de patrulha da Marinha sul-coreana despenhou-se durante um exercício, enquanto em Moçambique, o governo vai leiloar mais de 100 carros apreendidos. A China criticou os EUA por ações discriminatórias contra estudantes chineses.
+### Justiça e Polícia
+A PJ desmantelou uma rede de clonagem de cartões bancários que causou um prejuízo de 450 mil euros, e deteve também um homem procurado na Bélgica por burla qualificada em Cascais. A PJ realizou buscas no Estado-Maior da Força Aérea e em empresas por suspeitas de corrupção em contratos de combate a incêndios.
 
-Na cultura, os Muse substituíram os Kings of Leon como cabeças de cartaz no NOS Alive e Shawn Mendes anunciou um concerto em Lisboa para agosto. Wes Anderson inspirou-se no sogro para o seu novo filme 'O Esquema Fenício'.
+### Incêndios
+Dez concelhos de Coimbra e Faro estão em perigo máximo de incêndio e o Governo prorrogou novamente o prazo para a limpeza de terrenos florestais até 15 de junho. Um incêndio agrícola em Beja mobilizou mais de 80 operacionais.
 
-No desporto, Villas-Boas confirmou as negociações do FC Porto por Gabri Veiga e a renovação de Alan Varela até 2030, enquanto Di María deverá deixar o Benfica após o Mundial de Clubes, regressando ao Rosario Central.
+### Desporto
+Alan  Varela renovou contrato com o FC Porto até 2030. Villas-Boas confirmou negociações do FC Porto por Gabri Veiga e a renovação de Alan Varela, tendo criticado Varandas (Sporting) e Rui Costa (Benfica). Di María deixará o Benfica após o Mundial de Clubes e regressará ao Rosario Central. Sérgio Conceição não é mais treinador do AC Milan.
+Henrique Rocha avançou para a terceira ronda de Roland Garros. Portugal qualificou-se para a final do Europeu de sub-17 após vencer a Itália nos penáltis.
 
-Por fim, a PJ desmantelou uma rede de clonagem de cartões bancários que causou um prejuízo de 450 mil euros e deteve um homem procurado na Bélgica por burla qualificada em Cascais.
+### Mundo
+Tribunal dos EUA travou as tarifas impostas por Trump sem aprovação do Congresso. A Administração Trump cortou milhões em financiamento a Harvard e suspendeu vistos de estudantes chineses, o que levou à China a criticar os EUA por ações discriminatórias. Israel autorizou novos colonatos na Cisjordânia ocupada, causando críticas. Um avião de patrulha da Marinha sul-coreana caiu durante um exercício. António Costa criticou Israel, afirmando que a sua legitimidade moral "está a desaparecer". No Brasil, o Chega venceu as eleições legislativas com 50% a mais de votos do que em 2024. Um surto de cólera no Sudão causou 70 mortes em dois dias. A Europa aposta em energias renováveis para reduzir a dependência do gás russo.
+
+### Sociedade
+Foi descoberto um dormitório ilegal de imigrantes na Penha de França, em Lisboa. O Governo prolongou novamente o prazo para a limpeza de terrenos florestais, agora até 15 de junho. A PSP deteve nove suspeitos de se disfarçarem de profissionais de saúde para assaltar idosos. Uma menina foi atacada por um cão pitbull numa escola em Santa Maria da Feira.
+
+### Cultura
+Os Muse substituíram os Kings of Leon como cabeças de cartaz no NOS Alive. Shawn Mendes anunciou um concerto em Lisboa para agosto. Há mais de 230 escritores de língua portuguesa apelam a um cessar-fogo em Gaza.
+
+---

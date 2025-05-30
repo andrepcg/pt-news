@@ -1,13 +1,11 @@
-Em Portugal, Montenegro deverá ser indigitado como Primeiro-Ministro, com o PS a anunciar que não votará moções de rejeição. Na área da Justiça, o Supremo Tribunal reconheceu a relação de trabalho entre um estafeta e a Glovo, enquanto Cabrita se defendeu em tribunal sobre o caso do atropelamento mortal na A6.
+Em destaque hoje, Montenegro deverá ser indigitado como Primeiro-Ministro, com o PS a anunciar que não votará moções de rejeição. No combate aos incêndios, um incêndio em Beja mobilizou meios aéreos, e a região de Coimbra proibiu queimas devido ao período crítico. O Governo prorrogou o prazo para os relatórios sobre o apagão até 6 de junho.
 
-No âmbito da Economia, foi prorrogado o prazo para os relatórios sobre o apagão até 6 de junho, e foi revelado que o IVA em Portugal é mais regressivo em comparação com a zona euro, apesar de os alimentos e restauração terem um IVA mais baixo que a média europeia. Apenas 11% dos filhos de famílias pobres chegam ao ensino superior. Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento.
+Na economia, o Supremo Tribunal reconheceu a relação de trabalho entre estafetas e a Glovo, enquanto o IVA em Portugal se revela mais regressivo comparado com a zona euro. A Euribor em queda trará uma diminuição nas prestações da casa, até 140 euros em junho. O FMI iniciou uma avaliação exaustiva do sistema financeiro português, e o Novo Banco procura atrair compradores com um desconto nos impostos.
 
-Na Saúde, a Ministra reconheceu lacunas no sistema de gestão de cirurgias (SIGIC), e o ex-presidente da ULS de Gaia está sob investigação por alegada acumulação de funções.
+Na saúde, a Ministra da Saúde admitiu lacunas no sistema de gestão de cirurgias (SIGIC), e a IGAS vai auditar os sistemas de cirurgia robótica no SNS.
 
-No que diz respeito aos Incêndios, foi registado um incêndio em Beja, combatido por meios aéreos, que foram reforçados. A região de Coimbra proibiu queimas devido ao período crítico de incêndios.
+No desporto, o FC Porto renovou com Alan Varela até 2030.
 
-Internacionalmente, Israel aceitou uma nova proposta de cessar-fogo em Gaza, e a Save The Children prevê apoiar milhões de Moçambicanos até 2027. Na Rússia, uma estátua de Estaline regressou ao metro de Moscovo.
+A nível internacional, Israel aceitou uma nova proposta de cessar-fogo em Gaza, e Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. A estátua de Estaline regressou ao metro de Moscovo.
 
-No Desporto, o FC Porto renovou contrato com Alan Varela até 2030.
-
-Ainda, a Associação Nacional de Municípios Portugueses (ANMP) pediu uma revisão urgente da lei eleitoral devido a problemas relacionados com a emigração.
+Outros temas incluem as defesas de Cabrita em tribunal sobre o atropelamento mortal na A6, e as poeiras do Norte de África que afetam Portugal num dia de aviso amarelo de calor.

@@ -1,11 +1,21 @@
-As notícias de hoje ficaram marcadas pela política interna, com Montenegro prestes a ser indigitado Primeiro-Ministro e o PS a anunciar que não votará moções de rejeição. O PSD declarou apoio à candidatura presidencial de Marques Mendes. A associação pede revisão urgente da lei eleitoral devido a problemas na emigração.
+Aqui estão os principais destaques das notícias de hoje, 30 de maio de 2025:
 
-Na economia, o Governo prorrogou o prazo para relatórios sobre o apagão até 6 de junho, enquanto o Supremo Tribunal reconheceu a relação de trabalho entre um estafeta e a Glovo. O FMI iniciou uma avaliação exaustiva do sistema financeiro português. A Euribor está em queda, com a prestação da casa a diminuir até 140 euros em junho. O IVA em Portugal, em termos comparativos com a zona euro, foi tema, com a taxa a ser mais regressiva. O Novo Banco procura atrair compradores com um desconto nos impostos.
+**Política:** Montenegro deverá ser indigitado Primeiro-Ministro, com o PS a anunciar que não votará moções de rejeição. O PSD aprovou o apoio à candidatura presidencial de Marques Mendes, com apenas um voto contra. José Luís Carneiro apresentará a sua candidatura à liderança do PS a 7 de junho. A Associação pede revisão urgente da lei eleitoral devido a problemas com o voto da emigração.
 
-No âmbito social, apenas 11% dos filhos de famílias pobres chegam ao ensino superior. Metade dos professores relata absentismo frequente de alunos nas aulas.
+**Economia:** O Governo prorrogou o prazo para os relatórios sobre o apagão até 6 de junho. O Supremo Tribunal reconheceu a relação de trabalho entre estafetas e a Glovo. O IVA em Portugal é mais regressivo comparado com a zona euro, apesar de os alimentos e restauração terem IVA mais baixo do que na zona euro. A Euribor está em queda, com a prestação da casa a diminuir até 140 euros em junho. O FMI iniciou uma avaliação exaustiva do sistema financeiro português. O Novo Banco está a oferecer descontos nos impostos para atrair compradores. A inflação acelerou para 2,3% em maio e o INE confirmou a contração da economia no primeiro trimestre.
 
-Ainda no país, registou-se um incêndio em Beja combatido por meios aéreos, com reforço no combate. A região de Coimbra proibiu queimas devido ao período crítico de incêndios e 14 concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio. Portugal contabiliza 81 praias "Zero Poluição". A PSP desmantelou uma rede de tráfico de droga no Alentejo com 13 detidos e foram apreendidos mais de sete mil litros de vinho ilegal em Vila Real pela GNR. O ex-presidente da ULS de Gaia está sob investigação por alegada acumulação de funções, enquanto a Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC). Poeiras do Norte de África afetaram Portugal, que se encontra, hoje, em dia de aviso amarelo de calor.
+**Incêndios:** Foi registado um incêndio em Beja, combatido por meios aéreos, com o combate reforçado. A região de Coimbra proibiu queimas devido ao período crítico de incêndios e catorze concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio.
 
-No mundo, Israel aceitou uma nova proposta de cessar-fogo em Gaza, e Macron defendeu o reconhecimento do Estado Palestiniano. Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Os EUA acusaram a Coreia do Norte e a Rússia de violarem sanções da ONU. A China retomou a importação de marisco do Japão após inspeções em Fukushima.
+**Saúde:** A Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC). O ex-presidente da ULS de Gaia está sob investigação por alegada acumulação de funções e a IGAS vai auditar os sistemas de cirurgia robótica no SNS.
 
-Em outras notícias, a Teixeira Duarte desenvolveu um programa de rejuvenescimento para os seus trabalhadores e a ONU vai eliminar 7000 postos de trabalho após cortes no financiamento.
+**Justiça:** Cabrita defendeu-se em tribunal sobre o atropelamento mortal na A6. O Tribunal Constitucional está a avaliar a prescrição das coimas de 225 milhões do "cartel da banca". O suspeito do assalto à secretaria-geral do MAI foi condenado a 5 anos e 3 meses de prisão.
+
+**Mundo:** Israel aceitou uma nova proposta de cessar-fogo em Gaza, enquanto um ministro israelita defende uma entrada "com toda a força necessária". Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Macron defendeu o reconhecimento do Estado Palestiniano como um dever moral e exigência política e a Turquia propôs uma reunião com Zelensky, Putin e Trump para discutir o cessar-fogo na Ucrânia.
+
+**Sociedade:** Poeiras do Norte de África afetaram Portugal, num dia de aviso amarelo de calor. Foram descobertos vestígios de uma cidade maia com 2800 anos na Guatemala e as novas regras em Albufeira proíbem andar em tronco nu e beber álcool na rua.
+
+**Desporto:** O FC Porto renovou contrato com Alan Varela até 2030 e o Real Madrid anunciou a contratação de Trent Alexander-Arnold.
+
+**Ambiente:** Portugal conta com 81 praias "Zero Poluição", mais 22 do que no ano passado.
+
+**Crime:** A PSP desmantelou uma rede de tráfico de droga no Alentejo.

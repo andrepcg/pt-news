@@ -1,21 +1,19 @@
-Aqui estão os principais destaques das notícias de hoje, 30 de maio de 2025:
+Aqui fica um resumo das principais notícias de 30 de maio de 2025:
 
-**Política:** Montenegro deverá ser indigitado Primeiro-Ministro, com o PS a anunciar que não votará moções de rejeição. O PSD aprovou o apoio à candidatura presidencial de Marques Mendes, com apenas um voto contra. José Luís Carneiro apresentará a sua candidatura à liderança do PS a 7 de junho. A Associação pede revisão urgente da lei eleitoral devido a problemas com o voto da emigração.
+**Política:** Montenegro deverá ser indigitado como Primeiro-Ministro, com o PS a indicar que não votará moções de rejeição. PSD aprovou o apoio à candidatura presidencial de Marques Mendes. José Luís Carneiro apresenta a sua candidatura à liderança do PS a 7 de junho. A Associação pede revisão urgente da lei eleitoral devido a problemas sentidos na emigração.
 
-**Economia:** O Governo prorrogou o prazo para os relatórios sobre o apagão até 6 de junho. O Supremo Tribunal reconheceu a relação de trabalho entre estafetas e a Glovo. O IVA em Portugal é mais regressivo comparado com a zona euro, apesar de os alimentos e restauração terem IVA mais baixo do que na zona euro. A Euribor está em queda, com a prestação da casa a diminuir até 140 euros em junho. O FMI iniciou uma avaliação exaustiva do sistema financeiro português. O Novo Banco está a oferecer descontos nos impostos para atrair compradores. A inflação acelerou para 2,3% em maio e o INE confirmou a contração da economia no primeiro trimestre.
+**Economia:** O Governo prorrogou o prazo para os relatórios sobre o apagão energético até 6 de junho. Euribor em queda alivia prestações da casa até 140 euros em junho. O Supremo Tribunal reconheceu a relação de trabalho entre um estafeta e a Glovo. O FMI iniciou uma avaliação exaustiva do sistema financeiro português. O IVA em Portugal é mais regressivo comparado com a zona euro, enquanto os alimentos e restauração têm IVA mais baixo face à zona euro. A inflação volta a acelerar em maio, atingindo os 2,3%, e o INE confirmou a contração da economia portuguesa no primeiro trimestre do ano.
 
-**Incêndios:** Foi registado um incêndio em Beja, combatido por meios aéreos, com o combate reforçado. A região de Coimbra proibiu queimas devido ao período crítico de incêndios e catorze concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio.
+**Incêndios:** Foi registado um incêndio em Beja, combatido por meios aéreos, com o combate a ser reforçado. A região de Coimbra proibiu queimas no período crítico de incêndios e catorze concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio.
 
-**Saúde:** A Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC). O ex-presidente da ULS de Gaia está sob investigação por alegada acumulação de funções e a IGAS vai auditar os sistemas de cirurgia robótica no SNS.
+**Saúde:** A Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC). IGAS vai auditar sistemas de cirurgia robótica no SNS.
 
-**Justiça:** Cabrita defendeu-se em tribunal sobre o atropelamento mortal na A6. O Tribunal Constitucional está a avaliar a prescrição das coimas de 225 milhões do "cartel da banca". O suspeito do assalto à secretaria-geral do MAI foi condenado a 5 anos e 3 meses de prisão.
+**Justiça:** Cabrita defendeu-se em tribunal sobre o atropelamento mortal na A6. Madureira mantém-se em prisão preventiva.
 
-**Mundo:** Israel aceitou uma nova proposta de cessar-fogo em Gaza, enquanto um ministro israelita defende uma entrada "com toda a força necessária". Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Macron defendeu o reconhecimento do Estado Palestiniano como um dever moral e exigência política e a Turquia propôs uma reunião com Zelensky, Putin e Trump para discutir o cessar-fogo na Ucrânia.
+**Mundo:** Israel aceitou uma nova proposta de cessar-fogo em Gaza. Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Macron defendeu o reconhecimento do Estado Palestiniano como um dever moral e exigência política. Os EUA acusaram a Coreia do Norte e a Rússia de violarem sanções da ONU.
 
-**Sociedade:** Poeiras do Norte de África afetaram Portugal, num dia de aviso amarelo de calor. Foram descobertos vestígios de uma cidade maia com 2800 anos na Guatemala e as novas regras em Albufeira proíbem andar em tronco nu e beber álcool na rua.
+**Sociedade:** Poeiras do Norte de África estão a afetar Portugal, num dia de aviso amarelo de calor. Portugal tem 81 praias "Zero Poluição", mais 22 do que no ano passado.
 
-**Desporto:** O FC Porto renovou contrato com Alan Varela até 2030 e o Real Madrid anunciou a contratação de Trent Alexander-Arnold.
+**Desporto:** O FC Porto renovou com Alan Varela até 2030 e o Real Madrid anunciou a contratação de Trent Alexander-Arnold.
 
-**Ambiente:** Portugal conta com 81 praias "Zero Poluição", mais 22 do que no ano passado.
-
-**Crime:** A PSP desmantelou uma rede de tráfico de droga no Alentejo.
+**Crime:** A PSP desmantelou uma rede de tráfico de droga no Alentejo, efetuando 13 detenções.

@@ -1,11 +1,19 @@
-Em Portugal, Montenegro deverá ser indigitado como Primeiro-Ministro, com o PS a não votar moções de rejeição. Registaram-se incêndios em Beja, combatidos por meios aéreos, enquanto na região de Coimbra foram proibidas as queimas devido ao período crítico de incêndios. O Governo prorrogou o prazo para os relatórios sobre o apagão até 6 de junho. O combate aos incêndios foi reforçado em Beja, e catorze concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio. A Polícia Judiciária desmantelou uma rede de tráfico de droga no Alentejo. A época balnear abriu com 81 praias "Zero Poluição". Poeiras do Norte de África afetaram o país, coincidindo com um aviso amarelo de calor. A A8 foi palco de um acidente com um autocarro escolar, resultando em sete feridos ligeiros. O Governo apelou à limpeza de terrenos até 15 de junho devido ao risco de incêndio.
+Aqui ficam os principais destaques noticiosos de hoje, 30 de maio de 2025:
 
-Na economia, o Supremo Tribunal reconheceu a relação de trabalho entre um estafeta e a Glovo. O IVA em Portugal é mais regressivo comparado com a zona euro, embora os alimentos e a restauração tenham IVA mais baixo. A Euribor está em queda, diminuindo as prestações da casa. O FMI iniciou uma avaliação exaustiva do sistema financeiro português. Ana Paula Martins é mencionada por um aumento de despesas com cirurgias durante o seu mandato. O Estado registou um excedente orçamental até abril. Os combustíveis apresentam descida na gasolina, mas o gasóleo mantém-se.
+**Política:** Montenegro deverá ser indigitado como Primeiro-Ministro, com o PS a indicar que não votará a favor de moções de rejeição. O PSD confirmou o apoio à candidatura de Marques Mendes às Presidenciais. José Luís Carneiro apresentará a sua candidatura à liderança do PS a 7 de junho. A ERC considera que a RTP diminuiu o pluralismo com um critério monotemático numa entrevista.
 
-Na saúde, a Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC), e a IGAS vai auditar sistemas de cirurgia robótica no SNS. A Ordem dos Médicos exige alterações no sistema de gestão das listas de espera e participação no controlo.
+**Economia:** O Governo prorrogou o prazo para os relatórios sobre o apagão até 6 de junho. O Supremo Tribunal reconheceu a relação de trabalho entre estafetas e a Glovo. O FMI iniciou uma avaliação exaustiva do sistema financeiro português, após 20 anos. A Euribor está em queda, com a prestação da casa a diminuir até 140 euros em junho. O Estado registou um excedente orçamental de 134,8 milhões até abril. Apple e Google foram acusados de pagar menos impostos que os portugueses.
 
-No desporto, o FC Porto renovou com Alan Varela até 2030, e o Real Madrid anunciou a contratação de Trent Alexander-Arnold.
+**Incêndios:** Foi registado um incêndio em Beja, combatido por meios aéreos, que foram reforçados. A região de Coimbra proibiu queimas no período crítico de incêndios. Catorze concelhos de Bragança, Guarda e Faro estão em perigo máximo de incêndio.
 
-No mundo, Israel aceitou uma nova proposta de cessar-fogo em Gaza. Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Os EUA acusaram a Coreia do Norte e a Rússia de violarem sanções da ONU. Macron defendeu o reconhecimento do Estado Palestiniano. A Rússia usou o apagão na Península Ibérica para disseminar desinformação.
+**Saúde:** A Ministra da Saúde reconheceu lacunas no sistema de gestão de cirurgias (SIGIC). Um ex-presidente da ULS de Gaia está sob investigação por alegada acumulação de funções. A IGAS vai auditar os sistemas de cirurgia robótica no SNS, enquanto a Ordem dos Médicos exige participação no controlo das listas de espera.
 
-Outros destaques incluem o apoio do PSD à candidatura presidencial de Marques Mendes, um novo balanço com 111 mortos devido a inundações na Nigéria, e a UNITA a pagar um preço para garantir estabilidade em Angola. A cultura foi marcada pelo regresso de Serralves em Festa e pela atuação de Andrea Bocelli em Leiria.
+**Justiça:** Cabrita defendeu-se em tribunal sobre o atropelamento mortal na A6. O assaltante do MAI foi condenado a 5 anos e 3 meses de prisão. Fernando Madureira mantém-se em prisão preventiva.
+
+**Mundo:** Israel aceitou uma nova proposta de cessar-fogo em Gaza. Sidi Ould Tah foi eleito Presidente do Banco Africano de Desenvolvimento. Macron defendeu o reconhecimento do Estado Palestiniano. Os EUA acusaram a Coreia do Norte e a Rússia de violarem sanções da ONU.
+
+**Sociedade:** Poeiras do Norte de África afetaram Portugal, num dia de aviso amarelo de calor. Portugal tem 81 praias com classificação 'Zero Poluição', mais 22 do que no ano passado. Foram detidos 13 indivíduos no Alentejo por tráfico de droga, numa operação da PSP.
+
+**Desporto:** O FC Porto renovou contrato com Alan Varela até 2030. O Real Madrid anunciou a contratação de Trent Alexander-Arnold.
+
+**Outros:** O 24Horas está de volta com foco nas redes sociais.

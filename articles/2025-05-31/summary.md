@@ -1,5 +1,13 @@
-Destaque para as notícias internacionais, com Trump a anunciar que Israel e Hamas estão "muito perto" de um acordo de tréguas e a duplicação das tarifas sobre importações de aço e alumínio pelos EUA. Zelensky acusa Moscovo de não partilhar memorando de paz, enquanto ataques russos causam mortes na Ucrânia. A nível económico, a OPEP+ anunciou um aumento na produção de petróleo e os eurodeputados querem a suspensão imediata do acordo da UE com o Ruanda.
+Resumidamente, neste dia, Trump anunciou que Israel e Hamas estão "muito perto" de um acordo de tréguas, enquanto o Hamas foi avisado que deve aceitar o plano de tréguas ou será "aniquilado". Ana Paula Martins alegou não ter recebido informações sobre anomalias nas cirurgias adicionais no Hospital de Santa Maria. Musk recusou comentar sobre o alegado uso de drogas durante a campanha de Trump.
 
-Em Portugal, a Ministra da Saúde, Ana Paula Martins, terá afirmado que não recebeu informações sobre anomalias nas cirurgias adicionais no Hospital de Santa Maria. Prosseguem as buscas pelo jovem que saltou da Ponte Luís I, agora alargadas até à foz do Douro. Cristóvão Norte é o candidato do PSD à Câmara de Faro. O PCP criticou o PS por apoiar as políticas do novo governo. A idade da reforma sobe para os 66 anos e nove meses em 2026.
+Na política nacional, o PCP acusou o PS de apoiar as políticas do novo governo, enquanto o Chega mantém a intenção de avançar com a revisão constitucional. Há elogios de Rui Moreira a Gouveia e Melo, pedindo estabilidade ao Governo enquanto Aguiar-Branco desdramatizou o fim da maioria constitucional entre PSD/PS. Cristóvão Norte é o candidato do PSD à Câmara de Faro.
 
-No desporto, o Sporting renovou contrato com Francisco Costa, Martim Costa e Salvador Salvador até 2030, e o FC Porto venceu o Sporting no basquetebol, qualificando-se para a final. A seleção feminina de futebol foi goleada em Wembley na Liga das Nações, com Francisco Neto a assumir responsabilidades. Para terminar, MARO vai abrir concertos de Shawn Mendes e Serralves está em Festa a celebrar a sua 19ª edição.
+Na economia, os lucros do Grupo Montepio aumentaram, enquanto os da Vista Alegre diminuíram. A idade da reforma vai subir em 2026, e os patrões insistem na descida do IRC. A campanha de recolha de alimentos do Banco Alimentar está em curso. O Reino Unido proibiu a venda de cigarros eletrónicos descartáveis e Trump aumentou as tarifas sobre as importações de aço.
+
+No mundo, milhares exigem novas eleições na Sérvia, Lula tenta convencer Macron sobre o acordo UE-Mercosul, Zelensky acusa Moscovo de não partilhar memorando de paz. Há relatos de ataques russos com mortes no sul da Ucrânia, e os EUA alertam para a ameaça da China. Uma derrocada numa pedreira na Indonésia causou 13 mortos.
+
+Em Portugal, as buscas por um jovem que saltou da Ponte Luís I foram interrompidas, e a PSP apreendeu alimentos fora do prazo em Santa Maria da Feira. Foi sentido um sismo nos Açores de magnitude 4,7. Um acidente com um autocarro escolar em Alcobaça fez sete feridos ligeiros.
+
+No desporto, a seleção feminina de futebol foi goleada em Wembley, o FC Porto venceu o Sporting no basquetebol, e Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting no andebol.
+
+Na cultura, MARO vai abrir concertos de Shawn Mendes e Serralves está em Festa.

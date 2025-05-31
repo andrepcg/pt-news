@@ -1,13 +1,9 @@
-Em destaque, Trump anunciou que Israel e o Hamas estão "muito perto" de um acordo de tréguas, enquanto o Hamas enfrenta um ultimato: aceitar o plano ou ser "aniquilado". Paralelamente, Lula tenta convencer Macron sobre o acordo UE-Mercosul. Zelensky acusa Moscovo de não partilhar o memorando de paz.
+Em destaque hoje, Donald Trump anunciou que Israel e o Hamas estão "muito perto" de um acordo de tréguas, enquanto confrontos militares continuam, incluindo ataques russos que causaram mortes no sul da Ucrânia. Zelensky acusa Moscovo de não partilhar memorando de paz. Na Sérvia, milhares exigem novas eleições após alegações de corrupção.
 
-Em Portugal, Ana Paula Martins declarou não ter recebido informações sobre anomalias nas cirurgias adicionais no Hospital de Santa Maria. As buscas por um jovem que saltou da Ponte Luís I foram interrompidas e um sismo de magnitude 4,7 foi sentido em Santa Maria, nos Açores. O PCP criticou o PS por apoiar as políticas do novo governo e o Chega mantém a intenção de revisão constitucional, apesar da oposição do Governo. Cristóvão Norte é o candidato do PSD à Câmara de Faro.
+Em Portugal, a Ministra da Saúde, Ana Paula Martins, afirmou não ter recebido reportes de anomalias nas cirurgias adicionais no Hospital de Santa Maria, ao mesmo tempo que é noticiado que o Ministério Público está a investigar casos de cirurgias adicionais em Lisboa e Braga. As buscas por um jovem que saltou da Ponte Luís I foram interrompidas. Cristóvão Norte é o candidato do PSD à Câmara de Faro e André Ventura considera as próximas autárquicas um teste crucial para o Chega. No dia em que se celebrou o Dia de Portugal, as celebrações começaram nos EUA.
 
-No desporto, a seleção feminina de futebol foi goleada em Wembley e o FC Porto venceu o Sporting no basquetebol. Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting até 2030. O Al-Nassr de Cristiano Ronaldo qualificou-se para a Champions Asiática.
+Na economia, os lucros do Grupo Montepio aumentaram 66,8% em 2024, embora a Vista Alegre tenha registado uma diminuição de 29% nos lucros do primeiro trimestre. A idade da reforma subirá para os 66 anos e nove meses em 2026. Surgiram relatos de que Musk não respondeu a questões sobre o consumo de drogas durante a campanha eleitoral e Trump aumentou tarifas sobre importações de aço para 50%.
 
-Na economia, os lucros do Grupo Montepio aumentaram significativamente, enquanto a Ibersol e a Vista Alegre registaram prejuízos e diminuição nos lucros, respetivamente. A idade da reforma vai subir em 2026 para os 66 anos e nove meses.
+No desporto, a seleção feminina de futebol foi goleada em Wembley na Liga das Nações e Francisco Neto assumiu a responsabilidade. O FC Porto venceu o Sporting no basquetebol, qualificando-se para a final, e renovou com Francisco Costa, Martim Costa e Salvador Salvador até 2030. Al-Nassr de Cristiano Ronaldo qualificou-se para a Champions Asiática.
 
-No mundo, milhares exigem novas eleições na Sérvia após escândalo de corrupção. Um ex-fuzileiro atropelou uma multidão em Liverpool. No Reino Unido, foi proibida a venda de cigarros eletrónicos descartáveis.
-
-Na cultura, MARO vai abrir concertos de Shawn Mendes, Serralves está em Festa e o Festival Coala anima Cascais com música brasileira.
-
-Outros destaques incluem a apreensão de alimentos fora do prazo pela PSP em Santa Maria da Feira, um homem que matou uma mulher com 150 facadas e um acidente com um autocarro escolar em Alcobaça que fez sete feridos ligeiros. A Assembleia da República foca-se nas suas prioridades para a nova legislatura.
+Na cultura, MARO vai abrir os concertos de Shawn Mendes e o Festival Coala animará Cascais com música brasileira. Serralves em Festa celebra a sua 19ª edição.

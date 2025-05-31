@@ -1,15 +1,60 @@
-## Resumo das Notícias de 31 de Maio de 2025
+Aqui estão as principais notícias de hoje, 31 de maio:
 
-**Política Nacional:** Ana Paula Martins negou ter recebido informações sobre anomalias nas cirurgias adicionais no Hospital de Santa Maria. Cristóvão Norte é o candidato do PSD à Câmara de Faro. O PCP criticou o PS por apoiar as políticas do novo governo, enquanto o Chega mantém a intenção de rever a Constituição, apesar da posição contrária do Governo. Luís Montenegro considera a revisão constitucional um "assunto arrumado". Rui Moreira elogiou Gouveia e Melo e pediu estabilidade ao Governo. A idade da reforma subirá para 66 anos e nove meses em 2026. A Câmara de Lisboa regularizou a Fábrica Braço de Prata. Aguiar-Branco antevê presidência da AR como função 'exigente'.
+**Política e Economia:**
 
-**Economia:** Os lucros do Grupo Montepio aumentaram 66,8% em 2024, enquanto a Vista Alegre registou uma diminuição de 29%. A Ibersol teve prejuízos no primeiro trimestre. Os eurodeputados querem suspender o acordo da UE com o Ruanda. Prosseguem as negociações do acordo UE-Mercosul, com Lula a tentar convencer Macron. Trump aumentou as tarifas sobre as importações de aço. Trabalhadores da Heineken iniciam greve até 16 de junho. O governo espera poupar 47 milhões com o subsídio de mobilidade. ERSE defende reforço dos mecanismos de prevenção e gestão de crises no sistema elétrico após apagão de Abril. Patrões insistem na descida do IRC até 15%.
+*   Ana Paula Martins nega ter recebido alertas sobre irregularidades nas cirurgias adicionais no Hospital de Santa Maria.
+*   No Governo, Luís Montenegro considera a revisão constitucional um "assunto arrumado", ao contrário do Chega, que insiste em avançar com a mesma.
+*   Rui Moreira elogiou Gouveia e Melo e apelou à estabilidade do Governo.
+*   O PCP critica o PS por supostamente apoiar políticas do novo governo da AD.
+*   A idade da reforma vai aumentar em 2026, fixando-se nos 66 anos e nove meses.
+*   Os lucros do Grupo Montepio aumentaram 66,8% em 2024, enquanto a Vista Alegre viu os seus lucros diminuírem 29% no primeiro trimestre. A Ibersol também registou prejuízos.
+*   O subsídio de mobilidade deverá gerar uma poupança de 47 milhões de euros para o Governo este ano.
+*   Trabalhadores da Heineken iniciaram uma greve até 16 de junho devido à falta de acordo negocial.
+*   O novo parlamento vai reunir-se na terça-feira para o arranque da XVII legislatura e Aguiar-Branco antevê presidência da AR como função "exigente".
+*   A Câmara de Lisboa regularizou a Fábrica Braço de Prata com uma renda mensal de 250,85 euros.
+*   As contas da Área Metropolitana do Porto de 2024 foram negativas devido aos passes dos antigos combatentes.
+*   A ERSE defende reforço dos mecanismos de prevenção e gestão de crises após o apagão de abril.
 
-**Mundo:** Trump anunciou que Israel e Hamas estão "muito perto" de um acordo de tréguas e que Elon Musk continuará como "amigo e conselheiro". Zelensky acusou Moscovo de não partilhar um memorando de paz. Milhares exigem novas eleições na Sérvia após escândalo de corrupção. Um ex-fuzileiro atropelou uma multidão em Liverpool. Ataques russos causaram mortes no sul da Ucrânia. Os EUA alertaram para a ameaça da China e as tensões no Indo-Pacífico. Surgiram ainda informações de que Musk não respondeu a questões sobre o consumo de drogas durante a campanha eleitoral e que Trump só quer nos EUA "os melhores estudantes, não os agitadores".
+**Mundo:**
 
-**Portugal:** As buscas por um jovem que saltou da Ponte Luís I foram interrompidas. Celebrações do Dia de Portugal começaram nos EUA. O SANAS reforçou a equipa com nadadores-salvadores na Madeira. A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira. O Tribunal mandou encerrar um canil ilegal em Foz Côa por maus-tratos a animais. Um acidente com um autocarro escolar em Alcobaça fez sete feridos ligeiros. O Banco Alimentar iniciou uma campanha de recolha de alimentos a nível nacional. Um sismo de magnitude 4,7 foi sentido em Santa Maria, nos Açores. Vários voos foram cancelados no Aeroporto do Porto devido ao nevoeiro e obras.
+*   Trump anunciou que Israel e o Hamas estão "muito perto" de um acordo de tréguas, mas o Hamas deve aceitar o plano ou será "aniquilado" segundo o Ministro da Defesa de Israel.
+*   Zelensky acusou Moscovo de não partilhar o memorando de paz.
+*   Milhares de pessoas exigem novas eleições na Sérvia após escândalo de corrupção.
+*   Lula tenta convencer Macron sobre o acordo UE-Mercosul.
+*   Trump acusou a China de violar o acordo de tarifas, aumentando as tarifas sobre importações de aço e alumínio para 50%.
+*   O Reino Unido proibiu a venda de cigarros eletrónicos descartáveis.
+*   Os EUA alertaram para a ameaça da China e as tensões no Indo-Pacífico.
 
-**Desporto:** A seleção feminina de futebol foi goleada em Wembley na Liga das Nações, com Francisco Neto a assumir a responsabilidade. Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting até 2030. O FC Porto venceu o Sporting no basquetebol e apurou-se para a final. Al-Nassr de Cristiano Ronaldo qualificado para Champions Asiática. Inter regressa à final da Liga dos Campeões com mais experiência.
+**Crime e Sociedade:**
 
-**Cultura:** MARO vai abrir os concertos de Shawn Mendes. Serralves em Festa celebrou a sua 19ª edição. O Pompidou adquiriu 70 obras dos irmãos Campana. O Festival Coala animou Cascais com música brasileira.
+*   As buscas pelo jovem que saltou da Ponte Luís I foram interrompidas.
+*   Milhares de euros por cirurgias no SNS estão sob investigação em Lisboa e Braga.
+*   Um ex-fuzileiro atropelou uma multidão em Liverpool.
+*    Um homem matou uma mulher que conheceu no Tinder com 150 facadas.
+*   Os crimes contra menores atingiram novos máximos em Portugal.
+*   A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira e mais de mil produtos numa loja em Santa Maria da Feira.
+*   Um sismo de magnitude 4,7 foi sentido em Santa Maria, Açores.
 
-**Outros:** O Reino Unido proibiu a venda de cigarros eletrónicos descartáveis. O número de crimes contra menores atingiu novos máximos em Portugal.
+**Desporto:**
+
+*   A seleção feminina de futebol foi goleada em Wembley na Liga das Nações. Francisco Neto assumiu a responsabilidade pela derrota.
+*   Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting até 2030.
+*   O FC Porto venceu o Sporting no basquetebol e apurou-se para a final.
+*   O Al-Nassr de Cristiano Ronaldo qualificou-se para a Champions Asiática.
+*   Vitinha poderá estar de regresso ao Porto para ser o melhor médio do mundo.
+*   Ivan Domingues venceu pela primeira vez na Fórmula 3.
+*   O Inter Milão e o PSG disputarão a final da Champions League em Munique.
+
+**Cultura:**
+
+*   MARO vai abrir concertos de Shawn Mendes.
+*   Serralves em Festa celebra a sua 19ª edição.
+*   O Pompidou adquiriu 70 obras dos irmãos Campana.
+*   O Festival Coala anima Cascais com música brasileira, com Liniker e Ney Matogrosso.
+
+**Outros:**
+
+*   O Banco Alimentar iniciou uma nova campanha de recolha de alimentos nos supermercados.
+*   Vários voos foram cancelados no Aeroporto do Porto devido ao nevoeiro e obras.
+
+Estes são os principais acontecimentos do dia.

@@ -1,21 +1,15 @@
-## Resumo do dia 2025-05-31
+## Resumo das Notícias de 31 de Maio de 2025
 
-**Política Nacional:** Ana Paula Martins nega ter recebido informações sobre irregularidades nas cirurgias no Hospital de Santa Maria, enquanto o PCP critica o PS por apoiar políticas do governo. Cristóvão Norte é o candidato do PSD à Câmara de Faro. O Chega mantém a intenção de rever a constituição. Rui Moreira elogia Gouveia e Melo e a idade da reforma sobe em 2026. A Câmara de Lisboa regularizou a Fábrica Braço de Prata.
+**Política Nacional:** Ana Paula Martins negou ter recebido informações sobre anomalias nas cirurgias adicionais no Hospital de Santa Maria. Cristóvão Norte é o candidato do PSD à Câmara de Faro. O PCP criticou o PS por apoiar as políticas do novo governo, enquanto o Chega mantém a intenção de rever a Constituição, apesar da posição contrária do Governo. Luís Montenegro considera a revisão constitucional um "assunto arrumado". Rui Moreira elogiou Gouveia e Melo e pediu estabilidade ao Governo. A idade da reforma subirá para 66 anos e nove meses em 2026. A Câmara de Lisboa regularizou a Fábrica Braço de Prata. Aguiar-Branco antevê presidência da AR como função 'exigente'.
 
-**Economia:** Os lucros do Grupo Montepio aumentaram, enquanto os da Vista Alegre diminuíram. A Ibersol registou prejuízos e trabalhadores da Heineken iniciaram greve. Wall Street fechou mista, com Trump a aumentar as tarifas sobre o aço.
+**Economia:** Os lucros do Grupo Montepio aumentaram 66,8% em 2024, enquanto a Vista Alegre registou uma diminuição de 29%. A Ibersol teve prejuízos no primeiro trimestre. Os eurodeputados querem suspender o acordo da UE com o Ruanda. Prosseguem as negociações do acordo UE-Mercosul, com Lula a tentar convencer Macron. Trump aumentou as tarifas sobre as importações de aço. Trabalhadores da Heineken iniciam greve até 16 de junho. O governo espera poupar 47 milhões com o subsídio de mobilidade. ERSE defende reforço dos mecanismos de prevenção e gestão de crises no sistema elétrico após apagão de Abril. Patrões insistem na descida do IRC até 15%.
 
-**Mundo:** Trump declarou que Israel e Hamas estão "muito perto" de um acordo de tréguas. Milhares exigem novas eleições na Sérvia após escândalo de corrupção e Lula tenta convencer Macron sobre o acordo UE-Mercosul. Zelensky acusa Moscovo de não partilhar memorando de paz. Um ex-fuzileiro atropelou uma multidão em Liverpool e a Indonésia registou mortes numa derrocada.
+**Mundo:** Trump anunciou que Israel e Hamas estão "muito perto" de um acordo de tréguas e que Elon Musk continuará como "amigo e conselheiro". Zelensky acusou Moscovo de não partilhar um memorando de paz. Milhares exigem novas eleições na Sérvia após escândalo de corrupção. Um ex-fuzileiro atropelou uma multidão em Liverpool. Ataques russos causaram mortes no sul da Ucrânia. Os EUA alertaram para a ameaça da China e as tensões no Indo-Pacífico. Surgiram ainda informações de que Musk não respondeu a questões sobre o consumo de drogas durante a campanha eleitoral e que Trump só quer nos EUA "os melhores estudantes, não os agitadores".
 
-**Desporto:** A seleção feminina de futebol foi goleada em Wembley, enquanto o FC Porto venceu o Sporting no basquetebol e o Al-Nassr de Cristiano Ronaldo qualificou-se para a Champions Asiática. Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting.
+**Portugal:** As buscas por um jovem que saltou da Ponte Luís I foram interrompidas. Celebrações do Dia de Portugal começaram nos EUA. O SANAS reforçou a equipa com nadadores-salvadores na Madeira. A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira. O Tribunal mandou encerrar um canil ilegal em Foz Côa por maus-tratos a animais. Um acidente com um autocarro escolar em Alcobaça fez sete feridos ligeiros. O Banco Alimentar iniciou uma campanha de recolha de alimentos a nível nacional. Um sismo de magnitude 4,7 foi sentido em Santa Maria, nos Açores. Vários voos foram cancelados no Aeroporto do Porto devido ao nevoeiro e obras.
 
-**Sociedade:** As buscas pelo jovem que saltou da Ponte Luís I foram interrompidas. A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira e foram descobertos túmulos egípcios de 3.500 anos em Luxor. O número de crimes contra menores atingiu novos máximos em Portugal.
+**Desporto:** A seleção feminina de futebol foi goleada em Wembley na Liga das Nações, com Francisco Neto a assumir a responsabilidade. Francisco Costa, Martim Costa e Salvador Salvador renovaram com o Sporting até 2030. O FC Porto venceu o Sporting no basquetebol e apurou-se para a final. Al-Nassr de Cristiano Ronaldo qualificado para Champions Asiática. Inter regressa à final da Liga dos Campeões com mais experiência.
 
-**Cultura:** MARO vai abrir concertos de Shawn Mendes, Serralves em Festa celebra mais uma edição, e o Festival Coala anima Cascais com música brasileira.
+**Cultura:** MARO vai abrir os concertos de Shawn Mendes. Serralves em Festa celebrou a sua 19ª edição. O Pompidou adquiriu 70 obras dos irmãos Campana. O Festival Coala animou Cascais com música brasileira.
 
-**Transportes:** Vários voos foram cancelados no Aeroporto do Porto devido a nevoeiro e obras.
-
-**Saúde:** Ministra da Saúde não recebeu reporte de anomalias nas cirurgias adicionais do Hospital de Santa Maria.
-
-**Acidentes:** Acidente com autocarro escolar em Alcobaça faz vários feridos ligeiros.
-
-**Política Internacional:** EUA alertam para a ameaça da China e tensões no Indo-Pacífico, enquanto o Japão e os EUA preparam nova negociação comercial.
+**Outros:** O Reino Unido proibiu a venda de cigarros eletrónicos descartáveis. O número de crimes contra menores atingiu novos máximos em Portugal.

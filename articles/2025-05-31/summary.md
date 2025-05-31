@@ -1,17 +1,17 @@
-Aqui ficam as principais notícias do dia 31 de maio de 2025:
+Aqui estão os principais destaques do dia 31 de maio de 2025:
 
-**Política Nacional:** Ana Paula Martins garante não ter recebido alertas sobre irregularidades nas cirurgias extra no Hospital de Santa Maria. O PCP critica o PS por alegado apoio às políticas do governo, enquanto o Chega insiste na revisão constitucional. Cristóvão Norte é o candidato do PSD à Câmara de Faro. Rui Moreira manifesta apreço por Gouveia e Melo e pede estabilidade governativa.
+**Política Nacional:** Ana Paula Martins negou ter conhecimento de anomalias nas cirurgias no Hospital de Santa Maria. O PCP criticou o PS por apoiar as políticas do governo. Cristóvão Norte é o candidato do PSD à Câmara de Faro. O Chega insiste na revisão constitucional, apesar da oposição do Governo. Rui Moreira elogiou Gouveia e Melo e pediu estabilidade governamental.
 
-**Economia:** O Grupo Montepio regista um aumento de 66,8% nos lucros, contrastando com a quebra de 29% na Vista Alegre e os prejuízos da Ibersol. A idade da reforma vai aumentar para 66 anos e nove meses em 2026. Eurodeputados defendem a suspensão do acordo da UE com o Ruanda. Wall Street fechou mista, influenciada pelas tensões comerciais entre EUA e China.
+**Economia:** Os lucros do Grupo Montepio aumentaram, enquanto os da Vista Alegre diminuíram. A Ibersol registou prejuízos no primeiro trimestre. Eurodeputados defendem a suspensão do acordo da UE com o Ruanda. A idade da reforma subirá em 2026.
 
-**Mundo:** Trump anunciou que Israel e o Hamas estão "muito perto" de um acordo de tréguas. Milhares de pessoas exigem novas eleições na Sérvia devido a alegações de corrupção. Trump também afirmou que quer "os melhores estudantes" nos EUA, "não os agitadores". Lula da Silva tenta convencer Macron sobre o acordo UE-Mercosul. Zelensky acusa Moscovo de não partilhar memorando de paz.
+**Mundo:** Trump anunciou progressos num possível acordo de tréguas entre Israel e Hamas, mas avisou que o Hamas será "aniquilado" caso não cumpra. Milhares exigem novas eleições na Sérvia após escândalo de corrupção. Lula tenta convencer Macron sobre o acordo UE-Mercosul. Zelensky acusou Moscovo de reter informações sobre memorando de paz. Trump acusou a China de violar o acordo de tarifas e Elon Musk recusou comentar sobre o uso de drogas durante a campanha eleitoral.
 
-**Crime e Justiça:** Um ex-fuzileiro atropelou uma multidão em Liverpool e um homem matou uma mulher com 150 facadas após a conhecer no Tinder. A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira.
+**Crime e Justiça:** Um ex-fuzileiro atropelou uma multidão em Liverpool. Um homem matou uma mulher que conheceu no Tinder com 150 facadas.
 
-**Desporto:** A seleção feminina de futebol foi goleada em Wembley na Liga das Nações, levando Francisco Neto a assumir a responsabilidade. Francisco Costa, Martim Costa e Salvador Salvador renovaram contrato com o Sporting até 2030 para o andebol. O FC Porto venceu o Sporting no basquetebol e garantiu vaga na final. O Al-Nassr, equipa de Cristiano Ronaldo, qualificou-se para a Champions Asiática.
+**Sociedade:** As buscas por jovem que saltou da Ponte Luís I foram interrompidas. O SANAS reforçou a equipa na Madeira. Foram celebrados o Dia de Portugal nos EUA. Um canil ilegal em Foz Côa foi encerrado devido a maus-tratos.
 
-**Cultura:** MARO vai abrir concertos de Shawn Mendes. Serralves em Festa celebra a sua 19ª edição. O Pompidou adquiriu 70 obras dos irmãos Campana e o espetáculo 'Amália in America' será apresentado em Nova Iorque em outubro.
+**Desporto:** A seleção feminina de futebol foi goleada em Wembley. Francisco e Martim Costa e Salvador Salvador renovaram com o Sporting CP até 2030. O FC Porto venceu o Sporting no basquetebol. O Al-Nassr de Cristiano Ronaldo qualificou-se para a Champions Asiática.
 
-**Sociedade:** As buscas pelo jovem que saltou da Ponte Luís I foram suspensas. As celebrações do Dia de Portugal começaram nos EUA. O SANAS reforçou a sua equipa com 40 nadadores-salvadores na Madeira.
+**Cultura:** MARO vai abrir concertos de Shawn Mendes. Serralves em Festa celebrou a sua 19ª edição. O Festival Coala decorrerá em Cascais. A Câmara de Lisboa regularizou a Fábrica Braço de Prata. Os Santos Populares de Lisboa começaram.
 
-**Transportes:** Estão prestes a começar os testes da ligação fluvial entre Porto e Gaia. Uma associação contesta o regulamento dos tuk-tuks em Lisboa.
+**Outros:** A PSP apreendeu alimentos fora do prazo em Santa Maria da Feira. Testes da ligação fluvial entre Porto e Gaia começarão em breve. Um acidente com um autocarro escolar em Alcobaça fez vários feridos ligeiros.

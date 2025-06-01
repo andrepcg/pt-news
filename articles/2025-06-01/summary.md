@@ -1,11 +1,11 @@
-Hoje, as notícias foram marcadas por eventos trágicos e desenvolvimentos significativos em diversas áreas. No cenário internacional, um ataque israelita em Rafah causou dezenas de mortos, e o colapso de uma ponte sobre um comboio na Rússia resultou em várias fatalidades. Um incêndio num hospital em Hamburgo também provocou vítimas mortais.
+Em destaque neste dia, um ataque israelita em Rafah causou dezenas de mortos, gerando condenação internacional e alertas de Marcelo Rebelo de Sousa sobre a urgência de proteger crianças em zonas de conflito. Na Rússia, o colapso de uma ponte sobre um comboio provocou várias mortes.
 
-No desporto, o PSG conquistou a Liga dos Campeões numa vitória histórica, mas os festejos foram manchados por desacatos e mortes em França. Messi brilhou em mais um jogo do Inter Miami.
+No desporto, o PSG conquistou a Liga dos Campeões numa vitória histórica, mas os festejos foram marcados por desacatos e mortes em França. No futebol nacional, a seleção iniciou a preparação para a final four da Liga das Nações e Portugal busca o título no Campeonato da Europa Sub-17. No automobilismo, Oscar Piastri venceu o Grande Prémio de Espanha de Fórmula 1 e Matheus Cunha reforçará o Manchester United.
 
-Em Portugal, a Provedoria encontrou provas de agressões em prisões, e Marcelo Rebelo de Sousa alertou para a situação das crianças afetadas por guerras e fomes. O dispositivo de combate a incêndios rurais foi reforçado, enquanto a valorização da cereja do Fundão comemora 25 anos, impulsionada pela mão de obra imigrante. No campo político, Rui Rio admitiu um regresso como mandatário de Gouveia e Melo, enquanto Rui Rocha se demitiu da liderança da IL.
+Na política nacional, Rui Rio admitiu regressar à vida política como mandatário de Gouveia e Melo nas próximas eleições presidenciais, enquanto Rui Rocha se demitiu da liderança da IL, com o secretário-geral a assumir a gestão interina.
 
-A nível económico, as receitas do jogo em Macau atingiram o valor mais alto desde a pandemia, e a Guiné-Bissau prepara-se para exportar castanha de caju.
+A nível económico, a Guiné-Bissau prepara-se para exportar castanha de caju, e as receitas do jogo em Macau atingiram o valor mais alto desde o início da pandemia. No Fundão, celebra-se a valorização da cereja, impulsionada também pelo trabalho de imigrantes.
 
-Um trágico acidente resultou na morte de uma criança numa piscina municipal fechada na Baixa da Banheira.
+Na sociedade, a Provedoria encontrou provas de agressões em prisões, e uma criança morreu afogada numa piscina municipal na Baixa da Banheira. Em Lisboa, ativistas do Climáximo protestaram contra a crise climática no aeroporto, enquanto um grupo pedalou de Lisboa até Atenas pela "inclusão e sustentabilidade".
 
-Por fim, a Climáximo organizou um protesto no aeroporto de Lisboa em defesa do ambiente.
+No mundo, a China advertiu os EUA sobre Taiwan, a Coreia do Sul realizou eleições marcadas por crise política e um soldado português morreu em combate na Ucrânia.

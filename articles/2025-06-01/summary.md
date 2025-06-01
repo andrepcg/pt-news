@@ -1,8 +1,13 @@
-* **Guerra e Conflitos:** Um ataque israelita em Rafah resultou em dezenas de mortos, gerando forte condenação internacional. Na Ucrânia, um soldado português morreu em combate e um ataque russo a um local de treino ucraniano causou pelo menos 12 mortos.
-* **Desporto:** O PSG conquistou a Liga dos Campeões com uma goleada histórica sobre o Inter, mas os festejos foram marcados por desacatos e mortes em França. Messi brilhou na goleada do Inter Miami. A seleção nacional iniciou a preparação para a final four da Liga das Nações, e Portugal busca o título no Campeonato da Europa Sub-17. No atletismo, uma atleta transgénero gerou protestos nos EUA.
-* **Política:** Marcelo Rebelo de Sousa alertou para a urgência de proteger as crianças afetadas pela guerra e pela fome. Rui Rio admitiu regressar à vida política como mandatário de Gouveia e Melo, que criticou a "reação corporativa" à sua candidatura presidencial. Na Coreia do Sul, eleições foram marcadas por crise política, enquanto em Montenegro um novo governo está "em curso".
-* **Economia:** A exportação de castanha de caju da Guiné-Bissau está pronta para arrancar. Em Macau, as receitas do jogo atingiram o valor mais alto desde o início da pandemia. A valorização da cereja do Fundão comemora 25 anos, impulsionando a economia local e atraindo imigrantes para a apanha.
-* **Sociedade:** A Provedoria encontrou provas de agressões de guardas prisionais a reclusos. Uma criança de 4 anos morreu afogada em piscina municipal fechada na Baixa da Banheira. Um incêndio em contentor dormitório em Évora fez um ferido grave.
-* **Acidentes:** O colapso de uma ponte sobre um comboio na Rússia provocou várias mortes, assim como um incêndio num hospital em Hamburgo.
-* **País:** O dispositivo de combate a incêndios rurais foi reforçado. Pessoas vão pedalar de Lisboa até Atenas pela "inclusão e sustentabilidade". Foi noticiado que a carta por pontos já puniu 1 milhão de condutores.
-* **Mundo:** A China advertiu os EUA a não 'brincarem com o fogo' em relação a Taiwan.
+Hoje, o mundo assistiu a um ataque israelita em Rafah, com dezenas de mortos, e a um colapso de uma ponte sobre um comboio na Rússia, resultando em várias vítimas. Em Espanha, um tiroteio em Fuengirola causou dois mortos. Na Alemanha, um incêndio num hospital em Hamburgo fez três vítimas mortais.
+
+No desporto, o PSG conquistou a Liga dos Campeões, numa vitória marcada por desacatos e mortes em França. O Inter Miami goleou com show de Messi e a seleção nacional iniciou a preparação para a final four da Liga das Nações, enquanto Portugal busca o título no Campeonato da Europa Sub-17.
+
+Em Portugal, a Provedoria encontrou provas de agressões em prisões, o dispositivo de combate a incêndios rurais foi reforçado e Marcelo Rebelo de Sousa alertou para a proteção das crianças afetadas pela guerra e fome. Rui Rio admitiu regressar à política para apoiar Gouveia e Melo. Uma criança de 4 anos morreu afogada numa piscina municipal na Baixa da Banheira e um incêndio em Évora causou um ferido grave. O Climáximo protestou no aeroporto de Lisboa contra as alterações climáticas.
+
+No plano económico, a exportação de castanha de caju da Guiné-Bissau está prestes a arrancar, as receitas do jogo em Macau atingiram o valor mais alto desde o início da pandemia e a valorização da cereja do Fundão comemora 25 anos, impulsionando a economia local. Os imigrantes desempenham um papel crucial na apanha da cereja no Fundão.
+
+No âmbito político, Montenegro está confiante na formação de um governo.
+
+A nível social, pessoas vão pedalar de Lisboa até Atenas pela inclusão e sustentabilidade. No entanto, um estudo revela que mais de metade das crianças portuguesas brincam menos de uma hora por dia.
+
+Foi ainda noticiado que o Reino Unido proibiu 'vapes' devido a lesões pulmonares, e que Lisboa permanece sem videovigilância para controlar o trânsito e a poluição.

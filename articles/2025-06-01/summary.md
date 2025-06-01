@@ -1,3 +1,11 @@
-Em Portugal, o dia ficou marcado pelo reforço do dispositivo de combate a incêndios rurais e pelas altas temperaturas, com Beja, Évora e Setúbal sob aviso amarelo. No Fundão, celebra-se a valorização da cereja, impulsionada pela mão de obra imigrante. Em Lisboa, ativistas do Climáximo protestaram no aeroporto contra a crise climática, enquanto se discute a falta de videovigilância para controlar o trânsito e a poluição.  Na saúde, seis urgências hospitalares, maioritariamente em Lisboa, estiveram encerradas. No desporto, destaque para a preparação da seleção nacional para a final four da Liga das Nações e para a final do Campeonato da Europa Sub-17. Oscar Piastri venceu o Grande Prémio de Espanha de Fórmula 1.
+Hoje, as notícias foram marcadas por eventos trágicos e desenvolvimentos significativos em diversas áreas. No cenário internacional, um ataque israelita em Rafah causou dezenas de mortos, e o colapso de uma ponte sobre um comboio na Rússia resultou em várias fatalidades. Um incêndio num hospital em Hamburgo também provocou vítimas mortais.
 
-A nível internacional, um ataque israelita em Rafah causou dezenas de mortos e a ONU reporta ataques a centros de distribuição de ajuda humanitária em Gaza. Na Rússia, o colapso de uma ponte sobre um comboio provocou várias mortes. O PSG conquistou a Liga dos Campeões, mas os festejos em França foram marcados por desacatos e violência, resultando em mortos e detenções. Na Ucrânia, um português morreu em combate, e o país continua a ser palco de ataques e negociações de paz. Na Coreia do Sul, realizaram-se eleições marcadas por crise política. Um incêndio num hospital de Hamburgo provocou três mortos.
+No desporto, o PSG conquistou a Liga dos Campeões numa vitória histórica, mas os festejos foram manchados por desacatos e mortes em França. Messi brilhou em mais um jogo do Inter Miami.
+
+Em Portugal, a Provedoria encontrou provas de agressões em prisões, e Marcelo Rebelo de Sousa alertou para a situação das crianças afetadas por guerras e fomes. O dispositivo de combate a incêndios rurais foi reforçado, enquanto a valorização da cereja do Fundão comemora 25 anos, impulsionada pela mão de obra imigrante. No campo político, Rui Rio admitiu um regresso como mandatário de Gouveia e Melo, enquanto Rui Rocha se demitiu da liderança da IL.
+
+A nível económico, as receitas do jogo em Macau atingiram o valor mais alto desde a pandemia, e a Guiné-Bissau prepara-se para exportar castanha de caju.
+
+Um trágico acidente resultou na morte de uma criança numa piscina municipal fechada na Baixa da Banheira.
+
+Por fim, a Climáximo organizou um protesto no aeroporto de Lisboa em defesa do ambiente.

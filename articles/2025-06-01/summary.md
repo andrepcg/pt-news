@@ -1,0 +1,7 @@
+*   **Internacional:** Um ataque israelita em Rafah resultou em dezenas de mortos em Gaza. Na Rússia, o colapso de uma ponte sobre uma linha férrea provocou várias mortes.
+*   **Desporto:** O PSG goleou o Inter de Milão, conquistando a Liga dos Campeões. Messi brilhou na goleada do Inter Miami. A seleção nacional iniciou a preparação para a final four da Liga das Nações e Portugal procura o terceiro título no Campeonato da Europa Sub-17. O AVS procura garantir a permanência na I Liga contra o Vizela.
+*   **Política:** Marcelo Rebelo de Sousa alertou para a necessidade urgente de proteger as crianças afetadas pela guerra e pela fome. Rui Rio admitiu regressar à vida política como mandatário de Gouveia e Melo.
+*   **Sociedade:** A Provedoria encontrou provas de agressões de guardas prisionais a reclusos, algumas filmadas. Um grupo de pessoas vai pedalar de Lisboa a Atenas pela "inclusão e sustentabilidade".
+*   **Economia:** A exportação de castanha de caju da Guiné-Bissau está prestes a começar. As receitas de jogo em Macau atingiram o valor mais alto desde o início da pandemia. A valorização da cereja do Fundão comemora 25 anos, sendo os imigrantes importantes para a apanha.
+*   **Segurança:** O dispositivo de combate a incêndios rurais foi reforçado pela segunda vez este ano. Uma dupla foi detida por furtar casas e esconder objetos num armazém em Peniche.
+*   **Outras Notícias:** O Climáximo organizou um protesto junto ao aeroporto de Lisboa para "travar a crise climática". A carta por pontos já puniu 1 milhão de condutores.

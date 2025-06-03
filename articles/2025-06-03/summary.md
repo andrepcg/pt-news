@@ -1,17 +1,9 @@
-Em resumo das notícias de 3 de junho de 2025:
+Em destaque hoje, um ataque do exército israelita perto de um centro de ajuda em Gaza, com relatos de 24 mortos, enquanto se intensificam os apelos ao reconhecimento do Estado da Palestina, inclusive em Portugal. Um sismo na Turquia causou pelo menos um morto e dezenas de feridos.
 
-No conflito israelo-palestiniano, um ataque israelita perto de um centro de ajuda em Gaza fez 24 mortos, e o exército israelita anunciou a morte de mais três soldados. Em protesto, personalidades da sociedade civil lançaram uma petição em Portugal para o reconhecimento do Estado da Palestina.
+Na política nacional, a reeleição de Aguiar Branco como presidente da Assembleia da República é tida como certa, enquanto Gouveia e Melo não descarta a dissolução do parlamento e promete enviar a lei da eutanásia para o Tribunal Constitucional. O governo holandês caiu após a saída de Geert Wilders da coligação. Relativamente às migrações, o primeiro ano do plano tem sido marcado por falhas no reagrupamento familiar e nas renovações de processos.
 
-Na Turquia, um sismo de magnitude 5,8 causou pelo menos uma morte e dezenas de feridos.
+A nível económico, a OCDE está mais pessimista em relação ao crescimento global e de Portugal devido às tarifas e incerteza. Nos EUA, o Secretário do Comércio prevê um acordo com a Índia e Trump insiste nos cortes fiscais. Em Braga, um investimento de 2,5 milhões impulsionará a produção de componentes para o setor de defesa. A procura por viagens de verão bate recordes em Portugal, contrastando com a dificuldade de acesso à habitação, que leva alguns portugueses a viver em parques de campismo.
 
-Aguiar Branco deverá ser reeleito presidente da Assembleia da República, enquanto Gouveia e Melo não descarta a dissolução do parlamento e promete enviar a lei da eutanásia para o Tribunal Constitucional.
+No mundo, Alexander Lukashenko está na China para uma visita oficial. A China também foi palco do assassinato de dois cidadãos japoneses. Nos EUA, o autor de um atentado foi acusado de crime de ódio. A Rússia ofereceu à Ucrânia a entrega de 6000 corpos congelados de militares ucranianos. Novas buscas por Madeleine McCann foram retomadas na Praia da Luz, com colaboração de Portugal e da Alemanha.
 
-Nos EUA, o Secretário do Comércio prevê um acordo com a Índia e Trump tenta convencer sobre cortes fiscais, ao mesmo tempo que recusa acordo sobre o enriquecimento de urânio pelo Irão. O autor do atentado foi acusado de crime de ódio.
-
-Dois cidadãos japoneses foram assassinados no nordeste da China, para onde Alexander Lukashenko chegou para visita oficial. Mais de seis milhões de sul-coreanos já votaram.
-
-A OCDE está mais pessimista em relação à economia global devido às tarifas.
-
-Em Portugal, foi concluída a obra de alargamento do IC20 em Almada. O primeiro ano do Plano das Migrações é marcado por falhas no reagrupamento familiar e nas renovações. O Metro do Porto aceitou alterações à segunda fase do metrobus da Boavista. Santa Comba Dão é a autarquia que mais demora a pagar a fornecedores (141 dias). A metalomecânica de Braga investe 2,5 milhões para produzir componentes para o setor da defesa e a Dojo AI levantou 1 milhão de euros para ajudar marcas com IA.
-
-Na ciência, o risco de colisão entre a Via Láctea e Andrómeda é menor do que se pensava.
+Por fim, na área da ciência, o risco de colisão entre a Via Láctea e Andrómeda é menor do que se pensava.

@@ -1,19 +1,14 @@
-## Resumo do Dia - 2025-06-03
+Aqui estão os principais acontecimentos de hoje:
 
-**Política Nacional:** Aguiar Branco foi reeleito Presidente da Assembleia da República. Gouveia e Melo pondera a dissolução do parlamento e garante que enviará a lei da eutanásia para o Tribunal Constitucional. O Governo prolongou a estrutura de missão da AIMA face ao aumento de imigrantes, com alertas para o reagrupamento familiar. Nos Países Baixos, o governo caiu após o partido de extrema-direita abandonar a coligação devido a divergências na política de imigração.
+**Política e Economia:** Aguiar Branco foi reeleito Presidente da Assembleia da República com o apoio do PS e Chega. Gouveia e Melo não descarta a dissolução do parlamento. O governo holandês caiu devido a divergências sobre a política de imigração. A OCDE reviu em baixa o crescimento global e de Portugal devido às tarifas e incerteza. A inflação na Zona Euro desacelerou para 1,9% em maio, enquanto a taxa de desemprego recuou para 6,2%. A Procuradoria-Geral da República pediu o julgamento de José Sócrates por branqueamento de capitais, com alguns crimes já prescritos.
 
-**Economia:** A OCDE reviu em baixa o crescimento global e de Portugal devido às tarifas e incerteza. A inflação na Zona Euro desacelerou para 1,9% em maio e a taxa de desemprego recuou para 6,2% em abril, embora Portugal esteja acima da média. O Euro atingiu um novo mínimo. A procura por viagens de verão bateu recordes em Portugal. A startup Dojo AI recebeu um investimento de 1 milhão de euros.
+**Conflitos e Crises Internacionais:** As tensões permanecem elevadas no Médio Oriente, com relatos de mortes de palestinianos perto de um centro de ajuda em Gaza, levando a ONU a pedir uma investigação. O exército israelita anunciou a morte de mais três soldados na Faixa de Gaza. A Rússia ofereceu a Kiev a entrega de corpos congelados de militares ucranianos, enquanto Kiev acusou Moscovo de ataques fronteiriços e de usar drones.
 
-**Mundo:** Um sismo na Turquia causou um morto e dezenas de feridos. Alexander Lukashenko chegou à China para uma visita oficial. Trump recusou um acordo sobre o enriquecimento de urânio pelo Irão. A Coreia do Sul elegeu Lee Jae-myung como Presidente. A Rússia prometeu devolver corpos de soldados ucranianos. A China expandiu a política de isenção de vistos a mais países.
+**Sociedade:** O primeiro ano do Plano das Migrações em Portugal foi marcado por falhas no reagrupamento familiar e renovações. As buscas por Madeleine McCann foram retomadas no Algarve. Foi lançada a operação "Viajar sem Pressa" para fiscalizar a velocidade nas estradas.
 
-**Conflitos:** Em Gaza, registaram-se mortes de palestinianos perto de um centro de ajuda, levando a ONU a pedir uma investigação. O exército israelita anunciou a morte de mais três soldados. A Rússia acusa Kiev de ataques fronteiriços e a Ucrânia reivindica um ataque à ponte da Crimeia com explosivos.
+**Tecnologia e Ciência:** Um novo estudo reduziu a probabilidade de colisão entre a Via Láctea e Andrómeda. A Meta pretende automatizar a criação de anúncios através de IA, com lançamento de projeto para literacia em propriedade intelectual com IA.
 
-**Sociedade:** Há novas buscas por Madeleine McCann no Algarve. A PSP e a ANSR lançaram a operação "Viajar sem Pressa" para fiscalizar a velocidade. A falta de habitação acessível leva portugueses a viver em parques de campismo.
+**Desporto:** Bruno Fernandes rejeitou uma proposta milionária da Arábia Saudita e permanecerá no Manchester United. Portugal qualificou-se para a Liga das Nações e os Sub-17 conquistaram o Campeonato Europeu.
+Mário Branco deixa o Fenerbahçe de Mourinho.
 
-**Local:** Em Almada, foi concluída a obra de alargamento do IC20. No Porto, foram aceites alterações à segunda fase do metrobus da Boavista. Santa Comba Dão é a autarquia que mais demora a pagar a fornecedores. A PJ realizou buscas na Câmara do Montijo por suspeitas de corrupção.
-
-**Ciência e Espaço:** Um novo estudo indica que o risco de colisão entre a Via Láctea e Andrómeda é menor do que se pensava.
-
-**Crime:** A PSP realizou uma mega operação em Lisboa e Amadora, resultando em detenções por tráfico de droga. Um homem foi detido em Valongo por violência doméstica. A Câmara de Vizela está sob investigação por violência doméstica contra o filho menor.
-
-**Madeira:** Governo da Madeira destina 27,4 milhões de euros ao novo hospital em 2025. Três personalidades e duas escolas da Madeira serão condecoradas no dia 10 de Junho.
+**Outros:** Um sismo na Turquia causou mortes e feridos. Alexander Lukashenko chegou à China para uma visita oficial.

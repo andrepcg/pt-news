@@ -1,15 +1,11 @@
-Hoje, o relatório 'Balanço Social 2024' revelou que quase 1,8 milhões de portugueses estão em risco de pobreza ou exclusão social. Em contraste, Portugal alcançou um recorde de empresas exportadoras em 2023 e o Governo lançou um apoio de 315 milhões de euros para investimento inovador empresarial.
+Em Portugal, o relatório 'Balanço Social 2024' revela que quase 1,8 milhões de pessoas estão em risco de pobreza ou exclusão social. O SNS enfrenta uma carência de 14 mil profissionais para eliminar as horas extra, enquanto aumentam as agressões a profissionais de saúde. A violência doméstica também é uma preocupação crescente, com um aumento de pedidos de apoio. No âmbito da saúde, Jessie J foi diagnosticada com cancro da mama e a Síndrome de Munchausen volta a estar em debate.
 
-Na política, o PSD criticou Gouveia e Melo por admitir dar posse a um governo liderado por André Ventura, enquanto Hugo Soares (PSD) pressiona o PS a viabilizar orçamentos. O Tribunal Constitucional debate o travão ao outsourcing após despedimentos.
+Na economia, o Governo lançou um apoio de 315 milhões de euros para investimento inovador em empresas, utilizando verbas do PRR. O Novobanco avança para IPO e a Revolut prepara-se para lançar uma sucursal e caixas ATM em Portugal. A Galp aumentará os preços da eletricidade em julho. O número de empresas exportadoras atingiu um recorde em 2023, com destaque para a região Norte, mas as queixas contra a Carris subiram mais de 70%. A Polícia Marítima fiscalizou a pesca da sardinha, detetando irregularidades em Matosinhos.
 
-No panorama internacional, a China apelou à ONU para combater a poluição por plásticos e o líder de Taiwan reafirmou que "não esquecerá a história de Tiananmen". A Colômbia pediu apoio a Espanha para extraditar 'Papa Smurf' de Portugal, e a Venezuela anunciou a detenção de um grupo armado. Nos EUA, o Pentágono ordenou a remoção do nome de Harvey Milk de um navio da Marinha. A Coreia do Sul tem um novo Presidente que promete restaurar a economia e democracia, e a oposição israelita vai solicitar a dissolução do parlamento. Adicionalmente, a ajuda humanitária para Gaza foi interrompida devido a "trabalhos de melhoria".
+No panorama político, o PSD criticou Gouveia e Melo por admitir dar posse a um governo liderado por André Ventura, enquanto Hugo Soares (PSD) pressiona o PS a viabilizar Orçamentos. O Tribunal Constitucional discute o travão ao outsourcing.
 
-Em Portugal, a PSP deteve mais de 480 pessoas em maio por condução sob o efeito do álcool. O SNS precisa de 14 mil profissionais para acabar com as horas extra, e as agressões a profissionais de saúde aumentaram em 2024. O Estado poderá estar a pagar mais do que devia para resolução de cirurgias. No âmbito dos transportes, as queixas contra a Carris subiram mais de 70% face a 2024, apesar da aprovação de uma nova aplicação CARRISway com melhorias digitais.
+A Feira do Livro de Lisboa abriu com um projeto sustentável inédito.
 
-A Feira do Livro de Lisboa abriu com 350 pavilhões e um projeto sustentável inédito. Jessie J foi diagnosticada com cancro da mama.
+A nível internacional, a China apelou à ONU para combater a poluição por plásticos e a líder de Taiwan reafirmou que não esquecerão a história de Tiananmen. O Pentágono ordenou a remoção do nome de Harvey Milk de um navio da Marinha. Na Coreia do Sul, o novo Presidente prometeu restaurar a economia e a democracia. A Colômbia pediu apoio a Espanha para extraditar 'Papa Smurf' de Portugal. A ajuda humanitária para Gaza foi interrompida e a oposição israelita vai solicitar a dissolução do parlamento. A Força Aérea Portuguesa realizou intersecções numa missão da NATO nos Bálticos.
 
-No desporto, Portugal joga o acesso à final da Liga das Nações contra a Alemanha em Munique, e os Thunder e Pacers disputam uma final inédita na NBA.
-
-Na ciência, foi descoberto que a Nuvem de Oort tem forma de espiral.
-
-A Revolut lançou uma sucursal em Portugal e vai estrear caixas ATM.
+No desporto, Portugal vai disputar o acesso à final da Liga das Nações contra a Alemanha em Munique.

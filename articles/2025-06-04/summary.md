@@ -1,11 +1,11 @@
-Em Portugal, o relatório 'Balanço Social 2024' revela que quase 1,8 milhões de pessoas estão em risco de pobreza ou exclusão social. O SNS enfrenta uma carência de 14 mil profissionais para eliminar as horas extra, enquanto aumentam as agressões a profissionais de saúde. A violência doméstica também é uma preocupação crescente, com um aumento de pedidos de apoio. No âmbito da saúde, Jessie J foi diagnosticada com cancro da mama e a Síndrome de Munchausen volta a estar em debate.
+Em Portugal, o "Balanço Social 2024" revela que quase 1,8 milhões de portugueses estão em risco de pobreza, enquanto o SNS necessita de 14 mil profissionais adicionais. A Feira do Livro de Lisboa abriu as suas portas com um projeto sustentável. No âmbito económico, o Governo lançou um apoio de 315 milhões de euros para investimento inovador, e o Novobanco avança para IPO. A Revolut lançou uma sucursal em Portugal e vai estrear caixas ATM. A Galp aumentará os preços da eletricidade em julho, enquanto a EDP manterá as tarifas. As queixas contra a Carris subiram mais de 70%.
 
-Na economia, o Governo lançou um apoio de 315 milhões de euros para investimento inovador em empresas, utilizando verbas do PRR. O Novobanco avança para IPO e a Revolut prepara-se para lançar uma sucursal e caixas ATM em Portugal. A Galp aumentará os preços da eletricidade em julho. O número de empresas exportadoras atingiu um recorde em 2023, com destaque para a região Norte, mas as queixas contra a Carris subiram mais de 70%. A Polícia Marítima fiscalizou a pesca da sardinha, detetando irregularidades em Matosinhos.
+No panorama internacional, a China apelou à ONU para combater a poluição por plásticos, e o líder de Taiwan lembrou o massacre de Tiananmen. O Pentágono ordenou a remoção do nome de Harvey Milk de um navio da Marinha. A Coreia do Sul tem um novo Presidente que prometeu restaurar a economia e a democracia. A Colômbia pediu à Espanha apoio para extraditar um criminoso de Portugal. A Rússia estará a usar meios de comunicação internacionais para minar democracias.
 
-No panorama político, o PSD criticou Gouveia e Melo por admitir dar posse a um governo liderado por André Ventura, enquanto Hugo Soares (PSD) pressiona o PS a viabilizar Orçamentos. O Tribunal Constitucional discute o travão ao outsourcing.
+A Força Aérea Portuguesa realizou várias intersecções em missões da NATO nos Bálticos. No desporto, Portugal vai disputar o acesso à final da Liga das Nações contra a Alemanha.
 
-A Feira do Livro de Lisboa abriu com um projeto sustentável inédito.
+Na área da saúde, Jessie J foi diagnosticada com cancro da mama, e um estudo revelou o aumento dos pedidos de apoio à APAV devido a violência doméstica.
 
-A nível internacional, a China apelou à ONU para combater a poluição por plásticos e a líder de Taiwan reafirmou que não esquecerão a história de Tiananmen. O Pentágono ordenou a remoção do nome de Harvey Milk de um navio da Marinha. Na Coreia do Sul, o novo Presidente prometeu restaurar a economia e a democracia. A Colômbia pediu apoio a Espanha para extraditar 'Papa Smurf' de Portugal. A ajuda humanitária para Gaza foi interrompida e a oposição israelita vai solicitar a dissolução do parlamento. A Força Aérea Portuguesa realizou intersecções numa missão da NATO nos Bálticos.
+Cientistas descobriram acidentalmente que a Nuvem de Oort tem forma de espiral.
 
-No desporto, Portugal vai disputar o acesso à final da Liga das Nações contra a Alemanha em Munique.
+Foi noticiada a morte de Eduardo Gageiro, fotojornalista do 25 de Abril.

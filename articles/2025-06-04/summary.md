@@ -1,28 +1,17 @@
-Aqui estão os principais destaques das notícias de 4 de junho de 2025 em Portugal e no mundo:
+As notícias de hoje destacam um relatório preocupante sobre a pobreza em Portugal, com quase 1,8 milhões de pessoas em risco de exclusão social. Em resposta, o Governo lançou um apoio de 315 milhões de euros para investimento inovador em empresas, utilizando fundos remanescentes do PRR.
 
-**Em Portugal:**
+Na política, o PSD criticou Gouveia e Melo por admitir a possibilidade de dar posse a um governo liderado por André Ventura, enquanto Hugo Soares (PSD) pressiona o PS a viabilizar Orçamentos. António José Seguro anunciou a sua candidatura à Presidência da República.
 
-*   **Economia e Sociedade:** Quase 1,8 milhões de portugueses estão em risco de pobreza e exclusão social, de acordo com o relatório 'Balanço Social 2024'. Em resposta, o Governo lançou um apoio de 315 milhões de euros para investimento inovador em empresas, utilizando fundos remanescentes do PRR. O Estado pondera a venda da sua parte no Novo Banco, face aos dividendos de 2.200 milhões, enquanto o Novobanco avança para IPO após aprovação dos acionistas. A Bestseller expande a Vero Moda em Portugal, criando 80 empregos.
-*   **Política:** O PSD criticou Gouveia e Melo por admitir dar posse a um governo liderado por André Ventura, enquanto Hugo Soares (PSD) pressiona o PS a viabilizar Orçamentos. Marques Mendes também alertou Gouveia e Melo sobre a importância da experiência política. O Tribunal Constitucional discute o travão ao outsourcing após despedimentos.
-*   **Saúde:** O SNS precisa de 14 mil profissionais para eliminar as horas extra. Agressões a profissionais de saúde aumentaram em 2024.
-*   **Segurança:** A PSP deteve mais de 480 pessoas em maio por condução sob o efeito do álcool. A Polícia Marítima fiscalizou a pesca da sardinha, detetando irregularidades em Matosinhos e apreendendo 250 quilos de atum patudo nos Açores. Um jovem foi detido em Aveiro por coação sexual e pornografia de menores. Mário Machado foi agredido na prisão.
-*   **Cultura:** A Feira do Livro de Lisboa abriu com 350 pavilhões e um projeto sustentável. Morreu Eduardo Gageiro, fotojornalista do 25 de Abril. Daniela Mercury e Abrunhosa atuarão no São João da Figueira da Foz.
-*   **Transportes:** As queixas contra a Carris subiram mais de 70% face a 2024, apesar da aprovação de uma nova aplicação CARRISway. A Carris pretende ter 90% da frota de energia limpa até 2028.
-*   **PRR:** Quase 35% dos investimentos do PRR estão em estado "crítico e preocupante", segundo a Comissão de Acompanhamento.
-*    **Tecnologia:** A Revolut lançou ATM's em Portugal e Espanha.
+A Feira do Livro de Lisboa abriu as portas com 350 pavilhões e um projeto sustentável inovador. No entanto, o evento também foi palco de protestos relacionados com a situação na Palestina.
 
-**No Mundo:**
+A nível internacional, a China apelou à ONU para combater a poluição por plásticos, enquanto a líder de Taiwan afirmou que não esquecerá o massacre de Tiananmen. A Coreia do Sul tem um novo Presidente que prometeu restaurar a economia e a democracia. A Colômbia solicitou o apoio da Espanha para extraditar um criminoso de Portugal.
 
-*   **Conflitos e Política Internacional:** A China apelou à ONU para combater a poluição por plásticos. A líder de Taiwan afirmou que não esquecerá a história de Tiananmen. A Colômbia pediu à Espanha apoio para extraditar 'Papa Smurf' de Portugal. A Ucrânia foi convidada para participar na cimeira da NATO.
-*   **EUA:** O Pentágono ordenou a remoção do nome de Harvey Milk de um navio da Marinha. Mais de um quinto dos norte-americanos fala uma língua diferente do inglês em casa. Trump considerou difícil acordo com a China, mesmo apreciando Xi Jinping.
-*   **Médio Oriente:** A ajuda humanitária para Gaza foi interrompida devido a "trabalhos de melhoria", com Israel a confirmar a suspensão da entrega de alimentos. A oposição israelita vai solicitar a dissolução do parlamento.
-*   **Economia:** Novas tarifas de Trump sobre metais estrangeiros entraram em vigor.
-*   **Outros Destaques:** Agricultores abandonaram campos em Moçambique devido a ameaças terroristas. Face aos festejos do campeonato, o Ministro do Mundo quer uma revolução penal e tecnológica em França.
+Na economia, o Novobanco avança para IPO após a aprovação dos acionistas e a Revolut lançou uma sucursal em Portugal com caixas ATM. A Galp aumentou os preços da eletricidade em julho. O Estado poderá estar a pagar mais do que devia para a resolução de cirurgias.
 
-**Outros Assuntos:**
+No âmbito da segurança, a PSP deteve mais de 480 pessoas em maio por condução sob o efeito do álcool. A Polícia Marítima fiscalizou a pesca da sardinha e apreendeu mais de uma tonelada de lagostim-vermelho-do-Louisiana em Mourão.
 
-*   Foi descoberto que a Nuvem de Oort tem forma de espiral.
-*   A cantora Jessie J foi diagnosticada com cancro da mama.
-*   Há suspeitas de corrupção no combate a incêndios, ameaçando a integridade da Defesa.
-*   A Louis Vuitton processou uma empresa de licores portuguesa por logotipo semelhante.
+Na área da saúde, o SNS precisa de 14 mil profissionais para acabar com as horas extras e Jessie J foi diagnosticada com cancro da mama.
 
+Em desporto, Portugal joga contra a Alemanha o acesso à final da Liga das Nações e a NBA terá uma final inédita entre os Thunder e os Pacers.
+
+Por fim, na ciência, cientistas descobriram acidentalmente que a Nuvem de Oort tem forma de espiral.

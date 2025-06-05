@@ -1,11 +1,9 @@
-O dia ficou marcado pela tomada de posse do novo Governo de Luís Montenegro, com Leitão Amaro a assumir a tutela da comunicação social. No entanto, a oposição já critica a continuidade da Ministra da Saúde.
+Em Portugal, o novo Governo de Luís Montenegro tomou posse, com Leitão Amaro a assumir a tutela da comunicação social. No entanto, a continuidade da ministra da Saúde tem gerado críticas. Bruxelas alertou para a baixa produtividade e envelhecimento do país, apesar do crescimento acima da média europeia. O Governo enfrenta ainda o desafio de cumprir os prazos do PRR, com apenas uma pequena percentagem dos lugares previstos em creches e lares concluídos. Além disso, o plano anticorrupção do Governo está atrasado.
 
-Na economia, o BCE deverá anunciar um novo corte nas taxas de juro, enquanto Bruxelas alerta para a baixa produtividade em Portugal, apesar do crescimento acima da média europeia. A Comissão Europeia também apoia o plano português para expulsar imigrantes ilegais. Há preocupações com o aumento das tarifas sobre o aço e alumínio e Bruxelas pede revisão dos PRRs para garantir a execução atempada. O Banco de Portugal alerta Espanha sobre a aquisição do Novobanco pelo CaixaBank.
+A nível económico, o BCE deverá anunciar um novo corte nas taxas de juro e prevê uma inflação de 2% em 2025. A Euribor continua a cair, atingindo mínimos desde 2022. Portugal registou a segunda maior quebra da UE nos preços da produção industrial. A Comissão Europeia apoia o plano português para expulsar imigrantes ilegais. A DECO apresentou uma queixa contra a Shein por práticas enganosas.
 
-No cenário internacional, Trump volta a proibir a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial, enquanto Kim Jong-un promete "apoio incondicional" à Rússia na guerra da Ucrânia. A distribuição de ajuda humanitária em Gaza permanece suspensa.
+No plano internacional, Trump proibiu a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial. Kim Jong-un prometeu "apoio incondicional" à Rússia na guerra da Ucrânia, onde um ataque russo com drone matou 5 pessoas, incluindo um bebé. Israel recuperou corpos de reféns em Gaza, com EUA a vetarem resolução da ONU sobre ajuda humanitária.  A Europa enfrenta também a escassez de recursos naturais, com a Humanidade a esgotá-los a 24 de julho.
 
-Em Portugal, o número de mulheres que efetuaram IVG aumentou em 2024, mas existem falhas no cumprimento da lei. A PSP e o Airbnb lançam uma campanha para viajantes seguros no ciberespaço e uma associação de jovens empresários vendeu a sua sede à Câmara do Porto para regularizar contas.
+No desporto, a Seleção Nacional de Portugal apurou-se para a final da Liga das Nações ao vencer a Alemanha.
 
-No âmbito ambiental, a humanidade esgotará os recursos do planeta a 24 de julho e o Dia Mundial do Ambiente focou-se na poluição por plásticos.
-
-Por fim, no desporto, a Seleção Nacional de Portugal apurou-se para a final da Liga das Nações ao vencer a Alemanha.
+Outros temas relevantes incluem o aumento do número de mulheres que efetuaram IVG em 2024, a intensificação da atividade sísmica nos Açores e o aumento de suicídios entre estudantes em Hong Kong. A PSP e o Airbnb lançaram uma campanha para viajantes seguros no ciberespaço.

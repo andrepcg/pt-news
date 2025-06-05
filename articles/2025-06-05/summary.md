@@ -1,9 +1,11 @@
-Em Portugal, o novo Governo de Luís Montenegro tomou posse, com Leitão Amaro a assumir a tutela da comunicação social. O programa do Governo será debatido na Assembleia da República nos dias 17 e 18 de junho. No entanto, o executivo enfrenta críticas, nomeadamente pela continuidade da ministra da Saúde e pela alegada desvalorização do setor da Cultura. A Comissão Europeia apoia o plano português para expulsar imigrantes ilegais, enquanto se investiga alegada fraude com fundos europeus em Bragança e desvio de subsídios numa empresa de têxteis.
+O dia ficou marcado pela tomada de posse do novo Governo de Luís Montenegro, com promessas de "guerra à burocracia". No entanto, ex-governantes alertam para a desvalorização da Cultura face ao fim do ministério autónomo.
 
-Na economia, o BCE deverá anunciar um novo corte nas taxas de juro e prevê inflação a 2% em 2025. Portugal regista um crescimento acima da média europeia, mas Bruxelas alerta para a baixa produtividade e envelhecimento da população. A DECO apresentou uma queixa contra a Shein por práticas enganosas.
+Na economia, o BCE deverá anunciar um novo corte nas taxas de juro, enquanto Bruxelas alerta para a baixa produtividade em Portugal, apesar do crescimento acima da média europeia. A Comissão Europeia também apoia o plano português para expulsar imigrantes ilegais. A DECO apresentou uma queixa contra a Shein à Comissão Europeia por práticas enganosas.
 
-A nível internacional, Trump proibiu a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial. Kim Jong-un reiterou o apoio incondicional da Coreia do Norte à Rússia na guerra da Ucrânia. A distribuição de ajuda humanitária em Gaza continua suspensa, enquanto Israel recuperou corpos de reféns.
+No plano internacional, Trump proibiu a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial, e Kim Jong-un prometeu "apoio incondicional" à Rússia na guerra da Ucrânia. A distribuição de ajuda humanitária em Gaza continua suspensa e Israel recuperou os corpos de reféns.
 
-No âmbito ambiental, a humanidade esgotará os recursos do planeta até 24 de julho e o Dia Mundial do Ambiente focou-se na poluição por plásticos. França espera um acordo forte na Conferência dos Oceanos da ONU.
+Em Portugal, o número de mulheres que efetuaram IVG subiu em 2024, mas há falhas no cumprimento da lei. A PSP e o Airbnb lançaram uma campanha para viajantes seguros no ciberespaço e a Associação de Jovens Empresários vendeu a sua sede à Câmara do Porto para pagar contas.
 
-Outros destaques incluem o aumento do número de mulheres que efetuaram IVG em 2024, uma campanha da Airbnb e PSP para viajantes seguros no ciberespaço, e a seleção nacional de Portugal a apurar-se para a final da Liga das Nações, onde irá defrontar a Holanda.
+No ambiente, a humanidade esgotará os recursos do planeta a 24 de julho e o Dia Mundial do Ambiente focou-se na poluição por plásticos.
+
+No desporto, Portugal apurou-se para a final da Liga das Nações ao vencer a Alemanha.

@@ -1,9 +1,11 @@
-O dia ficou marcado pela tomada de posse do novo Governo de Luís Montenegro, com Leitão Amaro a assumir a tutela da comunicação social. No plano económico, o BCE deverá anunciar um novo corte nas taxas de juro, numa altura em que a Comissão Europeia alerta para a baixa produtividade e envelhecimento da população em Portugal, apesar do crescimento acima da média europeia. Bruxelas também pediu a revisão dos PRRs para garantir a sua execução atempada e apoia o plano português para expulsar imigrantes ilegais, enquanto Trump proíbe a entrada nos EUA de cidadãos de 12 países.
+## Resumo do dia 2025-06-05
 
-A nível internacional, Kim Jong-un prometeu "apoio incondicional" à Rússia na guerra da Ucrânia, onde um ataque russo com drone matou 5 pessoas. As forças israelitas recuperaram os corpos de dois reféns na Faixa de Gaza, com os EUA a justificarem o veto ao cessar-fogo devido à "intransigência do Hamas".
+Em Portugal, o novo Governo de Luís Montenegro tomou posse, com Leitão Amaro a assumir a tutela da comunicação social. No âmbito económico, o BCE deverá anunciar um novo corte nas taxas de juro, enquanto Bruxelas alerta para a baixa produtividade e envelhecimento do país, apesar do crescimento acima da média europeia. A Comissão Europeia apoia o plano português para expulsar imigrantes ilegais.
 
-No âmbito ambiental, a Humanidade esgotará os recursos do planeta a 24 de julho, com o Dia Mundial do Ambiente a focar-se na poluição por plásticos. A nível interno, o número de mulheres que efetuaram IVG subiu em 2024, mas há falhas no cumprimento da lei.
+No cenário internacional, Trump proibiu a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial, e Kim Jong-un prometeu apoio incondicional à Rússia na guerra da Ucrânia. A distribuição de ajuda humanitária em Gaza permanece suspensa, e forças israelitas recuperaram corpos de reféns. A Alemanha planeia aumentar o seu exército.
 
-A DECO apresentou uma queixa contra a Shein à Comissão Europeia por práticas enganosas. No desporto, a seleção nacional de Portugal apurou-se para a final da Liga das Nações, após vitória frente à Alemanha.
+A nível ambiental, a Humanidade esgotará os recursos do planeta a 24 de julho, com o Dia Mundial do Ambiente a alertar para a poluição por plásticos. Portugal está entre os países da UE que mais reduziram emissões poluentes.
 
-Outros destaques incluem o aumento de suicídios entre estudantes em Hong Kong, a intensificação da fiscalização à pesca da sardinha em Portugal e a expansão do escritório da BrainRocket em Oeiras, com a criação de 150 novos empregos.
+Na área da justiça e segurança, a PSP e Airbnb lançaram uma campanha para viajantes seguros no ciberespaço, enquanto a PJ deteve um suspeito de tentativa de homicídio e outro por atropelar um agente da PSP. A Procuradoria Europeia investiga alegada fraude com fundos europeus em Bragança.
+
+Em outras notícias, o número de mulheres que efetuaram IVG subiu em 2024, mas há falhas no cumprimento da lei. No desporto, a Seleção Nacional de Portugal apurou-se para a final da Liga das Nações, após vencer a Alemanha.

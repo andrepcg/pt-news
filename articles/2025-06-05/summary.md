@@ -1,11 +1,29 @@
-O novo Governo de Luís Montenegro tomou posse, com promessas de "guerra à burocracia" e um firme compromisso de atingir os 2% do PIB em gastos militares. Marcelo Rebelo de Sousa alertou que a vitória eleitoral não é um "cheque em branco". Uma das primeiras grandes decisões do governo foi antecipar o investimento de 2% do PIB em Defesa.
+## Resumo do Dia - 2025-06-05
 
-Na economia, o BCE deverá anunciar um novo corte nas taxas de juro e considera-se o fim próximo dos aumentos, apesar da inflação prevista de 2% em 2025. No entanto, Portugal enfrenta alertas de Bruxelas devido à baixa produtividade e envelhecimento da população, apesar do crescimento acima da média europeia. A Comissão Europeia apoia o plano português para expulsar imigrantes ilegais, enquanto a AIMA avisa que o reagrupamento familiar enfrentará restrições. Há preocupações com o aumento das tarifas sobre o aço e alumínio.
+**Política Nacional:** Luís Montenegro tomou posse como Primeiro-Ministro, prometendo "guerra à burocracia" e defendendo um investimento de 2% do PIB na Defesa. Marcelo Rebelo de Sousa, embora presente, alertou que a vitória eleitoral não é um "cheque em branco". O programa do Governo será debatido no parlamento nos dias 17 e 18 de junho. O PS criticou algumas das promessas do novo governo.
 
-A nível internacional, Trump proibiu a entrada nos EUA de cidadãos de 12 países, incluindo a Guiné Equatorial, e António Guterres criticou o veto dos EUA a um cessar-fogo em Gaza. Kim Jong-un prometeu "apoio incondicional" à Rússia na guerra da Ucrânia, enquanto um ataque russo com drone matou 5 pessoas, incluindo um bebé.
+**Economia:** O BCE deverá anunciar um novo corte nas taxas de juro. A Comissão Europeia alertou para a baixa produtividade e o envelhecimento da população em Portugal, apesar do crescimento acima da média europeia. Bruxelas pede ainda revisão dos PRRs para garantir a sua execução atempada. A DECO apresentou uma queixa contra a Shein à Comissão Europeia, por práticas enganosas.
 
-No âmbito ambiental, a Humanidade esgotará os recursos do planeta a 24 de julho e o Dia Mundial do Ambiente focou-se na poluição por plásticos. A UE aprovou a redução da proteção dos lobos, mas Portugal mantém a proteção estrita.
+**União Europeia:** A Comissão Europeia apoia o plano português para expulsar imigrantes ilegais. A UE aprovou uma redução da proteção dos lobos, mas Portugal mantém uma proteção estrita.
 
-Em Portugal, o número de mulheres que efetuaram IVG subiu em 2024, mas há falhas no cumprimento da lei. A PSP e o Airbnb lançaram uma campanha para viajantes seguros no ciberespaço. A Polícia Judiciária investiga uma empresa de têxteis por desvio de subsídios de fundos europeus e foram detidos suspeitos de assalto a banco no Redondo. Foi também detetado um armazém em Loures transformado em habitação ilegal.
+**Imigração:** Donald Trump volta a proibir a entrada nos EUA a cidadãos de vários países, incluindo a Guiné Equatorial.
 
-No desporto, Portugal apurou-se para a final da Liga das Nações ao vencer a Alemanha.
+**Guerra na Ucrânia:** Kim Jong-un prometeu "apoio incondicional" da Coreia do Norte à Rússia na guerra. Um ataque russo com drone matou 5 pessoas na Ucrânia.
+
+**Conflito Israelo-Palestiniano:** A distribuição de ajuda humanitária em Gaza permanece suspensa e as forças israelitas recuperaram os corpos de reféns.
+
+**Ambiente:** A Humanidade esgotará os recursos naturais do planeta já a 24 de julho. O Dia Mundial do Ambiente focou-se na poluição por plásticos, com Portugal entre os países da UE que mais reduziram as emissões de gases poluentes.
+
+**Sociedade:** Registou-se um aumento no número de mulheres que efetuaram IVG em 2024, com falhas no cumprimento da lei. Foi detetado um armazém transformado em habitação ilegal numa igreja evangélica em Loures, e os estrangeiros fiscalizados encontram-se em situação regular.
+
+**Cultura:** Ex-governantes e sindicatos alertam para desvalorização da Cultura com o fim do ministério autónomo. A transumância na Serra da Estrela foi classificada como Património Cultural Imaterial.
+
+**Tecnologia:** A PSP e o Airbnb lançaram uma campanha para viajantes seguros no ciberespaço.
+
+**Desporto:** Portugal qualificou-se para a final da Liga das Nações ao vencer a Alemanha. Fernando Pimenta conquistou o ouro nos Europeus de Maratonas.
+
+**Justiça:** A justiça acusou um primo de José Sócrates de retardar o julgamento da Operação Marquês.
+
+**Saúde:** O INEM está a preparar alternativas face ao risco dos helicópteros não estarem operacionais em julho.
+
+**Política Internacional:** Trump e Musk envolveram-se num confronto público após críticas ao orçamento. Lula da Silva pediu a Macron que feche o acordo UE-Mercosul em seis meses.

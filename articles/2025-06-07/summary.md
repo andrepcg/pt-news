@@ -1,11 +1,21 @@
-## Resumo das Notícias de 7 de Junho de 2025
+Aqui estão os principais destaques das notícias de hoje:
 
-Em Portugal, José Luís Carneiro formalizou a candidatura à liderança do PS, com vista às autárquicas e a acordos com o Governo. O Tribunal Constitucional rejeitou os recursos no caso do cartel da banca. A ULS de Coimbra testou tecnologia para ecografias à distância e cinco distritos estão sob aviso amarelo devido ao calor intenso. No Porto, foi encontrado o corpo do jovem que alegadamente saltou da Ponte D. Luís I. A Praia da Fuseta-Mar reabriu após obras de reposição de areia. A Fundação Oceano Azul criticou a falta de investimento na conservação dos oceanos.
+**Política:** José Luís Carneiro formalizou a sua candidatura à liderança do PS, com foco nas autárquicas e acordos com o Governo. O PS defende a recondução de Mário Centeno no Banco de Portugal. Marcelo e Montenegro estão na Alemanha para um encontro com a comunidade portuguesa. O Governo pretende alinhar o financiamento ao desporto com a média europeia.
 
-No mundo, a Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo. Ataques russos em Kharkiv e Kherson fizeram várias vítimas. Espanha condenou os ataques israelitas ao Líbano e Israel resgatou o corpo de um refém tailandês em Gaza. O Irão declarou-se potência nuclear para fins civis e denunciou "mentalidade racista" na proibição de viajar para os EUA. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida, e Donald Trump ameaçou as empresas de Elon Musk. No Brasil, Bolsonaro será interrogado sobre a tentativa de golpe de Estado.
+**Economia:** A China apelou à França para reforçar a confiança mútua e o respeito pelos interesses fundamentais, com as reservas chinesas de divisas estrangeiras a aumentarem em maio. O Tribunal Constitucional rejeitou recursos no caso do cartel da banca. Musk pode perder biliões em braço de ferro com Trump. A indústria alemã receia uma crise devido à restrição chinesa de exportação de 'terras raras'. Os portugueses compram cada vez mais viagens para o estrangeiro. A Ibersol lançou um programa de recompra de ações próprias.
 
-Na área económica, a China apelou a França para reforçar a confiança mútua e o respeito pelos interesses fundamentais, e as suas reservas de divisas estrangeiras cresceram em maio. A indústria alemã teme uma crise devido à restrição chinesa de exportação de 'terras raras'. Lula garantiu que o acordo UE-Mercosul não irá prejudicar produtores franceses. Discutem-se os preços dos veículos elétricos entre China e UE.
+**Guerra na Ucrânia:** A Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo. Ataques russos em Kharkiv e Kherson causaram várias vítimas. O Governo dos EUA está a pressionar para suavizar as sanções à Rússia. A Ucrânia nega atraso na troca de prisioneiros com a Rússia. Lula mostrou-se disponível para mediar um acordo de paz.
 
-No desporto, Gonçalo Ramos juntou-se à seleção para a Liga das Nações, e Roberto Martínez está confiante na vitória de Portugal. As eleições do Benfica foram marcadas para 25 de outubro.
+**Médio Oriente:** Espanha condenou os ataques israelitas à capital do Líbano. Israel recuperou o corpo de um refém tailandês em Gaza. Um navio humanitário com Greta Thunberg aproxima-se de Gaza.
 
-Outros destaques incluem a detenção de suspeitos de pornografia infantil pela Interpol e um sismo de magnitude 3,3 sentido em São Miguel, Açores.
+**Saúde:** A ULS de Coimbra está a testar tecnologia para ecografias à distância. As urgências de obstetrícia e pediatria encerraram este sábado em alguns hospitais.
+
+**Crime:** A Interpol deteve 20 pessoas numa operação contra a pornografia infantil. Um homem foi detido em Felgueiras por tráfico de heroína, e outro em Águeda por atear fogo num posto de combustível. Mulher detida em Lousada por suspeitas de abuso do filho de cinco anos.
+
+**Sociedade:** Um corpo foi encontrado no rio Douro, no Porto, suspeitando-se ser do jovem que saltou da Ponte D. Luís I. Um despiste na A2 em Ourique causou um morto e um ferido grave. A PSP aconselha precaução nos Santos Populares.
+
+**Ambiente:** A associação Zero alertou para sinais alarmantes no oceano e a Fundação Oceano Azul criticou a falta de investimento na proteção dos oceanos.
+
+**Desporto:** Eleições no Benfica marcadas para 25 de outubro. Gonçalo Ramos juntou-se à seleção para a Liga das Nações. Roberto Martínez está confiante na vitória de Portugal na Liga das Nações.
+
+**Outros:** Um sismo de magnitude 3,3 foi sentido em São Miguel, Açores. Calor intenso colocou cinco distritos sob aviso amarelo.

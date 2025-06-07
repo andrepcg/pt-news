@@ -1,17 +1,7 @@
-Aqui estão os principais destaques das notícias de hoje:
+Esta sexta-feira, a Rússia alegou ter abatido 36 drones ucranianos, inclusive na região de Moscovo, enquanto ataques russos em Kharkiv e Kherson causaram várias vítimas. O Governo dos EUA pressiona para suavizar as sanções à Rússia.
 
-**Política:** José Luís Carneiro é candidato à liderança do PS. O Tribunal Constitucional rejeitou os recursos no caso do cartel da banca.
+Em Portugal, José Luís Carneiro formalizou a sua candidatura à liderança do PS, com foco nas autárquicas e nos acordos com o Governo. O Tribunal Constitucional rejeitou os recursos no caso do cartel da banca. Urgências de obstetrícia e pediatria encerraram este sábado em alguns hospitais. A ULS de Coimbra testa tecnologia para ecografias à distância. Dois segundos prémios do Euromilhões saíram em Portugal. O corpo encontrado no Douro é provavelmente do jovem que saltou da ponte D. Luís I. Um despiste na A2 em Ourique causou um morto e um ferido grave. Há cinco distritos sob aviso amarelo devido ao calor intenso.
 
-**Mundo:** A Rússia afirma ter abatido 36 drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv e Kherson fizeram várias vítimas. A Espanha condenou os ataques israelitas ao Líbano, enquanto Israel atacou um campo de deslocados em Gaza. O Irão declarou-se uma potência nuclear para fins civis. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida e Trump pediu ao Supremo para manter despedimentos na Educação. A China apelou a Paris para reforçar a confiança mútua e o respeito pelos seus interesses. A Interpol deteve 20 pessoas numa operação contra pornografia infantil.
+No mundo, Espanha condenou os ataques israelitas à capital do Líbano, enquanto Israel recuperou o corpo de um refém tailandês em Gaza e atacou um campo de deslocados, também em Gaza, provocando mortes. Pequim apelou a Paris para reforçar a confiança mútua. Um tribunal dos EUA rejeitou uma lei anti-imigração na Florida. Interpol deteve 20 pessoas numa operação contra pornografia infantil. A Coreia do Sul e Trump concordaram em resolver tarifas. Bolsonaro enfrentará interrogatório sobre a tentativa de golpe de Estado. A China viu as suas reservas de divisas estrangeiras a crescer em maio. A taxa de desemprego em Cabo Verde diminuiu em 2024.
 
-**Economia:** As reservas chinesas de divisas estrangeiras cresceram em maio. A taxa de desemprego em Cabo Verde diminuiu em 2024. Álvaro Covões alertou para a venda do país. Elon Musk poderá enfrentar perdas bilionárias numa disputa com Donald Trump.
-
-**Portugal:** Dois segundos prémios do Euromilhões foram atribuídos em Portugal. A ULS de Coimbra está a testar tecnologia para ecografias à distância. Urgências de obstetrícia e pediatria vão encerrar este sábado em alguns hospitais. A associação Zero alertou para sinais alarmantes no oceano. Há cinco distritos sob aviso amarelo devido ao calor intenso. Um homem foi detido em Felgueiras por tráfico de heroína e outro em Águeda por atear fogo num posto de combustível.
-
-**Sociedade:** Médicos ucranianos estão impedidos de exercer em Portugal. A PSP aconselhou precaução nos Santos Populares. Uma mulher foi detida em Lousada por suspeitas de abuso do filho de cinco anos.
-
-**Tecnologia:** Hong Kong está a usar IA para prever o Alzheimer pela retina.
-
-**Desporto:** Gonçalo Ramos juntou-se à seleção portuguesa no ensaio para a Liga das Nações. David Beckham vai ser nomeado cavaleiro da coroa britânica.
-
-**Cultura:** A APEL manifestou-se surpreendida com as queixas na Feira do Livro de Lisboa.
+Em outras notícias, Musk pode perder biliões em disputa com Trump. Hong Kong está a usar IA para prever Alzheimer pela retina. David Beckham vai ser cavaleiro da coroa britânica. A associação Zero alertou para sinais alarmantes no oceano. Foi descoberto um componente chave para a vida num disco de formação planetária. Um navio humanitário com Greta Thunberg aproxima-se de Gaza.

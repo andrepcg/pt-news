@@ -1,29 +1,17 @@
-Aqui estão os principais destaques das notícias de 7 de junho de 2025:
+Aqui estão os principais destaques das notícias de hoje:
 
-*   **Guerra na Ucrânia:** A Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv fizeram vítimas.
+**Política:** José Luís Carneiro é candidato à liderança do PS. O Tribunal Constitucional rejeitou os recursos no caso do cartel da banca.
 
-*   **Política Nacional:** José Luís Carneiro é candidato à liderança do PS.
+**Mundo:** A Rússia afirma ter abatido 36 drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv e Kherson fizeram várias vítimas. A Espanha condenou os ataques israelitas ao Líbano, enquanto Israel atacou um campo de deslocados em Gaza. O Irão declarou-se uma potência nuclear para fins civis. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida e Trump pediu ao Supremo para manter despedimentos na Educação. A China apelou a Paris para reforçar a confiança mútua e o respeito pelos seus interesses. A Interpol deteve 20 pessoas numa operação contra pornografia infantil.
 
-*   **Política Internacional:** Espanha condenou os ataques israelitas à capital do Líbano, enquanto a China apelou à França para reforçar a confiança mútua. O Irão declarou-se potência nuclear para fins civis e denunciou o que considera ser uma "mentalidade racista" na proibição de viajar para os EUA.
+**Economia:** As reservas chinesas de divisas estrangeiras cresceram em maio. A taxa de desemprego em Cabo Verde diminuiu em 2024. Álvaro Covões alertou para a venda do país. Elon Musk poderá enfrentar perdas bilionárias numa disputa com Donald Trump.
 
-*   **Economia:** O Tribunal Constitucional rejeitou recursos no caso do cartel da banca. As reservas chinesas de divisas estrangeiras cresceram em maio e a Coreia do Sul e Trump concordaram em resolver tarifas. Álvaro Covões alertou para a possível venda do país.
+**Portugal:** Dois segundos prémios do Euromilhões foram atribuídos em Portugal. A ULS de Coimbra está a testar tecnologia para ecografias à distância. Urgências de obstetrícia e pediatria vão encerrar este sábado em alguns hospitais. A associação Zero alertou para sinais alarmantes no oceano. Há cinco distritos sob aviso amarelo devido ao calor intenso. Um homem foi detido em Felgueiras por tráfico de heroína e outro em Águeda por atear fogo num posto de combustível.
 
-*   **Saúde:** A ULS de Coimbra está a testar tecnologia para ecografias à distância. Hong Kong usa IA para prever Alzheimer pela retina. Há a possibilidade do preço dos medicamentos aumentar em 800%. Médicos ucranianos estão impedidos de exercer em Portugal.
+**Sociedade:** Médicos ucranianos estão impedidos de exercer em Portugal. A PSP aconselhou precaução nos Santos Populares. Uma mulher foi detida em Lousada por suspeitas de abuso do filho de cinco anos.
 
-*   **Justiça e Crime:** A Interpol deteve 20 pessoas numa operação contra pornografia infantil. Um homem foi detido em Felgueiras por tráfico de heroína.
+**Tecnologia:** Hong Kong está a usar IA para prever o Alzheimer pela retina.
 
-*   **Sociedade:** A PSP aconselhou precaução nos Santos Populares. A APEL mostrou-se surpreendida com queixas na Feira do Livro de Lisboa.
+**Desporto:** Gonçalo Ramos juntou-se à seleção portuguesa no ensaio para a Liga das Nações. David Beckham vai ser nomeado cavaleiro da coroa britânica.
 
-*   **Prémios:** Dois segundos prémios do Euromilhões foram atribuídos em Portugal.
-
-*   **Desporto:** Gonçalo Ramos juntou-se à seleção portuguesa para a Liga das Nações. David Beckham vai ser cavaleiro da coroa britânica.
-
-*   **EUA:** Um tribunal dos EUA rejeitou uma lei anti-imigração na Florida. Trump pediu ao Supremo para manter despedimentos na Educação. Rusgas contra a imigração em Los Angeles geraram protestos e confrontos. Musk arrisca-se a perder biliões num braço de ferro com Trump.
-
-*   **Ambiente:** A Zero alertou para sinais alarmantes no oceano.
-
-*   **Cabo Verde:** A taxa de desemprego em Cabo Verde diminuiu em 2024.
-
-*   **Guiné-Bissau:** Bideras de Bissau pedem para manter o sustento na rua.
-
-*   **Moçambique:** Queda na atividade empresarial em maio pode ser a primeira de várias.
+**Cultura:** A APEL manifestou-se surpreendida com as queixas na Feira do Livro de Lisboa.

@@ -1,21 +1,11 @@
-Aqui estão os principais destaques das notícias de hoje:
+## Resumo do dia 2025-06-07
 
-**Política:** José Luís Carneiro formalizou a sua candidatura à liderança do PS, com foco nas autárquicas e acordos com o Governo. O PS defende a recondução de Mário Centeno no Banco de Portugal. Marcelo e Montenegro estão na Alemanha para um encontro com a comunidade portuguesa. O Governo pretende alinhar o financiamento ao desporto com a média europeia.
+Em Portugal, José Luís Carneiro formalizou a sua candidatura à liderança do PS, focando-se nas autárquicas e em acordos com o governo. O Tribunal Constitucional rejeitou recursos no caso do cartel da banca. A Fundação INATEL comemora 90 anos com foco nos jovens, e a APEL manifestou surpresa com queixas na Feira do Livro de Lisboa. Um corpo encontrado no Douro, no Porto, foi identificado como o do jovem que saltou da Ponte D. Luís I. Nas estradas, um despiste na A2 em Ourique causou um morto e um ferido grave, e a EN230 em Tondela foi cortada devido a um acidente, mas já foi reaberta. A PSP aconselhou precaução nos Santos Populares e alertou para furtos nas praias. Há cinco distritos sob aviso amarelo devido ao calor intenso. Nas notícias policiais, um homem foi detido em Felgueiras por tráfico de heroína, outro em Águeda por atear fogo num posto de combustível, e uma mulher em Lousada por suspeitas de abusar do filho de cinco anos.
 
-**Economia:** A China apelou à França para reforçar a confiança mútua e o respeito pelos interesses fundamentais, com as reservas chinesas de divisas estrangeiras a aumentarem em maio. O Tribunal Constitucional rejeitou recursos no caso do cartel da banca. Musk pode perder biliões em braço de ferro com Trump. A indústria alemã receia uma crise devido à restrição chinesa de exportação de 'terras raras'. Os portugueses compram cada vez mais viagens para o estrangeiro. A Ibersol lançou um programa de recompra de ações próprias.
+No mundo, a Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv e Kherson causaram várias vítimas. Espanha condenou ataques israelitas ao Líbano. A China apelou à França para reforçar a confiança mútua, e as reservas chinesas de divisas estrangeiras cresceram em maio. O Irão declarou-se potência nuclear para fins civis e denunciou "mentalidade racista" por proibições de viajar para os EUA. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida, e Trump pediu ao Supremo para manter despedimentos na Educação. A Interpol deteve 20 pessoas numa operação contra pornografia infantil. No Brasil, Bolsonaro enfrentou um interrogatório sobre a tentativa de golpe de Estado.
 
-**Guerra na Ucrânia:** A Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo. Ataques russos em Kharkiv e Kherson causaram várias vítimas. O Governo dos EUA está a pressionar para suavizar as sanções à Rússia. A Ucrânia nega atraso na troca de prisioneiros com a Rússia. Lula mostrou-se disponível para mediar um acordo de paz.
+Na economia, Musk poderá perder biliões em disputa com Trump, e a indústria alemã receia uma crise devido à restrição chinesa de exportação de "terras raras". A Coreia do Sul e Trump concordaram em resolver tarifas.
 
-**Médio Oriente:** Espanha condenou os ataques israelitas à capital do Líbano. Israel recuperou o corpo de um refém tailandês em Gaza. Um navio humanitário com Greta Thunberg aproxima-se de Gaza.
+No desporto, Portugal recebeu Gonçalo Ramos no ensaio para a Liga das Nações, e David Beckham vai ser cavaleiro da coroa britânica. Ricardo Costa é o novo treinador do Feirense e as contas do Benfica foram chumbadas em Assembleia Geral.
 
-**Saúde:** A ULS de Coimbra está a testar tecnologia para ecografias à distância. As urgências de obstetrícia e pediatria encerraram este sábado em alguns hospitais.
-
-**Crime:** A Interpol deteve 20 pessoas numa operação contra a pornografia infantil. Um homem foi detido em Felgueiras por tráfico de heroína, e outro em Águeda por atear fogo num posto de combustível. Mulher detida em Lousada por suspeitas de abuso do filho de cinco anos.
-
-**Sociedade:** Um corpo foi encontrado no rio Douro, no Porto, suspeitando-se ser do jovem que saltou da Ponte D. Luís I. Um despiste na A2 em Ourique causou um morto e um ferido grave. A PSP aconselha precaução nos Santos Populares.
-
-**Ambiente:** A associação Zero alertou para sinais alarmantes no oceano e a Fundação Oceano Azul criticou a falta de investimento na proteção dos oceanos.
-
-**Desporto:** Eleições no Benfica marcadas para 25 de outubro. Gonçalo Ramos juntou-se à seleção para a Liga das Nações. Roberto Martínez está confiante na vitória de Portugal na Liga das Nações.
-
-**Outros:** Um sismo de magnitude 3,3 foi sentido em São Miguel, Açores. Calor intenso colocou cinco distritos sob aviso amarelo.
+Outras notícias incluem a testagem de tecnologia para ecografias à distância em Coimbra, a utilização de IA em Hong Kong para prever Alzheimer pela retina, e a diminuição da taxa de desemprego em Cabo Verde. A associação Zero alertou para sinais alarmantes no oceano.

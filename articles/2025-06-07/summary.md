@@ -1,9 +1,28 @@
-No panorama nacional, José Luís Carneiro formalizou a sua candidatura à liderança do PS, enquanto o Tribunal Constitucional rejeitou os recursos no caso do cartel da banca. A Fundação INATEL celebrou 90 anos com foco nos jovens, e a APEL manifestou surpresa com as queixas na Feira do Livro de Lisboa. Urgências de obstetrícia e pediatria enfrentaram encerramentos, e cinco distritos estiveram sob aviso amarelo devido ao calor. Um corpo encontrado no Douro foi identificado como o do jovem que saltou da ponte D. Luís I. Registaram-se ainda vários crimes, incluindo uma mulher detida por abusar do filho e um homem por atear fogo num posto de combustível. A Praia da Fuseta-Mar reabriu após obras de reposição de areia e a associação Zero alertou para os sinais alarmantes nos oceanos, com a Fundação Oceano Azul a criticar falta de investimento na sua proteção.
+## Resumo das Notícias de 7 de Junho de 2025
 
-A nível internacional, a Rússia abateu múltiplos drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv causaram vítimas. Espanha condenou ataques israelitas ao Líbano, e o Irão declarou-se potência nuclear para fins civis. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida, e rusgas em Los Angeles geraram protestos. Musk enfrenta uma disputa com Trump que pode custar-lhe biliões. A China apelou a Paris para reforçar a confiança mútua e respeito pelos interesses fundamentais. A Interpol deteve 20 pessoas numa operação contra pornografia infantil. Um navio humanitário com Greta Thunberg está a caminho de Gaza. O governo dos EUA pressiona para suavizar sanções à Rússia, enquanto Lula se mostrou disponível para mediar um acordo de paz entre a Ucrânia e a Rússia.
+### Política Nacional
+José Luís Carneiro formalizou a sua candidatura à liderança do PS, apelando à união do partido. O PS defende a recondução de Mário Centeno no Banco de Portugal, criticando André Ventura. O Governo pretende aumentar o financiamento ao desporto, alinhando-o com a média europeia.
 
-No desporto, Gonçalo Ramos juntou-se à seleção portuguesa para a Liga das Nações, e Portugal prepara-se para a final, com Roberto Martínez confiante na vitória. Eleições do Benfica foram marcadas para outubro. Coco Gauff venceu Roland Garros pela primeira vez, e o FC Porto venceu o Sporting no hóquei em patins, forçando um jogo de desempate.
+### Economia
+O Tribunal Constitucional rejeitou os recursos no caso do cartel da banca. A indústria alemã mostra-se preocupada com uma possível crise devido à restrição chinesa de exportação de "terras raras". A Associação Zero alerta para sinais alarmantes nos oceanos. Uma startup portuguesa venceu o South Summit Madrid na categoria de consumidor. Portugal e Espanha estão a pressionar a França para acelerar as interligações elétricas e definirem prazos.
 
-Na economia, as reservas chinesas de divisas estrangeiras cresceram em maio, enquanto a taxa de desemprego em Cabo Verde diminuiu em 2024. A indústria alemã receia uma crise devido à restrição chinesa de exportação de "terras raras". Christine Lagarde defendeu que "preservar o oceano é um bom investimento".
+### Internacional
+A Rússia abateu 36 drones ucranianos, incluindo na região de Moscovo, enquanto ataques russos em Kharkiv causaram vítimas. Espanha condenou os ataques israelitas ao Líbano. A China apelou à França para reforçar a confiança mútua e o respeito pelos interesses fundamentais. Nos EUA, um tribunal rejeitou uma lei anti-imigração na Florida. O Irão declarou-se potência nuclear para fins civis. A Interpol deteve 20 pessoas numa operação contra a pornografia infantil. Lula da Silva mostrou-se disponível para mediar acordo na guerra entre a Ucrânia e a Rússia. Macron visitou a Gronelândia, território que já despertou o interesse de Trump. A Guera na Ucrânia continua a escalar com receios de uma nova ofensiva Russa.
 
-Outros destaques incluem um sismo de magnitude 3,3 sentido em São Miguel, Açores, e discussões finais entre a China e a UE sobre preços de veículos elétricos.
+### Sociedade
+Uma mulher foi detida em Lousada por suspeitas de abuso do filho de cinco anos. Um homem foi detido em Felgueiras por tráfico de heroína, e outro em Águeda por atear fogo num posto de combustível. O corpo encontrado no Douro foi identificado como sendo o do jovem que saltou da Ponte D. Luís I. Um despiste na A2 em Ourique causou um morto e um ferido grave. Milhares marcharam em Lisboa pelos direitos LGBTI+.
+
+### Saúde
+As urgências de obstetrícia e pediatria encerraram este sábado em alguns hospitais. A ULS de Coimbra está a testar tecnologia para ecografias à distância. Médicos Ucranianos estão impedidos de exercer em Portugal.
+
+### Desporto
+Gonçalo Ramos juntou-se à seleção portuguesa para os preparativos da Liga das Nações. O FC Porto venceu o Sporting nos penáltis no hóquei em patins, forçando um jogo decisivo. Coco Gauff venceu Roland Garros pela primeira vez. As eleições para o Benfica foram marcadas para 25 de outubro.
+
+### Tecnologia
+Hong Kong está a usar Inteligência Artificial para prever Alzheimer pela retina.
+
+### Ambiente
+A Associação Zero alertou para sinais alarmantes nos oceanos. A fundação Oceano Azul critica a falta de investimento no estado dos oceanos.
+
+### Açores
+Um sismo de magnitude 3,3 foi sentido em São Miguel, Açores.

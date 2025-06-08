@@ -1,9 +1,7 @@
-Em Portugal, o país enfrenta um aumento nos preços dos combustíveis e um alerta de calor que se estende a Bragança, Guarda e Vila Real. No entanto, há notícias positivas no setor do turismo, com uma redução da sazonalidade e novos recordes à vista. Na cultura, destaque para o festival Jazz em Espinho e os Calema, que esgotaram o Estádio da Luz. Uma quinta em Coimbra resgata animais e promove o ensino alternativo.
+Hoje, Portugal prepara-se para defrontar a Espanha na final da Liga das Nações, enquanto o país enfrenta um alerta de calor, com o aviso amarelo alargado a Bragança, Guarda e Vila Real. No panorama económico, os preços dos combustíveis voltam a subir e a Iberia pondera comprar a TAP, após 75 anos de ligações Espanha-Brasil; a reprogramação do PRR é considerada "essencial." No Algarve, a pesca da sardinha estará proibida no final de junho.
 
-No mundo, a Colômbia enfrenta tensão após um atentado contra um senador, levando ao cancelamento da viagem do Presidente à ONU. Trump enviou militares para conter protestos anti-imigração na Califórnia. Hong Kong reafirma a sua independência face às tensões entre os EUA e a China. No Médio Oriente, há relatos de tiros perto de um centro de ajuda humanitária em Gaza com vários mortos. A Rússia aguarda confirmação da Ucrânia para troca de corpos de soldados.
+No plano internacional, a Colômbia vive tensões após um atentado contra um senador, com um menor de 15 anos identificado como autor, levando ao cancelamento da viagem do Presidente à ONU. Trump enviou militares para conter protestos anti-imigração na Califórnia. Hong Kong reafirma a sua independência face às tensões EUA-China e descarta retaliações tarifárias. O Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas aos EUA. Registam-se ainda tensões no Médio Oriente, com relatos de tiros perto de um centro de ajuda humanitária em Gaza.
 
-Na economia, a Iberia pondera a compra da TAP e o Vietname vai comprar produtos agrícolas aos EUA para reduzir tarifas. Hong Kong recusa retaliar tarifas dos EUA.
+Em Portugal, uma quinta em Coimbra resgata animais e promove ensino alternativo. No mundo da cultura, o Festival Internacional de Jazz celebra a sua 51.ª edição em Espinho e Calema esgotaram o Estádio da Luz.
 
-No desporto, Portugal disputa a final da Liga das Nações contra a Espanha.
-
-Outras notícias incluem um sismo nos Açores e o encerramento de algumas urgências de ginecologia/obstetrícia e pediatria no país.
+Um sismo de magnitude 3,1 foi sentido em São Miguel, Açores. A PJ alerta para os cuidados a ter com a informação partilhada em sistemas de IA.

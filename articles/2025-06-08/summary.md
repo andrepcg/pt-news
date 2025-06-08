@@ -1,13 +1,13 @@
-Hoje, Portugal prepara-se para disputar a final inédita da Liga das Nações contra a Espanha. No desporto, Francisca Veselko venceu uma etapa do circuito mundial de surf na Austrália, José Ramalho e Fernando Pimenta sagraram-se campeões da Europa em K2 e Miguel Oliveira pontuou no MotoGP em Aragão.
+Hoje, a política internacional foi marcada por tensões e conflitos: na Colômbia, um atentado contra um senador levou ao cancelamento da viagem do Presidente à ONU, com Washington a apontar o dedo à "esquerda"; Trump enviou militares para conter protestos anti-imigração na Califórnia; Xi Jinping busca laços mais estreitos com Myanmar, enquanto Hong Kong reafirma a sua independência face às tensões EUA-China e descarta retaliações tarifárias.
 
-No panorama nacional, cinco distritos estão sob aviso amarelo devido ao calor, enquanto um sismo de magnitude 3,1 foi sentido em São Miguel, Açores. A PJ alerta para os cuidados a ter com a informação partilhada em sistemas de IA. Os preços dos combustíveis vão voltar a subir.
+Na Europa, Portugal prepara-se para disputar a final da Liga das Nações contra a Espanha, procurando o seu terceiro título. Além disso, discute-se a possível compra da TAP pela Iberia, após 75 anos de ligação entre Espanha e Brasil, enquanto a reprogramação do PRR é considerada "essencial" até ao final do ano. O clima político em Portugal é visto como "diferente" e mais aberto ao diálogo com a oposição.
 
-Na política, Marcelo Rebelo de Sousa antevê um clima político "diferente" e Alberto Martins declarou apoio a António José Seguro para as presidenciais. Pedro Dominguinhos defende que a reprogramação do PRR é "essencial" até ao final do ano.
+No âmbito económico, os preços dos combustíveis voltam a subir, a pesca da sardinha no Algarve será proibida entre 21 e 23 de junho, e o Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas aos EUA para reduzir tarifas. O turismo em Portugal mostra sinais de redução da sazonalidade e novos recordes à vista.
 
-No mundo, a Colômbia enfrenta tensões após um atentado contra o senador Miguel Uribe, com Washington a acusar a "esquerda", sendo o principal suspeito um menor de 15 anos. Trump enviou militares para conter protestos anti-imigração na Califórnia. A China manifestou desejo de "acelerar a cooperação" com Myanmar, enquanto Hong Kong descartou retaliações tarifárias. Israel atacou um centro de ajuda humanitária em Gaza, e a Rússia anunciou uma nova ofensiva na região ucraniana de Dnipropetrovsk. A ONU procura um acordo global para a proteção dos oceanos e determinou ainda que o grupo Wagner deixará o Mali e cederá lugar ao Africa Corps.
+No desporto, além da final da Liga das Nações, Francisca Veselko venceu uma etapa das Challenger Series de Surf na Austrália, Rui Lacerda e Ricardo Coelho conquistaram o ouro no Europeu de Maratonas em C2, e Miguel Oliveira voltou aos pontos no MotoGP em Aragão.
 
-Na cultura, os Calema esgotaram o Estádio da Luz, um marco na música lusófona, enquanto o Jazz em Espinho celebra a sua 51.ª edição.
+Na cultura, o festival Jazz em Espinho celebra a sua 51.ª edição, e os Calema esgotaram o Estádio da Luz, marcando um feito na música lusófona.
 
-Na economia, a Iberia pondera a compra da TAP e o Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas dos EUA.
+No âmbito social, um alerta de calor foi alargado a Bragança, Guarda e Vila Real, e a GNR considera adormecer em serviço como crime. Em Coimbra, uma quinta resgata animais e promove o ensino alternativo.
 
-Em Coimbra, uma quinta resgata animais e promove ensino alternativo, enquanto um incêndio em Moimenta da Beira causou a morte de 19 animais.
+Por fim, um sismo de magnitude 3,1 foi sentido em São Miguel, Açores, e foram reportados encerramentos de urgências de ginecologia/obstetrícia e pediatria em vários hospitais. A PJ alertou para os cuidados a ter com a informação partilhada em sistemas de IA.

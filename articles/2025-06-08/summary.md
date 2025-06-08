@@ -1,5 +1,9 @@
-Hoje, Portugal prepara-se para um confronto inédito com a Espanha na final da Liga das Nações, enquanto Francisca Veselko triunfa no surf na Austrália. No país, cinco distritos estão sob aviso amarelo devido ao calor, e as urgências de ginecologia/obstetrícia e pediatria enfrentam encerramentos em vários hospitais. A nível económico, a reprogramação do PRR é considerada "essencial" e a Iberia pondera a compra da TAP. A pesca da sardinha será proibida no Algarve entre 21 e 23 de junho.
+Em Portugal, o país enfrenta um aumento nos preços dos combustíveis e um alerta de calor que se estende a Bragança, Guarda e Vila Real. No entanto, há notícias positivas no setor do turismo, com uma redução da sazonalidade e novos recordes à vista. Na cultura, destaque para o festival Jazz em Espinho e os Calema, que esgotaram o Estádio da Luz. Uma quinta em Coimbra resgata animais e promove o ensino alternativo.
 
-No mundo, a Colômbia enfrenta um atentado contra um senador, com um menor de 15 anos identificado como o autor, levando ao cancelamento de uma viagem do Presidente à ONU. Trump envia a Guarda Nacional para a Califórnia devido a protestos anti-imigração. Hong Kong reafirma a sua independência económica face às tensões EUA-China. Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas aos EUA e a China pretende estreitar laços com Myanmar. Em Gaza, israelitas mataram 36 perto de um centro de ajuda humanitária.
+No mundo, a Colômbia enfrenta tensão após um atentado contra um senador, levando ao cancelamento da viagem do Presidente à ONU. Trump enviou militares para conter protestos anti-imigração na Califórnia. Hong Kong reafirma a sua independência face às tensões entre os EUA e a China. No Médio Oriente, há relatos de tiros perto de um centro de ajuda humanitária em Gaza com vários mortos. A Rússia aguarda confirmação da Ucrânia para troca de corpos de soldados.
 
-Na cultura, os Calema esgotaram o Estádio da Luz e um espetáculo celebra a poesia de Noémia de Sousa com artistas lusófonos. O Festival Internacional de Jazz celebra a sua 51.ª edição em Espinho.
+Na economia, a Iberia pondera a compra da TAP e o Vietname vai comprar produtos agrícolas aos EUA para reduzir tarifas. Hong Kong recusa retaliar tarifas dos EUA.
+
+No desporto, Portugal disputa a final da Liga das Nações contra a Espanha.
+
+Outras notícias incluem um sismo nos Açores e o encerramento de algumas urgências de ginecologia/obstetrícia e pediatria no país.

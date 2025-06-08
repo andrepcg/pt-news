@@ -1,11 +1,13 @@
-Hoje, Portugal prepara-se para a final inédita da Liga das Nações contra a Espanha, em Munique. No mundo do desporto, Francisca Veselko venceu uma etapa de surf na Austrália, Rui Lacerda e Ricardo Coelho ganharam o ouro no Europeu de Maratonas em canoagem, e Miguel Oliveira pontuou no MotoGP.
+Hoje, Portugal prepara-se para disputar a final inédita da Liga das Nações contra a Espanha. No desporto, Francisca Veselko venceu uma etapa do circuito mundial de surf na Austrália, José Ramalho e Fernando Pimenta sagraram-se campeões da Europa em K2 e Miguel Oliveira pontuou no MotoGP em Aragão.
 
-A nível nacional, cinco distritos estão sob aviso amarelo devido ao calor, e o Politécnico de Leiria aposta no bem-estar com biodanza. Em Coimbra, uma quinta resgata animais e promove o ensino alternativo. Urgências de ginecologia/obstetrícia e pediatria encerraram em vários hospitais, e a pesca da sardinha com cerco foi proibida no Algarve em junho. Em notícias policiais, o corpo de São foi encontrado e o autor do crime capturado, enquanto em Ílhavo, um homem foi detido por tráfico de droga.
+No panorama nacional, cinco distritos estão sob aviso amarelo devido ao calor, enquanto um sismo de magnitude 3,1 foi sentido em São Miguel, Açores. A PJ alerta para os cuidados a ter com a informação partilhada em sistemas de IA. Os preços dos combustíveis vão voltar a subir.
 
-No panorama internacional, um atentado contra um senador colombiano levou ao cancelamento da viagem do Presidente à ONU, com um menor de 15 anos identificado como autor. Trump enviou militares para conter protestos anti-imigração na Califórnia, e manifestações contra Pedro Sánchez ocorreram em Madrid. A China manifestou o desejo de "acelerar a cooperação" com Myanmar, e Hong Kong descartou retaliações tarifárias. Ataques em Gaza causaram mortes em centros de ajuda humanitária.
+Na política, Marcelo Rebelo de Sousa antevê um clima político "diferente" e Alberto Martins declarou apoio a António José Seguro para as presidenciais. Pedro Dominguinhos defende que a reprogramação do PRR é "essencial" até ao final do ano.
 
-Na economia, a reprogramação do PRR é considerada "essencial" até ao final do ano, e o Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas aos EUA. A Iberia pondera a compra da TAP, e a FlixBus expandiu a sua rede em Portugal.
+No mundo, a Colômbia enfrenta tensões após um atentado contra o senador Miguel Uribe, com Washington a acusar a "esquerda", sendo o principal suspeito um menor de 15 anos. Trump enviou militares para conter protestos anti-imigração na Califórnia. A China manifestou desejo de "acelerar a cooperação" com Myanmar, enquanto Hong Kong descartou retaliações tarifárias. Israel atacou um centro de ajuda humanitária em Gaza, e a Rússia anunciou uma nova ofensiva na região ucraniana de Dnipropetrovsk. A ONU procura um acordo global para a proteção dos oceanos e determinou ainda que o grupo Wagner deixará o Mali e cederá lugar ao Africa Corps.
 
-No mundo da cultura, os Calema esgotaram o Estádio da Luz, e Espinho celebra a 51.ª edição do seu Festival Internacional de Jazz.
+Na cultura, os Calema esgotaram o Estádio da Luz, um marco na música lusófona, enquanto o Jazz em Espinho celebra a sua 51.ª edição.
 
-Por fim, um sismo de magnitude 3,1 foi sentido em São Miguel, Açores, e a PJ alertou para os cuidados a ter com a informação partilhada em sistemas de IA.
+Na economia, a Iberia pondera a compra da TAP e o Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas dos EUA.
+
+Em Coimbra, uma quinta resgata animais e promove ensino alternativo, enquanto um incêndio em Moimenta da Beira causou a morte de 19 animais.

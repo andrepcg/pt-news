@@ -1,11 +1,11 @@
-Hoje, Portugal prepara-se para disputar a final da Liga das Nações contra a Espanha, em Munique, enquanto Francisca Veselko conquista mais uma etapa do circuito mundial de surf na Austrália. Rui Lacerda e Ricardo Coelho trazem o ouro para Portugal no Europeu de Maratonas em C2.
+Hoje, Portugal prepara-se para a final inédita da Liga das Nações contra a Espanha, em Munique. No mundo do desporto, Francisca Veselko venceu uma etapa de surf na Austrália, Rui Lacerda e Ricardo Coelho ganharam o ouro no Europeu de Maratonas em canoagem, e Miguel Oliveira pontuou no MotoGP.
 
-No panorama político internacional, um atentado na Colômbia contra o senador Miguel Uribe, alegadamente cometido por um menor, leva ao cancelamento da viagem do Presidente à ONU, com Washington a apontar o dedo à esquerda. Trump envia a Guarda Nacional para a Califórnia para conter protestos anti-imigração. A China, por sua vez, manifesta desejo de estreitar a cooperação com Myanmar, enquanto Hong Kong descarta retaliações tarifárias para proteger a sua economia.
+A nível nacional, cinco distritos estão sob aviso amarelo devido ao calor, e o Politécnico de Leiria aposta no bem-estar com biodanza. Em Coimbra, uma quinta resgata animais e promove o ensino alternativo. Urgências de ginecologia/obstetrícia e pediatria encerraram em vários hospitais, e a pesca da sardinha com cerco foi proibida no Algarve em junho. Em notícias policiais, o corpo de São foi encontrado e o autor do crime capturado, enquanto em Ílhavo, um homem foi detido por tráfico de droga.
 
-No Médio Oriente, reportam-se ataques israelitas em Gaza, atingindo centros de ajuda humanitária.
+No panorama internacional, um atentado contra um senador colombiano levou ao cancelamento da viagem do Presidente à ONU, com um menor de 15 anos identificado como autor. Trump enviou militares para conter protestos anti-imigração na Califórnia, e manifestações contra Pedro Sánchez ocorreram em Madrid. A China manifestou o desejo de "acelerar a cooperação" com Myanmar, e Hong Kong descartou retaliações tarifárias. Ataques em Gaza causaram mortes em centros de ajuda humanitária.
 
-Em Portugal, foi alargado o aviso amarelo de calor a Bragança, Guarda e Vila Real. Urgências de ginecologia/obstetrícia e pediatria encerraram em vários hospitais do país. Em Coimbra, uma quinta resgata animais e promove ensino alternativo. A PJ alerta para os perigos da partilha de dados com sistemas de IA e Albufeira vai multar quem simular atos sexuais em espaço público.
+Na economia, a reprogramação do PRR é considerada "essencial" até ao final do ano, e o Vietname vai comprar 3 mil milhões de dólares em produtos agrícolas aos EUA. A Iberia pondera a compra da TAP, e a FlixBus expandiu a sua rede em Portugal.
 
-Na economia, a Iberia pondera a compra da TAP, e os preços dos combustíveis voltam a subir amanhã. O PRR enfrenta a necessidade de reprogramação até ao final do ano.
+No mundo da cultura, os Calema esgotaram o Estádio da Luz, e Espinho celebra a 51.ª edição do seu Festival Internacional de Jazz.
 
-Na cultura, Calema esgotou o Estádio da Luz, demonstrando um marco na música lusófona, e o Festival Internacional de Jazz celebra a 51.ª edição em Espinho.
+Por fim, um sismo de magnitude 3,1 foi sentido em São Miguel, Açores, e a PJ alertou para os cuidados a ter com a informação partilhada em sistemas de IA.

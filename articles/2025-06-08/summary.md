@@ -1,15 +1,7 @@
-Aqui estão as principais notícias de 8 de junho de 2025:
+No panorama nacional, Portugal prepara-se para disputar a final da Liga das Nações contra a Espanha, procurando o seu terceiro título. O país enfrenta ainda um alerta de calor, com aviso amarelo alargado a Bragança, Guarda e Vila Real. Em Coimbra, uma quinta destaca-se pelo resgate de animais e promoção de ensino alternativo. A nível económico, o turismo em Portugal demonstra redução da sazonalidade e perspetiva-se novos recordes, enquanto a reprogramação do PRR é considerada "essencial" até ao final do ano. Os preços dos combustíveis voltam a subir. Nas notícias de sociedade, a GNR considera adormecer em serviço como crime, levando a julgamento. Em Ílhavo, um homem foi detido por tráfico de droga, com 471 doses de haxixe apreendidas. Urgências de ginecologia/obstetrícia e pediatria encontram-se encerradas em diversos hospitais.
 
-Na política internacional, um atentado na Colômbia contra um senador, alegadamente cometido por um menor de 15 anos, levou ao cancelamento da viagem do Presidente à ONU, com Washington a apontar o dedo à "esquerda". Trump enviou militares para conter protestos anti-imigração na Califórnia, enquanto a China e os EUA mantêm tensões com Hong Kong a descartar retaliações tarifárias. Xi Jinping procura fortalecer os laços com Myanmar.
+No mundo, a Colômbia enfrenta tensões após um atentado contra um senador, que levou ao cancelamento da viagem do Presidente à ONU, com Washington a acusar a "esquerda". Um menor de 15 anos foi identificado como o autor do atentado. Nos EUA, Trump envia militares para conter protestos anti-imigração na Califórnia. Hong Kong reafirma a sua independência face às tensões EUA-China, descartando retaliações tarifárias. O Vietname vai comprar produtos agrícolas aos EUA para reduzir tarifas, enquanto a China pretende estreitar laços com Myanmar. A nível ambiental, quase 1700 espécies marinhas estão ameaçadas de extinção.
 
-Em Portugal, Marcelo Rebelo de Sousa vê um clima político mais aberto ao diálogo. Na economia, a Iberia pondera a compra da TAP, os preços dos combustíveis vão subir e o PRR necessita de reprogramação até ao final do ano. O turismo nacional continua a crescer, diminuindo a sazonalidade. Portugal procura reerguer a sua indústria de defesa.
+Na cultura, o Festival Internacional de Jazz em Espinho celebra a sua 51.ª edição e os Calema esgotaram o Estádio da Luz, marcando um momento importante na música lusófona. Um espetáculo celebra a poesia de Noémia de Sousa com artistas de Angola, Brasil e Moçambique.
 
-No desporto, Portugal disputa a final inédita da Liga das Nações de futebol contra a Espanha em busca do terceiro título.
-
-Na sociedade, a GNR considera adormecer em serviço como crime. Um alerta de calor foi alargado a Bragança, Guarda e Vila Real. Urgências de ginecologia/obstetrícia e pediatria encerraram. Em Ílhavo, um homem foi detido por tráfico de droga.
-
-Na cultura, o Festival Internacional de Jazz celebra a sua 51.ª edição em Espinho, Calema esgotou o Estádio da Luz num marco para a música lusófona e um espetáculo celebra a poesia de Noémia de Sousa com artistas de vários países lusófonos.
-
-Em Coimbra, uma quinta resgata animais e promove ensino alternativo. No mundo automóvel, o Smart #3 Brabus alia potência e design irreverente e a Honda apresentou a edição de despedida do Civic Type R para a Europa.
-
-No âmbito ambiental, quase 1700 espécies marinhas estão ameaçadas de extinção.
+No mundo automóvel, a Smart apresentou o #3 Brabus, um SUV elétrico que alia potência e design irreverente, e a Honda revelou em vídeo a edição de despedida do Civic Type R para a Europa.

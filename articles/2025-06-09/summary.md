@@ -1,23 +1,5 @@
-Aqui fica um resumo das notícias de 9 de junho de 2025:
+As notícias de hoje são marcadas pela conquista de Portugal na Liga das Nações, com celebrações em Montenegro e Lisboa, e um incidente internacional onde Israel intercetou um navio de ajuda humanitária para Gaza, a bordo do qual seguia Greta Thunberg. Na Europa, a Polónia mobilizou caças devido a intensos ataques russos na Ucrânia, enquanto a NATO pondera aumentar as suas capacidades de defesa.
 
-Portugal celebrou a conquista da Liga das Nações, com festejos em Montenegro e Lisboa. A Polónia ativou caças de combate devido aos intensos ataques russos na Ucrânia, onde também foi reportado um ataque ucraniano a uma fábrica russa de componentes eletrónicos. A NATO pondera um aumento massivo das suas capacidades de defesa face à ameaça russa.
+Em Portugal, as comemorações do Dia de Portugal começaram em Lagos, mas o país enfrenta um alto risco de incêndios devido ao calor, com vários focos já registados. A nível económico, a Portugália celebra 100 anos com planos de expansão, apesar da instabilidade ministerial na área. Há preocupações com a inflação nos supermercados e o aumento do IVA nos ares condicionados.
 
-No Médio Oriente, Israel desviou um navio ativista com ajuda humanitária para Gaza, incluindo Greta Thunberg a bordo, motivando críticas e acusações de "pirataria". Novas ordens de evacuação foram emitidas no norte de Gaza.
-
-A nível global, decorreu uma conferência da ONU para procurar um acordo global para proteger os oceanos, com alertas sobre a exploração descontrolada do fundo do mar.
-
-No Brasil, Bolsonaro foi ouvido em tribunal sobre uma alegada tentativa de golpe de Estado.
-
-Em Portugal, as comemorações do Dia de Portugal tiveram início em Lagos. Mais de 30 concelhos estão em perigo máximo de incêndio devido ao calor, e um fogo danificou um armazém agrícola em Beja, enquanto um incêndio numa oficina em Coimbra causou um ferido. Foi ainda sentido um sismo de magnitude 3.0 em São Miguel, Açores. O corpo do jovem desaparecido no rio Mira, em Odemira, foi encontrado.
-
-A Cervejaria Portugália celebrou 100 anos com planos de expansão, enquanto a empresa do Porto Advanced Cyclone Systems foi vendida a um grupo sueco. A inflação desacelera, mas os preços nos supermercados mantêm-se altos. O IVA nos ares condicionados aumentará para 23% no final do mês.
-
-No desporto, Arthur Cabral deixou o Benfica e regressou ao Brasil. No basquetebol, Oklahoma City Thunder empatou a final da NBA.
-
-Em Lisboa, uma avaria paralisou a Linha Vermelha do Metro, e Carlos Moedas pediu uma reunião urgente devido à insegurança na cidade.
-
-Na Madeira, uma fuga de amoníaco obrigou à evacuação de um Parque Empresarial e causou feridos.
-
-Nos Estados Unidos, protestos violentos em Los Angeles levaram ao apelo à calma por parte do governador da Califórnia, enquanto Trump se prepara para intervir devido à tensão relacionada com a imigração.
-
-Em Macau, um casino anunciou o seu encerramento.
+No Brasil, Bolsonaro foi ouvido em tribunal sobre uma tentativa de golpe de Estado. No mundo, registam-se protestos violentos em Los Angeles, tensões no Japão com a entrada de um porta-aviões chinês em águas japonesas, e uma conferência da ONU procura um acordo global para proteger os oceanos. Nos Açores, um sismo de magnitude 3,0 foi sentido em São Miguel. Lamenta-se ainda o falecimento de um adepto alemão na final da Liga das Nações e o desaparecimento de um homem ao largo da Figueira da Foz. Foi encontrado o corpo do jovem desaparecido no rio Mira, em Odemira.

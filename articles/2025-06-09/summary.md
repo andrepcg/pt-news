@@ -1,9 +1,17 @@
-Em dia de celebração, Portugal conquistou a Liga das Nações, com Montenegro a juntar-se às festividades. Contudo, nem tudo foram vitórias, com mais de 30 concelhos em Portugal sob perigo máximo de incêndio devido ao calor. O Dia de Portugal foi assinalado em Lagos com cerimónias oficiais, enquanto trabalhadores de museus e monumentos nacionais fizeram greve.
+Aqui fica um resumo das notícias de hoje, 9 de Junho de 2025:
 
-No plano internacional, a Polónia mobilizou caças após "intensos" ataques russos na Ucrânia. Israel desviou um navio ativista com ajuda humanitária para Gaza, com Greta Thunberg a bordo, gerando acusações de "pirataria". Tóquio reportou a entrada de um porta-aviões chinês em águas japonesas. Em Los Angeles, protestos violentos eclodiram, levando o Governador da Califórnia a apelar à calma e à mobilização da Guarda Nacional devido a rusgas de imigração. Uma conferência da ONU procura um acordo global para proteger os oceanos, enquanto o Secretário-Geral da ONU alertou para a exploração descontrolada dos oceanos. Bolsonaro foi ouvido em tribunal sobre uma alegada tentativa de golpe de Estado.
+Portugal sagrou-se campeão da Liga das Nações, com Montenegro a celebrar a vitória juntamente com Marcelo Rebelo de Sousa.
 
-Na economia, a Portugália celebra 100 anos com uma faturação milionária e planos de expansão, enquanto a empresa do Porto, Advanced Cyclone Systems, foi vendida a um grupo sueco. A taxa de juro natural historicamente baixa limita a ação do BCE, e a inflação desacelera, mas os preços nos supermercados continuam altos. A instabilidade ministerial na Economia é vista como uma "maldição" persistente. O IVA dos ares condicionados aumentará para 23% no fim do mês.
+No cenário internacional, a Polónia ativou caças de combate devido a intensos ataques russos na Ucrânia. Israel intercetou um navio ativista com ajuda humanitária para Gaza, onde seguia Greta Thunberg. A NATO pondera um aumento massivo das suas capacidades de defesa face à ameaça russa. Em Los Angeles, protestos violentos eclodiram com carros a serem incendiados, levando o governador da Califórnia a apelar à calma. No Brasil, Bolsonaro foi ouvido em tribunal sobre uma alegada tentativa de golpe de Estado. O porta-aviões chinês entrou em águas territoriais do Japão.
 
-No desporto, Arthur Cabral deixa o Benfica e ruma ao Brasil.
+Em Portugal, as comemorações do Dia de Portugal começaram em Lagos, mas mais de 30 concelhos estão em perigo máximo de incêndio devido ao calor. Registou-se um sismo de magnitude 3,0 em São Miguel, Açores. Um incêndio danificou um armazém de produtos agrícolas em Beja e outro atingiu uma oficina em Coimbra, provocando um ferido. Foi encontrado o corpo do jovem desaparecido no rio Mira, em Odemira. A Portugália celebra 100 anos com planos de expansão.
 
-Outros incidentes incluem um fogo que danificou um armazém de produtos agrícolas em Beja e um ferido num incêndio numa oficina de carros em Ceira, Coimbra. Um sismo de magnitude 3,0 foi sentido em São Miguel, Açores. As buscas foram retomadas por um jovem desaparecido no rio Mira em Odemira, cujo corpo foi encontrado, e uma fuga de amoníaco na Madeira obrigou à evacuação de um Parque Empresarial.
+Na economia, a taxa de juro natural historicamente baixa limita a ação do BCE, e a inflação desacelera, mas os preços nos supermercados mantêm-se elevados. O IVA nos ares condicionados aumentará para 23% no final do mês. As exportações portuguesas diminuíram em abril, enquanto as importações aumentaram. O governo anunciou que vai injetar milhões para modernizar a Gestão Financeira Pública. A frota automóvel do Estado envelheceu e perdeu carros elétricos. O prazo para a entrega do Modelo 22 e IES foi prolongado devido a falhas no Portal das Finanças.
+
+No desporto, Arthur Cabral deixou o Benfica e regressou ao Brasil.
+
+Um homem morreu ao cair ao mar na Figueira da Foz. Na Madeira, uma fuga de amoníaco obrigou à evacuação de um parque empresarial e fez feridos. A PJ deteve um jovem por tráfico de droga em Aveiro.
+
+Em Lisboa, uma avaria paralisou a Linha Vermelha do metro e Carlos Moedas pediu uma reunião urgente devido à insegurança na cidade.
+
+Finalmente, foi noticiado que maus-tratos na infância podem escapar ao radar da saúde e que os trabalhadores de museus e monumentos nacionais farão greve no feriado de 10 de junho.

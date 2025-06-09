@@ -1,13 +1,25 @@
-## Resumo das Notícias de 9 de Junho de 2025
+Aqui está o resumo das notícias de hoje, 9 de junho de 2025:
 
-Portugal conquistou a Liga das Nações, com celebrações um pouco por todo o país. No plano internacional, a Polónia mobilizou caças após intensos ataques russos na Ucrânia, enquanto Israel intercetou um navio ativista com ajuda humanitária para Gaza, onde seguiam ativistas como Greta Thunberg, gerando críticas e apelos à libertação.
+**Política e Economia:**
 
-A Conferência da ONU procurou um acordo global para proteger os oceanos, com alertas para a exploração descontrolada dos recursos marinhos. No Brasil, Bolsonaro foi ouvido em tribunal sobre uma alegada tentativa de golpe de Estado. No Japão, Tóquio reportou a entrada de um porta-aviões chinês em águas japonesas. Nos EUA, Los Angeles foi palco de protestos violentos devido a rusgas de imigração, com o Governador da Califórnia a apelar à calma e Trump a propor medidas drásticas.
+Portugal celebrou o Dia de Portugal, com comemorações a começar em Lagos e Lídia Jorge a presidir aos festejos no Algarve. No entanto, o dia também foi marcado por previsões de chuva e trovoada no Norte e Centro do país. O Governo declarou "guerra à burocracia" com reformas estruturais, enquanto Marcelo Rebelo de Sousa alertou para o atraso do PRR, defendendo simplificação e maior flexibilidade no Orçamento para atingir a meta da NATO nos gastos com a Defesa. O Governo prolongou o prazo para a entrega do Modelo 22 e IES devido a falhas no Portal das Finanças. Na economia, as exportações portuguesas diminuíram em abril, enquanto as importações aumentaram, e os custos de construção de habitação nova continuaram a subir.
 
-Em Portugal, comemorações do Dia de Portugal começaram em Lagos, mas o país enfrenta um elevado risco de incêndios devido ao calor. A Portugália celebra 100 anos com planos de expansão, enquanto a Advanced Cyclone Systems foi vendida a um grupo sueco. A inflação desacelera, mas os preços nos supermercados mantêm-se altos. Arthur Cabral deixou o Benfica e regressou ao Brasil. Registaram-se incêndios em Beja e Coimbra, e um sismo de magnitude 3,0 foi sentido em São Miguel, Açores.
+**Mundo:**
 
-No âmbito económico, o IVA nos ares condicionados vai aumentar para 23% no final do mês, e a frota automóvel do Estado perdeu carros elétricos. O governo anunciou ainda uma "guerra à burocracia" com reformas estruturais. A Europa prepara-se também para um aumento massivo das capacidades de defesa face à ameaça russa, enquanto a NATO garante que Putin não quer a paz.
+No cenário internacional, a Polónia mobilizou caças após ataques russos intensos na Ucrânia, enquanto a NATO pondera um aumento massivo das capacidades de defesa face à ameaça russa. Israel desviou um navio ativista com ajuda humanitária para Gaza, com Greta Thunberg a bordo, e emitiu novas ordens de evacuação no norte da Faixa de Gaza. Em Los Angeles, protestos violentos eclodiram após rusgas de imigração, levando o governador da Califórnia a apelar à calma e Donald Trump a considerar medidas drásticas. Bolsonaro foi ouvido em tribunal sobre uma alegada tentativa de golpe de Estado no Brasil.
 
-Foi encontrado o corpo do jovem desaparecido no rio Mira, em Odemira. Houve uma fuga de amoníaco na Madeira, obrigando à evacuação de um Parque Empresarial. Em Lisboa, uma avaria paralisou a Linha Vermelha do Metro e Carlos Moedas pediu uma reunião urgente sobre segurança na cidade. É importante referir ainda que Marcelo Rebelo de Sousa alertou para o atraso do PRR e pediu simplificação dos processos.
+**Desporto:**
 
-Os trabalhadores de museus e monumentos nacionais anunciaram uma greve para o feriado de 10 de Junho. Por fim, faleceu o escritor Armindo Reis e Frederick Forsyth, autor de "O Chacal".
+Portugal conquistou a Liga das Nações, com Montenegro a celebrar a vitória. Arthur Cabral deixou o Benfica e rumou ao Brasil. Adepto alemão morreu após cair da bancada na final da Liga das Nações.
+
+**Sociedade:**
+
+Em Portugal, mais de 30 concelhos estão em perigo máximo de incêndio devido ao calor. Um armazém de produtos agrícolas em Beja foi danificado por um incêndio, e houve um ferido num incêndio numa oficina de carros em Ceira, Coimbra. As buscas foram retomadas para encontrar um jovem desaparecido no rio Mira, em Odemira, cujo corpo foi entretanto encontrado. Registou-se um sismo de magnitude 3,0 em São Miguel, Açores. Carlos Moedas pediu uma reunião urgente à nova MAI devido à insegurança e violência em Lisboa, com a Comunidade Islâmica de Lisboa a alertar para ataques contra muçulmanos em Portugal.
+
+**Ambiente:**
+
+A Conferência da ONU procurou um acordo global para proteger os oceanos, com alertas de Guterres e Macron sobre a exploração descontrolada e a mineração no mar profundo. Foi lançado um pacto para proteger o "pulmão do planeta".
+
+**Acidentes:**
+
+Uma fuga de amoníaco na Madeira obrigou à evacuação de um Parque Empresarial, resultando em feridos. Um homem morreu ao cair ao mar na Figueira da Foz e outro faleceu num despiste de motociclo na Benedita, Alcobaça.

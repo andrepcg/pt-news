@@ -1,9 +1,9 @@
-Em dia de notícias variadas, um ataque russo com drones em Kharkiv fez dois mortos e 60 feridos. Nos EUA, o governador da Califórnia acusou Trump de "abuso de poder" devido a operações de imigração em Los Angeles, mas houve um entendimento com a China para uma trégua comercial, impulsionando as bolsas chinesas.
+O dia ficou marcado por tensões internacionais e desenvolvimentos económicos. Na Ucrânia, um ataque russo com drones provocou mortos e feridos em Kharkiv. Taiwan denunciou as ambições expansionistas da China após o envio de um porta-aviões, enquanto um acordo de princípio entre EUA e China animou as bolsas chinesas. Xi Jinping visitou o Cazaquistão para uma cimeira com a Ásia Central.
 
-Em Portugal, o número de mortes por afogamento até maio é um dos mais altos desde 2017. O setor farmacêutico português aumentou as exportações para os EUA antes de novas tarifas, enquanto a Inditex anunciou lucros recorde. No setor empresarial, bancos perdoaram dívida da Vale da Rosa para viabilizar a empresa.
+Na Europa, a Presidente do BCE, Christine Lagarde, defendeu medidas para evitar tensões comerciais, enquanto mais de 90 milhões de euros em alimentos falsificados foram apreendidos na UE.
 
-Taiwan denunciou ambições "expansionistas" da China, que obteve certificação para produção em série do seu maior avião anfíbio. Xi Jinping visitou o Cazaquistão para uma cimeira Ásia Central-China, enquanto um ex-presidente taiwanês visitou a China para um fórum do Partido Comunista.
+Em Portugal, registaram-se 49 mortes por afogamento até maio, um dos valores mais altos desde 2017. O setor farmacêutico português aumentou as exportações para os EUA antes da implementação de novas tarifas. A Inditex anunciou lucros recorde no primeiro trimestre. O IGCP realizou leilões de dívida a 10 e 29 anos. O Vale da Rosa viu a sua dívida perdoada por bancos para viabilizar a empresa.
 
-No Algarve, um grupo suspeito de tráfico internacional de droga começou a ser julgado. António Costa criticou a "autoflagelação" em Portugal, enquanto Bruxelas prepara um plano para a Habitação. Ex-presidentes da Transparência Internacional manifestaram apoio a Seguro para Belém. Há convergência entre Governo, Chega e PS em temas como salários, impostos, saúde e habitação.
+Na política nacional, António Costa criticou a "autoflagelação" de Portugal, enquanto Bruxelas prepara um plano para a habitação. Alexandra Leitão anunciou a sua saída da direção do PS após as eleições internas. A Provedoria de Justiça obrigou a AD a negociar com a oposição.
 
-As receitas de construtoras chinesas no exterior subiram, Lagarde defendeu ação para evitar tensões comerciais e foram apreendidos milhões de euros em alimentos falsificados na UE. O IGCP realizou leilões de dívida a 10 e 29 anos.
+No mundo do desporto, o Sporting e Gyökeres estão em divergência sobre uma possível transferência, e a PSP investiga um ataque a adeptos do FC Porto após um jogo de hóquei.

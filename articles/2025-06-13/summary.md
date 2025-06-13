@@ -1,7 +1,37 @@
-Em Portugal, as Marchas Populares de Lisboa consagraram Alcântara e o Bairro Alto como vencedores *ex aequo*. Um sismo de magnitude 3.8 foi sentido no Faial, Açores. O histórico padre madeirense Martins Júnior faleceu aos 86 anos. A GNR lançou a Operação "Verão Seguro 2025" nas estradas. Em Braga, a PJ deteve suspeitos de roubo e agressão a um estudante, enquanto em Leiria, um homem foi preso por tentativa de homicídio à ex-mulher. No Porto, um incidente de agressão durante o Primavera Sound levou à demissão de um assessor de campanha, e voluntárias de apoio a sem-abrigo foram agredidas, com o Presidente da República a condenar a violência. O Exército iniciou patrulhamento na Serra de Santa Luzia para prevenir incêndios.
+## Resumo das Notícias de 2025-06-13
 
-No mundo, Israel atacou instalações nucleares e militares no Irão, desencadeando ameaças de retaliação e apelos internacionais à contenção. A China apelou à vigilância em Israel após os ataques. Rodrigo Duterte pediu a sua libertação ao Tribunal Penal Internacional por motivos humanitários. Hong Kong e Pequim realizaram a primeira operação conjunta de segurança nacional. Os EUA reivindicaram a eliminação de um alto dirigente do Estado Islâmico na Síria e Trump chamou "imbecil" ao presidente da Reserva Federal dos EUA. Um juiz considerou ilegal a mobilização da Guarda Nacional da Califórnia para Los Angeles. O secretário-geral da ONU apelou à "máxima contenção" a Israel e Irão, e a NATO também pediu a desescalada. João Lourenço convidou líderes cubanos para as celebrações da independência de Angola.
+### Destaques Internacionais
 
-Na economia, o Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros. Os juros da dívida de Portugal desceram a 2, 5 e 10 anos. A taxa turística de Lisboa já rendeu 260 milhões de euros. O Grupo Martifer distribuiu 11,7 milhões de euros em dividendos. Cabo Verde solicitou os contratos de voos domésticos ao Governo. As sardinhas portuguesas tornaram-se tendência de verão nos EUA, impulsionando lojas portuguesas. A inflação em Espanha abrandou para 2% em maio.
+O dia foi marcado pela escalada de tensões no Médio Oriente, com Israel a atacar instalações nucleares e militares no Irão, levando a ameaças de retaliação por parte de Teerão e apelos à contenção por parte da ONU e de vários países, incluindo a China e os EUA. A NATO também apelou à desescalada. Os ataques israelitas fizeram disparar o preço do petróleo e provocaram quedas nas bolsas europeias. Os EUA mobilizaram meios militares na região.
 
-Outras notícias incluem o lançamento da primeira operação conjunta de segurança nacional em Hong Kong, a expansão da Multilem para a China, a ambição de Moçambique em ser um dos principais produtores de café em África, o aumento da publicidade no Prime Video, e a implementação do Tratado do Alto Mar em setembro. Foi ainda noticiado que Bruxelas prolongou a proteção temporária a ucranianos até 2027.
+Na Europa, Bruxelas prolongou a proteção temporária para ucranianos até 2027 e doou quase 150 mil milhões de euros à Ucrânia desde o início da guerra. Estrasburgo recebeu milhares de jovens para debater o futuro da Europa.
+
+Outras notícias internacionais incluem o apelo de Rodrigo Duterte à sua libertação por motivos humanitários junto do TPI, e a primeira operação conjunta de segurança nacional entre Hong Kong e Pequim. No Brasil, autoridades foram para bunkers contra drones do Irão em Israel.
+
+### Economia
+
+O Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros, permitindo ao Estado recuperar parte do valor injetado. Os juros da dívida de Portugal apresentaram descidas a 2, 5 e 10 anos. A bolsa de Lisboa fechou em baixa, pressionada pela EDP Renováveis e CTT.
+
+O Grupo Martifer distribuiu 11,7 milhões de euros em dividendos. A Multilem expandiu a sua operação para a China e está a preparar uma nova marca em Portugal. Gestores ofereceram 8,5 milhões para a compra e recuperação da Schmidt Light Metal.
+
+As sardinhas portuguesas tornaram-se uma tendência de verão nos EUA, impulsionando as vendas de lojas portuguesas. Moçambique ambiciona ser um dos principais produtores de café em África.
+
+### Portugal
+
+Em Portugal, as Marchas Populares de Lisboa 2025 foram ganhas 'ex aequo' por Alcântara e Bairro Alto. Lisboa arrecadou 260 milhões de euros com a taxa turística. No entanto, hoteleiros afirmam que o setor do turismo está em "estagnação" até à construção do novo aeroporto de Lisboa.
+
+A GNR lançou a Operação "Verão Seguro 2025" nas estradas portuguesas. Nos Açores, foi sentido um sismo de magnitude 3,8 no Faial e detetado um caso de infeção por Monkeypox num não residente em São Miguel. O Exército começou a patrulhar a Serra de Santa Luzia para prevenir incêndios.
+
+Na política, Ferro Rodrigues declarou apoio a José Luís Carneiro na corrida à liderança do PS. O PCP propõe facilitar o acesso à Justiça para vítimas de violência doméstica.
+
+Foi noticiado que a AIMA (Agência para a Integração, Migrações e Asilo) ainda não multou nenhum dirigente por incumprimento de prazos nos processos de imigração, apesar das críticas e atrasos verificados. O governo pretende ainda restringir o acesso à cidadania e ao reagrupamento familiar.
+
+### Cultura e Desporto
+
+Morreu o histórico padre madeirense Martins Júnior, aos 86 anos, e Artur Santos, antigo campeão europeu pelo Benfica. A RTP estreia uma série documental sobre Camilo Castelo Branco.
+
+O FC Porto ameaça romper relações com o Barcelona devido a uma disputa por um jogador e prepara-se para o Mundial de Clubes, onde poderá defrontar o Palmeiras no MetLife Stadium.
+
+### Outros
+
+Em Alcobaça, uma mulher sofreu um grave acidente com um parapente. No Porto, um assessor de Pedro Duarte demitiu-se após uma agressão a um candidato autárquico. Foram registadas agressões a voluntárias de apoio a sem-abrigo no Porto, com o Presidente da República a condenar a violência.

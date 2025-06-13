@@ -1,11 +1,9 @@
-Em destaque hoje, o ataque de Israel a instalações nucleares no Irão, com Teerão a prometer retaliação, levando a ONU e a China a apelarem à contenção e vigilância. A NATO também já apelou à desescalada. Este evento teve impacto na economia, com quedas nas bolsas europeias e aumento do preço do petróleo.
+As notícias de hoje foram marcadas pelas tensões geopolíticas, com Israel a atacar instalações nucleares no Irão, levando Teerão a prometer retaliação e apelos globais à contenção, incluindo da ONU, EUA, China, NATO e UE. Este conflito já impactou a economia, com as bolsas europeias em queda e o preço do petróleo em alta.
 
-No panorama nacional, o Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros. A Martifer distribui 11,7 milhões em dividendos, enquanto os juros da dívida portuguesa continuam em queda. Contudo, o setor do turismo em Lisboa sente-se em "estagnação" até à construção do novo aeroporto. O cabaz alimentar da DECO está mais caro.
+Em Portugal, o Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros, numa operação que garante a recuperação de parte do valor injetado pelo Estado e promete não gerar despedimentos. Os juros da dívida portuguesa estão em queda. Alcântara e o Bairro Alto venceram ex aequo as Marchas Populares de Lisboa e as sardinhas portuguesas tornaram-se uma tendência de verão nos EUA. A taxa turística de Lisboa já rendeu 260 milhões de euros, mas hoteleiros alertam para "estagnação" até novo aeroporto. Um sismo de magnitude 3,8 foi sentido no Faial, Açores.
 
-Em Lisboa, Alcântara e Bairro Alto dividiram o primeiro lugar nas Marchas Populares de 2025. A taxa turística da cidade já rendeu 260 milhões de euros.
+No panorama internacional, a China apelou à vigilância em Israel após os ataques e testou um comboio de alta velocidade capaz de atingir 400 km/h. Rodrigo Duterte pediu libertação ao TPI por motivos humanitários e Hong Kong e Pequim lançaram a primeira operação conjunta de segurança nacional. Um juiz considerou ilegal a mobilização da Guarda Nacional da Califórnia para Los Angeles.
 
-Nos Açores, um sismo de magnitude 3,8 foi sentido no Faial. Na Madeira, faleceu o histórico padre Martins Júnior, aos 86 anos.
+Na economia, o grupo Martifer distribuiu 11,7 milhões de euros em dividendos. O cabaz alimentar da DECO está mais caro esta semana e a inflação em Espanha abrandou para 2%.
 
-Internacionalmente, as sardinhas portuguesas estão a fazer sucesso nos EUA. O Japão considera "inaceitáveis" as acusações da China sobre um incidente aéreo. Rodrigo Duterte, por seu lado, pediu libertação ao TPI por motivos humanitários. A Conferência da ONU terminou sem ratificação do Tratado do Alto Mar.
-
-De resto, Hong Kong e Pequim lançaram a primeira operação conjunta de segurança nacional e o Timor-Leste manifestou solidariedade após a queda de um avião na Índia.
+Outras notícias incluem a Operação "Verão Seguro 2025" lançada pela GNR, o pedido do parlamento de Cabo Verde sobre os contratos de voos domésticos e a ambição de Moçambique em tornar-se um dos principais produtores de café em África.

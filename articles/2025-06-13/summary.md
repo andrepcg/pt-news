@@ -1,13 +1,15 @@
-## Resumo do Dia 2025-06-13
+As notícias de hoje foram marcadas pela escalada de tensões no Médio Oriente, com Israel a atacar instalações nucleares e militares no Irão, levando a ameaças de retaliação e apelos internacionais à contenção. A ONU convocou uma reunião de urgência e várias nações, incluindo os EUA, China e países da UE, manifestaram preocupação e apelaram à moderação. O ataque fez disparar o preço do petróleo e derrubou bolsas europeias.
 
-O dia foi marcado por tensões internacionais, com **Israel a atacar instalações nucleares e militares no Irão**, desencadeando ameaças de retaliação e apelos globais à contenção. Este conflito fez soar alarmes nas bolsas de valores, impulsionando o preço do petróleo e derrubando Wall Street. A comunidade internacional, incluindo a ONU, a NATO, a UE e países como a China e os EUA, apelaram à moderação, com Putin a oferecer mediação.
+No plano económico, o Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros, numa operação que permite ao Estado recuperar parte do valor injetado. Os juros da dívida de Portugal estão em queda. A Martifer distribuiu 11,7 milhões de euros em dividendos e o preço do cabaz alimentar da DECO aumentou. As sardinhas portuguesas tornaram-se uma tendência de verão nos EUA.
 
-Na **economia**, destaque para a **venda do Novo Banco ao grupo francês BPCE por 6,4 mil milhões de euros**, permitindo ao Estado recuperar parte do valor injetado. Os juros da dívida de Portugal apresentaram descidas a 2, 5 e 10 anos. A inflação em Espanha abrandou para os 2%.
+Em Lisboa, Alcântara e Bairro Alto venceram 'ex aequo' as Marchas Populares de 2025. A taxa turística da cidade já rendeu 260 milhões de euros. Hoteleiros queixam-se de estagnação do turismo até à construção do novo aeroporto.
 
-A **cultura** foi celebrada com a vitória *ex aequo* de **Alcântara e Bairro Alto nas Marchas Populares de Lisboa**. A estreia da série sobre Camilo Castelo Branco na RTP e o sucesso da exposição de Hockney em Paris também marcaram o dia.
+Ainda a nível nacional, um sismo de magnitude 3,8 foi sentido no Faial, Açores. A GNR lançou a Operação "Verão Seguro 2025" nas estradas. Foi noticiado um caso de infeção por Monkeypox (Mpox) nos Açores, num não residente.
 
-No panorama **nacional**, um sismo de magnitude 3,8 foi sentido no Faial, Açores, e a GNR lançou a Operação "Verão Seguro 2025" nas estradas. Registaram-se ainda agressões a voluntárias no Porto, com o Presidente da República a condenar a violência. A nível da saúde, foi criada uma nova linha telefónica do SNS para cirurgias.
+No mundo, a China apelou à vigilância dos seus cidadãos em Israel face aos ataques. Hong Kong e Pequim realizaram a primeira operação conjunta de segurança nacional. Rodrigo Duterte pediu libertação ao Tribunal Penal Internacional por motivos humanitários.
 
-No **desporto**, o FC Porto ameaça romper relações com o Barcelona devido a uma disputa por um jogador, e prepara-se para o Mundial de Clubes, onde poderá enfrentar o Palmeiras. Morreu Artur Santos, antigo campeão europeu pelo Benfica.
+No desporto, destaque para a ameaça do FC Porto de romper relações com o Barcelona devido a uma disputa por um jogador, e pela dúvida em relação à participação de Diogo Costa no Mundial de Clubes. Artur Santos, antigo campeão europeu pelo Benfica, faleceu.
 
-Outros destaques incluem o apelo de Rodrigo Duterte à libertação provisória ao TPI e a primeira operação conjunta de segurança nacional entre Hong Kong e Pequim. A Conferência do Oceano da ONU aprovou compromissos para proteger os oceanos.
+A nível social, o PCP propõe facilitar o acesso à Justiça para vítimas de violência doméstica. Registaram-se agressões a voluntárias no Porto, condenadas pelo Presidente da República, e um pai terminou uma greve de fome após promessa de novas vagas para o filho autista. Registou-se também um aumento na violência doméstica contra idosos.
+
+A nível ambiental, uma conferência da ONU terminou com compromissos para proteger os oceanos, prevendo-se que o Tratado do Alto Mar seja implementado em setembro.

@@ -1,37 +1,13 @@
-## Resumo das Notícias de 2025-06-13
+## Resumo do Dia 2025-06-13
 
-### Destaques Internacionais
+O dia foi marcado por tensões internacionais, com **Israel a atacar instalações nucleares e militares no Irão**, desencadeando ameaças de retaliação e apelos globais à contenção. Este conflito fez soar alarmes nas bolsas de valores, impulsionando o preço do petróleo e derrubando Wall Street. A comunidade internacional, incluindo a ONU, a NATO, a UE e países como a China e os EUA, apelaram à moderação, com Putin a oferecer mediação.
 
-O dia foi marcado pela escalada de tensões no Médio Oriente, com Israel a atacar instalações nucleares e militares no Irão, levando a ameaças de retaliação por parte de Teerão e apelos à contenção por parte da ONU e de vários países, incluindo a China e os EUA. A NATO também apelou à desescalada. Os ataques israelitas fizeram disparar o preço do petróleo e provocaram quedas nas bolsas europeias. Os EUA mobilizaram meios militares na região.
+Na **economia**, destaque para a **venda do Novo Banco ao grupo francês BPCE por 6,4 mil milhões de euros**, permitindo ao Estado recuperar parte do valor injetado. Os juros da dívida de Portugal apresentaram descidas a 2, 5 e 10 anos. A inflação em Espanha abrandou para os 2%.
 
-Na Europa, Bruxelas prolongou a proteção temporária para ucranianos até 2027 e doou quase 150 mil milhões de euros à Ucrânia desde o início da guerra. Estrasburgo recebeu milhares de jovens para debater o futuro da Europa.
+A **cultura** foi celebrada com a vitória *ex aequo* de **Alcântara e Bairro Alto nas Marchas Populares de Lisboa**. A estreia da série sobre Camilo Castelo Branco na RTP e o sucesso da exposição de Hockney em Paris também marcaram o dia.
 
-Outras notícias internacionais incluem o apelo de Rodrigo Duterte à sua libertação por motivos humanitários junto do TPI, e a primeira operação conjunta de segurança nacional entre Hong Kong e Pequim. No Brasil, autoridades foram para bunkers contra drones do Irão em Israel.
+No panorama **nacional**, um sismo de magnitude 3,8 foi sentido no Faial, Açores, e a GNR lançou a Operação "Verão Seguro 2025" nas estradas. Registaram-se ainda agressões a voluntárias no Porto, com o Presidente da República a condenar a violência. A nível da saúde, foi criada uma nova linha telefónica do SNS para cirurgias.
 
-### Economia
+No **desporto**, o FC Porto ameaça romper relações com o Barcelona devido a uma disputa por um jogador, e prepara-se para o Mundial de Clubes, onde poderá enfrentar o Palmeiras. Morreu Artur Santos, antigo campeão europeu pelo Benfica.
 
-O Novo Banco foi vendido ao grupo francês BPCE por 6,4 mil milhões de euros, permitindo ao Estado recuperar parte do valor injetado. Os juros da dívida de Portugal apresentaram descidas a 2, 5 e 10 anos. A bolsa de Lisboa fechou em baixa, pressionada pela EDP Renováveis e CTT.
-
-O Grupo Martifer distribuiu 11,7 milhões de euros em dividendos. A Multilem expandiu a sua operação para a China e está a preparar uma nova marca em Portugal. Gestores ofereceram 8,5 milhões para a compra e recuperação da Schmidt Light Metal.
-
-As sardinhas portuguesas tornaram-se uma tendência de verão nos EUA, impulsionando as vendas de lojas portuguesas. Moçambique ambiciona ser um dos principais produtores de café em África.
-
-### Portugal
-
-Em Portugal, as Marchas Populares de Lisboa 2025 foram ganhas 'ex aequo' por Alcântara e Bairro Alto. Lisboa arrecadou 260 milhões de euros com a taxa turística. No entanto, hoteleiros afirmam que o setor do turismo está em "estagnação" até à construção do novo aeroporto de Lisboa.
-
-A GNR lançou a Operação "Verão Seguro 2025" nas estradas portuguesas. Nos Açores, foi sentido um sismo de magnitude 3,8 no Faial e detetado um caso de infeção por Monkeypox num não residente em São Miguel. O Exército começou a patrulhar a Serra de Santa Luzia para prevenir incêndios.
-
-Na política, Ferro Rodrigues declarou apoio a José Luís Carneiro na corrida à liderança do PS. O PCP propõe facilitar o acesso à Justiça para vítimas de violência doméstica.
-
-Foi noticiado que a AIMA (Agência para a Integração, Migrações e Asilo) ainda não multou nenhum dirigente por incumprimento de prazos nos processos de imigração, apesar das críticas e atrasos verificados. O governo pretende ainda restringir o acesso à cidadania e ao reagrupamento familiar.
-
-### Cultura e Desporto
-
-Morreu o histórico padre madeirense Martins Júnior, aos 86 anos, e Artur Santos, antigo campeão europeu pelo Benfica. A RTP estreia uma série documental sobre Camilo Castelo Branco.
-
-O FC Porto ameaça romper relações com o Barcelona devido a uma disputa por um jogador e prepara-se para o Mundial de Clubes, onde poderá defrontar o Palmeiras no MetLife Stadium.
-
-### Outros
-
-Em Alcobaça, uma mulher sofreu um grave acidente com um parapente. No Porto, um assessor de Pedro Duarte demitiu-se após uma agressão a um candidato autárquico. Foram registadas agressões a voluntárias de apoio a sem-abrigo no Porto, com o Presidente da República a condenar a violência.
+Outros destaques incluem o apelo de Rodrigo Duterte à libertação provisória ao TPI e a primeira operação conjunta de segurança nacional entre Hong Kong e Pequim. A Conferência do Oceano da ONU aprovou compromissos para proteger os oceanos.

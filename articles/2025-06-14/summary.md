@@ -1,7 +1,21 @@
-Em Portugal, o Governo entregou o seu programa na Assembleia da República, com medidas que vão desde a proibição de telemóveis nas escolas até ao 6º ano, ao aumento do salário mínimo para 1.100€ até 2029. O programa foca-se em reformas, combate ao "imobilismo", descentralização, e prevê a criação de 59 mil casas públicas para mitigar a crise habitacional, ao mesmo tempo que promete menos impostos e burocracia na habitação. O Governo pretende ainda travar a imigração ilegal, rever a lei da nacionalidade e implementar um programa "Voltar" para atrair emigrantes. Há também um plano para combater conteúdos violentos online e reforçar a segurança nas escolas. Além disso, quer investir 2% do PIB em Defesa ainda este ano e pretende uma avaliação global dos funcionários públicos, admitindo a sua redistribuição. Na saúde, propõe urgências regionais com equipas partilhadas entre hospitais. A época balnear arrancou no Norte do país com 84 praias com bandeira azul, enquanto uma onda de calor se faz sentir com temperaturas acima dos 40°C.
+Os ataques mútuos entre Israel e Irão intensificaram-se, com trocas de mísseis a atingirem Telavive, Jerusalém e Teerão, levando ao encerramento de aeroportos e a ameaças de escalada, motivando o desaconselhamento de viagens para a região por parte de Portugal. O Papa apelou à responsabilidade e diálogo.
 
-A nível internacional, o conflito entre Israel e Irão intensificou-se com troca de mísseis e ameaças de escalada, levando Portugal a desaconselhar viagens à região. Ataques atingiram o aeroporto de Teerão e foram confirmadas vítimas civis em Telavive. O Irão considera que negociações com os EUA não fazem sentido após os ataques. Na Índia, a queda de um avião provocou centenas de mortos, incluindo sete portugueses. Nos EUA, uma tempestade ameaça o desfile militar de Trump em Washington, enquanto o governo suspendeu operações contra migrantes devido à impopularidade. Na Venezuela, um ex-ministro da Economia foi detido. Na China, o primeiro tufão atingiu a costa de Hainão.
+Na sequência dos ataques, o Irão considera que as negociações com os EUA "não fazem sentido".
 
-No desporto, o Benfica e o FC Porto estão de olho nos milhões do Mundial de Clubes, enquanto o Sporting pondera a venda de Gyokeres por 100 milhões. Portugal defrontou a Polónia no Europeu sub-21 e goleou por 4-0.
+Um avião caiu na Índia, resultando em centenas de mortos, incluindo sete portugueses, com a colisão com aves a ser apontada como causa provável.
 
-Outros destaques incluem a apresentação de um novo disco de António Pinho Vargas na Casa da Música e a homenagem a Henrique Alves Costa num filme de Manuel Vitorino.
+Nos EUA, o desfile militar de Trump em Washington está ameaçado por uma tempestade, enquanto protestos ocorrem em 2000 cidades. Um congressista e o marido foram assassinados no Minnesota, num ataque com motivações políticas.
+
+O Governo português entregou o seu programa na Assembleia da República, com medidas que visam a reforma do Estado, descentralização, imigração, habitação, saúde, educação, justiça, economia e ambiente; pretende um salário mínimo de 1.100€ até 2029. Há intenção de proibir telemóveis nas escolas até ao 6.º ano. O programa recebeu críticas da oposição, com André Ventura a considerar que faltam "ideias inovadoras".
+
+Em Portugal, a época balnear arrancou no Norte com 84 praias com bandeira azul, enquanto uma onda de calor eleva as temperaturas acima dos 40°C em todo o país.
+
+O Benfica e FC Porto estão de olho nos milhões do Mundial de Clubes, enquanto o Sporting pondera a venda de Gyokeres por 100 milhões. José Mourinho regressou a Portugal para estágio do Fenerbahçe.
+
+O FC Porto venceu o Óquei de Barcelos no primeiro jogo da final do campeonato de hóquei em patins.
+
+O Lusitano de Évora conquistou o Campeonato de Portugal.
+
+No Europeu de sub-21, Portugal goleou a Polónia por 4-0.
+
+No mundo da música, António Pinho Vargas apresentou novos discos na Casa da Música e morreu o guitarrista Luís Fernando, criador de "Baby Suicida".

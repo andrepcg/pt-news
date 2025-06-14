@@ -1,11 +1,9 @@
-Hoje, a tensão internacional agudizou-se com ataques de mísseis trocados entre Israel e Irão, resultando em vítimas civis e no cancelamento de voos. O Irão considera que as negociações com os EUA perderam o sentido. Timor-Leste retificou o seu voto na ONU, exigindo um cessar-fogo em Gaza.
+O dia foi marcado pela escalada do conflito Israel-Irão, com troca de mísseis e ameaças, resultando em vítimas civis e cancelamento de voos. As negociações entre o Irão e os EUA estão suspensas. Na Índia, a queda de um avião causou centenas de mortos, incluindo portugueses.
 
-Na Índia, a queda de um avião causou centenas de mortos, incluindo portugueses, com a colisão com aves apontada como causa provável. Na Venezuela, um ex-ministro da Economia foi detido e encontra-se desaparecido, aumentando a tensão política. Os EUA suspenderam um programa de operações contra migrantes devido à sua impopularidade.
+Na política internacional, Timor-Leste retificou o voto na ONU, exigindo cessar-fogo em Gaza. A Venezuela vive momentos de tensão com a detenção e desaparecimento de um ex-ministro da Economia, crítico de Maduro. Os EUA suspenderam operações contra migrantes devido a impopularidade.
 
-Em Portugal, o programa do Governo foi entregue na Assembleia da República. A crise da habitação foi tema de opinião, com alertas para o impacto na democracia. A época balnear arrancou no Norte com 84 praias com bandeira azul, enquanto uma onda de calor se aproxima, com temperaturas acima dos 40°C. Um sismo foi sentido em São Miguel, Açores.
+Em Portugal, o Governo entregou o programa na Assembleia da República, ambicionando um salário mínimo de 1.100 euros e um Complemento Solidário para Idosos de 870 euros até 2029. A época balnear arrancou no Norte com 84 praias com bandeira azul, enquanto uma onda de calor se aproxima, com temperaturas a ultrapassar os 40°C. Lisboa regularizou a ocupação de 127 casas em bairros sociais. No desporto, o Benfica e o FC Porto estão de olho nos milhões do Mundial de Clubes, enquanto o Sporting pondera a venda de Gyokeres. Portugal defronta a Polónia no Europeu sub-21 em busca da primeira vitória. José Mourinho regressou a Portugal para estágio do Fenerbahçe.
 
-No desporto, Benfica e FC Porto estão de olho nos milhões do Mundial de Clubes, enquanto o Sporting pondera a venda de Gyokeres. Portugal defronta a Polónia no Europeu sub-21 em busca da primeira vitória. José Mourinho regressou a Portugal para o estágio do Fenerbahçe.
+No mundo, a China foi atingida pelo primeiro tufão da temporada e a Rússia vai construir uma central nuclear no Cazaquistão. Nos EUA, uma tempestade ameaça o desfile militar de Trump em Washington, com protestos agendados em 2000 cidades, com a Guarda Nacional mobilizada.
 
-No mundo, a China foi atingida pelo primeiro tufão da temporada, e a Rússia vai construir a primeira central nuclear do Cazaquistão. Em Washington, uma tempestade ameaça o desfile militar de Trump.
-
-Na cultura, artistas brasileiros celebram a cultura indígena em Lisboa, e a Feira de São Mateus, em Viseu, terá uma nova praça em agosto.
+Nos Açores, um sismo foi sentido em São Miguel.

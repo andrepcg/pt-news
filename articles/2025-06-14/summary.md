@@ -1,13 +1,11 @@
-Resumo das notícias de 14 de junho de 2025:
+Hoje, a tensão internacional agudizou-se com ataques de mísseis trocados entre Israel e Irão, resultando em vítimas civis e no cancelamento de voos. O Irão considera que as negociações com os EUA perderam o sentido. Timor-Leste retificou o seu voto na ONU, exigindo um cessar-fogo em Gaza.
 
-A tensão internacional agudizou-se com ataques entre Israel e Irão, incluindo vítimas civis em Telavive, e o Irão a declarar que negociações com os EUA são inúteis. Timor-Leste exigiu um cessar-fogo em Gaza na ONU. Na Índia, a queda de um avião causou centenas de mortos, incluindo portugueses, possivelmente devido a uma colisão com aves.
+Na Índia, a queda de um avião causou centenas de mortos, incluindo portugueses, com a colisão com aves apontada como causa provável. Na Venezuela, um ex-ministro da Economia foi detido e encontra-se desaparecido, aumentando a tensão política. Os EUA suspenderam um programa de operações contra migrantes devido à sua impopularidade.
 
-Na política nacional, o programa do Governo foi entregue na Assembleia da República, enquanto a crise habitacional em Portugal é vista como uma ameaça à democracia. Em Lisboa, foi regularizada a situação de 127 casas em bairros sociais.
+Em Portugal, o programa do Governo foi entregue na Assembleia da República. A crise da habitação foi tema de opinião, com alertas para o impacto na democracia. A época balnear arrancou no Norte com 84 praias com bandeira azul, enquanto uma onda de calor se aproxima, com temperaturas acima dos 40°C. Um sismo foi sentido em São Miguel, Açores.
 
-No desporto, Benfica e FC Porto estão de olho nos milhões do Mundial de Clubes, com o Inter Miami de Messi a dar o pontapé de saída. O Sporting pondera a venda de Gyokeres por 100 milhões e procura alternativas. José Mourinho regressou a Portugal para o estágio do Fenerbahçe. Portugal defronta a Polónia no Europeu sub-21 em busca da primeira vitória.
+No desporto, Benfica e FC Porto estão de olho nos milhões do Mundial de Clubes, enquanto o Sporting pondera a venda de Gyokeres. Portugal defronta a Polónia no Europeu sub-21 em busca da primeira vitória. José Mourinho regressou a Portugal para o estágio do Fenerbahçe.
 
-A época balnear arrancou no Norte de Portugal, com 84 praias com bandeira azul num total de 127. O país enfrenta ainda uma onda de calor, com temperaturas a ultrapassar os 40°C.
+No mundo, a China foi atingida pelo primeiro tufão da temporada, e a Rússia vai construir a primeira central nuclear do Cazaquistão. Em Washington, uma tempestade ameaça o desfile militar de Trump.
 
-No mundo, Trump planeia uma parada militar em Washington, gerando protestos em diversas cidades. A Venezuela vive tensões com a detenção de um ex-ministro da Economia. A Rússia vai construir a primeira central nuclear do Cazaquistão, enquanto siderurgias do Japão e EUA fecharam um acordo. A China foi atingida pelo primeiro tufão na costa de Hainão.
-
-Na cultura, artistas brasileiros celebram a cultura indígena em Lisboa, Viseu prepara a Feira de São Mateus com nova praça, e o Primavera Sound Porto destacou hip hop, política e contrastes musicais.
+Na cultura, artistas brasileiros celebram a cultura indígena em Lisboa, e a Feira de São Mateus, em Viseu, terá uma nova praça em agosto.

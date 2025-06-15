@@ -1,13 +1,11 @@
-Em Israel, o balanço dos ataques aumentou para 8 mortos, enquanto Trump ameaça o Irão, motivando protestos nos EUA contra o seu "autoritarismo" e políticas de imigração, e gerando críticas pelos custos do desfile militar. No Médio Oriente, os rebeldes Huthi do Iémen reivindicaram um ataque a Telavive.
+Em destaque no dia de hoje, os ataques entre Irão e Israel agudizam-se, com o balanço a subir para 8 mortos e ameaças de Trump ao Irão. Os rebeldes Huthi do Iémen reivindicaram também um ataque a Telavive.
 
-No panorama político nacional, Seguro avança com a candidatura a Belém, defendendo a necessidade de mudança no país. A CIP admite um salário mínimo de 920 euros.
+Nos EUA, multiplicam-se os protestos contra as políticas de imigração de Trump, cujo desfile militar planeado gera fortes críticas pelos seus custos.
 
-No desporto, o Inter Miami empatou no Mundial de Clubes, onde o FC Porto iniciou a sua participação. Gyokeres é alvo de rumores sobre uma possível saída do Sporting.
+Em Portugal, Augusto Santos Silva avança com a sua candidatura a Belém, defendendo uma mudança no país. No campo laboral, a CIP admite um salário mínimo de 920 euros. Decorre o último dia para a limpeza de terrenos, enquanto a GNR inicia a fiscalização para prevenção de incêndios. A associação de vítimas de Pedrógão Grande assinalará o 8º aniversário da tragédia.
 
-O mundo registou a queda de um helicóptero na Índia, provocando sete mortos, e um ataque na Nigéria que resultou em mais de cem vítimas mortais. Comerciantes africanos em Angola solicitaram apoio para a sua legalização. O Camboja levou a disputa fronteiriça com a Tailândia ao Tribunal Internacional.
+No mundo desportivo, o Inter Miami empatou no Mundial de Clubes, enquanto o FC Porto se prepara para entrar em campo. Agitam-se rumores sobre a possível saída de Gyokeres do Sporting. No Euro Sub-21, Portugal goleou a Polónia por 5-0.
 
-Na atualidade nacional, termina hoje o prazo para a limpeza de terrenos, visando a prevenção de incêndios, e o prazo para candidaturas ao Pedido Único.
+Outras notícias incluem a queda de um helicóptero na Índia com várias mortes, um ataque na Nigéria que causou mais de cem mortos, e o Camboja a levar a disputa fronteiriça com a Tailândia ao Tribunal Internacional. Maria de Medeiros foi homenageada no Festival de Cinema de Guadalajara.
 
-A Bolsa de Lisboa não conseguiu atrair o Novo Banco. Maria de Medeiros foi homenageada no Festival de Cinema de Guadalajara, no México. Em Beja, um homem foi detido por violência doméstica contra a mãe.
-
-Foi noticiado o falecimento de Ayse Seitmuratova, voz dos tártaros da Crimeia.
+Na economia, o Novo Banco enfrenta dificuldades em atrair a Bolsa de Lisboa, enquanto os preços dos combustíveis vão aumentar na segunda-feira. Uma empresa portuguesa está envolvida no desenvolvimento de um sistema europeu de mísseis com inteligência artificial.

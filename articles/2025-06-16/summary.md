@@ -1,0 +1,7 @@
+Em Portugal, o dia ficou marcado pelo calor intenso, com o país continental sob aviso amarelo devido a temperaturas a atingirem os 40ºC, e pelo elevado risco de incêndios em treze concelhos. O Governo anunciou medidas para permitir que trabalhadores comprem dias de férias e para reduzir os tempos máximos de espera para cirurgias no SNS em duas prioridades. Os combustíveis voltam a subir esta semana.
+
+No plano internacional, Israel foi novamente alvo de mísseis iranianos, agravando o conflito no Médio Oriente. Nos EUA, foi capturado o suspeito de matar um congressista democrata do Minnesota, enquanto Trump alarga as rusgas contra imigrantes ilegais a Chicago e Nova Iorque. Taiwan procura fortalecer a sua defesa através de uma parceria com os EUA para a coprodução de armas e adicionou a Huawei e a SMIC à lista negra de exportações. A China enfrenta uma queda contínua nos preços das casas novas e uma desaceleração da produção industrial. A nível económico, Bruxelas procura evitar incerteza face a medidas protecionistas e pretende reduzir os adiantamentos de fundos europeus do Portugal 2030. A França alertou para os custos e ineficiências de novas interconexões elétricas.
+
+No mundo do desporto, o FC Porto empatou na sua estreia no Mundial de Clubes, enquanto o Benfica se prepara para a sua estreia frente ao Boca Juniors.
+
+Em Tribunal, iniciou-se o julgamento de negacionistas pelas agressões a Gouveia e Melo e Ferro Rodrigues. O Grupo Renault anunciou a saída do seu líder, Luca de Meo.

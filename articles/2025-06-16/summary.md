@@ -1,28 +1,9 @@
-Aqui fica um resumo das principais notícias de 16 de Junho de 2025:
+Em Portugal, o dia ficou marcado pelo aviso amarelo devido ao calor intenso, com temperaturas a atingirem os 40ºC, e pelo perigo máximo de incêndios em treze concelhos, tendo uma fábrica na Maia sido destruída por um incêndio, onde um bombeiro ficou ferido. A GNR iniciou a fiscalização da limpeza de matas, aplicando multas pesadas. No âmbito social, arrancou o julgamento dos negacionistas acusados de agressões a Gouveia e Melo e Ferro Rodrigues, enquanto uma agressão a voluntárias de apoio a sem-abrigo foi condenada no Porto. No setor da saúde, utentes continuam a aguardar longos períodos por consultas e cirurgias no SNS, apesar da intenção do governo em reduzir os tempos de espera para duas prioridades. O Governo pondera permitir que os trabalhadores comprem dias de férias e vai criar uma nova prestação social para incentivar a participação no mercado de trabalho. Na educação, a Fenprof exige a revisão dos critérios para os exames nacionais e alertou para a falta de condições para alunos com deficiência intelectual.
 
-**Política e Economia:**
+No plano internacional, o conflito israelo-palestiniano escalou com novos ataques de mísseis iranianos a Israel, enquanto turistas portugueses retidos na Jordânia criticam a falta de apoio. A tensão no Médio Oriente tem gerado preocupações económicas, com alertas para um possível choque petrolífero. Nos EUA, Trump alarga as rusgas contra imigrantes ilegais a Chicago e Nova Iorque e foi capturado o suspeito de matar um congressista democrata do Minnesota. Taiwan procura cooperação com os EUA para a produção de armas. Bruxelas alertou para a incerteza económica face a medidas protecionistas. A China enfrenta uma queda nos preços das casas novas e uma desaceleração da produção industrial.
 
-*   Escalada do conflito no Médio Oriente domina as atenções, com mísseis iranianos a atingirem Israel e a provocar uma crise com potencial impacto económico global, incluindo o risco de choque petrolífero. Turistas portugueses retidos na Jordânia queixam-se da falta de apoio.
-*   Bruxelas alerta para a incerteza económica global e a necessidade de evitar medidas protecionistas. Há preocupações sobre os custos de novas interconexões elétricas.
-*   Em Portugal, o Governo pondera permitir a compra de dias de férias e procura soluções para integrar imigrantes, enquanto a oposição reage à violência da extrema-direita. O Governo anunciou a compra de mais um avião Embraer C-390 para a Força Aérea.
-*   A nível económico, os combustíveis voltam a subir e a Euribor regista descidas ligeiras. O PSI atingiu máximos de 11 anos.
-*   Foi ainda noticiado que o Grupo Renault muda de líder, com a saída de Luca de Meo, que irá para a Kering.
+Na economia, os combustíveis voltam a subir e a Euribor desceu a três e seis meses. Bruxelas quer reduzir os adiantamentos de fundos europeus para Portugal no âmbito do Portugal 2030. O BNI, banco moçambicano, registou uma queda acentuada nos lucros.
 
-**País:**
+No desporto, o FC Porto empatou na estreia do Mundial de Clubes, enquanto o Benfica se estreia hoje face ao Boca Juniors. A Supertaça entre Sporting e Benfica já tem data e local. Portugal garantiu uma vaga inédita no Eurobasket feminino.
 
-*   Portugal continental está sob aviso amarelo devido ao calor intenso, com temperaturas a atingirem os 40ºC. Treze concelhos estão em perigo máximo de incêndio, e uma fábrica na Maia foi destruída pelas chamas, ferindo um bombeiro.
-*   O julgamento de negacionistas acusados de agressões a Gouveia e Melo e Ferro Rodrigues teve início.
-
-**Mundo:**
-
-*   Além do conflito no Médio Oriente, Trump alarga as rusgas contra imigrantes ilegais nos EUA e Taiwan adiciona a Huawei à lista negra de exportações.
-*   Na China, os preços das casas novas continuam a cair e a produção industrial desacelera.
-
-**Desporto:**
-
-*   FC Porto e Benfica estrearam-se no Mundial de Clubes com um empate e uma vitória, respetivamente. O Sporting e o Benfica vão disputar a Supertaça no Estádio Algarve, a 31 de julho.
-*   Portugal garantiu uma vaga inédita no Eurobasket feminino.
-
-**Outros:**
-
-*   Foi noticiada a morte do filantropo Leonard Lauder, empresário da cosmética.
+Por fim, Luca de Meo deixou a liderança do Grupo Renault e faleceu o empresário da cosmética Leonard Lauder.

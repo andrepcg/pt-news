@@ -1,9 +1,15 @@
-Em Portugal, o dia ficou marcado pelo aviso amarelo devido ao calor intenso, com temperaturas a atingir os 40°C, e pelo perigo máximo de incêndios em treze concelhos. Uma fábrica na Maia foi destruída por um incêndio, resultando num bombeiro ferido. No âmbito da política interna, o Governo vai permitir que os trabalhadores comprem dias de férias e reduzir os tempos máximos de espera para cirurgias no SNS em duas prioridades. Um grupo de trabalho com ex-dirigentes de migrações procura propostas para a integração de imigrantes. O julgamento de negacionistas acusados de agressões a Gouveia e Melo e Ferro Rodrigues teve início.
+Aqui estão os principais destaques das notícias de hoje:
 
-A nível internacional, o conflito israelo-palestiniano intensificou-se com uma nova salva de mísseis iranianos a atingir Israel. Nos EUA, o suspeito de matar um congressista democrata do Minnesota foi capturado e Trump alarga as rusgas contra imigrantes ilegais a Chicago e Nova Iorque. Taiwan procura uma parceria com os EUA para a coprodução de armas, enquanto a China enfrenta uma queda nos preços das casas novas e uma desaceleração da produção industrial. Bruxelas alertou para a incerteza económica e quer reduzir os adiantamentos de fundos europeus.
+**Política e Economia:** O Governo português planeia permitir que os trabalhadores comprem dias de férias e está a considerar uma nova prestação social para incentivar a participação no mercado de trabalho. Bruxelas manifestou preocupação com a incerteza económica global e pretende reduzir os adiantamentos de fundos europeus para Portugal 2030. A CIP saudou a união dos ministérios da Economia e Coesão. A Euribor desceu nos prazos de três e seis meses, mantendo-se acima de 2%. No setor empresarial, Luca de Meo deixou a liderança do Grupo Renault, assumindo um novo cargo na Kering.
 
-No mundo empresarial, Luca de Meo saiu da liderança do Grupo Renault.
+**Conflitos e Relações Internacionais:** A tensão no Médio Oriente escalou com relatos de novos ataques de mísseis iranianos atingindo Israel, incluindo Jerusalém, e o conflito agrava-se. Taiwan procura estabelecer uma parceria com os EUA para a coprodução de armamento, enquanto continua a adicionar empresas chinesas, como a Huawei e a SMIC, à sua lista negra de exportações.
 
-No desporto, o FC Porto empatou na sua estreia no Mundial de Clubes e o Benfica estreou-se. Portugal garantiu um lugar inédito no Eurobasket feminino.
+**Justiça e Criminalidade:** O suspeito do assassinato de um congressista democrata do Minnesota foi capturado nos EUA. Em Portugal, teve início o julgamento dos negacionistas acusados de agressões a Gouveia e Melo e Ferro Rodrigues.
 
-Na economia, os combustíveis vão voltar a subir, enquanto a França alertou para os custos das novas interconexões elétricas. Um banco moçambicano estatal registou uma queda de 75% nos lucros.
+**Sociedade:** O Governo pretende reduzir os tempos máximos de espera para cirurgias no SNS em duas prioridades.
+
+**Clima e Ambiente:** Portugal continental está sob aviso amarelo devido ao calor intenso, com temperaturas a atingirem os 40°C. Treze concelhos estão em perigo máximo de incêndio, levando a GNR a iniciar a fiscalização e a aplicar multas pesadas pelo atraso na limpeza de matas. Na Maia, um incêndio destruiu uma fábrica.
+
+**Desporto:** No Mundial de Clubes, o FC Porto empatou na sua estreia, enquanto o Benfica se prepara para defrontar o Boca Juniors. Portugal garantiu uma vaga inédita no Eurobasket feminino.
+
+**Outros:** Os preços dos combustíveis voltam a subir esta semana.

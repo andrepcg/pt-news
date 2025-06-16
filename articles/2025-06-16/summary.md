@@ -1,11 +1,28 @@
-No cenário internacional, o conflito no Médio Oriente intensificou-se com ataques de mísseis iranianos a Israel, atingindo Jerusalém e outras cidades, desencadeando uma retaliação. Há relatos de mortos e feridos. Turistas portugueses retidos na Jordânia queixam-se da falta de apoio do governo. Taiwan procura fortalecer a coprodução de armamento com os EUA e adicionou a Huawei e a SMIC à sua lista negra de exportações. A produção industrial chinesa desacelera, apesar da trégua comercial com os EUA, e os preços das casas novas na China continuam a cair. A Rússia enfrenta ataques a fábricas de 'drones' e a União Europeia reduz as importações de gás russo, o que leva a pressões sobre os preços da energia até 2027.
+Aqui fica um resumo das principais notícias de 16 de Junho de 2025:
 
-Na Europa, Bruxelas manifesta preocupação com a incerteza económica global e a França alerta para os custos elevados e a ineficiência de novas interconexões elétricas. As bolsas europeias apresentaram um desempenho positivo, apesar das tensões geopolíticas e da reunião da Fed. O Reino Unido nomeou a primeira mulher para liderar o M16.
+**Política e Economia:**
 
-Em Portugal, o país enfrenta uma onda de calor, com todos os distritos em aviso amarelo e temperaturas a atingir os 40ºC. Treze concelhos estão em perigo máximo de incêndio, tendo já deflagrado um incêndio que destruiu uma fábrica na Maia, ferindo um bombeiro. O Governo está a ser pressionado devido ao atraso na limpeza das matas, com a GNR a iniciar a fiscalização e a aplicar multas. O Governo quer permitir que os trabalhadores comprem dias de férias e pretende reduzir os tempos máximos de espera para cirurgias no SNS em duas prioridades. O julgamento dos negacionistas acusados de agredir Gouveia e Melo e Ferro Rodrigues teve início. O Governo anunciou a compra de mais um avião Embraer C-390 para a Força Aérea Portuguesa, garantindo a venda de mais dez a países da NATO.
+*   Escalada do conflito no Médio Oriente domina as atenções, com mísseis iranianos a atingirem Israel e a provocar uma crise com potencial impacto económico global, incluindo o risco de choque petrolífero. Turistas portugueses retidos na Jordânia queixam-se da falta de apoio.
+*   Bruxelas alerta para a incerteza económica global e a necessidade de evitar medidas protecionistas. Há preocupações sobre os custos de novas interconexões elétricas.
+*   Em Portugal, o Governo pondera permitir a compra de dias de férias e procura soluções para integrar imigrantes, enquanto a oposição reage à violência da extrema-direita. O Governo anunciou a compra de mais um avião Embraer C-390 para a Força Aérea.
+*   A nível económico, os combustíveis voltam a subir e a Euribor regista descidas ligeiras. O PSI atingiu máximos de 11 anos.
+*   Foi ainda noticiado que o Grupo Renault muda de líder, com a saída de Luca de Meo, que irá para a Kering.
 
-No desporto, o FC Porto empatou na estreia no Mundial de Clubes, enquanto o Benfica se prepara para o seu primeiro jogo contra o Boca Juniors. Portugal garantiu uma vaga inédita no Eurobasket feminino, e a seleção nacional de sub-21 precisa de um empate contra a Geórgia para avançar para os quartos de final.
+**País:**
 
-No setor económico, os combustíveis voltam a subir e a Euribor continua acima de 2%. O Governo pretende criar uma nova prestação social para incentivar a participação ativa no mercado de trabalho. A CIP saudou a união dos ministérios da Economia e Coesão. A Confederação das PME apresentou 47 medidas para a competitividade empresarial. Os custos horários do trabalho aumentaram na zona euro e em Portugal. O PSI atingiu máximos de 11 anos, impulsionado pelo BCP. A Savannah Resources terá antigos ministros no comité consultivo para a mina de lítio em Boticas.
+*   Portugal continental está sob aviso amarelo devido ao calor intenso, com temperaturas a atingirem os 40ºC. Treze concelhos estão em perigo máximo de incêndio, e uma fábrica na Maia foi destruída pelas chamas, ferindo um bombeiro.
+*   O julgamento de negacionistas acusados de agressões a Gouveia e Melo e Ferro Rodrigues teve início.
 
-Foi ainda noticiada a morte do empresário da cosmética Leonard Lauder.
+**Mundo:**
+
+*   Além do conflito no Médio Oriente, Trump alarga as rusgas contra imigrantes ilegais nos EUA e Taiwan adiciona a Huawei à lista negra de exportações.
+*   Na China, os preços das casas novas continuam a cair e a produção industrial desacelera.
+
+**Desporto:**
+
+*   FC Porto e Benfica estrearam-se no Mundial de Clubes com um empate e uma vitória, respetivamente. O Sporting e o Benfica vão disputar a Supertaça no Estádio Algarve, a 31 de julho.
+*   Portugal garantiu uma vaga inédita no Eurobasket feminino.
+
+**Outros:**
+
+*   Foi noticiada a morte do filantropo Leonard Lauder, empresário da cosmética.

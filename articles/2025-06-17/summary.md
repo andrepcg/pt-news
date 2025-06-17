@@ -1,0 +1,7 @@
+Hoje, as tensões internacionais dominaram as notícias, com a escalada do conflito Israel-Irão e um ataque russo em Kiev que causou várias vítimas. Donald Trump convocou uma reunião urgente do Conselho de Segurança Nacional, enquanto Xi Jinping reafirmou a influência chinesa na Ásia Central.
+
+Em Portugal, o programa do Governo está em debate no Parlamento, com destaque para a intenção de mudar a lei laboral para equilibrar o direito à greve. O país enfrenta ainda o perigo máximo de incêndios em mais de 30 concelhos e um sismo foi sentido em Peniche. A época de exames nacionais arrancou com a prova de português e o Hospital de São José debate-se com dificuldades devido a doentes internados por razões sociais. A PSP realizou uma operação no Benformoso após agressões.
+
+No mundo económico, o Banco do Japão manteve as taxas de juro inalteradas e a TAP SGPS viu os seus órgãos sociais renunciarem em bloco, com a Azul a avançar com incumprimento contratual. O Grupo Openbook tem novos projetos para a CGD e hospitais da Luz Saúde, enquanto se discute a venda do Novo Banco e a concentração bancária em Portugal. A Generali em Portugal anunciou novas nomeações na sua equipa de gestão. Nos EUA, o Pentágono celebrou um contrato com a OpenAI para reforçar a segurança nacional.
+
+Outras notícias incluem o impasse na eleição do presidente da Comissão da Carteira de Jornalista e o alerta máximo em Guangdong, China, devido a fortes chuvas.

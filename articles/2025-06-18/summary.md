@@ -1,13 +1,9 @@
-Em Portugal, o Parlamento aprovou o programa do Governo enquanto a coligação PSD, CDS e IL se prepara para as autárquicas no Porto. No entanto, o país enfrenta um aumento alarmante (superior a 200%) nos crimes de ódio e incitamento à violência, com alertas do Conselho da Europa sobre o discurso de ódio. Mais de 50 concelhos estão em risco máximo de incêndio e a DGS alerta para a má qualidade do ar devido a poeiras do Norte de África. Na política, Passos Coelho afastou uma recandidatura à Presidência da República.
+Em Portugal, o programa do Governo foi aprovado no Parlamento, onde o PCP classificou-o como uma "declaração de guerra". PSD, CDS e IL coligam-se para as autárquicas no Porto. O Conselho da Europa e a Comissão para a Igualdade alertam para um aumento dos crimes de ódio e discurso de ódio no país. Mais de 50 concelhos estão em risco máximo de incêndio. A população residente em Portugal aumentou, mas o envelhecimento demográfico agrava-se e o número de partos diminui. O Turismo Centro de Portugal quer criar uma rota de enoturismo ibérica.
 
-A nível internacional, o conflito Israel-Irão escalou com ataques e ameaças mútuas, levando à evacuação de cidadãos chineses do Irão e preocupações globais. A China minimizou um teste de míssil com capacidade nuclear e Taiwan reuniu-se com congressistas dos EUA, aumentando as tensões. Na Ucrânia, um ataque em Kiev elevou o número de mortos, enquanto a Rússia abateu drones. Uma erupção vulcânica na Indonésia causou cancelamentos de voos e a Índia rejeitou a mediação de Trump no conflito com o Paquistão.
+No cenário internacional, Israel anunciou a destruição de uma fábrica de armamento no Irão, intensificando o conflito no Médio Oriente, com ameaças de ambos os lados e alertas dos EUA. A China minimizou um teste de míssil com capacidade nuclear. Na Ucrânia, um ataque em Kiev elevou o número de mortos, e Zelensky regressou mais cedo do Canadá. A Indonésia enfrentou uma erupção vulcânica em Bali, causando cancelamentos de voos, e a Índia rejeitou a mediação de Trump no conflito com o Paquistão.
 
-Na economia, as exportações lusófonas para a China diminuíram, enquanto empresas japonesas pedem a aceleração de licenças de exportação de terras raras. No mundo financeiro, a China lançou um centro internacional para o yuan digital em Xangai. No Reino Unido, a inflação desceu para 3,4% em maio, embora os líderes empresariais antecipem um abrandamento salarial em Portugal.
+Na economia, as exportações lusófonas para a China diminuíram, enquanto o Japão viu o seu défice comercial reduzir. A China lançou um centro internacional em Xangai para o yuan digital. A inflação no Reino Unido desceu para 3,4% em maio, e a Zona Euro registou uma inflação homóloga de 1,9%. A UE mantém o impasse comercial com a China.
 
-No desporto, o FC Porto lidera o ranking de transparência entre os clubes de futebol portugueses.
+No desporto, o FC Porto lidera o ranking de transparência entre os clubes de futebol em Portugal.
 
-A nível social, uma escola em Cabo Verde proibiu telemóveis e registou melhorias.
-
-Em termos de justiça, Bruxelas processou Portugal por falhas na legislação sobre impostos especiais de consumo e terrorismo online.
-
-No mundo da tecnologia, uma startup portuguesa expandiu-se para os EUA com IA para eficiência energética, e a maioria dos trabalhadores usa IA gratuita sem verificar resultados.
+Outras notícias incluem a expansão de uma startup portuguesa para os EUA com IA para eficiência energética, o alerta da DGS para má qualidade do ar devido a poeiras do Norte de África, e a detenção de um membro de um grupo nacionalista com armas e explosivos.

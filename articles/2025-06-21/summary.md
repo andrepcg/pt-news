@@ -1,17 +1,11 @@
-*   **Conflito Israel-Irão:** A tensão escalou com um ataque israelita a instalações nucleares iranianas e a morte de comandantes da Guarda Revolucionária, levando o Irão a prometer retaliação.
+Aqui estão os principais destaques das notícias de hoje:
 
-*   **Política Nacional:** Ativistas pró-Chega amplificaram desinformação durante o dia de reflexão eleitoral. Procuradores ponderam greve devido à movimentação de magistrados. Vieira da Silva criticou medidas laborais e defendeu estabilidade política para a reforma do Estado.
+A nível internacional, a escalada do conflito Israel-Irão intensificou-se com relatos de um ataque israelita a instalações nucleares iranianas, enquanto Putin defende o direito do Irão a um programa nuclear pacífico. A Ucrânia enfrenta ameaças da Rússia caso utilize uma "bomba suja", e Zelensky participa na cimeira da NATO, onde se discute o aumento dos gastos em defesa. Os EUA mantêm a Guarda Nacional em Los Angeles. No Médio Oriente, a situação permanece tensa, com Israel a afirmar que os seus ataques atrasaram o programa nuclear iraniano.
 
-*   **Economia:** Portugal admite recorrer a empréstimos europeus para reforçar a Defesa e apoiar compras conjuntas na UE, Miranda Sarmento comenta que Portugal não será dos mais rápidos da NATO no aumento de gastos na Defesa. O preço do cabaz alimentar aumentou e economistas minimizam o pessimismo de Centeno sobre o mercado de trabalho. Corredor do Lobito enfrenta atrasos no financiamento.
+Em Portugal, o Governo admite recorrer a empréstimos europeus para reforçar a Defesa, com Miranda Sarmento a indicar que Portugal não será dos mais rápidos na NATO no aumento dos gastos militares. A nível interno, os procuradores ponderam greve contra a movimentação de magistrados, e Vieira da Silva critica medidas laborais, defendendo estabilidade política. O preço do cabaz alimentar aumentou, e a associação Zero manifesta preocupação com o desenvolvimento da rede de gás natural. Há ainda relatos de um PSP membro do MAL nas listas do Ergue-te.
 
-*   **Desporto:** Bayern qualificado para o Mundial de Clubes, Benfica perto dos oitavos. Brasil candidata-se para sediar o Mundial de Clubes de 2029. Ângelo Girão termina a carreira no hóquei em patins. Sub-21 de Portugal defronta os Países Baixos no Europeu.
+No desporto, o Bayern qualificou-se para o Mundial de Clubes, com o Benfica perto dos oitavos. Fernando Pimenta conquistou o ouro no Europeu de Velocidade em canoagem, e Ângelo Girão terminou a sua carreira no hóquei em patins. A seleção portuguesa de Sub-21 defronta os Países Baixos por uma vaga nas meias-finais do Europeu.
 
-*   **Mundo:** Libertado ativista pró-palestiniano da Universidade de Columbia. Hong Kong censura eventos escolares associados ao 4 de julho. EUA mantêm a Guarda Nacional em Los Angeles. A Guiné-Bissau recebeu manuais escolares e novos guias para professores. Transportes em Cabo Verde planeiam rotas integradas com um único bilhete. Acusado quarto suspeito de atentado contra senador na Colômbia. Japão cancela reunião com os EUA devido a exigências de aumento das despesas militares. Putin defende o direito do Irão a um programa nuclear pacífico. Tesla constrói fábrica de armazenamento de energia elétrica na China.
+Na cultura, estreou em Portugal o filme "O Ancoradouro do Tempo", que critica a corrupção em Moçambique. Em Lisboa, Gil do Carmo critica a situação atual da cidade.
 
-*   **Justiça:** Homem detido preventivamente por violência doméstica na Batalha e mais de 560 detidos e 8 mil infrações detetadas pela GNR em 7 dias.
-
-*   **Cultura:** Estreia do filme "O Ancoradouro do Tempo" em Portugal, com crítica à corrupção em Moçambique. Morre cantora brasileira Ana Bárbara Buhr Buldrini após procedimento estético na Turquia. Kalorama dia 2 é uma celebração da liberdade e da música.
-
-*   **Moçambique:** Investigados crimes da PIDE em 1974.
-
-*   **Fama:** Rebel Wilson sofreu um acidente grave durante as filmagens de 'Bride Hard'.
+Outras notícias incluem a detenção de um ativista pró-palestiniano na Universidade de Columbia, a censura de eventos escolares em Hong Kong, a candidatura do Brasil para sediar o Mundial de Clubes de 2029, e o planeamento de rotas de transportes integradas em Cabo Verde. Rebel Wilson sofreu um acidente durante as filmagens de um filme e faleceu a cantora brasileira Ana Bárbara Buhr Buldrini após um procedimento estético na Turquia.

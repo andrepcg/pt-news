@@ -1,7 +1,11 @@
-Os EUA atacaram instalações nucleares no Irão, levando a uma escalada de tensões no Médio Oriente, com Trump a justificar a ação e o Irão a prometer retaliação. Congressistas dos EUA acusam Trump de violar a Constituição. A AIEA afirma que não houve aumento de radiação após o ataque, mas a ONU critica a ação e alerta para a ameaça à paz. Em resposta, Israel soou alarmes devido a ataques de mísseis iranianos.
+O dia foi marcado por uma escalada de tensões no Médio Oriente, com os EUA a atacarem instalações nucleares no Irão, levando a ameaças de retaliação por parte de Teerão e críticas de congressistas americanos, da ONU e de líderes mundiais, que apelam à diplomacia. O Irão nega contaminação nuclear após os ataques, informação confirmada pela AIEA. Em resposta, Israel soou alarmes devido a ataques de mísseis iranianos.
 
-Em Portugal, antecipa-se um aumento acentuado no preço dos combustíveis. Surgem notícias de que elementos da GNR e da Marinha estão sob investigação por ligações a um grupo neonazi. No desporto, Luís Filipe Vieira pondera regressar à presidência do Benfica, enquanto no Sporting, o futuro de Diomande é incerto.
+No domínio económico, foi anunciado um aumento significativo no preço dos combustíveis em Portugal, levando muitos a abastecerem-se antes da subida. Os municípios portugueses demonstraram preocupação com a baixa taxa de execução do PRR, encontrando-se apenas 26% das verbas utilizadas. Moçambique enfrenta pobreza extrema 50 anos após a guerra, enquanto tenta aumentar a formação de médicos e a sua presença económica em Macau. O governo português pondera permitir a compra de dias de férias, medida que enfrenta resistência por parte dos sindicatos.
 
-No mundo, uma cimeira EUA-África decorreu em Luanda e Moçambique enfrenta pobreza extrema. O Rei Philippe da Bélgica está a considerar abdicar e a NATO debate aumentar o investimento em defesa.
+Em Portugal, elementos da GNR e da Marinha estão a ser investigados por ligações a um grupo neonazi, e a associação de técnicos de emergência médica apela à criação da profissão.
 
-Na cultura, o Operafest regressa em agosto e Johnny Depp comentou o seu relacionamento com Amber Heard.
+A nível desportivo, o Benfica poderá enfrentar o regresso de Luís Filipe Vieira à presidência, enquanto se discute um possível conflito entre Kokçu e Bruno Lage. No Sporting, pairam rumores sobre a saída de Diomande. A nível internacional, o Fluminense venceu com dificuldades no Mundial de Clubes, enquanto o FC Porto está em alerta devido ao risco de não se qualificar para o mesmo.
+
+Na cultura, o Operafest regressa em agosto com o tema 'Amores Proibidos', e Jeferson Tenório lança um livro em Portugal, denunciando saudades de Bolsonaro no Brasil. A Deezer vai começar a sinalizar músicas criadas com inteligência artificial.
+
+No mundo da fama, Johnny Depp considera-se um "idiota" por se ter apaixonado por Amber Heard, e o Rei Philippe da Bélgica pondera abdicar. Bárbara Guimarães demonstrou apoio a Joana Marques face a um julgamento.

@@ -1,11 +1,7 @@
-Hoje, o grande destaque vai para o ataque dos EUA a instalações nucleares no Irão, desencadeando uma escalada no Médio Oriente e gerando reações globais, desde condenações a apelos à contenção, incluindo de Marcelo Rebelo de Sousa e do Papa Francisco. O Irão ameaça retaliar e pondera fechar o Estreito de Ormuz, enquanto os líderes mundiais apelam à diplomacia e o Reino Unido pede o regresso às negociações. Apesar dos ataques, o Irão mantém as reservas de urânio enriquecido e nega contaminação nuclear, com a AIEA a não detetar aumento de radiação. Congressistas dos EUA acusam Trump de violar a Constituição.
+O dia foi marcado por uma escalada de tensões no Médio Oriente após ataques dos EUA a instalações nucleares no Irão, com Teerão a prometer retaliar e a lançar mísseis contra Israel. A situação gerou condenação internacional e apelos à contenção, com a ONU a alertar para uma ameaça à paz. O Irão nega contaminação nuclear, e a AIEA não detetou aumento de radiação. Nos EUA, Congressistas acusam Trump de violar a Constituição.
 
-No plano internacional, a NATO discute o aumento do investimento em defesa, e Espanha garante um investimento de 2,1% do PIB. A Ucrânia intensifica os ataques contra alvos militares russos, enquanto a Rússia anuncia o controlo de novas localidades. Moçambique completa 50 anos de independência.
+Em Portugal, os preços dos combustíveis vão disparar, levando muitos a abastecerem-se antecipadamente. Elementos da GNR e da Marinha estão a ser investigados por ligações a um grupo neonazi. No desporto, Kokçu está em conflito com Bruno Lage no Benfica, e Luís Filipe Vieira pondera regressar à presidência. João Almeida venceu a Volta à Suíça em ciclismo, e Fernando Pimenta revalidou o título europeu de canoagem.
 
-Em Portugal, os preços dos combustíveis vão disparar amanhã. Elementos da GNR e da Marinha estão a ser investigados por ligações a um grupo neonazi. Municípios alertam para a baixa execução do PRR. Técnicos de emergência médica apelam à criação formal da profissão. A Universidade de Coimbra celebra 735 anos. Foi encontrado o corpo do homem desaparecido no rio Rabaçal, em Valpaços.
+No mundo, Moçambique celebra 50 anos de independência, mas enfrenta pobreza extrema. A NATO discute o aumento dos gastos em defesa. A Ucrânia intensificou ataques contra alvos militares russos.
 
-No desporto, João Almeida conquistou a Volta à Suíça. Fernando Pimenta revalidou o título de campeão europeu de canoagem K1 5000, e Norberto Mourão venceu no Europeu de paracanoagem. No futebol, Luís Filipe Vieira pondera regressar à presidência do Benfica, e surgem notícias de tensões entre Kökcü e Bruno Lage.
-
-Na cultura, o Operafest está de regresso em agosto, e João Rosas lançou um filme sobre crescimento e vida adulta. José Martins venceu o prémio de melhor ator no Festival de Cinema de Xangai.
-
-Por fim, Johnny Depp considera ter sido um "idiota" por se ter apaixonado por Amber Heard, e Bárbara Guimarães apoia Joana Marques perante um julgamento.
+Na cultura, o Operafest está de regresso em agosto, e João Rosas lançou um filme sobre crescimento e vida adulta.

@@ -1,11 +1,9 @@
-O dia foi marcado pela escalada de tensões no Médio Oriente, com os **EUA a atacarem instalações nucleares no Irão**, desencadeando uma onda de condenações internacionais e receios de uma guerra mais ampla. O Irão ameaçou retaliar e lançou mísseis contra Israel. A AIEA confirmou danos nas instalações nucleares iranianas, mas não detetou aumento de radiação. A ONU, o Papa e vários líderes mundiais apelaram à contenção e ao diálogo. Congressistas dos EUA acusaram Trump de violar a Constituição.
+Os ataques dos EUA a instalações nucleares no Irão dominaram as notícias, desencadeando condenações internacionais, incluindo da ONU, e alertas para uma escalada no Médio Oriente. O Irão ameaça retaliar, lançando mísseis contra Israel, enquanto nega contaminação nuclear, confirmado pela AIEA. Congressistas dos EUA acusam Trump de violar a Constituição. Guterres expressa alarme e apela à diplomacia.
 
-A NATO debateu o aumento do investimento em defesa para 3,5% do PIB, enquanto a Espanha negociou uma isenção da meta de 5%. A Ucrânia intensificou os ataques contra alvos militares russos e Kiev manifestou apoio aos ataques dos EUA no Irão.
+A NATO discute aumento de investimento em defesa para 3,5% do PIB, com a Espanha a garantir 2,1%. Na Ucrânia, Kiev intensifica ataques contra alvos russos, enquanto Moscovo reivindica controlo de novas localidades.
 
-Em Portugal, os **preços dos combustíveis vão disparar**, levando muitos a abastecerem-se hoje. Elementos da GNR e da Marinha estão a ser investigados por ligações a um grupo neonazi. A baixa execução do PRR preocupa os municípios. Luís Filipe Vieira pondera regressar à presidência do Benfica. Estão a ser investigadas as condições da Base das Lajes nos ataques dos Estados Unidos ao Irão.
+Em Portugal, os preços dos combustíveis vão disparar, enquanto elementos da GNR e da Marinha são investigados por ligações a um grupo neonazi. A associação de técnicos de emergência médica apela à criação da profissão. Os municípios alertam para a baixa execução do PRR. Na cultura, o Operafest regressa e João Rosas lança um filme.
 
-No desporto, destaque para João Almeida que venceu a Volta à Suíça e Fernando Pimenta que foi campeão europeu de canoagem. Norberto Mourão conquistou o ouro no Europeu de canoagem adaptada e Messias Baptista a prata nos Europeus de Canoagem em K1 200 metros. No futebol, Kokçu está alegadamente em conflito com Bruno Lage e o mercado de transferências continua a movimentar-se.
+No desporto, destaque para: João Almeida venceu a Volta à Suíça, Fernando Pimenta revalidou o título europeu de canoagem, Norberto Mourão conquistou o ouro nos Europeus de canoagem adaptada, e Messias Baptista conquistou a prata. O FC Porto está em alerta no Mundial de Clubes. Luís Filipe Vieira pondera regressar à presidência do Benfica, e houve tensões no balneário do Benfica entre Kökcü e Bruno Lage.
 
-Na cultura, o Operafest está de regresso em agosto com o tema "Amores Proibidos".
-
-Moçambique celebrou 50 anos de independência e aumentou a formação de médicos após um período de carência.
+Na área da fama, Johnny Depp diz que foi "idiota" por se apaixonar por Amber Heard e o Rei Philippe da Bélgica considera abdicar.

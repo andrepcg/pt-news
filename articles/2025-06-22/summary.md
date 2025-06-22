@@ -1,17 +1,7 @@
-*   **Crise no Médio Oriente:** Os EUA atacaram instalações nucleares no Irão, levando a ameaças de retaliação e a acusações de violação da Constituição por congressistas americanos. O Irão nega contaminação nuclear, com a AIEA a confirmar a ausência de aumento de radiação. A ONU criticou o ataque, alertando para a ameaça à paz. Mísseis iranianos fizeram soar alarmes em Israel.
+Os EUA atacaram instalações nucleares no Irão, levando a uma escalada de tensões no Médio Oriente, com Trump a justificar a ação e o Irão a prometer retaliação. Congressistas dos EUA acusam Trump de violar a Constituição. A AIEA afirma que não houve aumento de radiação após o ataque, mas a ONU critica a ação e alerta para a ameaça à paz. Em resposta, Israel soou alarmes devido a ataques de mísseis iranianos.
 
-*   **Política Internacional:** Uma cimeira EUA-África decorreu em Luanda com mais de 1.500 participantes. A NATO está a negociar um aumento do investimento em defesa para 3,5% do PIB.
+Em Portugal, antecipa-se um aumento acentuado no preço dos combustíveis. Surgem notícias de que elementos da GNR e da Marinha estão sob investigação por ligações a um grupo neonazi. No desporto, Luís Filipe Vieira pondera regressar à presidência do Benfica, enquanto no Sporting, o futuro de Diomande é incerto.
 
-*   **Portugal:** Os preços dos combustíveis vão disparar, levando muitos a abastecerem-se hoje. A imprensa destaca o caso de uma falsa enfermeira a roubar idosos. Elementos da GNR e da Marinha estão a ser investigados por ligações a um grupo neonazi. O governo pretende permitir a compra de dias de férias, gerando reservas nos sindicatos, e a Associação de Técnicos de Emergência Médica apela à criação da profissão.
+No mundo, uma cimeira EUA-África decorreu em Luanda e Moçambique enfrenta pobreza extrema. O Rei Philippe da Bélgica está a considerar abdicar e a NATO debate aumentar o investimento em defesa.
 
-*   **Futebol:** Kokçu está em conflito com Bruno Lage no Benfica, Luís Filipe Vieira pondera regressar à presidência do clube e o rumor da semana aponta para a possível saída de Diomande do Sporting. O FC Porto está em risco de não se qualificar para o Mundial de Clubes.
-
-*   **Economia:** Moçambique enfrenta pobreza extrema meio século após a guerra e a fraqueza industrial dificulta uma maior presença em Macau.
-
-*   **Casa Real:** O Rei Philippe da Bélgica está a considerar abdicar ao trono.
-
-*   **Ciência:** A revista Science publicou um editorial criticando o ataque à ciência por Trump.
-
-*   **Cultura:** O OperaFest regressa em agosto com o tema "Amores Proibidos".
-
-*   **Celebridades:** Johnny Depp considera-se "idiota" por se ter apaixonado por Amber Heard.
+Na cultura, o Operafest regressa em agosto e Johnny Depp comentou o seu relacionamento com Amber Heard.

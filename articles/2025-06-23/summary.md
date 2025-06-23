@@ -1,9 +1,9 @@
-O dia ficou marcado pela escalada de tensões no Médio Oriente, com os EUA a atacarem o Irão, que prometeu retaliar, e por um ataque russo a Kiev. A instabilidade geopolítica agrava os problemas nas ligações aéreas. Vários países, incluindo Portugal, preparam pedidos de empréstimos para reforçar a defesa, com a NATO a discutir aumentos nos gastos militares.
+As tensões geopolíticas dominaram o dia, com escalada no Médio Oriente após ataques dos EUA ao Irão, que ameaça retaliar e fechar o Estreito de Ormuz. Austrália e Japão manifestaram apoio aos EUA, enquanto a China retirou cidadãos do Irão. O conflito também afeta as ligações aéreas. Paralelamente, a Rússia atacou Kyiv, levando a UE a discutir a situação. Zelensky foi ao Reino Unido para discutir a defesa.
 
-Em Portugal, mais de 60 concelhos estão sob perigo máximo de incêndio, e os preços dos combustíveis aumentaram significativamente. O país confirmou o pedido dos EUA para aviões reabastecedores nas Lajes, gerando debate político.
+Na Europa, Portugal e outros nove países da UE preparam-se para pedir empréstimos para reforçar a defesa, com a NATO a debater o aumento dos gastos militares para 5% do PIB. Os portugueses estão entre os mais preocupados com o risco de guerra nuclear.
 
-No âmbito económico, um estudo aponta para dificuldades de crescimento das PME portuguesas, enquanto contabilistas e auditores discutem o impacto da IA. A Universidade Católica e a Câmara de Comércio lançaram um programa para internacionalizar empresas. Há ainda a registar a tentativa do Novobanco de vender um resort de luxo em Cabo Verde com uma dívida de 90 milhões.
+Em Portugal, mais de 60 concelhos estão sob perigo máximo de incêndio, e vários distritos estão sob aviso amarelo devido à previsão de chuva. Os preços dos combustíveis aumentaram acentuadamente.
 
-No desporto, Portugal venceu o Montenegro no Eurobasket Feminino.
+No plano económico, um estudo revela dificuldades de crescimento das PME portuguesas, enquanto contabilistas e auditores destacam o papel da IA. O Novobanco tenta vender um resort de luxo em Cabo Verde.
 
-A nível internacional, Taiwan defende a sua soberania face à China, e a Ordem dos Farmacêuticos de Portugal apoia a capacitação em Moçambique. Timor-Leste investe na produção de arroz.
+Em outras notícias, Portugal confirmou o pedido dos EUA para aviões reabastecedores nas Lajes, a Ordem dos Farmacêuticos apoia Moçambique na capacitação, e um pediatra defende o alargamento da vacinação contra o VSR. Timor-Leste está a reabilitar sistemas de irrigação para aumentar a produção de arroz. No desporto, Portugal venceu o Montenegro no Eurobasket Feminino. A Marinha resgatou 11 tripulantes de um barco de pesca nos Açores.

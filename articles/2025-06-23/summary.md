@@ -1,0 +1,7 @@
+As tensões globais agudizaram-se com um ataque dos EUA ao Irão, que prometeu retaliar, enquanto a Rússia atacou Kiev, levando a UE a discutir a situação geopolítica. O conflito no Médio Oriente está a afetar as ligações aéreas. Portugal, juntamente com nove países da UE, está a preparar um pedido de empréstimos para reforçar a defesa, tendo também confirmado um pedido dos EUA para aviões reabastecedores nas Lajes, nos Açores.
+
+No território nacional, mais de 60 concelhos estão sob perigo máximo de incêndio, e os preços dos combustíveis aumentaram acentuadamente, levando à defesa da redução do ISP pelo vice-presidente da ANAREC.
+
+No resto do mundo, Taiwan defende a sua soberania face à China, Timor-Leste procura aumentar a produção de arroz reabilitando sistemas de irrigação, e a Ordem dos Farmacêuticos de Portugal está a apoiar Moçambique na capacitação de farmacêuticos. Uma ONG apoiou 7,4 milhões de moçambicanos em programas de desenvolvimento em 2024. O Novobanco tenta vender um resort de luxo em Cabo Verde.
+
+A nível interno, um estudo revela dificuldades de crescimento das PME portuguesas, o Pediatra Caldas Afonso defende o alargamento da vacinação contra VSR, e o Presidente da Câmara de Braga critica o fim da PPP no Hospital de Braga. Contabilistas e Auditores consideram que a IA torna o seu papel mais estratégico. A Universidade Católica e a Câmara de Comércio criaram um programa para acelerar a internacionalização das empresas portuguesas. No desporto, Portugal venceu o Montenegro no Eurobasket Feminino.

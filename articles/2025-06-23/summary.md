@@ -1,17 +1,7 @@
-As tensões no Médio Oriente intensificaram-se com ataques dos EUA ao Irão e ameaças de retaliação, levando a receios de escalada global e possível fecho do Estreito de Ormuz. Austrália, Japão e China já reagiram à situação. A NATO discute o aumento das despesas militares, com Portugal a ponderar empréstimos para reforçar a defesa, enquanto os portugueses demonstram preocupação crescente com o risco de guerra nuclear.
+Em Portugal, o dia ficou marcado pelo aumento acentuado dos preços dos combustíveis e pelo perigo máximo de incêndio em mais de 60 concelhos. A nível económico, foi divulgado um estudo sobre as dificuldades de crescimento das PMEs, enquanto a dívida da economia portuguesa atingiu um novo recorde. No setor financeiro, a CGD pondera contratar a PwC como auditora e a SIBS procura integrar o MB Way a nível europeu. O mercado imobiliário também esteve em destaque, com os preços das habitações a dispararem.
 
-Na Ucrânia, um ataque russo a Kyiv causou mortos e feridos, motivando discussões na UE sobre a situação geopolítica. Zelensky deslocou-se ao Reino Unido para discutir a defesa.
+Na política nacional, Portugal manifestou interesse em obter empréstimos da União Europeia para reforçar a defesa, juntando-se a outros nove países. Em relação à saúde, o Infarmed retirou lotes de Bisoprolol do mercado devido a impurezas e um pediatra defendeu o alargamento da vacinação contra o VSR.
 
-Em Portugal, mais de 60 concelhos estão sob perigo máximo de incêndio, e os preços dos combustíveis aumentaram. O país confirmou o pedido dos EUA para utilização de aviões reabastecedores nas Lajes. Vários distritos estão sob aviso amarelo devido à previsão de chuva. A Marinha resgatou 11 tripulantes de um barco de pesca nos Açores.
+No plano internacional, as tensões no Médio Oriente agravaram-se com ataques e ameaças mútuas entre os EUA e o Irão, levando a receios de um conflito de maiores proporções e ao possível fecho do Estreito de Ormuz. A escalada da tensão levou à China a retirar os seus cidadãos do Irão e a pedidos de contenção por parte de vários países. A Austrália e o Japão declararam apoio aos EUA. A guerra na Ucrânia também continua a gerar preocupação, com um ataque russo a Kyiv e Zelensky a procurar apoio no Reino Unido.
 
-Na economia, um estudo revela dificuldades de crescimento das PME portuguesas, enquanto a ANAREC defende a redução do ISP devido à subida do petróleo. O endividamento da economia portuguesa atingiu um novo recorde, impulsionado pelo setor público. A CGD pondera contratar a PwC como auditora. Os preços da habitação em Portugal disparam 16,3% no primeiro trimestre de 2025.
-
-No mundo, Taiwan defende a sua soberania face à China. Timor-Leste está a reabilitar sistemas de irrigação para aumentar a produção de arroz. Uma ONG apoiou 7,4 milhões de moçambicanos em programas de desenvolvimento em 2024, e Portugal apoia Moçambique na capacitação de farmacêuticos.
-
-Na saúde, um pediatra defende o alargamento da vacinação contra o VSR. O Infarmed retirou lotes de Bisoprolol do mercado devido a impurezas. Apenas um quarto dos municípios portugueses oferece apoio a cuidadores informais.
-
-No desporto, Portugal venceu Montenegro no Eurobasket Feminino, e Dries Mertens anunciou a sua retirada do futebol.
-
-Em tecnologia, a IA torna o papel de contabilistas e auditores mais estratégico. Bolt expande o serviço de táxis para Lisboa e Porto. A SIBS está a integrar o MB Way a nível europeu.
-
-Outras notícias incluem o falecimento de Câmara Pestana, ex-banqueiro do BPA e Itaú, e a criação de um programa para acelerar a internacionalização das empresas portuguesas pela Universidade Católica e Câmara de Comércio.
+Outras notícias internacionais incluem o apoio de Portugal a Moçambique na capacitação de farmacêuticos, o investimento de Timor-Leste na reabilitação de sistemas de irrigação e o alerta da Interpol para o aumento dos crimes de cibersegurança em África.

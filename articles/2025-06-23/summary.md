@@ -1,15 +1,10 @@
-Aqui estão os principais destaques das notícias de hoje, 23 de junho de 2025:
+Hoje, as tensões geopolíticas dominaram as notícias, com uma importante escalada no Médio Oriente: os EUA atacaram o Irão, levando a ameaças de retaliação e ao potencial fecho do Estreito de Ormuz. China e vários países manifestaram preocupação e instaram à contenção. A escalada de tensões já afeta as ligações aéreas, com várias companhias a suspender voos na região.
 
-A escalada no Médio Oriente dominou as manchetes, com ataques dos EUA ao Irão e ameaças de retaliação, incluindo o possível fecho do Estreito de Ormuz. Vários países manifestaram apoio aos EUA, enquanto a China retirou cidadãos do Irão. A situação impactou as ligações aéreas e fez disparar os preços dos combustíveis.
+Na Europa, o conflito na Ucrânia continua, com um ataque russo a Kiev a causar mortos e feridos. Zelensky deslocou-se ao Reino Unido para discutir a defesa. A NATO está a debater o aumento dos gastos militares, com Portugal a considerar pedir empréstimos para reforçar a sua defesa. Uma sondagem revelou que os portugueses estão entre os mais preocupados com o risco de uma guerra nuclear.
 
-Na Europa, um ataque russo a Kiev causou mortes e feridos, levando a discussões na UE sobre tensões geopolíticas. Portugal e outros países da UE preparam um pedido de empréstimos para reforçar a defesa, num contexto em que os portugueses se mostram preocupados com o risco de guerra nuclear.
+Em Portugal, os preços dos combustíveis subiram significativamente e mais de 60 concelhos estão sob perigo máximo de incêndio. Foi confirmado o pedido dos EUA para utilização de aviões reabastecedores nas Lajes. O Governo aprovou alterações nas regras de imigração e nacionalidade. No Porto e em Lisboa, a Bolt expandiu o seu serviço com o regresso dos táxis à plataforma.
 
-Em Portugal, mais de 60 concelhos estão sob perigo máximo de incêndio, e vários distritos estão sob aviso amarelo devido à previsão de chuva. No campo da economia, os preços dos combustíveis aumentaram e um estudo revelou dificuldades no crescimento das PME. O mercado imobiliário também está em destaque com um aumento histórico de preço de habitação.
+Na área da saúde, a Ordem dos Farmacêuticos apoia Moçambique na capacitação de farmacêuticos e um pediatra defende o alargamento da vacinação contra o VSR. O Infarmed retirou alguns lotes de Bisoprolol do mercado devido a impurezas.
 
-No âmbito social, foi revelado que apenas um quarto dos municípios portugueses oferece apoio a cuidadores informais.
-
-A nível internacional, Timor-Leste está a reabilitar sistemas de irrigação para aumentar a produção de arroz, e Moçambique recebeu apoio de Portugal na capacitação de farmacêuticos. Uma ONG apoiou milhões de moçambicanos em programas de desenvolvimento.
-
-No desporto, Portugal venceu o Montenegro no Eurobasket Feminino e João Almeida foi congratulado pela vitória na Volta à Suíça.
-
-Por fim, na área da tecnologia, a Inteligência Artificial ganha espaço, com o Politécnico da Guarda a criar uma plataforma para simplificar Planos Diretores Municipais e a área de Contabilidade a tornear-se mais estratégica.
+A nível económico, um estudo aponta para dificuldades no crescimento das PME portuguesas e o endividamento da economia portuguesa atingiu um novo recorde. A Universidade Católica e a Câmara de Comércio criaram um programa para acelerar a internacionalização das empresas portuguesas.
+Finalmente, no desporto, Portugal venceu o Montenegro no Eurobasket Feminino, João Almeida venceu a Volta à Suíça e mergulhadores anunciaram a reforma.

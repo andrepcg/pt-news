@@ -1,84 +1,13 @@
-Aqui estão os principais destaques das notícias de hoje:
+Resumo das notícias de 2025-06-24:
 
-**Política e Economia:**
+A nível internacional, destaque para o cessar-fogo instável entre Israel e Irão, mediado pelos EUA, com acusações mútuas de violação e frustração por parte de Trump. A ONU acusou Israel de "crime de guerra" e alertou para a situação humanitária crítica em Gaza, onde ataques recentes causaram dezenas de mortos perto de um centro de distribuição de ajuda. A Rússia intensificou os ataques na Ucrânia, causando mortos em várias regiões. A Tailândia fechou a fronteira com o Camboja devido a disputas territoriais, e no Brasil, a área ardida ultrapassou a média histórica. A costa leste dos EUA enfrenta uma vaga de calor extrema.
 
-*   O Governo português aprovou novas regras de imigração e nacionalidade mais restritivas, com IL a concordar e a esquerda a criticar.
-*   O Orçamento do Estado de 2026 terá exceções às cativações para áreas como o INEM e a ADSE.
-*   Portugal registou um excedente orçamental de 0,2% no primeiro trimestre de 2025, mas a taxa de poupança das famílias desceu para 12,4%.
-*   As empresas de betão exigem mais segurança na construção e aumento do peso máximo dos camiões.
-*   Discussão sobre a complexidade do sistema fiscal português e seu impacto no desenvolvimento económico.
-*   BBVA poderá ser forçado a manter Sabadell separado por três anos após OPA, segundo governo espanhol.
+Na Europa, a cimeira da NATO em Haia focou-se no aumento da despesa em defesa, com Zelensky a procurar apoio para a Ucrânia. A China acusou o líder de Taiwan de distorcer a história. A Comissão Europeia solicitou contributos para proteger os media nas plataformas *online*, enquanto Bruxelas se prepara para emitir até 70 mil milhões de euros em obrigações.
 
-**Mundo:**
+Em Portugal, o Governo aprovou novas regras de imigração mais restritivas, gerando críticas da esquerda e apoio da IL. O país registou um excedente orçamental de 0,2% no primeiro trimestre, embora a taxa de poupança das famílias tenha recuado para 12,4%. Há 13 distritos sob aviso amarelo devido ao mau tempo e espera-se uma onda de calor com temperaturas a atingir os 40 graus. A GNR realizou detenções por excesso de álcool no Porto. Registou-se a demissão do diretor de Dermatologia do Hospital de Santa Maria após um relatório interno e foi encontrado o corpo de uma mulher no rio Douro, no Porto, com a PJ a investigar. O número de utentes do SNS sem médico de família continua a aumentar.
 
-*   Anunciado um cessar-fogo entre Israel e Irão, mediado por Trump, mas com relatos de violações. O Irão pediu esclarecimentos a Portugal sobre alegada ajuda aos EUA. A ONU acusou Israel de "crime de guerra" em Gaza.
-*   Ataques russos na Ucrânia causaram mortos em várias regiões. Zelensky procura apoio da NATO na Haia.
-*   Tailândia encerrou a fronteira com o Camboja devido a uma disputa territorial.
-*   Costa Leste dos EUA enfrenta uma vaga de calor "extremamente perigosa".
-*   Supremo Tribunal dos EUA autorizou deportações para países terceiros.
-*   Retomadas as buscas por jovem que caiu em vulcão na Indonésia.
-*   HRW alerta para o aumento de raptos de crianças em Cabo Delgado, Moçambique.
-*   Brasil: Área ardida supera a média histórica.
-*   Bruxelas vai emitir até 70 mil milhões em obrigações na 2.ª metade do ano.
-*   China acusa líder de Taiwan de distorcer a história, China afirma que a via militar não traz paz ao Médio Oriente.
-*   Xi Jinping defende reforço da cooperação com Singapura.
-*   Conselho Geral do Politécnico da Guarda apoia estratégia de internacionalização.
-*   UE disponibiliza 12 milhões de euros para combater a má nutrição em Timor-Leste.
-*   Homem encena casamento com menina de nove anos na Disneyland Paris e é detido
+Na economia, o impacto da guerra no Irão faz-se sentir, com empresas a ativarem planos de contingência face à subida dos preços de energia. As empresas de betão exigem mais segurança na construção. Clínicas de hemodiálise alertam para dificuldades financeiras. A Ericsson defende compromissos de investimento no 5G em vez de receita para o Estado. A Nissan anunciou um plano de reestruturação com 20 mil despedimentos. O preço do petróleo Brent afundou após o anúncio do cessar-fogo no Médio Oriente. O Fisco obriga ao pagamento de IRS sobre mais-valias na compra de casa fora de Portugal.
 
-**Saúde:**
+No desporto, o Inter Milão confirmou a contratação de Nicola Zalewski. O Benfica joga um jogo decisivo com o Bayern no Mundial de Clubes.
 
-*   Crise no setor da diálise devido a dificuldades financeiras das clínicas.
-*   Aumentou o número de utentes do SNS sem médico de família.
-*   Foi noticiada a demissão do diretor de Dermatologia do Hospital de Santa Maria após relatório interno.
-*   Cantora Jessie J foi operada a um cancro da mama
-
-**Economia e Empresas:**
-
-*   Empresas ativam planos de contingência face à subida dos preços de energia devido à guerra no Irão.
-*   Nissan anunciou um plano de reestruturação com 20 mil despedimentos.
-*   CEO da Ericsson defende compromissos de investimento em vez de receita para o estado no 5G em Portugal.
-*   Queda do preço do petróleo Brent após anúncio de cessar-fogo no Médio Oriente.
-*   Euribor desce a três meses, mas sobe a seis e doze meses.
-*   Analistas reviram em baixa a previsão de investimento publicitário global para 2025.
-*   Amazon aposta no Reino Unido com um investimento de 47 mil milhões de euros.
-*   Subscrições 5G devem exceder 2,9 mil milhões até ao final de 2025.
-
-**Sociedade:**
-
-*   Governo aprova alterações na lei da nacionalidade e imigração.
-*   Albufeira implementa um código de conduta com multas para desrespeito das regras de civismo.
-*   Estratégia Nacional para a Integração das Comunidades Ciganas aguarda consulta pública há quase um ano.
-*   Escala para medir a dependência de jovens em videojogos está disponível em Portugal.
-*   Relatos de uma tempestade que causou queda de árvore e morte de irmãs gémeas nos EUA.
-*   Encontrado corpo de mulher no rio Douro, no Porto.
-
-**Tecnologia:**
-
-*   WhatsApp foi banido na Câmara dos Representantes dos EUA.
-
-**Desporto:**
-
-*   Inter Milão confirmou a contratação de Nicola Zalewski.
-*  Benfica joga partida decisiva com Bayern no Mundial de Clubes para garantir apuramento.
-*   FC Porto eliminado do Mundial de Clubes.
-
-**Ambiente:**
-
-*   Orcas utilizam algas como 'ferramentas' para se massajarem.
-*   Identificadas mais de 500 espécies de aves em risco de extinção nos próximos 100 anos.
-
-**Portugal:**
-
-*   Treze distritos de Portugal continental estão sob aviso amarelo devido ao mau tempo.
-*   Onda de calor em Portugal, com temperaturas a subir e a poderem atingir os 40 graus.
-*   F16 portugueses em missão da NATO na Estónia patrulham os céus do Báltico.
-*   GNR deteve dezenas de condutores por excesso de álcool no Porto.
-*   Ministra da Administração Interna defende nova unidade de estrangeiros na PSP.
-*   Trânsito condicionado no IC8 em Pombal devido a acidente mortal.
-*   Mulher morre em acidente no IC8, em Pombal.
-
-**Meteorologia:**
-
-*   Aviso Amarelo: Chuva e trovoada em 13 distritos de Portugal.
-*   Temperaturas sobem e podem chegar aos 40 graus a partir de quinta-feira.
+Outros destaques incluem o encerramento do WhatsApp na Câmara dos Representantes dos EUA por questões de segurança, a aposta da Marvel numa anti-heroína negra em "Coração de Ferro", e a boda milionária de Jeff Bezos em Veneza. Foi ainda noticiado que orcas utilizam algas como 'ferramentas' para se massajarem.

@@ -1,13 +1,49 @@
-Resumo das notícias de 2025-06-24:
+Aqui fica um resumo das principais notícias de 24 de junho de 2025:
 
-A nível internacional, destaque para o cessar-fogo instável entre Israel e Irão, mediado pelos EUA, com acusações mútuas de violação e frustração por parte de Trump. A ONU acusou Israel de "crime de guerra" e alertou para a situação humanitária crítica em Gaza, onde ataques recentes causaram dezenas de mortos perto de um centro de distribuição de ajuda. A Rússia intensificou os ataques na Ucrânia, causando mortos em várias regiões. A Tailândia fechou a fronteira com o Camboja devido a disputas territoriais, e no Brasil, a área ardida ultrapassou a média histórica. A costa leste dos EUA enfrenta uma vaga de calor extrema.
+**Política e Economia:**
 
-Na Europa, a cimeira da NATO em Haia focou-se no aumento da despesa em defesa, com Zelensky a procurar apoio para a Ucrânia. A China acusou o líder de Taiwan de distorcer a história. A Comissão Europeia solicitou contributos para proteger os media nas plataformas *online*, enquanto Bruxelas se prepara para emitir até 70 mil milhões de euros em obrigações.
+*   Um cessar-fogo mediado por Trump entre Israel e Irão foi anunciado, mas enfrenta desafios com acusações de violações. Portugal foi questionado pelo Irão sobre um possível apoio aos EUA.
 
-Em Portugal, o Governo aprovou novas regras de imigração mais restritivas, gerando críticas da esquerda e apoio da IL. O país registou um excedente orçamental de 0,2% no primeiro trimestre, embora a taxa de poupança das famílias tenha recuado para 12,4%. Há 13 distritos sob aviso amarelo devido ao mau tempo e espera-se uma onda de calor com temperaturas a atingir os 40 graus. A GNR realizou detenções por excesso de álcool no Porto. Registou-se a demissão do diretor de Dermatologia do Hospital de Santa Maria após um relatório interno e foi encontrado o corpo de uma mulher no rio Douro, no Porto, com a PJ a investigar. O número de utentes do SNS sem médico de família continua a aumentar.
+*   A instabilidade no Médio Oriente e a guerra na Ucrânia continuam a ter impacto económico, com empresas a ativarem planos de contingência devido à subida dos preços da energia. O ministro da Agricultura avisa para possíveis aumentos de preços.
 
-Na economia, o impacto da guerra no Irão faz-se sentir, com empresas a ativarem planos de contingência face à subida dos preços de energia. As empresas de betão exigem mais segurança na construção. Clínicas de hemodiálise alertam para dificuldades financeiras. A Ericsson defende compromissos de investimento no 5G em vez de receita para o Estado. A Nissan anunciou um plano de reestruturação com 20 mil despedimentos. O preço do petróleo Brent afundou após o anúncio do cessar-fogo no Médio Oriente. O Fisco obriga ao pagamento de IRS sobre mais-valias na compra de casa fora de Portugal.
+*   O Governo aprovou novas regras de imigração e nacionalidade mais restritivas, gerando críticas da esquerda e apoio da IL.
 
-No desporto, o Inter Milão confirmou a contratação de Nicola Zalewski. O Benfica joga um jogo decisivo com o Bayern no Mundial de Clubes.
+*   O Orçamento do Estado de 2026 terá exceções às cativações para áreas como o INEM, ADSE, reguladores e Hospital das Forças Armadas. Portugal registou um excedente orçamental de 0,2% no primeiro trimestre.
 
-Outros destaques incluem o encerramento do WhatsApp na Câmara dos Representantes dos EUA por questões de segurança, a aposta da Marvel numa anti-heroína negra em "Coração de Ferro", e a boda milionária de Jeff Bezos em Veneza. Foi ainda noticiado que orcas utilizam algas como 'ferramentas' para se massajarem.
+*   As bolsas europeias subiram após a confirmação do cessar-fogo, mas o preço do petróleo Brent caiu. A Euribor a 3 meses desceu, mas subiu a 6 e 12 meses.
+
+*   O Tribunal de Contas alertou para atrasos em projetos municipais financiados pelo PRR.
+
+*   A Nissan anunciou um plano de reestruturação com 20 mil despedimentos.
+
+**Mundo:**
+
+*   Ataques russos causaram mortos na Ucrânia, enquanto a Tailândia fechou a fronteira com o Camboja devido a uma disputa territorial.
+
+*   A cimeira da NATO, focada no aumento da despesa em defesa, decorreu sem a presença da Ucrânia. Zelensky procura apoio da NATO face a possíveis planos russos.
+
+*   Foi noticiada uma onda de calor "extremamente perigosa" na Costa Leste dos EUA. No Brasil, a área ardida superou a média histórica.
+
+*   A ONU acusou Israel de "crime de guerra" em Gaza, denunciando uma "armadilha mortal" na distribuição de ajuda humanitária.
+
+**Portugal:**
+
+*   Treze distritos de Portugal continental estão sob aviso amarelo devido ao mau tempo, com temperaturas elevadas a partir de quinta-feira. A GNR deteve vários condutores por excesso de álcool no Porto.
+
+*   O número de utentes do SNS sem médico de família aumentou. O diretor de Dermatologia do Hospital de Santa Maria demitiu-se após um relatório interno.
+
+**Sociedade:**
+
+*   Entrou em vigor um código de conduta em Albufeira, com multas para quem desrespeitar as regras.
+
+*   Uma escala para medir a dependência de jovens em videojogos está agora disponível em Portugal. Foi noticiado o aumento de raptos de crianças em Cabo Delgado.
+
+**Outros:**
+
+*   Jeff Bezos celebrou o seu casamento em Veneza com uma festa de 14 milhões de euros.
+
+*   Orcas foram observadas a utilizar algas como "ferramentas" para se massajarem.Mais de 500 espécies de aves estão em risco de extinção.
+
+*   O mercado de transferências de futebol continua agitado, com o Inter Milão a confirmar a contratação de Nicola Zalewski e Pedro Álvaro a assinar pelo Aris.
+*   Os F16 portugueses em missão da NATO na Estónia patrulham os céus do Báltico.
+*   O diretor adjunto da Frick Collection foi nomeado novo diretor do Museu Gulbenkian.

@@ -1,19 +1,11 @@
-Aqui estão os principais destaques do dia 26 de junho de 2025:
+As notícias de hoje foram marcadas por diversos acontecimentos tanto a nível nacional quanto internacional.
 
-**Economia e Finanças:** A riqueza do 1% mais rico poderia erradicar a pobreza mundial durante 22 anos, segundo a Oxfam. O Governo aprovou novas taxas de IRS com impacto em setembro, enquanto empresas do Estado cortaram 5 mil milhões de euros à dívida em 2024. A TAP SGPS enfrenta um processo judicial por dívida à Azul, e Ricardo Arroja saiu da AICEP com uma indemnização de 62 mil euros. A Oitante procura recuperar milhões do Banif. Bruxelas alertou para a fuga de capitais do sistema financeiro europeu.
+Em Portugal, o Hospital Amadora-Sintra enfrentou um apagão informático que condicionou as urgências, entretanto já normalizadas, facto que mereceu críticas pela falta de investimento. O país também está sob aviso laranja devido ao calor intenso em cinco distritos. No âmbito político, Carlos César declarou apoio a José Luís Carneiro para liderar o PS, enquanto no parlamento discute-se uma comissão de inquérito sobre o apagão de abril. A GNR deteve suspeitos em Lisboa por fraude fiscal internacional. Registou-se um incêndio rodoviário na EN121 em Beringel.
 
-**Política:** Carlos César apoia José Luís Carneiro na liderança do PS. O Parlamento debate a comissão de inquérito sobre o apagão de abril. A China recebeu ministros da Defesa do Irão e da Rússia para uma cimeira multilateral. Um líder de partido de Taiwan foi condenado por espionagem a favor da China. Moçambique e Portugal reforçaram relações após encontro entre presidentes.
+A nível económico, o governo aprovou novas taxas de IRS com impacto já em setembro. As empresas do Estado reduziram a dívida em 5 mil milhões de euros em 2024. Ricardo Arroja saiu da Aicep com uma indemnização de 62 mil euros. Foi também noticiado que a TAP SGPS não pagou uma dívida à Azul, levando o caso para tribunal. A DECO alertou para o aumento de fraudes online e desinformação, e os Certificados de Aforro viram a taxa de juro base cair para 2,011% em julho.
 
-**Mundo:** Ataque com drones ucranianos em Moscovo levou ao fecho temporário de aeroportos. A mulher de Kim Jong-un reapareceu após um ano e meio. O Brasil e o Benim procuram uma ligação aérea direta para reforçar a cooperação. O consumo de canábis é elevado em África, com aumento do consumo de cocaína e opioides. Dois mortos e 17 feridos foram registados em França devido a tempestades.
+No contexto internacional, um ataque com drones ucranianos a Moscovo levou ao fecho temporário de aeroportos. A China recebeu ministros da defesa do Irão e da Rússia para uma cimeira multilateral. Na Venezuela, foi ativado um plano de ação devido ao mau tempo. Em Taiwan, o líder de um partido foi condenado a 10 anos de prisão por espionagem a favor da China. A mulher de Kim Jong-un reapareceu após um ano e meio. O consumo de canábis é elevado em África, com aumento no consumo de cocaína e opioides. O Brasil e o Benim querem ligação aérea direta para reforçar a cooperação. O México poderá processar a SpaceX por poluição em lançamentos de foguetes. Registaram-se dois mortos e 17 feridos em França devido a tempestades.
 
-**Portugal:** Cinco distritos estiveram sob aviso laranja devido ao calor intenso. O Hospital Amadora-Sintra enfrentou um apagão informático que condicionou as urgências. A GNR deteve suspeitos em Lisboa por fraude fiscal internacional. A Procuradoria restringiu informações sobre casos resultantes de denúncias anónimas.
+No desporto, o Boavista falhou a inscrição nas provas profissionais de 2025/26. Inglaterra e Alemanha disputam a final do Euro Sub-21.
 
-**Justiça:** Processo entre estafetas e Uber Eats poderá voltar à estaca zero após decisão do Supremo.
-
-**Saúde:** O Hospital Amadora-Sintra encerrou as urgências devido a uma falha informática.
-
-**Desporto:** O Boavista falhou a inscrição nas provas profissionais de futebol de 2025/26.
-
-**Tecnologia:** O México poderá processar a SpaceX por poluição em lançamentos de foguetões.
-
-**Ambiente:** O Brasil enfrenta pressão para baixar os preços do alojamento em Belém para a COP30.
+Outros destaques incluem um estudo que revela que a riqueza do 1% mais rico podia erradicar a pobreza mundial durante 22 anos e um outro que alerta para o risco de vigilância em massa através da visão artificial. A Procuradoria-Geral da República divulgou uma nova política de comunicação e espera concluir o caso Spinumviva até 15 de julho.

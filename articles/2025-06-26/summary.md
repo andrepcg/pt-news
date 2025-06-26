@@ -1,23 +1,9 @@
-Aqui fica um resumo das notícias mais relevantes do dia 26 de Junho de 2025:
+Esta quinta-feira ficou marcada por diversos acontecimentos em Portugal e no mundo. No plano nacional, cinco distritos estão sob aviso laranja devido ao calor intenso, enquanto o Hospital Amadora-Sintra enfrentou um apagão informático que condicionou as urgências, situação já normalizada. A Procuradoria-Geral da República divulgou uma nova política de comunicação e o Parlamento debateu a comissão de inquérito sobre o apagão de abril. A GNR deteve suspeitos numa operação de fraude fiscal internacional em Lisboa. No âmbito político, Carlos César manifestou apoio a José Luís Carneiro para liderar o PS, e a maioria dos partidos propõe o dia 12 de outubro para as eleições autárquicas. O Governo negoceia a descida do IRS, com um alívio que poderá ser superior a 400 euros anuais, e aprovou novas regras para a imigração. O Chega propõe proibir o uso de burcas em espaços públicos e Isidro Morais Pereira admite candidatar-se a Belém, aceitando o apoio do Chega.
 
-**Economia e Finanças:** Oxfam revela que a riqueza do 1% mais rico poderia erradicar a pobreza mundial durante 22 anos. O Governo aprovou novas taxas de IRS com impacto em setembro, com um alívio que poderá ultrapassar os 400 euros anuais para algumas famílias, enquanto o Chega propõe mexidas nos escalões e deduções. As empresas do Estado reduziram a dívida em mais de 5 mil milhões de euros em 2024. A taxa de juro base dos Certificados de Aforro volta a cair em julho. A Padaria Portuguesa foi vendida ao grupo espanhol Rodilla, após aprovação da AdC. O Governo timorense apoia trabalhadores sazonais na gestão de investimentos. A avaliação da habitação em Portugal subiu para 1.886 euros/m2 em maio.
+Na economia, as empresas do Estado reduziram a dívida em mais de 5 mil milhões de euros em 2024. A TAP SGPS não pagou uma dívida à Azul, e o caso segue para tribunal. Ricardo Arroja saiu da AICEP com uma indemnização de 62 mil euros. A Padaria Portuguesa foi vendida ao grupo espanhol Rodilla, após aprovação da AdC. A avaliação da habitação em Portugal subiu para 1.886 euros/m2 em maio, e os Certificados de Aforro viram a taxa de juro base cair para 2,011% em julho.
 
-**Política:** Carlos César apoia José Luís Carneiro para liderar o PS. O Parlamento discute a comissão de inquérito sobre o apagão proposta pelo LIVRE. A maioria dos partidos propõe 12 de outubro para as eleições autárquicas. Ventura reúne-se com o Governo para discutir a Lei da Nacionalidade e Imigração. O PS quer ouvir o Conselho de Administração da RTP no Parlamento sobre a mudança na direção de informação e exige audição urgente da Ministra da Saúde sobre o relatório do IGAS sobre a greve no INEM. Montenegro diz a Trump que "Portugal e os Estados Unidos são aliados".
+No panorama internacional, um ataque com drones ucranianos a Moscovo levou ao fecho temporário de aeroportos. A China recebeu ministros da Defesa do Irão e da Rússia para uma cimeira multilateral. Um líder de um partido de Taiwan foi condenado a 10 anos de prisão por espionagem a favor da China. A mulher de Kim Jong-un reapareceu após um ano e meio. No Brasil, o governo quer ligação aérea direta com o Benim, enquanto o México poderá processar a SpaceX por poluição. A África enfrenta um consumo elevado de canábis, com aumento no consumo de cocaína e opioides. Em França, as tempestades provocaram dois mortos e 17 feridos. A Oxfam revelou que a riqueza do 1% mais rico podia erradicar a pobreza mundial durante 22 anos.
 
-**Saúde:** O Hospital Amadora-Sintra enfrentou um apagão informático que condicionou as urgências, com a situação a normalizar-se entretanto. A IL propõe uma Comissão de Inquérito à gestão do INEM. Cinco urgências de ginecologia e obstetrícia do SNS encerraram.
+No desporto, o Boavista falhou a inscrição nas provas profissionais de 2025/26. Eustáquio reconheceu a época falhada do FC Porto, e o Benfica está focado no Chelsea. Cristiano Ronaldo renovou contrato com o Al Nassr até 2027,
 
-**Mundo:** Ataque com drones ucranianos a Moscovo levou ao fecho temporário de aeroportos. A China recebeu ministros da Defesa do Irão e da Rússia para uma cimeira multilateral. Um líder de um partido de Taiwan foi condenado por espionagem a favor da China. A mulher de Kim Jong-un reapareceu após um ano e meio. Tempestades em França causaram dois mortos e 17 feridos. Marcelo Rebelo de Sousa está em Moçambique para reforçar as relações bilaterais.
-
-**País:** Cinco distritos estiveram sob aviso laranja devido ao calor intenso. A GNR deteve suspeitos em Lisboa por fraude fiscal internacional. A Procuradoria restringe informações sobre casos resultantes de denúncias anónimas. Foram realizadas buscas na Câmara de Oeiras por suspeitas de corrupção, com Isaltino Morais a garantir transparência.
-
-**Justiça:** Processo entre estafetas e Uber Eats poderá voltar à estaca zero após decisão do Supremo.
-
-**Ambiente:** México pondera processar a SpaceX por poluição em lançamentos de foguetões.
-
-**Desporto:** O Boavista falhou a inscrição nas provas profissionais de 2025/26. Cristiano Ronaldo renovou com o Al Nassr até 2027. Inglaterra e Alemanha disputam a final do Euro Sub-21.
-
-**Sociedade:** A DECO alertou para o aumento de fraudes online e desinformação.
-
-**Transportes:** TAP SGPS não paga dívida à Azul e caso segue para tribunal. Foi retomado o trânsito na EN121 em Beringel após um incêndio num camião. A ligação fluvial entre o Porto e Gaia foi retomada.
-
-**Cultura:** O filme "Ancoradouro do Tempo" estreou nos cinemas.
+Outros destaques incluem o filme "Ancoradouro do Tempo" que estreou nos cinemas, e Cat Power apresentou pela última vez o espetáculo dedicado a Dylan em Oeiras.

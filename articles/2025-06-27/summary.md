@@ -1,22 +1,61 @@
-## Resumo das Notícias de 27 de Junho de 2025
+Aqui estão as principais notícias de 27 de junho de 2025 em Portugal e no mundo:
 
-### Política Nacional
-José Luís Carneiro foi eleito líder do PS, sucedendo a Pedro Nuno Santos. O Governo antecipou para agosto a descida do IRS devido a receios económicos, com o parlamento a aprovar a urgência na apreciação da proposta. Montenegro recorreu ao Tribunal Constitucional no caso Spinumviva, recusando entregar dados à Entidade da Transparência. Marcelo Rebelo de Sousa comentou a descida do IRS e os casos do INEM e Spinumviva. Augusto Santos Silva pondera candidatar-se a Belém, com uma decisão esperada brevemente. Carlos Moedas pondera recandidatar-se à Câmara de Lisboa. O Parlamento aprovou a deslocação do Presidente Marcelo a Cabo Verde e São Tomé, mas chumbou a proposta de encerramento do comércio aos domingos e feriados. A Comissão de trabalhadores do INEM criticou o relatório da IGAS.
+**Política Nacional:**
 
-### Economia
-A Euribor desceu ligeiramente, mas mantém-se acima de 2%. A confiança dos consumidores estabilizou e o clima económico aumentou em junho. O Governo prevê uma poupança de até 365 euros anuais com a descida do IRS. O BCE é acusado de perpetuar a pobreza ao ignorar a inflação dos "luxos". O mercado de arrendamento continua a aquecer, com rendas a subir 10%. Os combustíveis vão descer na próxima semana. Foi aprovado o aumento dos contratos de empreitadas de obras públicas. O governo já gastou 86 milhões em subsídios de renda, mas nem todos os processos foram analisados. A AICEP pagou indemnizações devido à saída de administradores.
+*   José Luís Carneiro foi eleito pelos militantes como o novo líder do PS.
+*   O Governo vai antecipar a descida do IRS para agosto, devido a receios económicos, e o parlamento aprovou o regime de urgência para apreciação da proposta. Marcelo Rebelo de Sousa espera que a descida do IRS tenha "efeitos úteis" em 2026.
+*   Montenegro recusa provar serviços da Spinumviva e recorre ao Tribunal Constitucional, gerando controvérsia.
+*  A ministra da Saúde enfrenta críticas da oposição devido a problemas no INEM com o Chega a querer uma Comissão de Inquérito ao INEM e auditoria à Saúde.
+*   Foi aprovada a prorrogação da validade das autorizações de residência.
+*   Santos Silva pondera candidatar-se a Belém, com decisão a ser anunciada em breve.
 
-### Incêndios e Clima
-Portugal continental enfrenta uma onda de calor, com quatro concelhos em perigo máximo de incêndio. A Proteção Civil reforçou a prontidão e a DGS alertou para cuidados extra devido às altas temperaturas. O nível de armazenamento das albufeiras portuguesas é o mais elevado desde a década de 90.
+**Economia:**
 
-### Sociedade
-Trabalhadores das autarquias protestaram em Lisboa por melhores salários. A DGS alertou para cuidados extras devido à onda de calor. Uma loja centenária de ginjinha em Lisboa está ameaçada de fecho. A Câmara de Lisboa repetiu o sorteio do Programa Renda Acessível após anulação por erro. Quase metade da comida de rua vendida em Lisboa apresenta má qualidade microbiológica.
+*   A prestação da casa deverá descer até 135 euros em julho, mas o BCE deverá fazer uma pausa nos juros.
+*   O BCE é acusado de perpetuar a pobreza ao ignorar a inflação dos "luxos".
+*   A Confiança dos consumidores estabilizou e o clima económico aumentou em junho.
+*   O Governo já gastou 86 milhões com o apoio à renda, mas ainda não analisou todos os processos.
+*   As novas rendas disparam 10% em Portugal e existe uma quebra nos novos contratos.
+*   Governo aprova plano para reduzir a pobreza monetária nos Açores.
 
-### Saúde
-A IGAS detetou falhas no acesso às primeiras consultas no Amadora-Sintra. O Reino Unido investiga a ligação entre Ozempic e problemas no pâncreas. A OMS garantiu a segurança de um componente de vacinas que os EUA querem retirar.
+**Incêndios e Clima:**
 
-### Internacional
-A administração Trump deu um briefing ao Congresso sobre os ataques ao Irão, enquanto Netanyahu afirma que a "vitória sobre o Irão abre janelas para a paz". A UE prepara-se para um possível desacordo com os EUA sobre tarifas comerciais. Astronautas chineses realizaram a segunda caminhada espacial na missão Shenzhou-20. O Supremo Tribunal Federal do Brasil endureceu as regras para as redes sociais. A Venezuela ultrapassou Portugal como a maior comunidade estrangeira no Brasil.
-  
-### Desporto
-Diogo Ribeiro sagrou-se campeão europeu de sub-23 nos 50 metros livres. João Almeida vai apoiar Pogacar no Tour. Otamendi renovou com o Benfica.
+*   Quatro concelhos estão em perigo máximo de incêndio devido à subida de temperaturas, com aviso laranja para 12 distritos.
+*   A Proteção Civil reforçou a prontidão face ao calor extremo e risco de incêndios.
+*   A DGS alertou para cuidados extra devido à onda de calor.
+
+**Autarquias:**
+
+*   Trabalhadores das autarquias protestaram em Lisboa por melhores salários.
+*   Carlos Moedas pondera recandidatar-se à Câmara de Lisboa.
+*   O Regulamento do Alojamento Local de Faro está em consulta pública e a Câmara de Lisboa repetiu o sorteio do Programa Renda Acessível.
+
+**Tecnologia:**
+
+*   A Inteligência Artificial poderá aumentar o PIB nacional até 22 mil milhões de euros em 10 anos.
+
+**Saúde:**
+
+*   A IGAS detetou falhas no acesso às primeiras consultas no Amadora-Sintra.
+*   A Comissão de Trabalhadores do INEM criticou o relatório da IGAS.
+*   Quase metade da comida de rua vendida em Lisboa apresenta qualidade microbiológica insatisfatória.
+
+**Mundo:**
+
+*   A Administração Trump deu um briefing ao Congresso sobre ataques ao Irão, enquanto Netanyahu afirmou que a "vitória sobre o Irão abre janelas para a paz".
+*   A UE prepara-se para um possível desacordo com os EUA sobre tarifas comerciais.
+*   O Supremo Tribunal Federal do Brasil endureceu as regras para as redes sociais e o Supremo brasileiro concluiu a instrução do processo contra Bolsonaro.
+*   A China não forneceu todas as informações sobre a origem da Covid-19, segundo a OMS.
+*   Venezuela ultrapassa Portugal como a maior comunidade estrangeira no Brasil.
+*   Supremo Tribunal dos EUA limita o poder dos juízes federais de bloquear decisões da Casa Branca e Trump comemora.
+
+**Desporto:**
+
+*   Diogo Ribeiro sagrou-se campeão europeu de sub-23 nos 50 metros livres.
+*   Otamendi renovou contrato com o Benfica por mais uma época.
+*   João Almeida vai apoiar Pogacar no Tour.
+
+**Outros:**
+
+*   Loja centenária de ginjinha em Lisboa está ameaçada de fecho.
+*   Os níveis de armazenamento das albufeiras portuguesas são os mais elevados desde a década de 90.

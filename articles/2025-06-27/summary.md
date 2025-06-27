@@ -1,7 +1,13 @@
-Em Portugal, quatro concelhos estão em perigo máximo de incêndio devido à subida de temperaturas, levando a um aviso laranja em 12 distritos e alertas da DGS para cuidados extra com o calor. No PS, os militantes elegeram José Luís Carneiro como o novo líder. Trabalhadores das autarquias protestaram em Lisboa por melhores salários.
+Esta sexta-feira, Portugal enfrenta um aumento das temperaturas, com quatro concelhos em perigo máximo de incêndio, e a DGS alerta para cuidados redobrados. No PS, os militantes elegeram José Luís Carneiro como novo líder. Trabalhadores das autarquias protestaram em Lisboa por melhores salários.
 
-A nível económico, o Governo antecipou a descida do IRS para agosto devido a receios económicos, enquanto a prestação da casa deverá cair até 135 euros em julho, embora o BCE possa pausar as taxas de juro. O Estado ainda não recuperou milhões pagos indevidamente a Manuel Serrão no caso Selectiva Moda, e a AICEP pagou indemnizações devido à saída de administradores. A EDP lançou uma nova narrativa comercial focada no cliente. Em Mafra, ambiciona-se um 'hub' logístico com investimento superior a 100 milhões de euros.
+Na economia, o G7 pretende isentar empresas americanas de impostos, enquanto o Estado português ainda não recuperou milhões pagos indevidamente a Manuel Serrão. A EDP lançou uma nova campanha focada no cliente, e a AICEP pagou indemnizações devido à saída de administradores. A descida do IRS está prevista para agosto, e a prestação da casa deverá baixar em julho, embora o BCE possa pausar os juros. O Governo antecipou a descida do IRS para agosto devido a receios económicos.
 
-No plano internacional, os EUA esperam concluir um acordo para isentar empresas americanas de impostos no G7. A administração Trump deu um briefing ao Congresso sobre os ataques ao Irão, e Netanyahu afirmou que a "vitória sobre o Irão abre janelas para a paz". A UE prepara-se para um possível desacordo com os EUA sobre tarifas. No Brasil, o Supremo Tribunal Federal endureceu as regras para as redes sociais.
+No plano internacional, a administração Trump fez um briefing ao Congresso sobre os ataques ao Irão, enquanto Netanyahu afirmou que a "vitória sobre o Irão abre janelas para a paz". A UE está preparada para um possível desacordo com os EUA sobre tarifas. No Brasil, o Supremo Tribunal Federal endureceu as regras para as redes sociais. Relativamente ao conflito Israelo-palestiniano, Costa criticou a inação da UE face a Gaza, e a ONU apelou a um cessar-fogo.
 
-Outros destaques incluem: a preparação de Dalai Lama para a sua sucessão espiritual aos 90 anos, o estudo da Huawei para instalar uma fábrica em Moçambique e o caos no Aeroporto de Lisboa devido a problemas no controlo de passaportes. No desporto, Cristiano Ronaldo tem um novo contrato milionário no Al Nassr.
+No mundo da tecnologia, a IA tornou-se um tema sério que necessita de regulação, e a Huawei estuda instalar uma fábrica de telemóveis em Moçambique.
+
+Em Lisboa, uma loja centenária de ginjinha está ameaçada de fecho, enquanto a Ginjinha Sem Rival promete resistir nos tribunais.
+
+No desporto, os Países Baixos venceram o Europeu de Sub-19, e Cristiano Ronaldo assinou um novo contrato milionário com o Al Nassr. No ciclismo, João Almeida irá apoiar Pogacar no Tour.
+
+Outros destaques incluem a aprovação da urgência na apreciação da proposta do Governo sobre o IRS e um estudo que revela diferentes prioridades dos governos de direita e esquerda na administração pública.

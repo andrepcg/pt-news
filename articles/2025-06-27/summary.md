@@ -1,11 +1,11 @@
-Resumo das notícias de 27 de junho de 2025:
+Hoje, Portugal enfrenta **risco máximo de incêndio** em quatro concelhos devido à subida das temperaturas, com aviso laranja emitido para 12 distritos. A **DGS** também alertou para os cuidados a ter devido à onda de calor.
 
-Portugal enfrenta risco máximo de incêndio em quatro concelhos devido à subida das temperaturas, com aviso laranja emitido para 12 distritos. Na política nacional, militantes do PS votam hoje para eleger José Luís Carneiro como novo líder, enquanto trabalhadores das autarquias protestam em Lisboa por melhores salários.
+Na **política**, José Luís Carneiro foi eleito pelos militantes como o novo líder do PS. Entretanto, trabalhadores das autarquias protestaram em Lisboa por melhores salários. A nível da administração pública, discute-se o impacto das nomeações temporárias na meritocracia.
 
-No âmbito económico, o G7 deverá concluir um acordo para isentar empresas americanas de impostos. Em Portugal, o Estado ainda não recuperou milhões pagos indevidamente no caso Selectiva Moda, a EDP aposta numa nova estratégia comercial focada no cliente e a AICEP pagou indemnizações de 286,9 mil euros devido a saídas de administradores. Especialistas aconselham cautela com a descida do IRS, enquanto as prestações da casa deverão ter uma descida de até 135 euros em julho, embora o BCE possa pausar os juros. Mafra ambiciona tornar-se um 'hub' logístico com um investimento superior a 100 milhões de euros.
+No **âmbito económico**, o G7 discute isenções de impostos para empresas americanas. Em Portugal, o Estado ainda não recuperou valores pagos indevidamente no caso Selectiva Moda, enquanto a AICEP pagou indemnizações devido à saída de administradores. A EDP lançou uma nova estratégia focada no cliente. O Governo antecipa a descida do IRS para agosto devido a receios económicos, e a prestação da casa deverá descer em julho, embora o BCE possa pausar a subida de juros.
 
-A nível internacional, a administração Trump deu um briefing ao Congresso sobre os ataques ao Irão, com Netanyahu a afirmar que uma vitória sobre o Irão abre caminho para a paz. O Brasil, por seu lado, está a endurecer as regras para as redes sociais.
+A nível **internacional**, a administração Trump fez um briefing ao congresso sobre o Irão, e Netanyahu declarou que "a vitória sobre o Irão abre janelas para a paz". A China, por sua vez, está no centro de várias notícias, desde tarifas impostas por Taiwan até receios sobre a influência na sucessão do Dalai Lama.
 
-No setor tecnológico, a inteligência artificial é vista como um caso sério que necessita de regulamentação, e a Huawei pondera instalar uma fábrica de telemóveis em Moçambique.
+No **mundo da tecnologia**, a IA é vista como um "caso demasiado sério" que requer regulação. A Huawei estuda instalar uma fábrica de telemóveis em Moçambique, enquanto no Brasil, o Supremo Tribunal Federal endureceu as regras para as redes sociais.
 
-Por fim, em Lisboa, uma loja centenária de ginjinha enfrenta o risco de fechar.
+Em outras notícias, uma loja centenária de ginjinha em Lisboa está ameaçada de fecho, Mafra ambiciona tornar-se um 'hub' logístico, e Cristiano Ronaldo assinou um novo contrato milionário no Al Nassr. Nos desportos, os Países Baixos venceram o Europeu de Sub-19.

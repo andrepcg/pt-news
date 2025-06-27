@@ -1,11 +1,22 @@
-Hoje, Portugal enfrenta um aumento das temperaturas, com quatro concelhos em perigo máximo de incêndio e aviso laranja para 12 distritos, levando a DGS a emitir alertas para cuidados redobrados. No âmbito político, José Luís Carneiro foi eleito pelos militantes como o novo líder do PS, enquanto trabalhadores das autarquias protestaram em Lisboa por melhores salários.
+## Resumo das Notícias de 27 de Junho de 2025
 
-Na economia, a descida do IRS deverá ser antecipada para agosto devido a receios económicos, e a prestação da casa poderá cair até 135 euros em julho, embora o BCE deva pausar os juros. O Estado ainda não recuperou milhões pagos indevidamente a Manuel Serrão no caso Selectiva Moda, e a AICEP pagou indemnizações elevadas pela saída de administradores. Empresas como a EDP, Draycott (Verescence) e a nova empresa de Miguel Pina Martins (Science4You) anunciaram novidades e investimentos.
+### Política Nacional
+José Luís Carneiro foi eleito líder do PS, sucedendo a Pedro Nuno Santos. O Governo antecipou para agosto a descida do IRS devido a receios económicos, com o parlamento a aprovar a urgência na apreciação da proposta. Montenegro recorreu ao Tribunal Constitucional no caso Spinumviva, recusando entregar dados à Entidade da Transparência. Marcelo Rebelo de Sousa comentou a descida do IRS e os casos do INEM e Spinumviva. Augusto Santos Silva pondera candidatar-se a Belém, com uma decisão esperada brevemente. Carlos Moedas pondera recandidatar-se à Câmara de Lisboa. O Parlamento aprovou a deslocação do Presidente Marcelo a Cabo Verde e São Tomé, mas chumbou a proposta de encerramento do comércio aos domingos e feriados. A Comissão de trabalhadores do INEM criticou o relatório da IGAS.
 
-A nível internacional, os EUA esperam concluir um acordo no G7 para isentar empresas americanas de impostos, e a administração Trump deu um briefing ao Congresso sobre ataques ao Irão. Netanyahu afirmou que a "vitória sobre o Irão abre janelas para a paz". A UE prepara-se para um possível desacordo com os EUA sobre tarifas, enquanto Costa critica a inação da UE face a Gaza e pede diálogo com Israel. A ONU também apelou a um cessar-fogo em Gaza.
+### Economia
+A Euribor desceu ligeiramente, mas mantém-se acima de 2%. A confiança dos consumidores estabilizou e o clima económico aumentou em junho. O Governo prevê uma poupança de até 365 euros anuais com a descida do IRS. O BCE é acusado de perpetuar a pobreza ao ignorar a inflação dos "luxos". O mercado de arrendamento continua a aquecer, com rendas a subir 10%. Os combustíveis vão descer na próxima semana. Foi aprovado o aumento dos contratos de empreitadas de obras públicas. O governo já gastou 86 milhões em subsídios de renda, mas nem todos os processos foram analisados. A AICEP pagou indemnizações devido à saída de administradores.
 
-No mundo da tecnologia, a IA tornou-se um tema sério que necessita de regulação, e a Huawei estuda instalar uma fábrica de telemóveis em Moçambique. O Supremo Tribunal Federal do Brasil endureceu as regras para as redes sociais e a Dinamarca vai dar aos cidadãos direitos sobre o seu rosto e voz para combater deepfakes.
+### Incêndios e Clima
+Portugal continental enfrenta uma onda de calor, com quatro concelhos em perigo máximo de incêndio. A Proteção Civil reforçou a prontidão e a DGS alertou para cuidados extra devido às altas temperaturas. O nível de armazenamento das albufeiras portuguesas é o mais elevado desde a década de 90.
 
-Em Lisboa, uma loja centenária de ginjinha está ameaçada de fecho, enquanto a Câmara de Lisboa vai repetir o sorteio do Programa Renda Acessível. No desporto, os Países Baixos venceram o Europeu de Sub-19 e o Benfica defrontará o Chelsea nos oitavos de final do Mundial de Clubes. João Almeida vai apoiar Pogacar no Tour. Cristiano Ronaldo assinou um novo contrato milionário no Al Nassr e o FC Porto foi eliminado do Mundial de Clubes.
+### Sociedade
+Trabalhadores das autarquias protestaram em Lisboa por melhores salários. A DGS alertou para cuidados extras devido à onda de calor. Uma loja centenária de ginjinha em Lisboa está ameaçada de fecho. A Câmara de Lisboa repetiu o sorteio do Programa Renda Acessível após anulação por erro. Quase metade da comida de rua vendida em Lisboa apresenta má qualidade microbiológica.
 
-Outras notícias incluem o alerta da OMS sobre a falta de informação da China sobre a origem da Covid-19 e um estudo que revela má qualidade microbiológica em quase metade da comida de rua vendida em Lisboa.
+### Saúde
+A IGAS detetou falhas no acesso às primeiras consultas no Amadora-Sintra. O Reino Unido investiga a ligação entre Ozempic e problemas no pâncreas. A OMS garantiu a segurança de um componente de vacinas que os EUA querem retirar.
+
+### Internacional
+A administração Trump deu um briefing ao Congresso sobre os ataques ao Irão, enquanto Netanyahu afirma que a "vitória sobre o Irão abre janelas para a paz". A UE prepara-se para um possível desacordo com os EUA sobre tarifas comerciais. Astronautas chineses realizaram a segunda caminhada espacial na missão Shenzhou-20. O Supremo Tribunal Federal do Brasil endureceu as regras para as redes sociais. A Venezuela ultrapassou Portugal como a maior comunidade estrangeira no Brasil.
+  
+### Desporto
+Diogo Ribeiro sagrou-se campeão europeu de sub-23 nos 50 metros livres. João Almeida vai apoiar Pogacar no Tour. Otamendi renovou com o Benfica.

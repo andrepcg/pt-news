@@ -1,9 +1,6 @@
-Hoje, em Portugal, o país enfrenta um risco elevado de incêndios, com 36 concelhos sob alerta máximo devido ao calor extremo, e 13 distritos sob aviso laranja devido às altas temperaturas. A população foi alertada para o risco "muito elevado" de exposição à radiação UV. Protestos contra a escalada dos preços da habitação decorreram em 13 cidades. Foi inaugurada uma bacia de retenção em Oeiras para prevenir cheias em Algés. A PSP realizou uma operação especial na Cova da Moura.
+Este sábado, Portugal continental enfrenta um aviso de calor laranja, com 13 distritos sob alerta e risco máximo de incêndio em 36 concelhos.  Registaram-se manifestações em várias cidades pelo acesso à habitação.
 
-No mundo, o Irão realizou funerais de Estado para os oficiais mortos em ataques israelitas. A guerra na Ucrânia continua, com um ataque russo em Odessa a causar mortos e feridos. Inundações no Paquistão fizeram várias vítimas. Trump suspendeu negociações com o Canadá, enquanto Guterres mediou um acordo de paz entre a RDCongo e o Ruanda. A China destituiu um almirante por corrupção. Na Venezuela, um sindicato denunciou a detenção de 20 jornalistas. Em Budapeste, húngaros desafiaram Orbán na marcha do orgulho LGBT.
+No plano internacional, o Irão realizou funerais de Estado para oficiais mortos em ataques israelitas e aumentam os receios de um programa nuclear pós-guerra. Um ataque russo em Odessa causou mortos e feridos. Guterres mediou um acordo entre a RDCongo e Ruanda. Na Venezuela, um sindicato denunciou a detenção de 20 jornalistas. Nos EUA, Trump suspendeu negociações com o Canadá e um reitor da Virgínia renunciou devido a pressões sobre políticas de diversidade. Húngaros desafiaram Orbán em marcha do orgulho LGBT.
 
-No desporto, destaque para a qualificação de Diogo Ribeiro para as finais dos Europeus sub-23 de natação, e para o Mundial de Clubes, com o Benfica a defrontar o Chelsea.
-
-Na economia, foi anunciada uma nova emissão de obrigações do tesouro para famílias.
-
-Por fim, um novo teste de sangue surge como alternativa para a deteção de leucemia.
+Em Portugal, o prazo para a entrega do IRS termina na segunda-feira. A PJ investiga um caso de abuso sexual num festival em Sesimbra e a PSP realizou uma operação na Cova da Moura com detenções. Oeiras inaugurou uma bacia para prevenir cheias. Foi lançada a primeira rede de empresas para promover a diversidade LGBTI no país. Diogo Ribeiro destacou-se nos Europeus de sub-23 com medalhas em natação. Miguel Corte-Real é o candidato do Chega à Câmara do Porto. Jorge Jesus aceitou treinar o Al Nassr, onde joga Cristiano Ronaldo.
+Ainda, foram descobertas bolachas vendidas em Espanha com ingredientes não declarados.

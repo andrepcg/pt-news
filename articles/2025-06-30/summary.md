@@ -1,17 +1,11 @@
-Aqui fica um resumo das principais notícias de 30 de junho de 2025:
+Hoje, Portugal debate-se com um novo recorde de temperatura, atingindo os 46,6ºC em Mora, com sete distritos sob aviso vermelho devido ao calor extremo e mais de 90 concelhos em risco máximo de incêndio. Incêndios em Castelo Branco e Torres Novas mobilizam centenas de operacionais, com reativações a ocorrerem durante a madrugada. A GNR reforça a vigilância contra incêndios.
 
-**Política:** António Filipe será o candidato do PCP às presidenciais. Bolsonaro pediu amnistia para apoiantes em manifestação. Zelensky pede alinhamento europeu nas sanções contra o Irão. José Luís Carneiro (PS) criticou a direita, e o Chega quer revogar acordo da CPLP sobre imigração. O Governo apertará o controlo da imigração, com economistas a alertarem para os riscos. Terminou hoje o prazo para a entrega do IRS e do IRC, bem como para o pagamento da primeira prestação do IMI.
+No desporto, o FC Porto contratou Farioli como treinador para 2025/26, o Benfica sagrou-se campeão de futsal ao vencer o Sporting, que aprovou o seu orçamento em Assembleia Geral. Jurásek foi emprestado ao Besiktas e Di María despediu-se do Benfica. No futebol internacional, o PSG goleou o Inter Miami, com destaque para João Neves. Lando Norris venceu o GP da Áustria de Fórmula 1 e Marc Márquez o GP dos Países Baixos.
 
-**Economia:** A inflação acelerou para 2,4% em junho. A Comissão Europeia aprovou o sexto pagamento do PRR a Portugal. Os motoristas de TVDE preparam uma paralisação contra as tarifas da Uber. A prestação da casa deverá baixar em julho, mas as descidas podem parar. Startups podem candidatar-se ao Ageas Insure para testar soluções inovadoras para o setor segurador. EDP Renováveis firma contrato de armazenamento de energia na Polónia
+Na política nacional, o PCP anunciou António Filipe como candidato presidencial, enquanto José Luís Carneiro (PS) criticou a direita. O Chega pretende revogar o acordo da CPLP que facilita a imigração e António Filipe é o candidato do PCP às presidenciais.
 
-**Desporto:** Farioli deverá ser o novo treinador do FC Porto para 2025/26. O Benfica sagrou-se campeão de futsal ao vencer o Sporting. O Sporting aprovou o orçamento e contas consolidadas em AG. PSG goleou o Inter Miami no Mundial de Clubes com destaque para João Neves. Lando Norris venceu o GP da Áustria de Fórmula 1 e Marc Márquez venceu o GP dos Países Baixos em Moto GP. Ivo Oliveira sagrou-se campeão português de fundo em ciclismo. Ucrânia venceu Golden League feminina de voleibol.
+A nível económico, terminam hoje os prazos para a entrega do IRS e IRC, assim como o pagamento da primeira prestação do IMI. Os combustíveis estão mais baratos. A inflação subiu para 2,4% em junho e a Comissão Europeia aprovou o sexto pagamento do PRR a Portugal. Motoristas de TVDE preparam uma paralisação contra as tarifas da Uber.
 
-**País:** Portugal registou um novo recorde de temperatura com 46,6ºC em Mora. Vários incêndios ativos mobilizaram centenas de operacionais, especialmente em Castelo Branco, onde o combate decorre favoravelmente.  A GNR reforçou a vigilância contra incêndios e foram registados casos de condução sob efeito de álcool. Em Lisboa, prossegue o julgamento entre Anjos e Joana Marques. Uma nuvem rara foi avistada nas praias portuguesas.
+No panorama internacional, Zelensky pede alinhamento europeu em sanções contra o Irão, enquanto Daniel Chapo reforça a cooperação entre Moçambique e Espanha. Bolsonaro pede amnistia para apoiantes. A guerra na Ucrânia continua, com Zelensky a abandonar convenção internacional sobre minas antipessoais. Ataques israelitas em Gaza causam dezenas de mortos.
 
-**Mundo:** A guerra na Ucrânia continua com Zelensky a retirar o país da convenção anti-minas.  Ataques israelitas em Gaza causaram dezenas de mortos. Canadá e EUA retomaram negociações sobre tarifas digitais após suspensão de imposto sobre tecnológicas.
-
-**Sociedade:** A PJ manifesta preocupação com o extremismo difundido nas redes sociais.
-
-**Tecnologia:** Musk alertou para o potencial da Inteligência Artificial transcendender a política.
-
-**Fama:** Jeff Bezos deu uma festa do pijama após o casamento.
+Outras notícias incluem uma tempestade de granizo que surpreendeu regiões do interior, o surgimento do raro fenómeno 'volutus' nas praias e um agente da PSP esfaqueado na Madeira. A Polícia Judiciária demonstra preocupação face ao extremismo difundido nas redes sociais. O casamento de Jeff Bezos também marcou o dia.

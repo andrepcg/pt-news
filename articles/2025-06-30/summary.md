@@ -1,0 +1,9 @@
+As notícias de hoje em Portugal e no mundo foram marcadas por diversos acontecimentos.
+
+Em Portugal, o país enfrenta um risco máximo de incêndio em cerca de 80 concelhos devido à onda de calor, e a GNR ativou mais 150 postos de vigia. No desporto, o Benfica foi eliminado do Mundial de Clubes, levando Bruno Lage a prometer mudanças, enquanto o Sporting vive uma das suas melhores fases e Varandas quer renovar com Pedro Gonçalves. Portugal chegou à final do Mundial sub-21 de andebol. André Villas-Boas negocia com Farioli para treinar o FC Porto. Sobre a seleção feminina, Andreia Jacinto deixou um aviso para Espanha, antes do jogo do Europeu.
+
+No mundo, as inundações no Paquistão causaram pelo menos 40 mortos. Israel ordenou a retirada de residentes de Jabalia e da Cidade de Gaza,  e um ataque causou mais de 70 mortos. O Irão reportou 71 mortos num ataque israelita à prisão de Evin e poderá enriquecer urânio em "alguns meses", segundo a AIEA. A Rússia lançou um ataque aéreo massivo contra a Ucrânia. Na política internacional, a OSCE reuniu no Porto para debater a atualidade, enquanto nos EUA, o Senado aprovou o debate sobre o orçamento de Trump, que foi criticado por Elon Musk. José Luís Carneiro foi eleito líder do PS em Portugal. Houve também protestos contra a entrada na zona euro na Bulgária e uma marcha do Orgulho em Budapeste contra as políticas de Orbán.
+
+Na economia, destaque para a crítica de Elon Musk ao pacote fiscal de Trump, e para a conferência da ONU em Sevilha no combate à pobreza. Quase quatro milhões de portugueses têm seguros de saúde, sendo lançadas novas apólices com condições padrão.
+
+Outros temas incluem o falecimento de Patrick Ryan, o padre ligado ao IRA, a revelação de Lídia Franco sobre um cancro, e a descoberta de que cavalos sorraia podem ajudar a reduzir o risco de incêndios. Um jovem foi detido em Oeiras por conduzir sob o efeito da "droga do riso".

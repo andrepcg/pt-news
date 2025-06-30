@@ -1,15 +1,11 @@
-*   **Política:** Bolsonaro apelou à amnistia para apoiantes durante um protesto contra o seu julgamento no Brasil, enquanto Zelensky pediu à Europa um alinhamento nas sanções contra o Irão. Em Moçambique, o Presidente Daniel Chapo fortaleceu a cooperação com Espanha. Em Portugal, o PS acusou a direita de desviar as atenções dos problemas reais e o PCP anunciou António Filipe como candidato presidencial.
+As notícias de hoje incluem: No desporto, o FC Porto contratou Farioli como novo treinador, o Benfica sagrou-se campeão de futsal, o Sporting aprovou o orçamento em Assembleia Geral e o PSG goleou o Inter Miami no Mundial de Clubes. Jurásek foi emprestado ao Besiktas e o presidente do Sporting comentou a possível saída de Gyokeres. Isaac Nader e Lorène Bazolo destacaram-se no Europeu de equipas em atletismo e a Ucrânia venceu a Golden League feminina de voleibol.
 
-*   **Desporto:** Farioli será o novo treinador do FC Porto na época 2025/26. O Benfica sagrou-se campeão de futsal ao vencer o Sporting e emprestou Jurásek ao Besiktas. O Sporting aprovou o orçamento em Assembleia Geral e o seu presidente comentou sobre a possível saída de Gyokeres. A Ucrânia venceu a Golden League feminina de voleibol.
+Na política, Bolsonaro pediu amnistia para apoiantes, Zelensky apelou a sanções europeias contra o Irão e Daniel Chapo, de Moçambique, reforçou a cooperação com Espanha. José Luís Carneiro (PS) criticou a direita, o PCP anunciou António Filipe como candidato presidencial e criticou a redução do IRS. Guterres e Marcelo Rebelo de Sousa defenderam os princípios da OSCE, enquanto Netanyahu abordou o conflito com o Irão.
 
-*   **Economia:** As Linhas Aéreas de Moçambique exigem exclusividade ao novo gestor, Dane Kondic.
+Em Portugal, o país enfrentou calor extremo, com um novo recorde de temperatura, e incêndios ativos em Castelo Branco e Torres Novas. Um agente da PSP foi esfaqueado na Madeira e foi noticiada uma tempestade de granizo e o fenómeno 'volutus' em praias.
 
-*   **Sociedade:** Um agente da PSP foi esfaqueado na Madeira. Portugal registou um novo recorde de temperatura em junho, com 46,6ºC, e um incêndio em Castelo Branco mobilizou centenas de operacionais.
+No mundo, a guerra na Ucrânia persiste, com o país a procurar demonstrar capacidade de atingir alvos na Rússia, e o conflito no Médio Oriente continua a gerar tensões. Mais de 130 migrantes chegaram às Ilhas Baleares e a Turquia deteve várias pessoas na Marcha do Orgulho de Istambul.
 
-*   **Cultura:** José Rodrigues dos Santos é o único português presente na feira de livros de bolso em França.
+Na economia, a Linhas Aéreas de Moçambique exigiu exclusividade ao novo gestor e Trump afirmou ter encontrado um comprador para o TikTok. Startups podem candidatar-se ao Ageas Insure.
 
-*   **Celebridades:** O vestido de noiva de Lauren Sánchez, no casamento com Jeff Bezos, foi inspirado em Sophia Loren.
-
-*   **Saúde:** Um artigo de opinião explora qual a melhor temperatura do duche para ajudar a dormir.
-
-*   **Guerra:** A guerra na Ucrânia deverá continuar.
+Outros destaques incluem o casamento de Jeff Bezos, a presença de José Rodrigues dos Santos na feira de livros de bolso em França e a opinião de Charlize Theron sobre apps de encontros.

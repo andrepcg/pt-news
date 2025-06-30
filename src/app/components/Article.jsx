@@ -12,8 +12,13 @@ function formatDate(date) {
 }
 
 function extractHost(url) {
-  const urlObj = new URL(url)
-  return urlObj.hostname.replace('www.', '')
+  try {
+    const urlObj = new URL(url)
+    return urlObj.hostname.replace('www.', '')
+  } catch (e) {
+    console.error(`Error extracting host from ${url}: ${e}`)
+    return url
+  }
 }
 
 export default function Article({ title, tags, urls, date }) {

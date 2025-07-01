@@ -1,7 +1,13 @@
-O dia ficou marcado pelo calor intenso, com oito distritos em Portugal sob aviso laranja e mais de 80 concelhos continentais em perigo máximo de incêndio. Apesar do reforço nos meios de combate, persiste a falta de helicópteros. Registaram-se vários incêndios, com destaque para o fogo em Pinhel, já em fase de rescaldo.
+O dia ficou marcado pelo calor intenso, com oito distritos sob aviso laranja, e pelos incêndios, com mais de 80 concelhos em perigo máximo e meios de combate reforçados, embora ainda faltem helicópteros. Em Pinhel, o fogo está em fase de rescaldo.
 
-Na economia, a sustentabilidade do SNS caiu pelo terceiro ano consecutivo, apesar do investimento ter gerado um retorno significativo. A Altice anunciou um programa de saídas voluntárias, enquanto o PSI disparou 22% no primeiro semestre. Os consumidores mostram-se menos pessimistas em relação à economia da Zona Euro, apesar de a inflação se manter nos 2,0%. A dívida pública portuguesa atingiu um novo recorde. Há novidades nos impostos, nomeadamente sobre o IVA em painéis solares e ares condicionados.
+Na saúde, um estudo aponta para o retorno de 9,5 mil milhões para a economia devido ao investimento no SNS, mas a sustentabilidade cai pelo terceiro ano consecutivo. Quase 80% dos utentes desconhecem os seus direitos no acesso à saúde, segundo outro estudo.
 
-A nível internacional, Trump ameaça o Japão e Elon Musk com novas taxas e cortes de subsídios, respetivamente. A Venezuela pondera declarar o Alto Comissário da ONU "persona non grata". O Irão recusa uma retoma rápida do diálogo com os EUA sobre o programa nuclear, apesar do apelo do G7 para que coopere com a AIEA. Em Gaza, ataques israelitas fizeram dezenas de mortos.
+Na economia, o PSI disparou 22% no primeiro semestre, mas analistas preveem uma desaceleração. A Altice avança com um programa de saídas voluntárias e a dívida pública portuguesa atingiu um novo recorde em maio. Bruxelas avalia que a falta de produtividade está a prejudicar a União Europeia. Os consumidores estão mais otimistas em relação à economia da Zona Euro e já não temem tanto a inflação.
 
-Em Portugal, o governo quer monitorizar o trabalho dos juízes dos tribunais administrativos e fiscais e reforçou o pessoal nas conservatórias face ao aumento de pedidos de nacionalidade. A GNR registou diversos acidentes com veículos agrícolas, resultando em 52 mortos em 2024. No desporto, o Sporting inicia a época em busca do tricampeonato.
+No plano internacional, Trump volta a ameaçar o Japão com tarifas alfandegárias, enquanto a Venezuela discute declarar o Alto Comissário da ONU "persona non grata". O Irão recusa uma retoma rápida do diálogo com os EUA sobre o programa nuclear, apesar dos apelos do G7 para retomar a cooperação com a AIEA. A Rússia intensifica a ofensiva de Verão na Ucrânia, avançando para consolidar mais território conquistado. Em Gaza, ataques israelitas causaram dezenas de mortos.
+
+Em Portugal, o governo quer monitorizar o trabalho dos juízes dos tribunais administrativos e fiscais, e reforçou o pessoal nas conservatórias para acelerar os pedidos de nacionalidade. As matrículas para o 5.º ano e outros ciclos foram iniciadas. O Tribunal vai hoje julgar o acusado de matar um amigo no Porto.
+
+Um acidente em Alcochete cortou a EN4 e fez cinco feridos, enquanto 684 acidentes com veículos agrícolas causaram 52 mortes em 2024.
+
+Na cultura, o Portugal Fashion comemora 30 anos com uma edição especial no Porto.

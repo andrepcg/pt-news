@@ -1,0 +1,7 @@
+O dia ficou marcado pelo aviso laranja em oito distritos de Portugal devido ao calor intenso. No combate aos incêndios, apesar do reforço de meios, persiste a falta de helicópteros. Um incêndio em Pinhel está em fase de rescaldo. A associação Zero alertou para o risco de "repetição de tragédias humanas" relacionadas com os fogos.
+
+Na economia, o SNS registou um retorno de 9,5 mil milhões de euros, mas a sustentabilidade continua a cair. A Altice lançou um programa de saídas voluntárias e o PSI disparou 22% no primeiro semestre. Há ainda a possibilidade de corrigir o IRS Jovem até 30 de julho. Uma startup promete acelerar tarefas de contabilistas com IA.
+
+No plano internacional, Trump ameaça o Japão com novas taxas alfandegárias, enquanto na Venezuela se discute declarar o Alto Comissário da ONU "persona non grata". O Irão recusa uma retoma rápida do diálogo com os EUA sobre o programa nuclear, apesar dos apelos do G7. Em Hong Kong, o empresário pró-democracia Jimmy Lai permanece em solitária há mais de 4 anos.
+
+Outros temas incluem o início das matrículas para o 5.º ano e outros ciclos, o plano do Governo para monitorizar o trabalho dos juízes dos tribunais administrativos e fiscais e o início do transporte de emergência médica pela Força Aérea. No Porto, aguarda-se a sentença do acusado de matar um amigo.

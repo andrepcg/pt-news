@@ -1,19 +1,13 @@
-O dia ficou marcado pelo *calor intenso*, com oito distritos sob aviso laranja, e pelos **incêndios**, com mais de 80 concelhos em perigo máximo, apesar do reforço de meios, onde se notou a falta de helicópteros. Registaram-se vários incêndios, com destaque para o fogo em Pinhel que está em fase de rescaldo e vigilância.
+Portugal enfrenta uma onda de calor intensa, com oito distritos sob aviso laranja, enquanto os incêndios rurais continuam a ser uma preocupação, apesar do reforço de meios, com alertas da Zero para potenciais tragédias humanas. Registaram-se ainda vários acidentes rodoviários, incluindo um com veículos agrícolas que causaram 52 mortes este ano.
 
-No que diz respeito à **economia**, a sustentabilidade do SNS está a cair pelo terceiro ano, apesar do investimento que permitiu um retorno significativo. A Altice avançou com um programa de saídas voluntárias, enquanto no mercado financeiro, o PSI disparou 22% no primeiro semestre. A taxa de desemprego em Portugal desceu ligeiramente para 6,3% em maio, mas a dívida pública atingiu um novo recorde. A inflação na zona euro é estimada em 2,0% em junho e o BCE considera a meta atingida. Os consumidores estão mais otimistas em relação à economia da Zona Euro.
+Na economia, a sustentabilidade do SNS está em queda, apesar do investimento que gerou um retorno significativo, e a dívida pública atingiu um novo recorde. A Altice anunciou um programa de saídas voluntárias e a Explorer negocia a compra do fundo de promoção turística Discovery. O PSI registou um aumento significativo no primeiro semestre, mas prevê-se uma desaceleração. A taxa de desemprego em Portugal desceu ligeiramente para 6,3% em maio. A Euribor apresentou subidas a 3 e 6 meses e descidas a 12 meses.
 
-Na **política**, o Governo quer monitorizar o trabalho dos juízes dos tribunais administrativos e fiscais e reforçou o pessoal nas conservatórias para acelerar os pedidos de nacionalidade. O Governo vai investir na unidade de trânsito da GNR. O TC suspendeu a primeira-ministra da Tailândia. Sócrates apresentou queixa contra o Estado no Tribunal Europeu dos Direitos Humanos devido à Operação Marquês. Luís Montenegro opõe-se à consulta pública da sua declaração de rendimentos, gerando discussão sobre transparência. Marcelo Rebelo de Sousa assinala o Dia da Região Autónoma da Madeira.
+No panorama político, o Governo pretende monitorizar o trabalho dos juízes dos tribunais administrativos e fiscais e reforçou o pessoal nas conservatórias para acelerar os pedidos de nacionalidade. A transparência de Luís Montenegro está a ser questionada, com o mesmo a opor-se à consulta pública da sua declaração de rendimentos. Marcelo Rebelo de Sousa pretende inteirar-se da situação. António Costa queixou-se ao Tribunal Europeu dos Direitos Humanos contra o Estado português devido à Operação Marquês.
 
-No âmbito **internacional**, Trump ameaçou o Japão com novas taxas alfandegárias e cortar subsídios a Elon Musk. Venezuela discute proposta para declarar o Alto Comissário da ONU "persona non grata". O Irão recusa uma retoma rápida do diálogo com os EUA sobre o programa nuclear, enquanto o G7 apela ao Irão para retomar a cooperação nuclear com a AIEA. Kim Jong-un prestou homenagem a soldados norte-coreanos mortos na Ucrânia.
+A nível internacional, Trump ameaça o Japão com novas taxas alfandegárias e cortar subsídios às empresas de Elon Musk. A Venezuela discute declarar o Alto Comissário da ONU "persona non grata", enquanto o Irão recusa uma retoma rápida do diálogo com os EUA sobre o programa nuclear, apesar dos apelos do G7 para cooperar com a AIEA. Taiwan simulou uma "guerra total" com a China em manobras militares. A Rússia intensificou a ofensiva no Verão na Ucrânia.
 
-Na área da **justiça**, foi reaberta a investigação a Vítor Hugo Salgado por violência doméstica. Um homem foi detido por violar uma jovem doente no Hospital de Portalegre.
+Em Moçambique, o PAM assistiu a mais de 370 mil pessoas, e registam-se demoras na atribuição de licenças para voos domésticos.
 
-Na **sociedade**, registaram-se 52 mortes em acidentes com veículos agrícolas em 2024. Portugal registou um novo máximo de temperatura mínima em junho.
+No desporto, o Sporting inicia a época em busca do tricampeonato e Ana Borges trocou o Sporting pelo Benfica.
 
-Em **Moçambique**, o PAM assistiu a mais de 370 mil pessoas em maio, e a Missão da UE formou mais de 450 militares.
-
-No **desporto**, o Sporting iniciou a época 2025/26 em busca do tricampeonato, e Ana Borges trocou o Sporting pelo Benfica. Jaime Faria foi eliminado na primeira ronda de Wimbledon.
-
-Na área da **tecnologia**, uma startup procura ajudar contabilistas com IA. A Microsoft anunciou um sistema de IA mais eficaz que médicos em diagnósticos complexos.
-
-Por fim, deu-se o início das matrículas para o 5.º ano e outros ciclos.
+Na tecnologia, uma startup promete acelerar tarefas de contabilistas com IA, e a Microsoft anunciou um sistema de IA "mais eficaz" que médicos em diagnósticos complexos. O Conselho de Ética apoia a proibição de telemóveis nas escolas.

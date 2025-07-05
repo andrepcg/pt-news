@@ -1,0 +1,7 @@
+Em dia de celebração dos 50 anos da independência de Cabo Verde, o mundo assistiu a uma manifestação violenta no México contra o turismo de massas e a Turquia enfrenta incêndios florestais severos devido à seca. No Reino Unido, o tribunal manteve a proibição ao grupo Palestine Action e a Chanceler do Tesouro antevê novos aumentos de impostos, enquanto o Embaixador dos EUA demonstra confiança num acordo com o Canadá. Relativamente à guerra na Ucrânia, militares dos EUA contrariam avaliações sobre o impacto da ajuda a Kyiv na prontidão americana, e a Ucrânia alega ter matado mais de 230 mil combatentes russos nos últimos seis meses.
+
+Em Portugal, Marcelo Rebelo de Sousa aguarda a compatibilização de posições sobre imigração e nacionalidade, o PS elegeu o seu novo Secretariado Nacional, foram apreendidos medicamentos ilegais e dois suspeitos de roubo e burla a idosos foram detidos em Esposende.
+
+No desporto, Gondomar homenageou Diogo Jota e André Silva, Pedro Neto homenageou Diogo Jota no jogo Palmeiras-Chelsea e o Arsenal definiu uma data limite para contratar Gyokeres. O Benfica ativou o 'modo limpeza' no plantel e o Chelsea eliminou o Palmeiras de Abel Ferreira no Mundial de Clubes.
+
+Na cultura, o Festival Matosinhos em Jazz abriu com Mansur Brown. O Dalai Lama previu viver mais 30 a 40 anos e a Índia mantém a neutralidade na sua sucessão.

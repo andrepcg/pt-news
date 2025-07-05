@@ -1,13 +1,9 @@
-Hoje, Portugal e o mundo foram marcados por diversos acontecimentos.
+Hoje, as notícias foram marcadas por diversos eventos tanto em Portugal como no mundo.
 
-Em Portugal, Gondomar prestou uma sentida homenagem a Diogo Jota e André Silva, com um funeral que comoveu o país. No âmbito da segurança, foram apreendidos medicamentos ilegais e realizadas operações rodoviárias que resultaram em detenções. O país debate-se também com um elevado número de pedidos de nacionalidade pendentes e com a temperatura do solo a ultrapassar os 50 graus. No desporto, destaque para a homenagem de Pedro Neto a Diogo Jota e para a conquista do selo azul MSC pela sardinha portuguesa.
+Em Portugal, destacam-se os 515 mil pedidos de nacionalidade pendentes, apreensões de medicamentos ilegais e a interdição do Parque Natural Sintra-Cascais devido ao risco de incêndio. No desporto, Gondomar prestou homenagem a Diogo Jota e André Silva, enquanto João Almeida participa na Volta a França para apoiar Pogacar. A nível político, Marcelo Rebelo de Sousa aguarda consenso sobre imigração e nacionalidade, e o PS elegeu um novo Secretariado Nacional.
 
-No panorama político nacional, Marcelo Rebelo de Sousa aguarda um consenso sobre imigração e nacionalidade, enquanto o PS elegeu um novo Secretariado Nacional e criticou a atuação do Governo. O governo entregou novas viaturas à GNR e PSP num investimento de 7,5 milhões de euros e lançou um concurso para 12 mil vagas no pré-escolar privado.
+No plano internacional, as celebrações dos 50 anos de independência de Cabo Verde foram um dos destaques. No entanto, o dia ficou também marcado pela violência numa manifestação no México, pelos incêndios florestais na Turquia e pelas cheias devastadoras no Texas, com um número elevado de mortos. O Dalai Lama previu viver mais 30 a 40 anos. A guerra na Ucrânia continua a ser notícia, com alegações de pesadas baixas russas. Economicamente, a Chanceler britânica do Tesouro antecipou novos aumentos de impostos.
 
-A nível internacional, Cabo Verde celebrou 50 anos de independência com a presença de líderes lusófonos. No México, uma manifestação contra o turismo de massas terminou em violência. O Dalai Lama previu viver mais 30 a 40 anos, enquanto a Índia mantém neutralidade na sua sucessão. No Reino Unido, a Chanceler do Tesouro antevê novos aumentos de impostos. A guerra na Ucrânia continua a ser um ponto de tensão, com ambos os lados a reivindicarem sucessos militares. Registaram-se inundações devastadoras no Texas e um desabamento de um edifício no Paquistão.
+No mundo do desporto, destaque para a eliminação do Palmeiras no Mundial de Clubes pelo Chelsea e para a homenagem a Diogo Jota no jogo Palmeiras-Chelsea. No mundo da cultura, o Festival Matosinhos em Jazz abriu com Mansur Brown e cancelamento do concerto de Sam Fender no NOS Alive devido a problemas de saúde do artista.
 
-No mundo do desporto, o Chelsea eliminou o Palmeiras no Mundial de Clubes, enquanto o Arsenal definiu uma data limite para contratar Gyokeres. João Almeida participará na Volta a França como apoio a Pogacar e Verstappen garantiu a pole position no GP da Grã-Bretanha.
-
-Na cultura e entretenimento, o Festival Matosinhos em Jazz abriu com Mansur Brown, e o Festival d’Avignon destacou Marlene Monteiro Freitas. Os Oasis homenagearam Diogo Jota num concerto de reunião após 16 anos de pausa.
-
-Por fim, a AMA (Autoridade Nacional de Comunicações) está sob escrutínio devido a alegados favorecimentos de ex-quadros da Glintt em contratos públicos e um vídeo de uma onda gigante no Algarve revelou-se um deepfake gerado por IA.
+Finalmente, um vídeo falso de uma onda gigante no Algarve, criado por inteligência artificial, tornou-se viral.

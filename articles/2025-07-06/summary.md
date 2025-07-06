@@ -1,11 +1,5 @@
-As cheias no Texas provocaram mais de 50 mortos, incluindo crianças, com resgates a decorrer. No Brasil, a cimeira dos BRICS no Rio de Janeiro focou-se em reformas e contou com a estreia de Cuba, enquanto a Petrobras busca investimento chinês para melhorar o transporte marítimo.
+Em Portugal, Faro, Viana do Castelo e Viseu lideram na qualidade do ar, enquanto sete distritos estão sob aviso amarelo devido à onda de calor e quase 30 concelhos enfrentam risco máximo de incêndio. No desporto, Renato Sanches regressa ao PSG, o Sporting inicia a pré-temporada com dúvidas sobre Gyokeres e o FC Porto demonstra interesse em Dominik Prpic. Seis jovens portugueses competem nas Olimpíadas da Matemática na Austrália.
 
-Em Portugal, Faro, Viana do Castelo e Viseu destacam-se pela qualidade do ar. O país está também sob aviso amarelo devido à onda de calor, com vários concelhos em risco máximo de incêndio. Autarquias enfrentam mudanças com quase 90 presidentes de câmara a sair devido ao limite de mandatos.
+No mundo, as cheias no Texas causaram mais de 50 mortos, incluindo crianças. No Rio de Janeiro, a Cimeira dos BRICS, com a participação inédita de Cuba, foca-se em reformas e multilateralismo. A China proibiu celebrações do aniversário do Dalai Lama, que completa 90 anos em meio a tensões. A França defende barreiras alfandegárias contra a China, enquanto o México vai construir 60 centrais de ciclo combinado. O Japão prepara-se para diferentes cenários tarifários em negociações comerciais. A Petrobras busca investimento chinês para melhorar o transporte marítimo. Na política, jovens europeus preferem a democracia, mas 20% aceitariam um governo autoritário e Elon Musk criou o "Partido da América" nos EUA. As Ilhas de Bijagós estão perto de serem Património Mundial da UNESCO.
 
-No mundo, a China proibiu celebrações do aniversário do Dalai Lama, enquanto este completou 90 anos em contexto de tensões. A França defende barreiras alfandegárias reforçadas contra a China. O México vai construir 60 centrais de ciclo combinado e o Japão prepara-se para diferentes cenários tarifários nas negociações comerciais. Jovens europeus preferem democracia, mas 20% consideram o governo autoritário. Musk criou o "Partido da América" nos EUA. Ilhas de Bijagós podem vir a ser Património Mundial da UNESCO.
-
-No desporto, Renato Sanches regressa ao PSG após empréstimo ao Benfica, e o Sporting inicia a pré-temporada com indefinição sobre Gyokeres. O FC Porto mostra interesse em Dominik Prpic.
-
-Na cultura, Mel B casou-se em Londres e foi publicado o obituário de Louis Diaz, agente infiltrado da DEA. Um livro procura desmistificar exorcismos.
-
-Foi ainda destacada a importância da nutrição pré-gravidez e a arte urbana no Bairro da Serafina, em Lisboa.
+Em outros destaques, Mel B casou-se em Londres, um livro desmistifica exorcismos e há um debate sobre a falta da voz dos jovens na democracia.

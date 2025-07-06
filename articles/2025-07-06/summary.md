@@ -1,17 +1,11 @@
-As notícias de hoje, 6 de julho de 2025, são marcadas por eventos trágicos e desenvolvimentos importantes em diversas áreas.
+As cheias no Texas provocaram mais de 50 mortos e dezenas de desaparecidos. Sete distritos de Portugal Continental estão sob aviso amarelo devido ao calor, e quase 30 concelhos enfrentam risco máximo de incêndio. Na Madeira, o vento forte levou ao cancelamento de vários voos.
 
-No Texas, as inundações repentinas causaram a morte de mais de 50 pessoas, incluindo várias crianças, levando à declaração de estado de desastre. Em Portugal, sete distritos estão sob aviso amarelo devido à onda de calor e quase 30 concelhos enfrentam risco máximo de incêndio, com incêndios ativos a mobilizar centenas de bombeiros. Um mergulhador morreu ao largo do Cabo Espichel e um acidente na A1 causou uma vítima mortal.
+No mundo, a cimeira dos BRICS no Rio de Janeiro contou com a participação de Cuba, focando-se em multilateralismo e reformas. A China proibiu celebrações do aniversário do Dalai Lama, que completa 90 anos em meio a tensões. A França defende barreiras alfandegárias contra a China, enquanto a Petrobras busca investimento chinês. Elon Musk criou o "Partido da América" nos EUA. Israel e o Hamas retomaram negociações no Qatar.
 
-A nível internacional, as cheias no Texas fizeram mais de 50 mortos e no Paquistão o desabamento de um edifício causou pelo menos 27 mortos. Registam-se tensões no Médio Oriente, com negociações entre Israel e Hamas no Qatar e o Hezbollah a rejeitar o desarmamento. A Rússia anunciou a conquista de mais duas localidades no leste da Ucrânia. O Dalai Lama celebrou o seu 90º aniversário em meio a tensões com a China sobre a sua sucessão. No Mar Vermelho, um navio foi atacado ao largo do Iémen.
+Em Portugal, quase 90 presidentes de câmara estão de saída devido ao limite de mandatos. A Livraria Lello vai mudar-se para a Baixa do Porto em 2026. Um homem foi detido em Valença por posse de armas ilegais e um acidente na A1 na Mealhada causou uma vítima mortal. A ANA negou pressões para reduzir controlos no Aeroporto de Lisboa.
 
-Na economia, os líderes dos BRICS reuniram-se defendendo o multilateralismo e a reforma das instituições. Cuba juntou-se ao grupo pela primeira vez. A Petrobras procura investimento chinês para melhorar o transporte marítimo. O governo francês defende o reforço das barreiras alfandegárias contra a China.
+No desporto, Renato Sanches regressa ao PSG, enquanto o Sporting iniciou a pré-temporada com indefinições sobre Gyokeres, alvo do Arsenal. Francesco Farioli foi anunciado como o novo treinador do FC Porto. Lando Norris venceu o GP da Grã-Bretanha de Fórmula 1 e Van der Poel venceu etapa na Volta a França.
 
-Em Portugal, a ANA negou pressões para facilitar controlos no Aeroporto de Lisboa e o Estado foi o principal beneficiário do PT2020. Quase 90 presidentes de câmara estão de saída devido ao limite de mandatos.
+Na cultura, o escritor e poeta Álamo de Oliveira faleceu. Um livro desmistifica exorcismos e pretende ser um guia para padres.
 
-No desporto, Francesco Farioli foi anunciado como o novo treinador do FC Porto. O Arsenal está perto de contratar Gyökeres ao Sporting. Lando Norris venceu o GP da Grã-Bretanha de Fórmula 1 e Van der Poel venceu etapa na Volta a França. Lamenta-se a morte de Diogo Jota, com várias homenagens a decorrer.
-
-Na cultura, o escritor e poeta Álamo de Oliveira faleceu e um novo livro desmistifica exorcismos.
-
-Elon Musk anunciou a criação do "Partido da América" nos EUA e jovens europeus mostram preferência pela democracia, embora 20% considerem um governo autoritário.
-
-Finalmente, as Ilhas de Bijagós estão prestes a ser reconhecidas como Património Mundial da UNESCO.
+Outros destaques incluem o encerramento do Parque Sintra-Cascais devido ao risco de incêndio, e o aumento de reprovações no segundo ciclo e nono ano em Portugal.

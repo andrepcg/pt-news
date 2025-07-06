@@ -1,11 +1,9 @@
-As notícias do dia 6 de julho de 2025 são marcadas por tragédias e tensões internacionais, mas também por eventos desportivos e culturais.
+As inundações no Texas causaram mais de 50 mortos, incluindo crianças, levando a resgates dramáticos. No Brasil, a cimeira dos BRICS, com a participação inédita de Cuba, focou-se em reformas e multilateralismo, enquanto a Petrobras busca investimento chinês para o transporte marítimo.
 
-No Texas, inundações devastadoras causaram mais de 50 mortos, incluindo crianças. Em Portugal, sete distritos estão sob aviso amarelo devido à onda de calor, com quase 30 concelhos em risco máximo de incêndio.
+Em Portugal, Faro, Viana do Castelo e Viseu destacaram-se pela qualidade do ar, mas o país enfrenta também uma onda de calor, com sete distritos sob aviso amarelo e risco máximo de incêndio em vários concelhos. Quase 90 presidentes de câmara estão de saída devido ao limite de mandatos nas próximas autárquicas.
 
-A nível internacional, a cimeira dos BRICS no Rio de Janeiro contou com a participação inédita de Cuba, focando-se em reformas e multilateralismo. A China proibiu celebrações do aniversário do Dalai Lama, que completou 90 anos em meio a tensões sobre a sua sucessão. A França defende reforçar barreiras alfandegárias contra a China, enquanto o México vai construir 60 centrais de ciclo combinado. Israel e Hamas retomaram negociações no Qatar, enquanto o Hezbollah rejeita o desarmamento perante Israel.
+No panorama internacional, a China proibiu celebrações do aniversário do Dalai Lama, que completa 90 anos em meio a tensões. A França defende barreiras alfandegárias contra a China, enquanto o Japão se prepara para diferentes cenários tarifários em negociações comerciais. O México vai construir novas centrais de ciclo combinado. Na Europa, uma pesquisa revela que, embora os jovens prefiram a democracia, 20% considerariam um governo autoritário. Israel e Hamas retomaram as negociações no Qatar, enquanto o líder de uma milícia inimiga do Hamas admitiu cooperar com Israel.
 
-No desporto, Renato Sanches regressou ao PSG, e o Sporting iniciou a pré-temporada com indefinições sobre Gyokeres, que poderá ser contratado pelo Arsenal. O FC Porto tem novo treinador, Francesco Farioli.
+No desporto, Renato Sanches regressa ao PSG e o Sporting inicia a pré-temporada com indefinições sobre Gyokeres, com o Arsenal interessado em contratá-lo. O FC Porto tem novo treinador, Francesco Farioli, e mostra interesse em Dominik Prpic.
 
-Em Portugal, as autárquicas de 2025 marcam a saída de quase 90 presidentes de câmara devido ao limite de mandatos. A Livraria Lello mudará a sua sede para a Baixa do Porto em 2026.
-
-Outros destaques incluem a procura da Petrobras por investimento chinês, a criação do "Partido da América" por Elon Musk e o desmentido da ANA sobre pressões para reduzir controlos no Aeroporto de Lisboa.
+Outras notícias incluem o falecimento do agente infiltrado da DEA, Louis Diaz, o casamento de Mel B em Londres, a atribulada crise na habitação em Portugal e a Livraria Lello a mudar de instalações no Porto em 2026. Um mergulhador morreu ao largo do Cabo Espichel, em Sesimbra.

@@ -1,7 +1,11 @@
-Hoje, em Portugal, a justiça esteve em destaque com o início do interrogatório de José Sócrates no âmbito da Operação Marquês e buscas da PJ relacionadas com suspeitas de corrupção em fundos do PRR. Dois reclusos foram recapturados após a fuga da prisão de Alcoentre, cuja facilitação foi atribuída à greve dos guardas prisionais. No âmbito da saúde, um relatório da DGS revelou a diminuição de sal e açúcar nos alimentos, enquanto se debate a adequação dos helicópteros do INEM para o SNS. Mais de 100 concelhos estão sob risco máximo de incêndio, e um incêndio em Alandroal obrigou à retirada de moradores.
+Aqui estão os principais destaques das notícias de hoje:
 
-No mundo, Netanyahu propôs Trump para o Nobel da Paz, enquanto os EUA enviam mais armas para a Ucrânia. Dezoito palestinianos e cinco soldados israelitas morreram em Gaza, onde a ajuda humanitária tenta entrar. Inundações no Nepal e no Texas causaram dezenas de mortos. A tensão aumentou com a incursão aérea chinesa detetada por Taiwan.
+**Política e Economia:** Portugal obteve luz verde da UE para maior investimento em defesa, enquanto o Governo pondera alterar as leis da nacionalidade e estrangeiros. A privatização da TAP avança nas próximas semanas e os cinemas registaram o melhor junho desde 2019. A Comissão Europeia alerta que as pensões vão exigir 40% da receita fiscal até 2050 e Bruxelas pressiona Portugal para maior eficiência da justiça. A Ordem dos Contabilistas defende incentivos fiscais.
 
-Na economia, a Samsung prevê queda de lucro devido à guerra comercial, enquanto a Euronext ambiciona liderar o mercado europeu de 'repos'. A ativação de uma cláusula para Portugal gastar mais em defesa aguarda aprovação da UE, e a privatização da TAP deverá avançar brevemente.
+**Justiça e Crime:** José Sócrates foi interrogado no processo Operação Marquês, negando proximidade com Ricardo Salgado. A PJ realizou buscas na Universidade do Porto e INEM por suspeitas de corrupção com fundos do PRR. Os reclusos que fugiram de Alcoentre foram recapturados, fuga essa facilitada pela greve dos guardas prisionais. No caso da "Grávida da Murtosa", houve absolvição e recurso do MP. A Justiça Europeia investiga a extrema-direita por desvio de fundos.
 
-Diversos: Ruben Amorim terá chumbado um documentário e o Manchester United perdeu milhões.
+**Saúde:** A DGS revelou que os alimentos têm menos sal e açúcar. Há preocupações sobre helicópteros militares do INEM e o seu impacto no SNS. O Hospital de Santa Maria gastou 40 milhões em cirurgias adicionais. As urgências obstétricas do Barreiro vão encerrar temporariamente.
+
+**Mundo:** Netanyahu propôs Trump para o Nobel da Paz, enquanto o Pentágono enviou mais armas para Kiev. Dezoito palestinianos e cinco soldados israelitas morreram em Gaza. Inundações no Nepal e no Texas causaram dezenas de mortos. Taiwan detetou nova incursão aérea chinesa. A Grécia suspendeu visitas à Acrópole devido ao calor.
+
+**Incêndios:** Mais de 100 concelhos estão em risco máximo de incêndio e um incêndio em Alandroal obrigou à retirada de moradores.

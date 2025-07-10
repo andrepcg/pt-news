@@ -1,0 +1,9 @@
+Os destaques de hoje incluem a votação de uma moção de censura do Parlamento Europeu à Comissão Europeia e a votação na Assembleia da República da proposta de redução do IRS para 2025, com o governo a enfrentar potencial coligação negativa devido ao apoio do Chega à proposta do PS sobre o IRS Jovem. No âmbito económico, Trump anunciou tarifas de 50% sobre o cobre a partir de 1 de agosto, enquanto a China lidera projetos de energia solar e eólica a nível mundial, e os seguros de crédito à exportação passarão para o Banco de Fomento em janeiro. A Autoridade Tributária registou um máximo histórico de fraudes fiscais em 2024, e a meta da NATO de 5% do PIB para a Defesa poderá comprometer o Estado Social.
+
+No plano internacional, Israel intercetou um míssil lançado do Iémen, Taiwan iniciou os maiores exercícios militares face às ameaças da China, e um tribunal emitiu um novo mandado de prisão contra o ex-presidente Yoon. A guerra na Ucrânia continua, com um ataque russo a Kiev a provocar mortos e feridos.
+
+A nível nacional, mais de 20 concelhos estão em perigo máximo de incêndio rural, a Ministra da Saúde pediu tempo para reorganizar a crise no SNS, e Setúbal questiona a fiscalização a descargas de efluentes. Em notícias sobre a sociedade, os deputados debatem se a violação deve ser considerada um crime público, e foi reportado que 55 crianças morreram afogadas nos últimos 4 anos em Portugal.
+
+Na área da saúde, a receita de impostos sobre tabaco, açúcar e medicamentos atingiu os 759 milhões de euros, e um estudo revelou benefícios desconhecidos para o tecido adiposo após a perda de peso.
+
+Por fim, o festival NOS Alive teve o seu início, apresentando mais de 100 artistas e bandas.

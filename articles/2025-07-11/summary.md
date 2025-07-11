@@ -1,7 +1,3 @@
-As notícias de hoje destacam a recandidatura de Carlos Moedas à Câmara de Lisboa e a chegada de Marcelo Rebelo de Sousa a São Tomé para as comemorações da independência. No âmbito económico, o Bitcoin atingiu um novo máximo histórico e o fundo das pensões da Segurança Social superou os 40 mil milhões de euros. Contudo, os combustíveis vão ficar mais caros na próxima semana. A privatização da TAP continua a ser tema de debate, com o Governo a defender a venda, mas rejeitando fazê-lo "ao desbarato".
+As notícias de hoje destacam desenvolvimentos em diversas áreas:
 
-No plano internacional, a Rússia abateu drones ucranianos, e Trump prometeu um comunicado sobre a guerra na Ucrânia, revelando ainda um acordo secreto com a NATO para fornecer armas à Ucrânia. Um ataque israelita em Gaza resultou na morte de crianças. Moçambique receberá apoio para pessoas sem-abrigo, enquanto a Nigéria enfrenta uma crise humanitária no norte.
-
-Em Portugal, a GNR e a PSP têm polícias ao serviço com crimes graves no currículo, e uma operação conjunta com a Guardia Civil desmantelou uma rede de narcotráfico. Um bebé morreu após nascer numa ambulância a caminho do hospital, reacendendo o debate sobre a assistência médica. No mundo do desporto, o FC Porto iniciou a pré-época com um novo treinador e perspetiva de grande investimento. Olivia Rodrigo encantou no primeiro dia do NOS Alive.
-
-Foi ainda noticiado que a população da União Europeia aumentou, impulsionada pela migração, e que os EUA impuseram uma tarifa de 35% a produtos do Canadá.
+**Política e Economia:** Carlos Moedas recandidata-se à Câmara de Lisboa. O Governo defende a privatização da TAP, enquanto o PS alerta para uma possível privatização total. O Fundo de pensões da Segurança Social ultrapassa os 40 mil milhões de euros, e as compras 'tax free' crescem 10%. Os combustíveis vão ficar mais caros na próxima semana. As taxas Euribor a 3 e 6 meses subiram. O primeiro-ministro australiano vai encontrar-se com

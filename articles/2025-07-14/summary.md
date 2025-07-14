@@ -1,0 +1,7 @@
+Em Portugal, três concelhos do Algarve estão em perigo máximo de incêndio, enquanto o novo Hospital de Sintra foi inaugurado e dezasseis pessoas foram detidas por tráfico de droga em Aljustrel e Alcácer do Sal. O PS exige um acordo alargado para aumentar o investimento na Defesa. No Douro, a queda de uma viatura resultou numa morte em Gondomar. O ex-motorista de Cabrita aguarda sentença por atropelamento na A6.
+
+Na economia, o investimento no agronegócio na Península Ibérica ultrapassa os 4.100 milhões de euros, e há menos burocracia nos fundos europeus. A Anivec avança com uma ação em Bruxelas para rever o Sistema de Preferências Europeu e a agricultura tem uma solução para projetos sem verbas. Está em análise a recuperação dos 3,34 mil milhões investidos na TAP. Isabel dos Santos e um testa-de-ferro foram condenados por má gestão. As exportações de terras raras da China aumentaram após a flexibilização de licenças.
+
+A nível internacional, Trump anunciou o envio de sistemas de defesa Patriot para a Ucrânia e considera um cessar-fogo em Gaza "na próxima semana", enquanto Israel afirma ter matado combatentes do Hamas e da Jihad Islâmica. Mais de dois mil sismos atingiram ilhas no Japão em três semanas. O Conselho dos Negócios Estrangeiros da UE debate as relações comerciais de Trump, e Bruxelas foca-se na luta contra a corrupção e na independência dos tribunais.
+
+O país enfrenta ainda um aumento da temperatura e avisos de tempo quente.

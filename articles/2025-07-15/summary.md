@@ -1,7 +1,41 @@
-## Resumo do dia 2025-07-15
+Aqui fica um resumo das notícias mais relevantes do dia 15 de julho de 2025:
 
-A nível internacional, Trump ameaça a Rússia com sanções, enquanto a Nvidia retoma exportações de chips avançados para a China. A China, por sua vez, considera a atividade militar do Japão um "desafio", e o país tem vindo a reforçar laços com a Rússia. Lula assinou um decreto que permite ao Brasil responder às tarifas de Trump. Registaram-se tensões no Médio Oriente, com violência após a entrada de forças governamentais na cidade síria de Sweida, e um ataque a um campo de refugiados em Gaza causou cinco mortos. A NATO vai coordenar o envio de armas para a Ucrânia compradas pelos europeus aos EUA.
+**Política e Economia:**
 
-Em Portugal, Marques Mendes apelou à moderação no discurso sobre imigração. O Governo rejeitou "parceiros preferenciais" e respondeu às críticas do PS sobre o diálogo com o Chega. Dez distritos estão sob aviso amarelo devido ao tempo quente. Na justiça, José Sócrates regressou ao tribunal no âmbito da Operação Marquês, e o tribunal decidiu sobre o caso dos emails apagados do PAN. A PJ realizou buscas na SAD do Boavista por suspeitas de corrupção e gestão danosa, e na Câmara de Loures e na Polícia Municipal por suspeitas de corrupção. Em termos económicos, a Savannah Resources investe milhões na mina de lítio em Boticas, e a discussão sobre tarifas de Trump e o acordo com o Mercosul ganharam destaque.
+*   Trump ameaça a Rússia com novas sanções, enquanto Lula assina decreto permitindo ao Brasil retaliar tarifas impostas pelos EUA. A NATO adverte Brasil, China e Índia sobre retaliações tarifárias por negócios com a Rússia.
+*   O Senado americano visa diminuir a influência da China em Portugal.
+*   Nvidia retoma exportações de chips avançados para a China.
+*   Discussão sobre o Orçamento da UE continua, com o Parlamento Europeu a rejeitar cortes na PAC e nos fundos de coesão.
+*   Empresas portuguesas pedem agilidade no acordo com o Mercosul para mitigar o impacto das tarifas de Trump.
+*   Crise no Douro leva viticultores a Lisboa para exigir medidas urgentes ao Governo.
+*   Montante de novos créditos ao consumo sobe.
+*   Presidente da Guiné-Bissau termina visita à China com promessas de apoios.
 
-Na área social, a GNR distribuiu cabazes de verão para idosos, enquanto um lar ilegal em Peniche foi encerrado por suspeitas de maus-tratos. Registou-se um aumento da xenofobia em Torre Pacheco, Espanha, e uma onda de indignação relativamente à divulgação de nomes de crianças imigrantes. Na saúde, as emergências hospitalares preparam-se para um verão "pior que o do ano passado", e o diretor de Ortopedia do Hospital de Santa Maria demitiu-se devido à falta de médicos. A Universidade do Porto propõe reconverter a VCI em espaço verde. As notas dos exames do 9.º ano serão divulgadas um pouco mais tarde do que o esperado devido a "dificuldades técnicas".
+**Portugal:**
+
+*   Governo rejeita "parceiros preferenciais" e responde a críticas sobre diálogo com o Chega. Marques Mendes apela à moderação no discurso sobre imigração. Manuela Ramalho Eanes critica divulgação de nomes de crianças imigrantes.
+*   Casos de Justiça em destaque: José Sócrates regressa ao tribunal no âmbito da Operação Marquês, com o Supremo a indeferir o seu pedido para afastar o Procurador-Geral da República. Tribunal trava demolições em Loures. PJ realiza buscas na SAD do Boavista por suspeitas de corrupção.
+*   Diretor de Ortopedia do Hospital de Santa Maria demite-se devido à falta de médicos, com FNAM a alertar para a crise.
+
+**Mundo:**
+
+*   Na Ucrânia, Trump expressa "desapontamento" com Putin. A NATO vai coordenar o envio de armas para a Ucrânia compradas pelos europeus aos EUA.
+*   Xi Jinping encontra-se com o chefe da diplomacia indiana e pede apoio mútuo a Lavrov.
+*   Violentos confrontos na Síria após entrada de forças governamentais em Sweida.
+*   Filipinas investigam ligação entre desaparecimento de apostadores e guerra antidroga.
+*   Naufrágios na Indonésia resultam em vários desaparecidos.
+*   Tensões e confrontos na cidade espanhola de Torre Pacheco devido à xenofobia e crispação social.
+
+**Clima e Sociedade:**
+
+*   Dez distritos portugueses sob aviso amarelo devido ao calor.
+*   Vinte concelhos em seis distritos em perigo elevado de incêndio.
+*   Inundações repentinas atingem Nova Iorque.
+*   Lar ilegal encerrado em Peniche por suspeitas de maus-tratos a idosos.
+
+**Outros:**
+
+*   Falha técnica adia divulgação das notas dos exames do 9.º ano.
+*   Carlos Queiroz é o novo selecionador de Omã.
+*   Youtube flexibiliza a moderação de conteúdos devido a "interesse público".
+*   Fauja Singh, o maratonista mais velho do mundo, faleceu aos 114 anos.

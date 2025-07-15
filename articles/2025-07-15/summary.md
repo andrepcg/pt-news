@@ -1,0 +1,7 @@
+## Resumo das Notícias de 15 de Julho de 2025
+
+No panorama internacional, Trump ameaça a Rússia com sanções, enquanto a Nvidia volta a exportar chips avançados para a China. Um naufrágio na Indonésia deixa 11 pessoas desaparecidas e na Síria, o governo anuncia a entrada em Sweida. Nas Filipinas investiga-se a ligação entre desaparecimentos e a guerra antidroga, e a China considera a atividade militar do Japão um "desafio". A diplomacia indiana destaca a melhoria das relações bilaterais com a China e Moçambique assume a presidência da Assembleia Parlamentar da CPLP. Um ataque a um campo de refugiados em Gaza causou cinco mortos.
+
+Em Portugal, Marques Mendes apelou à moderação no discurso sobre a imigração, enquanto o Governo rejeita "parceiros preferenciais" e responde às críticas do PS sobre o diálogo com o Chega. Dez distritos estão sob aviso amarelo devido ao calor. Portugal aposta em manter a separação entre Coesão e Agricultura no orçamento da UE. José Sócrates regressa hoje ao tribunal no âmbito da Operação Marquês, e o tribunal decide sobre o caso dos emails apagados do PAN. A GNR está a distribuir cabazes de verão para idosos.
+
+No âmbito económico, a Savannah Resources investe milhões na mina de lítio em Boticas e empresas portuguesas pedem agilidade no acordo com o Mercosul para mitigar o impacto das tarifas de Trump, um tema que continua a gerar debate. No Montenegro, a execução de grandes investimentos atinge mínimos de quatro anos.

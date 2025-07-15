@@ -1,37 +1,15 @@
 ## Resumo das Notícias de 15 de Julho de 2025
 
-**Política e Economia:**
+**Política Nacional:** Marques Mendes apela à moderação no discurso sobre imigração, enquanto o Governo rejeita "parceiros preferenciais" face às críticas do PS sobre o diálogo com o Chega. Manuela Ramalho Eanes também condenou a divulgação de nomes de crianças imigrantes. Em relação à justiça, José Sócrates regressou ao tribunal para mais uma sessão da Operação Marquês e o tribunal decidiu sobre o caso dos emails apagados do PAN, com a deputada Cristina Rodrigues a conhecer o acórdão. Em Loures, o tribunal suspendeu as demolições de habitações precárias.
 
-*   Trump ameaça a Rússia com novas sanções, enquanto Lula responde com medidas retaliatórias às tarifas de Trump. Empresas portuguesas pedem agilidade no acordo com o Mercosul.
-*   O Governo português rejeita "parceiros preferenciais" e responde a críticas sobre o diálogo com o Chega. Marques Mendes apela à moderação no discurso sobre imigração, enquanto Manuela Ramalho Eanes condena a divulgação de nomes de crianças imigrantes.
-*   O Parlamento Europeu rejeita cortes na PAC e nos fundos de coesão. Portugal aposta em manter a separação entre Coesão e Agricultura no orçamento da UE.
-*   Economia chinesa cresce acima de 5% apesar das tarifas dos EUA. A Nvidia retoma exportações de chips avançados para a China.
-*   Mercado publicitário europeu prevê reduzir o investimento devido a riscos adicionais.
-*   Aumento de novos créditos ao consumo é de 12% em maio.
+**Economia:** A Nvidia retomou as exportações de chips avançados para a China com a aprovação dos EUA. Empresas portuguesas pedem agilidade no acordo com o Mercosul para mitigar o impacto das tarifas de Trump, com Lula a assinar um decreto que permite ao Brasil retaliar a essas tarifas. A Savannah Resources investiu milhões na mina de lítio em Boticas. O Parlamento Europeu rejeitou cortes na PAC e nos fundos de coesão no novo orçamento da UE.
 
-**Portugal:**
+**Mundo:** Trump ameaçou a Rússia com sanções e tarifas severas, mas Moscovo desvalorizou. As forças governamentais sírias entraram em Sweida, resultando em violentos confrontos. A China pediu apoio mútuo à Rússia numa reunião entre Xi Jinping e Lavrov, enquanto a chefe da diplomacia indiana se encontrou com Xi Jinping para destacar a melhoria nas relações bilaterais. A Rússia e a Coreia do Norte inauguraram voos diretos entre as capitais. Protestos decorreram nos EUA contra as políticas da administração Trump.
 
-*   Dez distritos estão sob aviso amarelo devido ao tempo quente e vinte concelhos estão em perigo elevado de incêndio.
-*   José Sócrates regressa ao tribunal no âmbito da Operação Marquês. O Tribunal decide sobre o caso dos emails apagados do PAN.
-*   PJ realiza buscas no Boavista por suspeitas de corrupção e gestão danosa, e na Câmara de Loures por suspeitas de corrupção.
-*   Diretor de Ortopedia do Hospital de Santa Maria demite-se devido à falta de médicos.
-*   Tribunal suspende demolições de habitações precárias em Loures.
-*   GNR distribui cabazes de verão para idosos.
-*   Homem é detido por ameaçar equipa médica em Barcelos.
-*   Viticultores do Douro protestam em Lisboa por medidas urgentes do Governo.
-*   Escolas aguardam notas das provas de 9.º ano.
+**Sociedade:** Dez distritos em Portugal estiveram sob aviso amarelo devido ao tempo quente. A GNR distribuiu cabazes de verão para idosos. Um recluso fugiu de uma prisão em França escondido num saco de roupa suja. Em Espanha, aumentou a xenofobia em Torre Pacheco, com imãs a apelarem à calma. Um lar ilegal em Peniche foi encerrado por suspeitas de maus-tratos a idosos. Mais de 14 milhões de crianças ficaram por vacinar em 2024, alertou a OMS.
 
-**Mundo:**
+**Acidentes:** Um naufrágio na Indonésia deixou onze pessoas desaparecidas e um desabamento de mina no norte da China causou três mortos.
 
-*   Tensões aumentam no Médio Oriente com ataque a campo de refugiados em Gaza e a entrada de forças governamentais sírias em Sweida, resultando em confrontos violentos.
-*   China e Rússia reforçam laços, com Xi Jinping a pedir apoio mútuo a Lavrov. Rússia e Coreia do Norte inauguram voos diretos.
-*   Filipinas investigam ligação entre desaparecimento de apostadores e a guerra antidroga.
-*  Naufrágios na Indonésia deixam onze pessoas desaparecidas.
-*  Confrontos e desinformação xenófoba provocam tensões em Torre Pacheco, Espanha.
-* Desabamento de mina no norte da China causa três mortos.
+**Saúde:**  As emergências hospitalares preparam-se para um verão "pior que o do ano passado", com o diretor de Ortopedia do Hospital de Santa Maria a demitir-se devido à falta de médicos. Há listas de espera superiores a um ano para prevenção do VIH em Lisboa.
 
-**Outros:**
-
-*   YouTube flexibiliza políticas de moderação de conteúdo.
-*   Meta anuncia construção de centros de dados para "superinteligência" de IA.
-*   Universidade do Porto propõe reconversão da VCI em espaço verde.
+**Desporto:** A PJ realizou buscas na SAD do Boavista por suspeitas de corrupção e gestão danosa.

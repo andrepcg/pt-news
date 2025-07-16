@@ -1,9 +1,15 @@
-Hoje, o Parlamento aprovou alterações à lei de estrangeiros e criou a Unidade Nacional de Estrangeiros e Fronteiras na PSP, enquanto o PS ameaça romper com a AD se o Governo se aproximar do Chega, partido que está a ser investigado pela CNPD pela divulgação de nomes de menores no Parlamento. Em termos económicos, o Governo acordou com o Chega uma nova baixa do IRS para 2026, que terá um custo de 111 milhões de euros. A associação Zero propõe um passe nacional de transportes e aumento do IVA nos voos domésticos. O IGCP colocou 1.000 milhões de euros em dívida a um ano com taxa inferior à de maio. O preço das casas continua a subir, com um disparo de 18,7% no primeiro trimestre.
+Aqui estão os principais destaques das notícias de hoje, 16 de julho de 2025:
 
-No panorama internacional, a China alertou para os riscos de segurança nacional relacionados com a Inteligência Artificial e opõe-se a qualquer escala do líder taiwanês nos EUA, enquanto um tribunal chinês condenou um japonês por espionagem. A Air India retomou rotas internacionais após um acidente. A Rússia intensificou os ataques na Ucrânia.
+**Política e Economia:** O Parlamento aprovou alterações à Lei de Estrangeiros e a criação da Unidade Nacional de Estrangeiros e Fronteiras (UNEF) na PSP. Aprovada também uma nova baixa do IRS acordada com o Chega para 2026, orçada em 111 milhões de euros. O líder do PS ameaça romper com a AD se o Governo não se afastar do Chega. Quanto ao Orçamento do Estado para 2026, a associação Zero propõe um passe nacional de transportes e aumento do IVA nos voos domésticos. A Comissão Europeia propõe um orçamento ambicioso da UE de 2 biliões de euros até 2034.
 
-A nível nacional, registaram-se 847 óbitos fetais e neonatais, com a Grande Lisboa acima da média. Um terço dos jovens europeus não querem ter filhos. Mais de 80 concelhos estão em alerta máximo devido ao risco de incêndio, e viticultores manifestaram-se na Régua contra a crise no Douro, bloqueando a ponte local. O INEM está a ser criticado por alegadamente ter dado poucos dias para empresas garantirem helitransporte de emergência. Em Loures, as demolições de casas no Bairro do Talude continuam a gerar polémica.
+**Sociedade:** Portugal registou 847 óbitos fetais e neonatais, com a Grande Lisboa acima da média. Um terço dos jovens europeus admite não querer ter filhos. Mais de 80 concelhos estão em alerta máximo devido ao risco de incêndio. Viticultores protestam na Régua contra a crise no Douro, bloqueando a ponte. Em Loures, a polémica com demolições de casas ilegais continua. Foi encontrado o corpo de um jovem da Casa Pia num parque aquático em Torres Vedras. Um homem foi detido por violar uma menor de 13 anos em Torres Vedras.
 
-Na área da justiça, as férias judiciais interromperam casos mediáticos como o BES e a Operação Marquês. Quatro jovens foram condenados pelo homicídio de um jovem esfaqueado em Alverca e Ricardo Salgado passou a ter o estatuto de maior acompanhado.
+**Mundo:** A China alertou para os riscos de segurança nacional relacionados com a Inteligência Artificial e opõe-se a qualquer escala do líder taiwanês nos EUA. Um tribunal chinês condenou um japonês por espionagem. A Air India retomou rotas internacionais após um acidente. No Médio Oriente, as IDF abriram um novo corredor em Gaza e dividiram Khan Younis. Cuba viu a sua Ministra do Trabalho demitir-se após declarações polémicas. Um vulcão entrou em erupção na Islândia pela nona vez desde o final de 2023.
 
-Na cultura, Kylie Minogue atuou na Meo Arena e foi considerada 'arrebatadora'. António José Teixeira foi ouvido no parlamento após a sua demissão da RTP.
+**Justiça:** As férias judiciais interrompem casos mediáticos como o BES e a Operação Marquês. Quatro jovens foram condenados pelo homicídio de um jovem esfaqueado em Alverca. Ricardo Salgado passa a ter o estatuto de maior acompanhado.
+
+**Media:** António José Teixeira foi ouvido no parlamento após a sua demissão da RTP.
+
+**Incêndios:** Mais de 80 concelhos em alerta máximo devido ao risco de incêndio. Um incêndio em Sabrosa mobilizou meios aéreos e bombeiros.
+
+**Outros:** Kylie Minogue atuou na Meo Arena.

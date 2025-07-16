@@ -1,13 +1,9 @@
-As notícias de hoje, 16 de julho de 2025, em Portugal e no mundo:
+Hoje, o Parlamento aprovou alterações à lei de estrangeiros e criou a Unidade Nacional de Estrangeiros e Fronteiras (UNEF) enquanto o líder do PS ameaça romper com a AD caso o Governo não se afaste do Chega. No âmbito económico, o OE2026 prevê uma nova baixa do IRS, acordada com o Chega, com um custo de 111 milhões de euros, enquanto a associação Zero propõe um passe nacional de transportes e o aumento do IVA nos voos domésticos. A Greenvolt expandiu significativamente as suas comunidades de energia ativas.
 
-No parlamento, foram aprovadas alterações à lei de estrangeiros e a criação da Unidade Nacional de Estrangeiros e Fronteiras (UNEF) na PSP. Em termos de saúde, Portugal registou 847 óbitos fetais e neonatais, com a Grande Lisboa acima da média nacional. Um terço dos jovens europeus manifestam não querer ter filhos, levantando preocupações sobre a natalidade.
+No plano social, Portugal registou 847 óbitos fetais e neonatais, com a Grande Lisboa acima da média, e um terço dos jovens europeus não demonstra interesse em ter filhos. Viticultores protestaram na Régua devido à crise no Douro, bloqueando a ponte local. Mais de 80 concelhos estão em alerta máximo devido ao risco de incêndio e as férias judiciais interromperam casos mediáticos como o BES e a Operação Marquês.
 
-António José Teixeira foi ouvido no parlamento após a sua demissão da RTP. No território nacional, mais de 80 concelhos estão em alerta máximo devido ao risco de incêndio, enquanto viticultores da Régua se manifestaram contra a crise no Douro.
+A nível internacional, a China alertou para os riscos de segurança nacional relacionados com a Inteligência Artificial e opõe-se a qualquer escala do líder taiwanês nos EUA. Um tribunal chinês condenou um japonês por espionagem, enquanto Macau viu o seu parlamento tornar-se "mais leal" após a desqualificação de candidatos. A Air India retomou rotas internacionais após um acidente, e drones atacaram campos petrolíferos no Curdistão Iraquiano. Em Israel, as IDF abriram um novo corredor em Gaza, dividindo Khan Younis.
 
-Na política, o líder socialista ameaça romper com a AD caso o Governo não se afaste do Chega. Foi ainda acordada com o Chega uma nova baixa do IRS para 2026
+Na cultura, Kylie Minogue atuou na Meo Arena.
 
-A Zero propõe um passe nacional de transportes e o aumento do IVA nos voos domésticos. A Greenvolt multiplicou por seis as comunidades de energia ativas.
-
-A nível internacional, a China alertou para os riscos de segurança nacional relacionados com a Inteligência Artificial e opõe-se a qualquer escala do líder taiwanês nos EUA. Um tribunal chinês condenou um japonês por espionagem. A Air India retomou rotas internacionais após o acidente do voo AI171. Em Macau, o parlamento conta com elementos "mais leais" após a desqualificação de candidatos. No conflito israelo-palestiniano, as IDF abriram um novo corredor em Gaza e dividiram Khan Younis .
-
-No mundo do espetáculo, Kylie Minogue atuou na Meo Arena.
+Por último, o INEM está sob escrutínio devido a um ajuste direto para o helitransporte de emergência, e demolições em Loures geram desconforto no PS.

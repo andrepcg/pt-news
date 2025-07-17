@@ -1,9 +1,1 @@
-Hoje, o foco da atualidade em Portugal passou pela política, economia e alguns incidentes notáveis.
-
-Na política, o Parlamento debateu o Estado da Nação com ênfase na saúde, imigração e habitação. A esquerda fechou um acordo de coligação em Lisboa, enquanto o PSD, Chega e CDS aprovaram uma nova Lei de Estrangeiros. O Governo deverá anunciar o novo Governador do Banco de Portugal amanhã e pondera mudanças no setor da Saúde, com a ANTEM a pedir a demissão do presidente do INEM. Marcelo Rebelo de Sousa promulgou a descida do IRS e a criação da Unidade de Estrangeiros e Fronteiras na PSP. Ramalho Eanes sofreu um acidente de viação sem gravidade.
-
-Na economia, a ANA apresentou uma proposta ao Governo para reduzir o custo do novo aeroporto de Lisboa. O Tribunal Constitucional declarou a inconstitucionalidade da CESE para o gás natural. O Novobanco aprovou planos de recuperação para as imobiliárias de Luís Filipe Vieira. Empresas dos EUA estão a reduzir o investimento na China devido a tarifas e incerteza. Foi ainda reportado que a Comissão Europeia processou Portugal por falhas ambientais e que houve um falso email a simular autenticação no Portal das Finanças.
-
-No âmbito social, um homem de 69 anos morreu num acidente de bicicleta em Anadia. A Frente Comum marchou até São Bento por aumentos salariais na Administração Pública. Mais de 60 concelhos estão em perigo máximo de incêndio rural, com um incêndio em Sabrosa já 90% dominado. A Amnistia Internacional alertou para violações de direitos humanos nas demolições em Loures e Amadora.
-
-A nível internacional, a Ucrânia usou drones contra Moscovo e São Petersburgo, enquanto Israel acusou Guterres de "falência moral" por condenar ataques na Síria. Um incêndio num centro comercial no Iraque fez dezenas de vítimas. Na cultura, um TAC a uma estátua da Senhora de Fátima em Málaga revelou uma cápsula com uma possível mensagem, enquanto um incêndio destruiu o palco principal do Tomorrowland.
+Aqui estão as principais notícias de 17 de julho de 2025 em

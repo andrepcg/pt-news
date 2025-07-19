@@ -1,9 +1,7 @@
-*   **Política Internacional:** Os EUA revogaram o visto de Alexandre de Moraes devido a alegações de perseguição a Bolsonaro. Maduro libertou "terroristas" americanos em troca de venezuelanos deportados. Cuba eliminou o limite de idade para ser Presidente. Os EUA rejeitaram alterações da OMS para combater pandemias. Milei enfrenta conflitos internos na Argentina, perdendo apoio de governadores e lidando com tensões com a vice-presidente.
-*   **Justiça:** O Wall Street Journal defende-se de um processo movido por Trump sobre o caso Epstein.
-*   **Portugal:** A Liga dos Bombeiros pondera uma "paragem simbólica" devido a atrasos nos pagamentos do Ministério da Saúde. O SNS enfrenta encerramentos de urgências previstos para hoje. O Presidente do INEM atribui a um erro de comunicação as falhas no helitransporte de emergência. Um homem ficou gravemente ferido após uma queda em Famalicão. A Câmara de Loures recebeu vários pedidos de apoio relativos ao Talude. A Iniciativa Liberal elegeu Mariana Leitão como líder.
-*   **Economia:** A produção na construção aumentou na UE, com Portugal a registar a terceira maior subida.
-*   **Desporto:** Benfica e FC Porto disputam a contratação de Richard Ríos. O Sporting está perto de um acordo com o Arsenal por Gyokeres.
-*   **Saúde e Ciência:** Uma nova tecnologia permitiu a uma mulher paraplégica recuperar a capacidade de andar.
-*   **Ambiente:** A Agência de Proteção Ambiental dos EUA eliminou funções de I&D, resultando em despedimentos.
-*   **Ucrânia:** Um ataque russo com drones em Odessa resultou num morto e vários feridos.
-*   **Educação e Cultura:** A Biblioteca Nacional abriu uma sala para alunos do secundário.
+Hoje, os destaques noticiosos incluem tensões diplomáticas e políticas a nível global e nacional. Os EUA revogaram o visto de Alexandre de Moraes e rejeitaram alterações da OMS para combater pandemias, enquanto Maduro libertou "terroristas" norte-americanos numa troca. Na Argentina, Milei enfrenta conflitos internos e perda de apoio. Cuba eliminou o limite de idade para ser Presidente e o Irão é acusado de tentar assassinar um político em Madrid.
+
+Em Portugal, a Liga dos Bombeiros pondera uma "paragem simbólica" devido a atrasos nos pagamentos do Ministério da Saúde, levando a uma paralisação nacional. O SNS enfrenta encerramentos previstos nas urgências e o INEM lida com falhas no helitransporte de emergência. Mariana Leitão foi eleita líder da Iniciativa Liberal. A nível económico, o orçamento da UE retira 7 mil milhões a Portugal e a produção na construção regista subidas.
+
+No desporto, Benfica e FC Porto disputam Richard Ríos e o Sporting está perto de um acordo com o Arsenal por Gyokeres.
+
+A nível social, um acidente deixou uma pessoa paraplégica, mas a tecnologia permitiu-lhe recuperar a marcha. Em Loures, a câmara recebeu pedidos de apoio no Talude. Ataques russos com drones em Odessa provocaram mortos e feridos, enquanto mais de metade dos ucranianos aceita ceder territórios pela paz. A Biblioteca Nacional abriu uma sala para alunos do secundário e recuperou o anfiteatro.

@@ -1,11 +1,7 @@
-Hoje, os destaques noticiosos incluem a revogação do visto de Alexandre de Moraes pelos EUA, enquanto Maduro libertou "terroristas" norte-americanos numa troca de prisioneiros. O Wall Street Journal defende-se de um processo de Trump, relacionado com o caso Epstein.
+Hoje, o mundo assistiu a tensões geopolíticas com os EUA a revogarem o visto de um juiz brasileiro e a rejeitarem alterações da OMS. Houve troca de prisioneiros entre Maduro e os EUA, enquanto o Irão é acusado de tentar assassinar um político em Madrid. Ataques aéreos russos na Ucrânia e israelitas em Gaza causaram mortos e feridos. Na Síria, um cessar-fogo foi anunciado após confrontos mortais.
 
-Em Portugal, os bombeiros ponderam uma "paragem simbólica" devido a atrasos nos pagamentos do Ministério da Saúde, e o SNS enfrenta encerramentos de urgências. Mariana Leitão foi eleita líder da Iniciativa Liberal.
+Em Portugal, os bombeiros ponderam uma "paragem simbólica" devido a atrasos nos pagamentos do Ministério da Saúde, com algumas urgências do SNS a encerrarem. A Biblioteca Nacional recebeu verbas do PRR para recuperar o seu anfiteatro e abrir uma nova sala. Mariana Leitão foi eleita líder da Iniciativa Liberal.
 
-No cenário internacional, Milei perde apoio na Argentina, e funções de I&D foram eliminadas na Agência de Proteção Ambiental dos EUA. Cuba eliminou o limite de idade para ser Presidente. Ataques russos em Odessa provocaram mortos e feridos, enquanto Israel atacou Gaza, resultando em mais vítimas. Os EUA rejeitaram alterações da OMS para combater pandemias.
+Na economia, a produção na construção subiu na UE, com Portugal a registar a 3ª maior subida. O orçamento da UE retirou 7 mil milhões a Portugal, gerando críticas. O mercado de transferências no futebol agitou-se, com Benfica e FC Porto a disputarem Richard Ríos e o Sporting perto de um acordo por Gyokeres.
 
-No desporto, Benfica e FC Porto disputam Richard Ríos, e o Sporting está perto de um acordo com o Arsenal por Gyokeres.
-
-Na economia, a produção na construção subiu na UE, com Portugal a registar a 3ª maior subida, enquanto o orçamento da UE retirou 7 mil milhões a Portugal.
-
-Na cultura, a Biblioteca Nacional abriu uma sala para alunos do secundário, e o "Teatro Delusio" regressará ao Festival de Almada em 2026.
+Outras notícias incluem a eliminação do limite de idade para ser Presidente em Cuba, um projeto português para reforçar a literacia em saúde oral em São Tomé e Príncipe, e a recuperação de uma mulher paraplégica através da tecnologia.

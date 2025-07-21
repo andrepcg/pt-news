@@ -1,13 +1,9 @@
-As notícias de hoje, 21 de julho de 2025, em resumo:
+Em Portugal, o primeiro-ministro defende as demolições em Loures e acusa o PS de imaturidade, elogiando a postura "responsável" do Chega. O Governo garante a entrega de 26 mil casas do PRR até 2026. Arrancou a primeira fase de acesso ao Ensino Superior com quase 56 mil vagas, enquanto decorrem reuniões sobre a vinculação extraordinária de professores. Os serviços de urgência do SNS encerraram em Santarém, Setúbal e Leiria. Há três concelhos de Faro em perigo máximo devido a incêndios e prevê-se uma subida das temperaturas no país a partir de quinta-feira. A Galp revê em alta a previsão de produção, apesar da queda de 9% no lucro semestral. Os combustíveis estão mais baratos e o líder do PS defende Mário Centeno no Banco de Portugal.
 
-No panorama político, Luís Montenegro defende as demolições em Loures e acusa o PS de imaturidade, considerando o Chega mais responsável. O Governo garante a entrega de 26 mil casas do PRR até 2026. José Luís Carneiro defende a recondução de Mário Centeno no Banco de Portugal, posição também defendida pelo líder do PS. No Japão, o primeiro-ministro mantém-se no cargo apesar dos resultados eleitorais negativos.
+No mundo, a China e a UE realizaram uma cimeira em meio a tensões comerciais, enquanto o tufão Wipha causou destruição no sul da China. Ataques de drones na Rússia levaram ao encerramento temporário de aeroportos em Moscovo. A crise humanitária em Gaza agrava-se, com a ONU a alertar para a ordem de evacuação. Três pessoas morreram num incêndio num ferry na Indonésia. O primeiro-ministro do Japão mantém-se no cargo apesar dos resultados eleitorais negativos.
 
-Na economia, a Galp reviu em alta a previsão de produção, apesar da queda de 9% no lucro semestral. Os combustíveis estão mais baratos e a Ryanair viu os lucros mais que duplicarem no primeiro trimestre fiscal. O Estado chegou a acordo com a Endesa após acusações de falta de pagamento. Há ainda registo de investimento numa nova jazida de titânio e zircão em Moçambique, promessas de fim à guerra de preços na China e o BAD está disponível para investir em Timor-Leste.
+Na área económica, as ações chinesas subiram após promessas de fim à guerra de preços e a Ryanair viu os lucros mais que duplicarem no primeiro trimestre fiscal.
 
-No âmbito social, arrancou a primeira fase de acesso ao Ensino Superior com quase 56 mil vagas e o Governo está reunido com os sindicatos para discutir a vinculação extraordinária de professores.
+Em Timor-Leste, o BAD mostrou-se disponível para investir e a sociedade civil exige uma estratégia ambiental ao Governo.
 
-A nível nacional, os serviços de urgência do SNS encerraram em Santarém, Setúbal e Leiria e três concelhos de Faro estão em perigo máximo de incêndio, com previsão de subida de temperaturas em Portugal a partir de quinta-feira.
-
-No mundo, a China e a UE realizaram uma cimeira em meio a tensões comerciais e geopolíticas, enquanto o tufão Wipha causou destruição no sul da China. Ataque de drones na Rússia causou o encerramento temporário de aeroportos em Moscovo. Em Gaza, a ONU alerta para uma crise humanitária e reporta confrontos mortais. Um incêndio num ferry na Indonésia provocou três mortos. A Igreja Católica em Cabo Verde vai traduzir a Bíblia para crioulo.
-
-Outros destaques incluem o Festival Músicas do Mundo em Sines e o Festival de Teatro de Avignon, que pode bater recorde de público.
+O mundo do desporto destaca a vitória do Palmeiras de Abel Ferreira no Brasileirão. A atriz brasileira Preta Gil faleceu aos 50 anos, vítima de cancro.

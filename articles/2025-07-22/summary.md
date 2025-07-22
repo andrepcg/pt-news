@@ -1,9 +1,1 @@
-Em Portugal, o Governo pondera permitir a compra de dias de férias pelos trabalhadores, enquanto a administração da RTP foi ouvida no parlamento após a demissão da direção de informação. Marcelo Rebelo de Sousa reuniu-se com os partidos para debater o regime de estrangeiros. A nível económico, o Banco de Portugal pagará a nova sede em prestações, e a IL propõe um concurso público internacional para o governador do banco. As taxas Euribor continuam em queda antes da reunião do BCE. Trabalhadores da Faurecia em Bragança fizeram greve por aumentos salariais. O SNS poderá contratar até 350 médicos sem termo para as urgências em 2025. Vários concelhos estão sob perigo máximo de incêndio.
-
-No Brasil, Bolsonaro arrisca prisão por incumprimento de medidas cautelares, com o STF a dar 24 horas para justificação.
-
-A nível internacional, os EUA vão cobrar uma taxa extra de 213 euros sobre vistos de visitantes. Um ataque com drones em Sumy, Ucrânia, fez 13 feridos, enquanto um ataque aéreo em Gaza matou 16 pessoas. No Bangladesh, a queda de um avião fez 27 mortos, maioritariamente crianças. A ONU estima 26 mortos em Cabo Delgado no mês de Junho, e Moçambique regista 9.000 casos de violência de género no primeiro semestre de 2025. Venâncio Mondlane foi novamente ouvido na PGR moçambicana e acusado de terrorismo. A China aprovou normas para refeições escolares após intoxicação por chumbo e alerta para riscos à segurança nacional ao aceitar presentes do exterior.
-
-No desporto, o Benfica apresentou o projeto 'Benfica District' para remodelar a zona do Estádio da Luz e está perto de contratar João Félix. Liverpool homenageou Diogo Jota com um mural.
-
-Outros destaques incluem a morte de uma mulher após queda de falésia na Praia do Magoito, o encerramento de conservatórias devido a um plenário de trabalhadores, e a recomendação de mediação entre editores e utilizadores de partituras.
+Em Portugal, o Governo pondera permitir a compra de dias de férias pelos trabalhadores enquanto a administração da RTP foi

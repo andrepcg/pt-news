@@ -1,9 +1,1 @@
-Em Portugal, o dia ficou marcado pela morte de uma mulher após queda de uma falésia na Praia do Magoito, em Sintra, e por um incêndio numa fábrica de 'pellets' no Cercal do Alentejo que persistiu por mais de 12 horas. Cerca de 20 concelhos estão sob perigo máximo de incêndio, com alertas de risco elevado devido à subida das temperaturas. No mundo do trabalho, os trabalhadores da Faurecia em Bragança fizeram greve por aumentos salariais, enquanto o Governo pondera permitir a compra de dias de férias pelos trabalhadores. A administração da RTP foi ouvida no parlamento após a demissão da direção de informação, e as conservatórias estiveram fechadas devido a um plenário de trabalhadores.
-
-Na política nacional, Marcelo Rebelo de Sousa recebeu os partidos para debater o regime de estrangeiros, Nuno Melo pediu provas ao Chega, e Rui Moreira pondera candidatar-se à Presidência da República. Passos Coelho e Sérgio Sousa Pinto vão estudar reformas do Estado.
-
-A nível internacional, os EUA vão cobrar uma taxa extra de 213 euros sobre vistos de visitantes. Um avião caiu no Bangladesh, vitimando 27 pessoas, maioritariamente crianças. Em Moçambique, o antigo líder da Renamo, Venâncio Mondlane, foi novamente ouvido na PGR, e a ONU estima 26 mortos em Cabo Delgado no mês de Junho. Ataques com drones em Sumy, Ucrânia, fizeram 13 feridos. Israel intercetou um míssil lançado do Iémen, enquanto um ataque aéreo em Gaza matou 16 pessoas. A OMS acusa Israel de atacar instalações em Gaza.
-
-No Brasil, o STF deu 24 horas para que Bolsonaro justifique o incumprimento de medidas cautelares, sob risco de prisão. O Supremo Tribunal de Justiça abriu caminho à penhora de contas venezuelanas no Novobanco.
-
-O Benfica apresentou o projeto 'Benfica District' para remodelar a zona do Estádio da Luz.
+Em Portugal, o dia ficou marcado pela audição da administração da RTP no parlamento após a demissão da direção de informação, enquanto Marcelo Rebelo de Sousa reuniu-se com partidos para discutir o regime de estrangeiros. No Porto, Rui Moreira pondera candidatar-se à Presidência da República. Um incêndio no Cercal do Alentejo manteve-se ativo durante 12 horas e cerca

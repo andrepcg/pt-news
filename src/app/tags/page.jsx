@@ -17,7 +17,7 @@ export default async function Page() {
 
       <main>
         <div className="tag-list-container">
-          {tags.map(({ tag, frequency }) => (
+          {(tags || []).map(({ tag, frequency }) => (
             <Link key={tag} href={`/tags/${encodeURIComponent(tag)}`} className="tag-list-item">
               {tag} <span className="tag-frequency">({frequency})</span>
             </Link>

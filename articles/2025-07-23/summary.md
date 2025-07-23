@@ -1,13 +1,9 @@
-Em destaque nas notícias de hoje: Trump anuncia acordo comercial com o Japão, embora com tarifas no aço e alumínio. O primeiro-ministro japonês planeia demitir-se após eleições falhadas, enquanto a China contesta sanções da UE a bancos chineses.
+Hoje, o mundo debate a escassez de recursos naturais, com o planeta a atingir a "data de sobrecarga", e assiste a tensões geopolíticas com a China a contestar sanções da UE e a Rússia a abater drones ucranianos antes de negociações de paz. No Médio Oriente, um possível acordo entre Hamas e Israel está a ser negociado, enquanto o Presidente do Irão ameaça Israel e garante a continuidade do programa nuclear.
 
-A nível global, o planeta atingiu a data de sobrecarga, esgotando os recursos para o ano. Um surto de Chikungunya na China já ultrapassa os 2.500 casos e Moçambique enfrenta surtos de cólera e tuberculose. Em contrapartida, Hong Kong anulou a proibição de casas de banho para pessoas transgénero.
+Em Portugal, Santarém está sob aviso amarelo devido ao vento forte e 30 concelhos estão em perigo máximo de incêndio, enquanto o Governo pondera "comprar" dias de férias aos trabalhadores. A nível social, Loures queixa-se da venda de barracas ilegais e a Cáritas alerta para a falta de políticas de habitação.
 
-Em Portugal, Santarém está sob aviso amarelo devido ao vento forte e 30 concelhos estão em perigo máximo de incêndio. O governo admite "comprar" dias de férias aos funcionários públicos e a Bial renovou a sua marca corporativa. No parlamento, Nuno Melo e o chefe da Força Aérea prestaram esclarecimentos sobre o apoio à emergência médica, e o Bloco de Esquerda pretende enviar uma carta ao Ministro da Educação a mostrar os efeitos positivos da educação sexual. Rui Moreira está a avaliar uma possível candidatura à Presidência da República.
+No panorama económico, Trump anuncia um acordo comercial com o Japão, enquanto a UE prepara retaliações comerciais contra os EUA. A Iberdrola regista uma queda no resultado líquido e o endividamento das famílias portuguesas atinge um recorde.
 
-Na economia, os EUA e a China retomam as negociações comerciais na próxima semana e empresas europeias na China pedem maior acesso ao mercado. O CEO do BPCE visitou o Novo Banco após a compra. A Gestora do Alqueva defende preços da água diferenciados por cultura. A reciclagem de equipamentos elétricos aumentou 57% no primeiro semestre e ainda há centenas de "cheques" para carros elétricos por atribuir. Já o Tribunal da UE confirmou o cartel bancário com o Credit Suisse, mas reduziu a multa a pagar. Ainda na área da inovação, o ChatGPT processa 2,5 mil milhões de pedidos por dia.
+No desporto, o Benfica contrata Richard Ríos e o FC Porto garante Victor Froholdt, enquanto o Sporting adquire a totalidade do passe de Catamo.
 
-No desporto, o Benfica contratou Richard Ríos ao Palmeiras por 27 milhões de euros e o FC Porto contratou Victor Froholdt por 20 milhões, enquanto o Sporting decidiu comprar a totalidade do passe de Catamo. Liliana Cá conquistou o 2.º lugar no lançamento do disco na Suécia.
-
-No mundo, um possível acordo está a ser negociado entre o Hamas e Israel, e a Rússia abateu 33 drones ucranianos antes de novas negociações de paz.
-
-Por fim, faleceu Ozzy Osbourne, a lenda do metal.
+A nível da saúde, Moçambique enfrenta surtos de cólera e aumento de casos de tuberculose, enquanto na China se regista um surto de Chikungunya. Em Portugal, os tratamentos para a hepatite C apresentam altas taxas de cura, mas os médicos internistas contestam a obrigatoriedade de vigiar grávidas no Hospital do Barreiro. Por fim, faleceu Ozzy Osbourne, lenda do metal.

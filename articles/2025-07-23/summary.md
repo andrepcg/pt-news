@@ -1,23 +1,17 @@
-Aqui estão as principais notícias de 23 de julho de 2025, em Portugal e no mundo:
+## Resumo Notícias – 23 de Julho de 2025
 
-**Economia e Negócios:** Trump anuncia acordo comercial com o Japão, mas mantém taxas sobre aço e alumínio. A China contesta sanções da UE contra bancos chineses. EUA e China retomam negociações comerciais em Estocolmo. Empresas europeias na China pedem maior acesso ao mercado. CEO do BPCE visita Novo Banco após compra. UE prepara retaliação comercial contra os EUA. Iberdrola regista queda no resultado líquido. Altri conclui aquisição na Suíça. A reciclagem de equipamentos elétricos aumentou. Imobiliária ERA atinge faturação recorde. Governo admite regulamentar taxa turística e comprar dias de férias aos trabalhadores. Bial renova marca. O endividamento das famílias portuguesas atinge um recorde. Alemã Testo inaugura fábrica em Portugal. Tribunal da UE confirma cartel bancário com Credit Suisse, mas reduz multa.
+**Economia e Negócios:** Destaque para o possível acordo comercial entre EUA e UE com tarifas de 15%, enquanto Trump anuncia um acordo semelhante com o Japão, mantendo taxas elevadas para aço e alumínio. A China contesta sanções da UE a bancos chineses, e empresas europeias pedem maior acesso ao mercado chinês. As negociações comerciais EUA-China serão retomadas em Estocolmo. Em Portugal, a Iberdrola viu o seu resultado líquido cair, enquanto a imobiliária ERA atingiu faturação recorde. O governo pondera regulamentar a taxa turística e admite "comprar" dias de férias aos trabalhadores. A reciclagem de equipamentos elétricos aumentou significativamente. O endividamento das famílias portuguesas atingiu um novo máximo histórico.
 
-**Política:** Primeiro-ministro japonês poderá demitir-se. Zelensky defende medidas anticorrupção apesar de protestos. Rui Moreira avalia candidatura à Presidência da República. Nuno Melo e chefe da Força Aérea explicam apoio à emergência médica no Parlamento. MP moçambicano acusa Venâncio Mondlane. Presidente de Angola manifesta desconforto com lei de imigração portuguesa. Bloco de Esquerda defende educação sexual nas escolas. Governo questionado sobre educação sexual. Loures apresenta queixa sobre venda de barracas e o Chega propõe pagar voos de imigrantes para os seus países. António Costa e Von der Leyen reforçam laços UE-Japão. Alemanha aprova venda de caças Eurofighter à Turquia.
+**Política:** O primeiro-ministro japonês planeia demitir-se após eleições falhadas. Rui Moreira avalia candidatar-se à Presidência da República. Nuno Melo e o chefe da Força Aérea prestaram esclarecimentos no Parlamento sobre apoio à emergência médica. Em Moçambique, o MP acusa Venâncio Mondlane de premeditação após protestos. António Costa e Von der Leyen estão no Japão para reforçar laços UE-Japão, e o Presidente de Angola manifestou desconforto com a lei de imigração portuguesa. O Chega propõe pagar voos para imigrantes regressarem aos seus países de origem em Loures.
 
-**Mundo:** Planeta atinge data de sobrecarga, esgotando recursos anuais. Aprovada versão em tétum do Código Civil timorense. Hong Kong anula proibição de casas de banho para pessoas transgénero. Mais de 80% dos residentes de Tuvalu pedem vistos para a Austrália devido às alterações climáticas.Obama responde a alegações de traição de Trump. Irão preparado para atacar Israel.
+**Mundo:** O planeta atingiu a data de sobrecarga, esgotando os recursos para o ano. Um surto de Chikungunya na China ultrapassou os 2.500 casos, enquanto Moçambique enfrenta surtos de cólera e tuberculose. A Rússia terá abatido 33 drones ucranianos antes de negociações, e um possível acordo entre Hamas e Israel está em discussão. Um tribunal de Hong Kong anulou a proibição de casas de banho para pessoas transgénero.
 
-**Portugal:** Santarém está sob aviso amarelo devido ao vento forte e vários concelhos estão em risco máximo de incêndio. Loures apresenta queixa contra a comercialização de barracas. Cáritas alerta para falta de políticas de habitação. PSP reforça segurança turística. Tratamentos para a hepatite C atingem altas taxas de cura. Ministra da Saúde afasta demissão. Governo reforça potencial do Aeroporto de Beja.
+**Portugal:** Santarém está sob aviso amarelo devido ao vento forte, e 30 concelhos estão em risco máximo de incêndio. Em Loures, foi apresentada queixa contra a comercialização de barracas no Bairro do Talude. A ministra da Saúde afastou a demissão, garantindo a resolução de problemas no setor, que enfrenta contestações de médicos internistas quanto à obrigatoriedade de vigiar grávidas. O SNS 24 lançou uma nova app para marcar consultas nos centros de saúde.
 
-**Saúde:** Surto de Chikungunya na China e de cólera em Moçambique. Moçambique regista aumento de casos de tuberculose. Hospitais adiam cirurgias devido à falta de sangue. Tratamentos para a hepatite C ultrapassam os 36.300 com taxas de cura de 97%. Médicos internistas contestam obrigatoriedade de vigiar grávidas.
+**Desporto:** No futebol, o Benfica contratou Richard Ríos ao Palmeiras, o FC Porto contratou Victor Froholdt e Sporting compra a totalidade do passe de Catamo.
 
-**Clima e Ambiente:** Planeta Terra entra em 'overshoot day'. 30 concelhos em alerta máximo para incêndios. Seis distritos sob aviso amarelo devido ao calor. Reciclagem de equipamentos elétricos aumenta.
+**Tecnologia:** ChatGPT processa 2,5 mil milhões de pedidos por dia.
 
-**Sociedade:** Mais de um terço dos jovens relata mal-estar emocional associado à Internet. Jovem detido na Madeira por violência doméstica contra a avó.
+**Sociedade:** Mais de um terço dos jovens relata mal-estar emocional associado à Internet.
 
-**Desporto:** Benfica contrata Richard Ríos e venceu amigável com o Estoril. FC Porto contrata Victor Froholdt e Pol Manrubia. Sporting compra Catamo. Jonathan Milan vence etapa do Tour de France. Venus Williams regressa com vitória ao ténis.
-
-**Tecnologia:** ChatGPT processa 2,5 mil milhões de pedidos por dia. Sam Altman, CEO da OpenAI, alerta para crise de fraude bancária via IA. Amazon compra startup de IA.
-
-**Conflitos e Segurança:** Possível acordo nas negociações entre Hamas e Israel. Rússia abate drones ucranianos. Irão diz estar pronto para a guerra com Israel. Israel aperta cerco em Gaza. AIMA evacuada em Lisboa devido a ameaça de bomba.
-
-**Arte e Cultura:** Morreu Ozzy Osbourne. Quanta Terra lança vinho com arte de Vhils.
+**Acidentes:** Um acidente em Castelo Branco provocou feridos graves, e um homem morreu em despiste em Rio Maior.

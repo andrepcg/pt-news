@@ -21,7 +21,11 @@ function extractHost(url) {
   }
 }
 
-export default function Article({ title, tags, urls, date }) {
+export default function Article({ title, tags = [], urls = [], date }) {
+  // Ensure `tags` and `urls` are arrays to avoid runtime errors when using `.map`.
+  const tagsArray = Array.isArray(tags) ? tags : (tags ? [tags] : []);
+  const urlsArray = (Array.isArray(urls) ? urls : (urls ? [urls] : [])).filter((u) => typeof u === 'string' && u.trim().length > 0);
+
   return (
     <article itemScope itemType="http://schema.org/NewsArticle">
       <h2 itemProp="headline">{title}</h2>
@@ -29,12 +33,22 @@ export default function Article({ title, tags, urls, date }) {
         <time itemProp="datePublished" dateTime={date}>{formatDate(date)}</time>
         {' · '}
         <span className='tags' itemProp="keywords">
-          {tags.map(t => (<Link key={t} href={`/tags/${t}`}><span>{t}</span></Link>))}
+          {tagsArray.map((t) => (
+            <Link key={t} href={`/tags/${t}`}>
+              <span>{t}</span>
+            </Link>
+          ))}
         </span>
       </p>
       <ul className='links'>
-        {urls.map(url => (<li key={url}><Link href={url} itemProp="url">{extractHost(url)}</Link></li>))}
+        {urlsArray.map((url) => (
+          <li key={url}>
+            <Link href={url} itemProp="url">
+              {extractHost(url)}
+            </Link>
+          </li>
+        ))}
       </ul>
     </article>
-  )
+  );
 }

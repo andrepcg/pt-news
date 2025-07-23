@@ -1,11 +1,32 @@
-Hoje, o mundo debateu temas como o comércio internacional, com Trump a anunciar um acordo com o Japão e a UE a preparar retalição contra os EUA, enquanto China e EUA retomam negociações. A sustentabilidade também foi destaque, com o planeta a atingir a data de sobrecarga e alertas de incêndio em Portugal.
+Aqui estão os principais destaques das notícias de hoje:
 
-Na política internacional, o primeiro-ministro japonês pondera demissão, Moçambique acusa Venâncio Mondlane, e Zelensky enfrenta críticas sobre medidas anticorrupção. Há tensões no Médio Oriente, com possível acordo Hamas-Israel e Irão a ameaçar Israel, enquanto a Rússia abateu drones ucranianos antes de negociações.
+**Política e Economia:**
 
-Em Portugal, o governo admite "comprar" dias de férias, Nuno Melo e chefe da Força Aérea prestaram esclarecimentos no parlamento, e Rui Moreira avalia candidatura à Presidência. Loures enfrenta problemas com a comercialização de barracas no Bairro do Talude. Médicos internistas contestam obrigatoriedade de vigiar grávidas.
+*   Trump anunciou um acordo comercial com o Japão, mas manteve as taxas sobre aço e alumínio.
+*   O Primeiro-Ministro japonês planeia demitir-se após eleições falhadas, enquanto Von der Leyen e António Costa estiveram no Japão para reforçar os laços UE-Japão.
+*   A China contestou as sanções da UE a bancos chineses. Empresas europeias na China pedem maior acesso ao mercado. Entretanto, EUA e China retomaram negociações comerciais.
+*   O Governo português admite "comprar" dias de férias aos funcionários públicos e pondera regulamentar a taxa turística. Novas tabelas de IRS trazem alívio fiscal temporário em agosto e setembro.
+*   A UE prepara retaliação comercial contra os EUA no valor de 100 mil milhões de euros e está próxima de acordo com os EUA para tarifas de 15%.
 
-Na economia, a Iberdrola viu o seu resultado líquido cair, o CEO do BPCE visitou o Novo Banco após a compra, e a gestão do Alqueva defende preços diferenciados para a água. A inovação tecnológica avança com o ChatGPT a processar milhões de pedidos e a Amazon a comprar startup de IA. Sam Altman, CEO da OpenAI, alertou para o risco de fraude bancária com a IA.
+**Mundo:**
 
-No desporto, o Benfica contratou Richard Ríos e o FC Porto contratou Victor Froholdt e Otávio Ataíde foi transferido para o Paris FC. Marcus Rashford é reforço do Barcelona, Pol Manrubia vai jogar hóquei no FC Porto, o Sporting compra a totalidade do passe de Catamo, e Venus Williams regressou ao ténis com vitória.
+*   O planeta atingiu a data de sobrecarga, esgotando os recursos naturais para o ano.
+*   Zelensky defende medidas controversas contra a agência anticorrupção, gerando reação da UE.
+*   Moçambique enfrenta surtos de cólera e aumento de casos de tuberculose. O MP moçambicano acusou Venâncio Mondlane de premeditação após protestos.
+*   Em Israel, discute-se um possível acordo entre Hamas e Israel. Organizações humanitárias denunciam o cerco israelita em Gaza.
 
-Finalmente, registaram-se aumentos nos casos de tuberculose e surtos de cólera em Moçambique e de Chikungunya na China. Em Portugal, a PSP reforça a segurança turística e a Segurança Social encerra uma creche ilegal em Cascais, preocupações com a segurança e bem-estar também mereceram atenção.
+**Portugal:**
+
+*   Santarém está sob aviso amarelo devido ao vento forte, com 30 concelhos em perigo máximo de incêndio.
+*   Em Loures, a câmara apresentou queixa contra a comercialização de barracos no Bairro do Talude, com o Chega a propor pagar voos de imigrantes para os seus países de origem.
+*   Ministra da Saúde garante resolução de problemas, após pressão devido a mortes associadas à greve do INEM. Hospitais estão a adiar cirurgias por falta de sangue.
+
+**Desporto:**
+
+*   No futebol, o Benfica contratou Richard Ríos ao Palmeiras e o FC Porto contratou Victor Froholdt. Sporting prepara jogo da Liga Europa.
+
+**Outros:**
+
+*   A reciclagem de equipamentos elétricos aumentou 57% no primeiro semestre.
+*   ChatGPT processa 2,5 mil milhões de pedidos por dia.
+*   Morreu Ozzy Osbourne, lenda do metal.

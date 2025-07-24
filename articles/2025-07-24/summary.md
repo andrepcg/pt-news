@@ -1,11 +1,13 @@
-Em Portugal, o Governo nomeou Álvaro Santos Pereira como novo Governador do Banco de Portugal e aprovou alterações à lei laboral, incluindo serviços mínimos para greves e a possibilidade de compra de dias de férias. O Governo afastou ainda o aumento do preço da água no Alqueva e anunciou uma estratégia para os portos comerciais para a próxima década. A Liga dos Bombeiros suspendeu o protesto contra o INEM após um acordo de pagamento. No entanto, o país enfrenta processos da UE por falhas na transposição de legislação europeia e mais de 60 concelhos estão em perigo máximo de incêndio. A Polícia Municipal de Lisboa não fiscalizou a Zona de Emissões Reduzidas nos últimos cinco anos.
+Esta quinta-feira ficou marcada por tensões internacionais, com a Tailândia a lançar ataques aéreos no Camboja, levando ao fecho da fronteira, e Kim Jong-un a instar à preparação para "guerra a sério" na Coreia do Norte. Israel está a analisar a resposta do Hamas à proposta de trégua em Gaza, enquanto a Rússia e a Ucrânia continuam os ataques após negociações. Von der Leyen alertou Xi Jinping sobre as tensões nas relações UE-China.
 
-No panorama internacional, a Tailândia lançou ataques aéreos no Camboja após confrontos fronteiriços, enquanto Israel analisa a resposta do Hamas à proposta de trégua em Gaza. A Rússia e a Ucrânia realizaram ataques após negociações na Turquia. Um avião russo com 49 pessoas a bordo despenhou-se na região de Amur, sem sobreviventes. Kim Jong-un pediu a preparação para "guerra a sério" na Coreia do Norte. Ursula von der Leyen alertou Xi Jinping sobre as relações UE-China. O Dia da Sobrecarga da Terra chegou mais cedo este ano.
+Em Portugal, o Governo aprovou alterações à lei laboral, a serem discutidas em concertação social, e nomeou Álvaro Santos Pereira como o novo Governador do Banco de Portugal. João Lourenço, Presidente de Angola, está em visita oficial a Lisboa. Mais de 60 concelhos estão em perigo máximo de incêndio e as alterações climáticas levam os atuns mais para norte no Atlântico.
 
-Na economia, o Bankinter lucrou 542 milhões no primeiro semestre, com um crescimento de 2% em Portugal. O mercado europeu de automóveis registou uma queda em junho. A Revolut abriu uma sucursal em Portugal com IBAN português. Os lucros da Repsol caíram 63% devido a um apagão e à queda nos preços do crude.
+Na economia, o Bankinter lucrou 542 milhões no 1º semestre, com Portugal a crescer 2%. O mercado europeu de automóveis registou uma queda em junho. A Repsol viu os lucros semestrais caírem 63%. O Revolut abriu uma sucursal em Portugal visando tornar-se o 3º maior banco. O BCE deverá manter as taxas de juro.
 
-No setor tecnológico, Donald Trump lançou um plano para acelerar a criação de IA sem "viés ideológico" e a Universidade Columbia pagou milhões para resolver um conflito com Trump.
+No âmbito social, a Polícia Municipal de Lisboa não fiscalizou a Zona de Emissões Reduzidas nos últimos cinco anos. Foi alargado o prazo para os táxis cumprirem o limite de idade dos veículos. A Liga dos Bombeiros suspendeu o protesto contra o INEM após um acordo de pagamento.
 
-Em Moçambique, o país vai contratar pessoal para o recenseamento de 2027.
+Um avião russo com 49 pessoas a bordo despenhou-se na região de Amur, sem sobreviventes.
 
-Em diversos acontecimentos criminais, um homem foi detido em Palmela por violência doméstica e outro em Braga por sequestro e roubo. Nos EUA, a justiça informou Trump de que este está incluído no caso Epstein.
+A justiça norte-americana informou Trump de que está incluído no caso Epstein, e a Universidade Columbia pagou milhões para resolver um conflito com Trump.
+
+O Dia da Sobrecarga da Terra chegou mais cedo este ano.

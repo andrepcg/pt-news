@@ -1,7 +1,15 @@
-Hoje, a nível internacional, a Tailândia lançou ataques aéreos no Camboja após confrontos fronteiriços, enquanto Israel analisa a resposta do Hamas à proposta de trégua em Gaza. A Rússia e a Ucrânia realizaram ataques após negociações na Turquia e Kim Jong-un ordenou que a Coreia do Norte se prepare para "guerra a sério". Ursula von der Leyen alertou Xi Jinping sobre as relações UE-China e Donald Trump apresentou um plano para acelerar a criação de IA. Um avião russo despenhou-se na região de Amur, sem sobreviventes.
+No panorama internacional, a Tailândia lançou ataques aéreos no Camboja após confrontos fronteiriços, enquanto Israel analisa a resposta do Hamas à proposta de trégua em Gaza. A Rússia e a Ucrânia realizaram ataques mútuos após negociações na Turquia, e Kim Jong-un instou à preparação para "guerra a sério". Von der Leyen alertou Xi Jinping sobre as relações UE-China, e Trump apresentou um plano para acelerar a criação de IA. Um avião com 49 pessoas despenhou-se na Rússia, sem sobreviventes. Um atropelamento em massa em Israel fez vários feridos.
 
-Em Portugal, mais de 60 concelhos estão em perigo máximo de incêndio e discute-se a proibição de publicidade a combustíveis fósseis. João Lourenço está em visita oficial a Portugal e será definido o novo Governador do Banco de Portugal. A Polícia Municipal de Lisboa não fiscalizou a Zona de Emissões Reduzidas nos últimos cinco anos.
+Em Portugal, mais de 60 concelhos estão em perigo máximo de incêndio, enquanto as alterações climáticas levam os atuns mais para norte no Atlântico. O Dia da Sobrecarga da Terra chegou mais cedo este ano. João Lourenço está em visita oficial a Portugal, onde será definido o novo governador do Banco de Portugal.
 
-No âmbito económico, o Bankinter lucrou 542 milhões no 1º semestre, com um crescimento de 2% em Portugal. O mercado europeu de automóveis registou uma queda em junho e a Repsol viu os seus lucros semestrais caírem 63%. A Syrah retomou a exportação de grafite de uma mina moçambicana e a Tesla também sentiu uma queda nas receitas no setor automóvel. O governo aprovou alterações à lei laboral antes da concertação social e a Revolut abriu uma sucursal em Portugal com IBAN português.
+Na economia, o Bankinter lucrou 542 milhões no 1º semestre, com um crescimento de 2% em Portugal, apesar da queda no mercado automóvel europeu. A Repsol viu os seus lucros semestrais caírem 63%. A Revolut abriu uma sucursal em Portugal com IBAN português e ambiciona ser o 3º maior banco. O Governo aprovou alterações à lei laboral antes da concertação social, enquanto a Zero defende a proibição de publicidade a combustíveis fósseis.
 
-Outras notícias incluem o Dia da Sobrecarga da Terra a chegar mais cedo, alterações climáticas a influenciarem a migração de atuns para norte no Atlântico, um caso de violência doméstica em Palmela, um acidente na A5 Lisboa-Cascais e a participação do Sp. Braga e Santa Clara em competições europeias.
+Em Moçambique, foi contratado pessoal para o recenseamento de 2027 e a Syrah retomou a exportação de grafite.
+
+Em Lisboa, a Polícia Municipal não fiscalizou a Zona de Emissões Reduzidas nos últimos cinco anos.
+
+No desporto, o Sp. Braga e o Santa Clara iniciaram a sua participação nas competições europeias.
+
+A Universidade Columbia pagou milhões para resolver um conflito com Trump relacionado com antissemitismo, enquanto a justiça dos EUA informou Trump que está incluído no caso Epstein.
+
+Por fim, um homem foi detido em Palmela por violência doméstica.

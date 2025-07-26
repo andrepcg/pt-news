@@ -1,61 +1,11 @@
-Aqui estão as principais notícias de 26 de julho de 2025:
+Hoje, as notícias destacam tensões internacionais e desafios internos. No Camboja e Tailândia, os confrontos agravaram-se, resultando em mais de 30 mortos. A situação em Gaza é crítica, com a ONU a denunciar desrespeito pelo direito internacional e a pedir um cessar-fogo imediato face a uma situação de fome dramática. Na Ucrânia, um ataque russo em Dnipro causou mais uma vítima mortal, com Zelensky a prometer retaliação.
 
-**Política e Economia:**
+No Brasil, um estudo aponta para o reforço da democracia liberal com Lula, enquanto a Greenpeace alerta para o aumento da mineração ilegal na Amazónia. A nível global, as autocracias ultrapassam as democracias pela primeira vez em 30 anos.
 
-*   Antigos presidentes de câmara e outros autarcas preparam-se para as eleições, com vários a candidatarem-se em municípios vizinhos.
-*   O Governo português mantém a falta por luto gestacional.
-*   Emigrantes portugueses manifestam satisfação com a nova Lei da Nacionalidade.
-*   Centeno defende-se sobre o negócio da sede do Banco de Portugal.
-*   Cascais investe 30,3 milhões em habitação municipal.
-*   Cabo Verde procura expandir o mercado de valores mobiliários.
-*   A STCP adquire 30 autocarros elétricos à CaetanoBus.
-*   Lisboa restringe novos Alojamentos Locais a partir de outubro.
+Nos EUA, Trump tenta descongelar fundos para escolas, enquanto um juiz suspende uma ordem contra a cidadania para filhos de imigrantes. A administração americana mantém a missão militar em África e designa um grupo ligado a Maduro como terrorista.
 
-**Mundo:**
+Em Portugal, o aviso amarelo devido ao calor foi prolongado em 14 distritos e mais de 60 concelhos estão em perigo máximo de incêndio, levando a GNR a reforçar o patrulhamento. Um acidente em Tavira causou uma morte, elevando o número de mortes por afogamento em 2024 para 121. No panorama político, antigos presidentes de câmara preparam-se para voltar a candidatar-se nas próximas autárquicas e emigrantes portugueses manifestam satisfação com a nova lei da nacionalidade. Centeno defende-se sobre o negócio da sede do Banco de Portugal. Cascais vai investir 30,3 milhões em habitação municipal.
 
-*   A crise da democracia agrava-se, com as autocracias a superarem as democracias pela primeira vez em 30 anos.
-*   Os confrontos entre Camboja e Tailândia já causaram mais de 30 mortos.
-*   A ONU denuncia a situação em Gaza e pede um cessar-fogo imediato.
-*   Os EUA mantêm a sua missão militar em África.
-*   Trump está a descongelar fundos para escolas e um juiz suspendeu a sua ordem contra a cidadania para filhos de ilegais.
-*   A China lançou uma organização global para cooperação em Inteligência Artificial.
-*   O Reino Unido condena as recompensas de Hong Kong por detenções de ativistas pró-democracia.
-*   Taiwan realiza referendos para destituir deputados pró-China.
-*   Os EUA designaram um grupo ligado a Maduro como terrorista.
-*   A União Africana discute um cessar-fogo no Sudão.
-*   Aplicaçao com horários de Missa atinge 2 Milhões de utilizadores
-*   A Rússia realizou ataques em Dnipro, Ucrânia, resultando em mortos.
-*   A ONU alerta para uma epidemia de cólera na RDCongo, que já causou quase mil mortos em 2025.
-*   Os Países Bálticos servem de exemplo para aumentar o poder militar nos EUA.
-*   Milhares de fotografias íntimas de mulheres foram partilhadas no Telegram na China.
-*   Terroristas incendiaram casas em Cabo Delgado, Moçambique, forçando a população a fugir.
+No âmbito tecnológico, a China lançou uma organização para cooperação em Inteligência Artificial, contrastando com a remoção de músicas do Spotify por artistas devido ao investimento da plataforma em IA de guerra. A UE prepara-se para lançar carteiras de identidade digital em 2026.
 
-**Ambiente e Clima:**
-
-*   Ecologistas denunciam uma catástrofe natural nos Everglades devido a um novo centro de detenção de migrantes.
-*   A Greenpeace denuncia o aumento alarmante da mineração ilegal na Amazónia brasileira.
-*   Mais de 60 concelhos em Portugal estão em perigo máximo de incêndio, com a GNR a reforçar o patrulhamento.
-*   O aviso amarelo devido ao calor foi prolongado em 14 distritos.
-*   Monumentos na Serra de Sintra encerrados devido ao risco de incêndio.
-
-**Sociedade:**
-
-*   Portugal registou 121 mortes por afogamento em 2024.
-*   Portugal tem mais de 11 mil jovens no Jubileu em Roma.
-*   UE prepara carteiras de identidade digitais para 2026.
-* FMUP Estuda Fadiga de Compaixão em Cuidadores de Animais de Rua
-
-**Acidentes:**
-
-*   Um acidente de autocarro no Peru causou pelo menos 15 mortos.
-*   Uma colisão em Tavira resultou num morto.
-
-**Desporto:**
-
-*   Rashford reforça o Barcelona.
-* João Noronha Lopes é candidato à presidência do Benfica.
-
-**Cultura:**
-
-*   Um lusodescendente homenageia os avós no Festival de Edimburgo.
-*   Descoberta assinatura de Josefa de Óbidos em pintura no Palácio de Mafra.
+Outros destaques incluem uma epidemia de cólera na RDCongo que já causou quase mil mortos, a homenagem de um lusodescendente aos avós no Festival de Edimburgo e o sucesso de uma aplicação com horários de missas, que atingiu dois milhões de utilizadores.

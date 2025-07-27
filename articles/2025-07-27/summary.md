@@ -1,19 +1,11 @@
-Aqui estão os principais destaques das notícias de hoje, 27 de julho de 2025:
+Hoje, Portugal enfrentou perturbações nos aeroportos devido à greve na Menzies, afetando principalmente Lisboa, enquanto um incêndio trágico em Ourique resultou na morte de um pai e ferimentos graves na filha. Em Ponte da Barca, um incêndio mobilizou operacionais e meios aéreos, mas sem risco para habitações. Apesar do aumento de acidentes, registou-se uma diminuição nas mortes nas estradas no primeiro semestre de 2025. Treze distritos estão sob aviso amarelo devido ao calor prolongado. Sete urgências do SNS encerraram este domingo.
 
-**Economia e Empresas:** A indústria chinesa enfrenta uma queda nos lucros, enquanto em Portugal, o investimento hoteleiro continua a crescer, impulsionado pelo turismo, apesar das incertezas. No setor bancário, o Novo Banco não consegue reaver uma dívida de 291 milhões de Luís Filipe Vieira. A "Trust in News (Visão)" anunciou um despedimento coletivo, afetando 80 trabalhadores. Projetos de hidrogénio verde enfrentam dificuldades, considerados um "vale de desilusão".
+No mundo, Israel anunciou uma pausa humanitária na Faixa de Gaza, permitindo a entrada de ajuda, enquanto a Tailândia e o Camboja concordaram com um cessar-fogo proposto pelos EUA. Moçambique enfrenta tensões pós-eleitorais, com o Presidente a comparar a destruição na Zambézia à guerra com a Renamo. No Paquistão, chuvas torrenciais causaram mais de 270 mortos. A Grécia solicitou ajuda europeia para combater incêndios.
 
-**Política:** Eurico Brilhante Dias (PS) acusa Aguiar-Branco de promover "discurso de ódio" na Assembleia da República. Adelaide Ferreira candidata-se à Câmara de Lisboa pelo ADN. Em Moçambique, o presidente compara a destruição pós-eleitoral na Zambézia à guerra com a Renamo.
+Na economia, a indústria chinesa registou uma queda nos lucros no primeiro semestre, e o Novo Banco enfrenta dificuldades em receber uma dívida de Luís Filipe Vieira. Em Portugal, o investimento hoteleiro continua a crescer, embora com assimetrias regionais, enquanto projetos de hidrogénio verde enfrentam recuos. A Trust in News (Visão) anunciou o despedimento coletivo de 80 trabalhadores. Há preocupações com a extrema-direita no Japão.
 
-**Internacional:** Israel anunciou uma pausa humanitária na Faixa de Gaza, com ajuda humanitária a caminho, saudada pela ONU. A Tailândia e o Camboja concordaram com um cessar-fogo proposto pelos EUA. Chuvas torrenciais no Paquistão causaram mais de 270 mortos. A Grécia pediu ajuda europeia para combater incêndios. Um documentário sobre o pioneiro do reggaeton cubano venceu um prémio internacional.
+No desporto, Gyokeres despediu-se do Sporting após a transferência para o Arsenal, e João Félix está perto de rumar ao Al Nassr. Diogo Ribeiro qualificou-se para a final dos 50m mariposa nos Mundiais de Natação, e Gustavo Gonçalves e Pedro Casinha sagraram-se campeões do Mundo sub-23 em K2 500.
 
-**Desporto:** Gyokeres despediu-se do Sporting após a transferência para o Arsenal, que já o apresentou em Singapura. João Félix está perto de rumar ao Al Nassr. Bruma sofreu uma lesão grave e Otávio poderá ter dificuldades em regressar ao FC Porto. Diogo Ribeiro qualificou-se para a final dos 50m mariposa nos Mundiais de Natação e Gustavo Gonçalves e Pedro Casinha sagraram-se campeões do Mundo sub-23 em K2 500.
+Na cultura, faleceu o arquiteto Nuno Portas, pai de Paulo Portas, e a fotógrafa Maria José Palla. Um documentário sobre o pioneiro do reggaeton cubano venceu um prémio internacional.
 
-**Sociedade:** Greve na Menzies causou cancelamentos e atrasos nos aeroportos, principalmente em Lisboa, e a TAP é acusada de substituir trabalhadores em greve. Sete urgências do SNS encerraram este domingo. Um incêndio em Ponte da Barca mobilizou operacionais, mas não representa risco para habitações. A GNR deteve 32 pessoas numa operação de combate ao tráfico de droga em Idanha-a-Nova e 12 em Albufeira. Um meteoro foi avistado em Portugal Continental.
-
-**Segurança:** Menos mortes nas estradas no primeiro semestre de 2025, apesar do aumento de acidentes. Um pai morreu e a filha ficou gravemente ferida em um incêndio em Ourique. Um motociclista morreu em colisão em Santa Maria da Feira.
-
-**Clima:** Continua o aviso amarelo de calor prolongado em 13 distritos até terça-feira.
-
-**Óbitos:** Morreu o arquiteto Nuno Portas, pai de Paulo Portas, aos 90 anos, e a fotógrafa Maria José Palla aos 81 anos.
-
-**Aviação:** Um incêndio num avião da Jeju Air revelou que um motor ainda funcionava no momento do acidente.
+Outras notícias incluem a detenção de 32 pessoas pela GNR em Idanha-a-Nova por tráfico de droga, um meteoro avistado em Portugal Continental e a acusação de Eurico Brilhante Dias (PS) a Aguiar-Branco por discurso de ódio na Assembleia da República.

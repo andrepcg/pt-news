@@ -1,17 +1,9 @@
-Hoje, Portugal enfrentou diversos desafios e comemorações. No setor dos transportes, a greve na Menzies causou cancelamentos e atrasos nos aeroportos, especialmente em Lisboa. No âmbito da saúde, sete urgências do SNS encerraram e um ex-militar da GNR "fugiu" de um hospital após um surto.
+Ao longo do dia de hoje, destacaram-se os seguintes acontecimentos:
 
-Nos acidentes e segurança, um incêndio habitacional em Ourique resultou numa morte e um ferido grave e um motociclista morreu em Santa Maria da Feira. Apesar do aumento de acidentes, registou-se uma diminuição de mortes nas estradas no primeiro semestre de 2025. Um incêndio em Ponte da Barca mobilizou vários operacionais e meios aéreos e outro em Coimbra.
+Em Portugal, uma greve na Menzies causou cancelamentos e atrasos nos aeroportos, especialmente em Lisboa. Um incêndio habitacional em Ourique provocou uma morte e um ferido grave. Apesar do aumento de acidentes, registou-se uma diminuição de mortes nas estradas no primeiro semestre de 2025. Sete urgências do SNS encerraram este domingo, e um incêndio em Ponte da Barca mobilizou operacionais e meios aéreos. Foi emitido um aviso amarelo de calor prolongado em 13 distritos até terça-feira. Lamenta-se o falecimento do arquiteto Nuno Portas, pai de Paulo Portas, aos 90 anos. A GNR deteve 32 pessoas numa operação de combate ao tráfico de droga em Idanha-a-Nova. Em Coimbra, um incêndio industrial mobilizou centenas de operacionais e cortou o IC2.
 
-Na política nacional, Eurico Brilhante Dias (PS) acusou Aguiar-Branco de discurso de ódio no parlamento e o Livre, BE e PAN criticaram o Governo face ao luto gestacional. Marcelo Rebelo de Sousa levantou dúvidas sobre a lei dos estrangeiros.
+No âmbito desportivo, Gyokeres despediu-se do Sporting após transferência para o Arsenal, enquanto o regresso de Otávio ao FC Porto enfrenta complicações. Diogo Ribeiro qualificou-se para a final dos 50m mariposa nos Mundiais de Natação, e Gustavo Gonçalves e Pedro Casinha sagraram-se campeões do Mundo sub-23 em K2 500 em canoagem. João Félix está próximo do Al Nassr. Pogacar venceu a Volta a França e Oscar Piastri venceu o GP da Bélgica de Fórmula 1. Franco Israel trocou o Sporting pelo Torino.
 
-No desporto, Gyokeres despediu-se do Sporting após transferência para o Arsenal e João Félix está perto do Al Nassr. Diogo Ribeiro qualificou-se para a final dos 50m mariposa nos Mundiais de Natação e os canoístas Gustavo Gonçalves e Pedro Casinha sagraram-se campeões do Mundo sub-23. O Grande Prémio da Bélgica de Fórmula 1 foi adiado devido à falta de visibilidade acabando por ser vencido por Piastri.
+A nível económico, a indústria chinesa registou uma queda nos lucros no primeiro semestre de 2025. O Novo Banco não conseguiu que Luís Filipe Vieira pagasse uma dívida de 291 milhões. O investimento hoteleiro continua a crescer, apesar da incerteza. Trust in News (Visão) comunicou o despedimento coletivo de 80 trabalhadores.
 
-No cenário internacional, Moçambique confronta-se com as consequências da destruição pós-eleitoral, comparada à guerra com a Renamo, enquanto Israel anunciou uma pausa humanitária na Faixa de Gaza, permitindo a entrada de ajuda. A Tailândia e o Camboja concordaram com um cessar-fogo proposto pelos EUA e um avião da Jeju Air ainda funcionava aquando da queda
-
-Na economia, a indústria chinesa registou uma queda nos lucros e o Novo Banco enfrenta dificuldades em receber uma dívida de Luís Filipe Vieira. Projetos de hidrogénio verde enfrentam recuos. O investimento hoteleiro continua a crescer. A Trust in News comunicou o despedimento coletivo de 80 trabalhadores. A UE e os EUA chegaram a acordo comercial com tarifas de 15%.
-
-Um aviso amarelo de calor prolongado foi emitido para 13 distritos até terça-feira.
-
-A cultura lamenta a morte do arquiteto Nuno Portas e da fotógrafa Maria José Palla, enquanto um documentário sobre o reggaeton cubano venceu um prémio internacional.
-
-Em Moçambique, o Estado Islâmico reivindicou um ataque em Cabo Delgado, elevando o número de mortes para 349 em 2024.
+No panorama internacional, o Presidente de Moçambique comparou a destruição pós-eleitoral na Zambézia à guerra com a Renamo. Israel anunciou uma pausa humanitária na Faixa de Gaza, permitindo a entrada de ajuda humanitária. A Tailândia concordou com um cessar-fogo proposto pelos EUA com o Camboja. A Grécia pediu ajuda europeia para combater incêndios. Um avião da Jeju Air ainda funcionava no momento da queda, conforme revelou a investigação.

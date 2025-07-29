@@ -1,19 +1,19 @@
-## Resumo do Dia - 29 de Julho de 2025
+Aqui fica um resumo das notícias de hoje, 29 de julho de 2025:
 
-**Portugal em Alerta:** Mais de 1600 operacionais combatem incêndios que assolam o Norte e Centro do país, com Arouca a acionar o Plano Municipal de Emergência e o fogo a alastrar para Castelo de Paiva. A DGS emitiu recomendações devido à exposição ao fumo. Quase todo o país está sob aviso amarelo devido ao calor e a Liga dos Bombeiros apela a mais investimento.
+**Incêndios:** Portugal continental enfrenta um dia crítico com mais de 1700 operacionais a combater as chamas, especialmente em Arouca, Ponte da Barca e Penamacor. Arouca acionou o Plano Municipal de Emergência e o fogo alastrou-se para Castelo de Paiva. A DGS emitiu recomendações sobre a exposição ao fumo.
 
-**Economia:** As exportações portuguesas recuaram 1,3% no 2.º trimestre. O IGCP lançou uma campanha para atualização de dados das contas de aforro. A taxa de juro dos Certificados de Aforro cai abaixo dos 2%. Empresários aprovam acordo comercial UE-EUA, apesar das divergências. A aviação chinesa e a Boeing retomaram as discussões sobre cooperação.
+**Política Nacional:** O Governo assegura que existem meios aéreos em prontidão, enquanto a Liga dos Bombeiros pede mais investimento. O PCP propõe 25 dias úteis de férias para todos os trabalhadores.
 
-**Política:** A Comissão Europeia admite que o sistema de transportes não está preparado para uma guerra com a Rússia. Partidos apostam em coligações para as próximas eleições autárquicas. Keir Starmer prepara o Reino Unido para reconhecer o Estado da Palestina.
+**Economia:** As exportações portuguesas recuaram 1,3% no segundo trimestre. Foi prolongado o prazo para pedir o cheque de 750 euros para formação digital e o IGCP lançou uma campanha para atualização de dados das contas de aforro. A taxa de juro dos Certificados de Aforro caiu abaixo de 2%. As bolsas europeias estão em alta com o acordo comercial UE-EUA, mas a Comissão Europeia admite que o acordo "não é perfeito".
 
-**Mundo:** Ataques russos em Zaporíjia e Dnipropetrovsk fizeram pelo menos 20 mortos, enquanto a Rússia terá atacado uma colónia penal . Na China, as chuvas e inundações causaram mais de 30 mortes. Israel intensificou ataques na Faixa de Gaza, matando dezenas e a ONU debate o estado palestiniano sem a presença dos EUA e de Israel, instando ao envio de ajuda humanitária para Gaza por via marítima.  Em Angola, protestos contra o aumento do custo de vida em Luanda resultaram em mortes e detenções.
+**Internacional:** Ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, causaram pelo menos 20 mortos. Israel tem efetuado vários ataques na Faixa de Gaza, com dezenas de mortos. A China enfrenta chuvas e inundações em Pequim, com um balanço de pelo menos 34 mortes.
 
-**Sociedade:** Um estudo revela que os jovens dedicam pouco tempo à consulta de notícias e a AIMA reporta um nível de vida nacional abaixo do esperado face à União Europeia. A Segurança Social encerrou 72 creches por falta de condições.
+**Sociedade:** Dados da AIMA revelam um nível de vida nacional abaixo do esperado face à União Europeia. A Segurança Social encerrou 72 creches em quatro anos e um estudo aponta que os jovens dedicam pouco tempo à consulta de notícias.
 
-**Desporto:** Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que disputará a Supertaça com o Benfica.
+**Desporto:** Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que irá disputar a Supertaça Cândido de Oliveira com o Benfica. João Félix transfere-se para o Al Nassr.
 
-**Tecnologia:** A Apple fechou uma loja física na China devido à queda da quota de mercado. A Vodafone apela à UE para aumentar a competitividade digital com menos burocracia e mais 5G.
+**Tecnologia:** A Apple fechou uma loja física na China pela primeira vez devido à queda na quota de mercado. Foi noticiado um escândalo com partilha massiva de vídeos íntimos de mulheres no Telegram.
 
-**Crime:** Um tiroteio em Nova Iorque resultou em várias vítimas mortais. Telegram está no centro de um escândalo com partilha de vídeos íntimos de mulheres chinesas.
+**Angola:** Luanda enfrenta uma crise com protestos contra o aumento do custo de vida, resultando em mortes e detenções.
 
-**Empresas:** A Inapa Portugal prepara um plano estratégico após o pedido de insolvência da holding. A Brisa aguarda decisões políticas sobre concessões rodoviárias.
+**Outros:** O Museu do Côa celebrou 15 anos com quase meio milhão de visitantes.

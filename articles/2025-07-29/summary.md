@@ -1,0 +1,7 @@
+Em Portugal, mais de 1500 operacionais combatem incêndios em Arouca, Ponte da Barca e Penamacor, enquanto quase todo o país está sob aviso amarelo devido ao calor. A DGS emitiu recomendações sobre a exposição ao fumo dos incêndios. A Inapa Portugal prepara um plano estratégico após o pedido de insolvência da holding. No âmbito da mobilidade internacional, a IFAC apela à internacionalização para atrair contabilistas, e o prazo para pedir o cheque de 750 euros para formação digital foi prolongado.
+
+A nível internacional, ataques russos em Zaporíjia e Dnipropetrovsk fizeram pelo menos 20 mortos na Ucrânia. Na China, as chuvas e inundações em Pequim e arredores causaram pelo menos 34 mortes, e a Apple fechou uma loja física devido à queda na quota de mercado. No Médio Oriente, Israel matou dezenas em ataques no centro de Gaza, e um colono israelita matou um palestiniano.
+
+Em termos económicos, a aviação chinesa discute cooperação com a Boeing, e a China quer estreitar laços com o Brasil em resposta às tarifas de Trump. Empresários aprovaram o acordo comercial UE-EUA. A Vodafone apelou à UE para aumentar a competitividade digital com menos burocracia e mais 5G. Foi assinado o contrato para o TGV Porto-Lisboa. Dados da AIMA revelam um nível de vida nacional abaixo do esperado face à União Europeia. A Península Ibérica precisa de mais ligações energéticas à Europa.
+
+No desporto, Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting. Relativamente à justiça, Trump explicou o afastamento de Epstein.

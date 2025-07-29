@@ -1,19 +1,9 @@
-Aqui fica um resumo das notícias de hoje, 29 de julho de 2025:
+Hoje, Portugal continental enfrenta um dia crítico devido a incêndios, com mais de 1700 bombeiros a combater as chamas em Arouca, Ponte da Barca, Penamacor e Nisa. A situação em Arouca é particularmente preocupante, levando à ativação do Plano Municipal de Emergência e à evacuação de aldeias; o fogo alastrou-se para Castelo de Paiva. A DGS emitiu recomendações sobre a exposição ao fumo.
 
-**Incêndios:** Portugal continental enfrenta um dia crítico com mais de 1700 operacionais a combater as chamas, especialmente em Arouca, Ponte da Barca e Penamacor. Arouca acionou o Plano Municipal de Emergência e o fogo alastrou-se para Castelo de Paiva. A DGS emitiu recomendações sobre a exposição ao fumo.
+No plano internacional, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, resultaram em pelo menos 20 mortos, enquanto a Rússia ignora ameaças e também ataca uma colónia penal. Na China, as chuvas e inundações causaram mais de 30 mortes em Pequim e arredores. No Médio Oriente, Israel realizou ataques no centro de Gaza, matando dezenas de pessoas, e um colono israelita matou um palestiniano. Em Angola, protestos contra o aumento do custo de vida em Luanda resultaram em violência, pilhagens e mortes.
 
-**Política Nacional:** O Governo assegura que existem meios aéreos em prontidão, enquanto a Liga dos Bombeiros pede mais investimento. O PCP propõe 25 dias úteis de férias para todos os trabalhadores.
+Na economia, a aviação chinesa discute cooperação com a Boeing após tensões comerciais, enquanto a Apple fechou uma loja física na China devido à queda na quota de mercado. A China procura estreitar laços com o Brasil, e a União Europeia e os EUA discutem um acordo comercial, apesar de algumas divergências. Em Portugal, as exportações recuaram 1,3% no segundo trimestre, e os dados da AIMA revelam um nível de vida abaixo do esperado face à UE. O IGCP lançou uma campanha para atualização de dados das contas de aforro, e a taxa de juro dos Certificados de Aforro caiu abaixo de 2%.
 
-**Economia:** As exportações portuguesas recuaram 1,3% no segundo trimestre. Foi prolongado o prazo para pedir o cheque de 750 euros para formação digital e o IGCP lançou uma campanha para atualização de dados das contas de aforro. A taxa de juro dos Certificados de Aforro caiu abaixo de 2%. As bolsas europeias estão em alta com o acordo comercial UE-EUA, mas a Comissão Europeia admite que o acordo "não é perfeito".
+No desporto, Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que disputará a Supertaça Cândido de Oliveira contra o Benfica. João Félix foi transferido para o Al Nassr.
 
-**Internacional:** Ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, causaram pelo menos 20 mortos. Israel tem efetuado vários ataques na Faixa de Gaza, com dezenas de mortos. A China enfrenta chuvas e inundações em Pequim, com um balanço de pelo menos 34 mortes.
-
-**Sociedade:** Dados da AIMA revelam um nível de vida nacional abaixo do esperado face à União Europeia. A Segurança Social encerrou 72 creches em quatro anos e um estudo aponta que os jovens dedicam pouco tempo à consulta de notícias.
-
-**Desporto:** Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que irá disputar a Supertaça Cândido de Oliveira com o Benfica. João Félix transfere-se para o Al Nassr.
-
-**Tecnologia:** A Apple fechou uma loja física na China pela primeira vez devido à queda na quota de mercado. Foi noticiado um escândalo com partilha massiva de vídeos íntimos de mulheres no Telegram.
-
-**Angola:** Luanda enfrenta uma crise com protestos contra o aumento do custo de vida, resultando em mortes e detenções.
-
-**Outros:** O Museu do Côa celebrou 15 anos com quase meio milhão de visitantes.
+Outros destaques incluem o alargamento do prazo para pedir o cheque de 750 euros para formação digital, as recomendações da DGS sobre a exposição ao fumo de incêndios, e um estudo que aponta que os jovens dedicam pouco tempo à consulta de notícias.

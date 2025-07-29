@@ -1,9 +1,3 @@
-Em Portugal, mais de 1700 bombeiros combatem incêndios em Arouca, Ponte da Barca e Penamacor, com Arouca a ativar o Plano Municipal de Emergência. Quase todo o país está sob aviso amarelo devido ao calor, levando a DGS a emitir recomendações sobre a exposição ao fumo dos incêndios.
+Em Portugal, mais de 1700 bombeiros combatem incêndios, com Arouca a acionar o Plano Municipal de Emergência e o fogo a alastrar para Castelo de Paiva. Quase todo o país está sob aviso amarelo devido ao calor, levando a DGS a emitir recomendações sobre a exposição ao fumo dos incêndios.
 
-No mundo, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, causaram pelo menos 20 mortos, enquanto um ataque russo separado a uma colónia penal em Zaporizhzhia provocou 16 mortos. Na China, as chuvas e inundações em Pequim e arredores resultaram em pelo menos 34 mortes. No Médio Oriente, Israel realizou ataques no centro de Gaza, causando dezenas de mortos, e um colono israelita matou um palestiniano.
-
-Na economia, a aviação chinesa e a Boeing retomaram discussões sobre cooperação, enquanto empresários aprovam o acordo comercial UE-EUA. A Apple fechou uma loja física na China, e a China procura estreitar laços com o Brasil. Em Portugal, as exportações recuaram 1,3% no 2.º trimestre e a Brisa aguarda decisões políticas sobre concessões rodoviárias. O IGCP lançou uma campanha para atualização de dados das contas de aforro e foi prolongado o prazo para pedir o cheque de 750 euros para formação digital.
-
-No desporto, Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que disputará a Supertaça Cândido de Oliveira contra o Benfica.
-
-Outras notícias incluem protestos em Luanda contra o aumento do custo de vida, a condenação do ex-presidente colombiano Álvaro Uribe por suborno, e um estudo que indica que jovens dedicam pouco tempo à consulta de notícias. A Segurança Social encerrou 72 creches em quatro anos por falta de licença ou condições.
+No mundo, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, fizeram pelo menos 20 mortos, enquanto um ataque russo a uma colónia penal em Zaporizhzh

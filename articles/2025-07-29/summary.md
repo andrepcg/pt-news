@@ -1,9 +1,19 @@
-Em Portugal, os incêndios continuam a ser uma grande preocupação, com mais de 1600 operacionais a combater as chamas, especialmente em Arouca e Ponte da Barca. A situação em Arouca levou à ativação do Plano Municipal de Emergência,  e o fogo alastrou para Castelo de Paiva. Quase todo o país está sob aviso amarelo devido ao calor e a DGS emitiu recomendações sobre a exposição ao fumo dos incêndios.
+## Resumo do Dia - 29 de Julho de 2025
 
-No plano internacional, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, causaram pelo menos 20 mortos, enquanto na Faixa de Gaza, ataques israelitas fizeram dezenas de vítimas. Na China, as fortes chuvas e inundações em Pequim e arredores resultaram em pelo menos 34 mortes. Em Angola, a crise social levou a protestos violentos em Luanda, com relatos de mortos e detenções.
+**Portugal em Alerta:** Mais de 1600 operacionais combatem incêndios que assolam o Norte e Centro do país, com Arouca a acionar o Plano Municipal de Emergência e o fogo a alastrar para Castelo de Paiva. A DGS emitiu recomendações devido à exposição ao fumo. Quase todo o país está sob aviso amarelo devido ao calor e a Liga dos Bombeiros apela a mais investimento.
 
-Na economia, a aviação chinesa discute cooperação com a Boeing, após um período de tensões comerciais. A IFAC apela à internacionalização para atrair contabilistas e os empresários aprovam o acordo comercial UE-EUA, apesar de algumas divergências. Em Portugal, as exportações recuaram 1,3% no 2.º trimestre e o IGCP lançou uma campanha para atualização de dados das contas de aforro, cuja taxa desceu para menos de 2%.
+**Economia:** As exportações portuguesas recuaram 1,3% no 2.º trimestre. O IGCP lançou uma campanha para atualização de dados das contas de aforro. A taxa de juro dos Certificados de Aforro cai abaixo dos 2%. Empresários aprovam acordo comercial UE-EUA, apesar das divergências. A aviação chinesa e a Boeing retomaram as discussões sobre cooperação.
 
-No desporto, Ricardo Mangas está a caminho do Sporting, que vai disputar a Supertaça Cândido de Oliveira com o Benfica.
+**Política:** A Comissão Europeia admite que o sistema de transportes não está preparado para uma guerra com a Rússia. Partidos apostam em coligações para as próximas eleições autárquicas. Keir Starmer prepara o Reino Unido para reconhecer o Estado da Palestina.
 
-A Apple fechou uma loja física na China pela primeira vez devido à queda na sua quota de mercado, e a Vodafone apelou à UE para aumentar a competitividade digital com menos burocracia e mais 5G. Um estudo revelou que os jovens dedicam pouco tempo à consulta de notícias.
+**Mundo:** Ataques russos em Zaporíjia e Dnipropetrovsk fizeram pelo menos 20 mortos, enquanto a Rússia terá atacado uma colónia penal . Na China, as chuvas e inundações causaram mais de 30 mortes. Israel intensificou ataques na Faixa de Gaza, matando dezenas e a ONU debate o estado palestiniano sem a presença dos EUA e de Israel, instando ao envio de ajuda humanitária para Gaza por via marítima.  Em Angola, protestos contra o aumento do custo de vida em Luanda resultaram em mortes e detenções.
+
+**Sociedade:** Um estudo revela que os jovens dedicam pouco tempo à consulta de notícias e a AIMA reporta um nível de vida nacional abaixo do esperado face à União Europeia. A Segurança Social encerrou 72 creches por falta de condições.
+
+**Desporto:** Ricardo Mangas chegou a Lisboa para assinar contrato com o Sporting, que disputará a Supertaça com o Benfica.
+
+**Tecnologia:** A Apple fechou uma loja física na China devido à queda da quota de mercado. A Vodafone apela à UE para aumentar a competitividade digital com menos burocracia e mais 5G.
+
+**Crime:** Um tiroteio em Nova Iorque resultou em várias vítimas mortais. Telegram está no centro de um escândalo com partilha de vídeos íntimos de mulheres chinesas.
+
+**Empresas:** A Inapa Portugal prepara um plano estratégico após o pedido de insolvência da holding. A Brisa aguarda decisões políticas sobre concessões rodoviárias.

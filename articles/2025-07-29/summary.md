@@ -1,3 +1,3 @@
-Em Portugal, mais de 1700 bombeiros combatem incêndios, com Arouca a acionar o Plano Municipal de Emergência e o fogo a alastrar para Castelo de Paiva. Quase todo o país está sob aviso amarelo devido ao calor, levando a DGS a emitir recomendações sobre a exposição ao fumo dos incêndios.
+Em Portugal, mais de 1600 operacionais combatem os incêndios que assolam o Norte e Centro do país, com Arouca e Ponte da Barca entre os concelhos mais afetados, levando à ativação do Plano Municipal de Emergência em Arouca e ao corte da A1. A DGS emitiu recomendações sobre a exposição ao fumo dos incêndios, e a Liga dos Bombeiros pede mais investimento. Quase todo o país está sob aviso amarelo devido ao calor.
 
-No mundo, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, fizeram pelo menos 20 mortos, enquanto um ataque russo a uma colónia penal em Zaporizhzh
+No mundo, ataques russos em Zaporíjia e Dnipropetrovsk, na Ucrânia, fizeram pelo menos 20 mortos, enquanto a China enfrenta chuvas e inundações em Pequim e arredores, resultando em mais de 30 mortos. No Médio Oriente,

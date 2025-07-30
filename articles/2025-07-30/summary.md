@@ -1,13 +1,11 @@
-No dia de hoje, Portugal enfrenta uma vaga de incêndios que mobilizam centenas de bombeiros, com Arouca e Ponte da Barca a serem as zonas mais críticas e alertas para a ameaça ao Peneda-Gerês. O país ativou o apoio de satélite da UE, mas não o mecanismo europeu de proteção civil. Um helicóptero de combate a incêndios sofreu um acidente em Arcos de Valdevez. Face aos incêndios, um homem foi detido em Pombal por suspeita de fogo posto.
+O dia ficou marcado por um sismo de magnitude 8.8 na Rússia, gerando alertas de tsunami em várias zonas do Pacífico e levando o Japão a emitir ordens de evacuação. Em Portugal, a economia apresentou um crescimento de 1,9% no segundo trimestre, com a taxa de desemprego a baixar para 6%, o valor mais baixo desde 2022, apesar de a EDP Renováveis ter registado uma queda de 56% no lucro. A CGD anunciou lucros de 893 milhões de euros no primeiro semestre.
 
-No domínio económico, o INE revelou que a economia portuguesa cresceu 1,9% no segundo trimestre. A taxa de desemprego baixou para 6%, o valor mais baixo desde 2022. As contas públicas registam um excedente de 2 mil milhões de euros até junho, enquanto o BCP e a CGD anunciaram lucros de 502,3 milhões e 893 milhões, respetivamente, no primeiro semestre. O Governo lançou um plano de investimento de 4 mil milhões para os portos e altera regras sobre o direito de recusa a trabalho ao fim de semana para pais com filhos até 12 anos.
+No âmbito político, Portugal admitiu reconhecer o Estado da Palestina numa declaração conjunta. A nível interno, foi agendada uma reunião entre Luís Montenegro e José Luís Carneiro, enquanto o PS pressiona o Governo por diálogo direto.
 
-A nível social, mais de duas mil vítimas de tráfico humano foram identificadas em Portugal nos últimos seis anos. Em Lisboa, um homem foi encontrado decapitado. No Algarve, profissionais de saúde marcaram greve para 7 de agosto devido à falta de recursos.
+Os incêndios continuam a ser uma preocupação, com várias estradas nacionais cortadas e bombeiros mobilizados em Arouca e Ponte da Barca, tendo Portugal pedido apoio de satélite à UE. Um homem foi detido em Pombal por suspeita de incêndio florestal e um helicóptero de combate a incêndios sofreu um acidente em Arcos de Valdevez.
 
-No panorama internacional, um sismo de magnitude 8.8 na Rússia causou um alerta de tsunami no Pacífico. A Tailândia acusou o Camboja de violar o cessar-fogo e o Governo Trump lançou uma campanha para incentivar a saída de migrantes indocumentados. Portugal admitiu reconhecer o Estado da Palestina.
+Outras notícias incluem o resgate de 24 migrantes pela GNR no Mar Egeu, tensões entre a Tailândia e o Camboja, e a acusação de Angola de manter 198 pessoas presas injustamente. Nos desportos, Luís Díaz reforça o Bayern Munique e João Pinheiro vai arbitrar a Supertaça Europeia.
 
-Relativamente ao desporto, Luís Díaz reforçou o Bayern Munique, e João Pinheiro vai arbitrar a Supertaça Europeia.
+A ASAE encerrou estabelecimentos em Lisboa e Cascais durante inspeções, e foram identificadas mais de duas mil vítimas de tráfico humano em Portugal nos últimos seis anos. A nova aplicação móvel e Portal SNS 24 estão agora "plenamente funcionais". No campo das artes e cultura, Gisela João atuará no Coliseu do Porto em janeiro e o Centro Comercial Stop no Porto foi classificado como monumento de interesse municipal.
 
-Na área da saúde, a nova aplicação móvel e o portal do SNS 24 estão "plenamente funcionais".
-
-Por fim, o Centro Comercial Stop no Porto foi classificado como monumento de interesse municipal e  Gisela João atuará no Coliseu do Porto em janeiro.
+No plano internacional, Trump aumentou as tarifas sobre produtos da Índia e lançou uma campanha para incentivar a saída de migrantes indocumentados, enquanto Lula aguarda contacto de Trump para negociar tarifas, mas prepara um plano B.

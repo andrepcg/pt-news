@@ -1,13 +1,13 @@
-Hoje, Portugal enfrenta múltiplos desafios: os incêndios florestais continuam a ser uma grande preocupação, com grande parte dos distritos em alerta máximo e centenas de operacionais mobilizados em Arouca, Ponte da Barca e Cinfães. A área ardida já triplicou face ao ano passado e a associação Zero exige avisos públicos sobre a poluição do ar.
+Hoje, Portugal enfrenta múltiplos desafios, desde incêndios florestais devastadores a alertas de calor extremo que afetam quase todo o país. Arouca e Ponte da Barca mobilizam mais de mil operacionais no combate aos fogos, enquanto Ponte de Lima e Cinfães mostram progressos na resolução. A área ardida no país triplicou em comparação com 2024, levando a apelos por mais meios e compensações, com a associação Zero a exigir avisos sobre a poluição do ar.
 
-O país também está sob aviso amarelo devido à persistente onda de calor.
+No plano internacional, um ataque russo em Kiev resultou em seis mortos, incluindo uma criança, enquanto a Ucrânia nega a tomada de Tchassiv Yar pelas forças russas. Lula criticou a interferência política de Trump em sanções contra um juiz brasileiro, e Trump ameaça o Canadá com tarifas comerciais se reconhecer a Palestina. A violência em Luanda, após uma greve, causou 22 mortos.
 
-No âmbito económico, o Novo Banco anunciou um lucro semestral de 434,9 milhões de euros, enquanto a EDP elevou as suas metas de lucro líquido recorrente. A inflação acelerou para 2,6% em julho e os juros dos depósitos a prazo continuam a cair. O Governo aprovou a reforma do Estado e entregou mais uma reprogramação do PRR.
+Na economia, o Novobanco anunciou um lucro semestral de 434,9 milhões de euros, enquanto a EDP elevou as suas metas de lucro. Contudo, os lucros da EDP caíram 7% no primeiro semestre. A inflação acelerou para 2,6% em julho, e os juros dos depósitos a prazo continuam a cair. O Banco do Japão elevou a previsão de crescimento para 2025. Bruxelas espera tarifas dos EUA, apesar de um acordo ainda não finalizado.
 
-No panorama internacional, um ataque russo em Kiev fez seis mortos e a guerra na Ucrânia continua a ser tema central. Trump ameaça o Canadá com tarifas comerciais caso reconheça a Palestina, enquanto Lula criticou a interferência de Trump em sanções contra um juiz brasileiro. A China enfrenta chuvas fortes e inundações no norte, e Cabo Delgado, em Moçambique, vive uma fase turbulenta.
+Em Portugal, Marcelo Rebelo de Sousa iniciou uma visita de quatro dias aos Açores, enquanto o Governo aprovou a reforma do Estado. Setembro será o mês para apoios à substituição de equipamentos como fogões, fornos e esquentadores.
 
-Na área do desporto, Sporting e Benfica preparam-se para disputar a Supertaça no Algarve.
+No desporto, Sporting e Benfica preparam-se para disputar a Supertaça no Algarve, com um apelo da GNR para os adeptos chegarem cedo.
 
-Outros destaques incluem a visita do Presidente Marcelo Rebelo de Sousa aos Açores, o aumento dos casamentos na China após um mínimo histórico, e a obrigatoriedade de partilha de perfis de redes sociais para portugueses que queiram estudar nos EUA.
+No âmbito social, os casamentos na China aumentaram após um mínimo histórico em 2024, e estudantes portugueses que pretendem estudar nos EUA serão obrigados a partilhar os seus perfis de redes sociais.
 
-A leitura do acórdão da Operação Pretoriano está agendada para hoje.
+A PJ deteve suspeitos de atear fogos florestais em Terras de Bouro, Vieira do Minho e Arouca. Em Vale de Cambra, um casal foi encontrado morto, num caso de homicídio seguido de suicídio. Em Belas, uma rixa resultou num homicídio, com um suspeito em fuga.

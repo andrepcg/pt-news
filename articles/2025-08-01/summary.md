@@ -1,13 +1,9 @@
-As notícias de hoje destacam a situação crítica dos incêndios no Norte e Centro do país, motivando o reforço do apoio da Cruz Vermelha. No plano internacional, o número de mortos em Kiev aumentou após ataques russos, enquanto Trump adiou e aumentou tarifas sobre vários países. A China acusou os EUA de ciberataques.
+Em Portugal, o Interior Norte e Centro enfrentam perigo máximo de incêndios, com vários focos ativos e a Cruz Vermelha a reforçar o apoio. O rastreio do cancro do pulmão foi alargado a fumadores e ex-fumadores. Évora tornou-se o primeiro município alentejano a cobrar taxa turística. A PJ deteve um suspeito de homicídio qualificado em Lisboa. Empresas começaram a aplicar novas tabelas de retenção de IRS. Os Passadiços do Paiva reabriram parcialmente após os incêndios.
 
-Na economia, as empresas começaram a aplicar as novas tabelas de retenção de IRS, o que deverá aliviar a carga fiscal em agosto e setembro. As receitas do jogo em Macau atingiram o valor mais alto desde o início da pandemia. Contudo, os CFOs portugueses mostram-se mais pessimistas devido à incerteza geopolítica. Jerónimo Martins apresentou um lucro de 269 milhões até junho, um aumento de 6,6%. O Banco Montepio também registou um lucro recorde.
+No mundo, um ataque russo em Kiev elevou o número de mortos para 28. Trump adiou tarifas, mas aumentou-as para o Canadá, levando a UE a saudar o limite das tarifas americanas para "estabilidade da economia". A China acusou os EUA de ciberataques. Macau atingiu o valor mais alto em receitas de jogo desde a pandemia. Moçambique registou um aumento da violência em Cabo Delgado, causando 47 mil deslocados, e um homem foi detido com 100 granadas. Um ex-deputado de Macau foi preso preventivamente por atos contra a segurança do Estado.
 
-Na saúde, o rastreio do cancro do pulmão foi alargado a fumadores e ex-fumadores.
+Na economia, a Jerónimo Martins lucrou 269 milhões até junho, mais 6,6%, enquanto o Banco Montepio teve um lucro recorde. Os CFOs portugueses estão mais pessimistas devido à incerteza geopolítica e foi noticiado que o vinho português pode perder mercado nos EUA devido a tarifas. A taxa de inflação da zona euro foi estimada em 2% em julho. A dívida pública de Portugal situa-se nos 98,1% do PIB no 2.º trimestre.
 
-Em termos de política, foi feito o retrato de Gonçalo Saraiva Matias, o novo ministro da Reforma do Estado. Um ex-deputado de Macau foi detido preventivamente por atos contra a segurança do Estado.
+No desporto, Sp. Braga e Santa Clara conheceram os seus adversários nas competições europeias e Diogo Ribeiro e Camila Rebelo qualificaram-se para as meias-finais dos mundiais de natação, com Camila Rebelo a não conseguir apuramento para a final.
 
-No desporto, Diogo Ribeiro e Camila Rebelo qualificaram-se para as meias-finais dos mundiais de natação. O Sp. Braga e o Santa Clara conheceram os seus adversários nas competições europeias.
-
-Évora tornou-se o primeiro município alentejano a cobrar taxa turística, enquanto Madeira propõe isenção de IMI para a primeira habitação.
-
-Por fim, um homem foi detido pela PJ em Lisboa, suspeito de homicídio qualificado e profanação de cadáver.
+Ainda, Justin Timberlake revelou ter sido diagnosticado com a doença de Lyme.

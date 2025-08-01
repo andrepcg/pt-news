@@ -1,19 +1,23 @@
-As notícias do dia destacam:
+Aqui estão as principais notícias de hoje:
 
-*   **Incêndios:** O Interior Norte e Centro de Portugal estão sob perigo máximo de incêndio, com a Força Aérea a identificar focos e a Cruz Vermelha a reforçar o apoio às comunidades afetadas.
+*   **Incêndios:** O interior Norte e Centro de Portugal estão em perigo máximo de incêndio, com vários fogos ativos, levando a Cruz Vermelha a reforçar o apoio às comunidades afetadas.
 
-*   **Guerra na Ucrânia:** O número de mortos em Kiev subiu para 28, após novos ataques russos.
+*   **Guerra na Ucrânia:** O número de mortos em Kiev subiu para 28 após novos ataques russos.
 
-*   **Economia:** Empresas já aplicam as novas tabelas de retenção de IRS, aliviando impostos em agosto e setembro. Jerónimo Martins (Pingo Doce) regista um lucro de 269 milhões até junho, um aumento de 6,6%. Macau regista as receitas de jogo mais altas desde a pandemia. Os CFOs portugueses mostram-se mais pessimistas devido à incerteza geopolítica.
+*   **Economia:** As empresas começaram a aplicar novas tabelas de retenção de IRS, aliviando impostos em agosto e setembro. A Jerónimo Martins (Pingo Doce) lucrou 269 milhões até junho, mais 6,6%. No entanto, os CFOs portugueses mostram-se mais pessimistas devido à incerteza geopolítica. Évora tornou-se o primeiro município alentejano a cobrar taxa turística.
 
-*   **Comércio Internacional:** Trump adiou para 7 de agosto a entrada em vigor de novas tarifas, mas aumentou tarifas sobre o Canadá. Os EUA impuseram uma tarifa de 15% sobre produtos de Israel. Taiwan vai continuar a negociar com os EUA após uma taxa "provisória" de 20%. O vinho português poderá perder mais de 20% do mercado dos EUA devido a tarifas. O Japão pediu a implementação rápida de um acordo comercial com os EUA. Pequim acusou os EUA de ciberataques a empresas de defesa chinesas.
+*   **Comércio Internacional:** Trump aumentou as tarifas sobre o Canadá, alegando falta de cooperação, e adiou a entrada em vigor de novas taxas. Os EUA impuseram uma tarifa de 15% sobre produtos de Israel. Taiwan vai continuar a negociar com os EUA após a taxa "provisória" de 20%. O vinho português pode perder mais de 20% do mercado dos EUA com as tarifas impostas por Trump. O Japão pediu a implementação rápida de um acordo comercial com os EUA.
 
-*   **Saúde:** A DGS alarga o rastreio do cancro do pulmão a fumadores e ex-fumadores. Aumentaram as mortes em excesso em Portugal nos últimos dias de julho.
+*   **China/EUA:** Pequim acusou os EUA de ciberataques a empresas de defesa chinesas. A indústria transformadora na China voltou a contrair em julho.
 
-*   **Política:** Gonçalo Saraiva Matias é o novo ministro da Reforma do Estado. A polícia da Venezuela tomou o controlo da sede regional de um partido da oposição. Um ex-deputado de Macau está em prisão preventiva por atos contra a segurança do Estado. O Irão rejeita acusações ocidentais de tentativas de assassinato no estrangeiro.
+*   **Saúde:** A DGS alargou o rastreio do cancro do pulmão a fumadores e ex-fumadores entre os 55 e os 74 anos.
 
-*   **Sociedade:** Évora tornou-se o primeiro município alentejano a cobrar taxa turística. Portugal caiu para o 5.º lugar entre os países europeus com mais emigrantes por população. Quase metade dos lares fiscalizados pela Segurança Social são ilegais.
+*   **Moçambique:** Um homem foi detido com 100 granadas. Uma nova vaga de violência em Cabo Delgado causou cerca de 47 mil deslocados.
 
-*   **Crime:** A PJ deteve um suspeito de homicídio qualificado e profanação de cadáver em Lisboa. Um homem foi detido em Moçambique com 100 granadas.
+*   **Macau:** As receitas do jogo atingiram o valor mais alto desde a pandemia. Um ex-deputado de Macau foi colocado em prisão preventiva por atos contra a segurança do Estado.
 
-*   **Desporto:** Sp. Braga e Santa Clara conheceram os seus adversários nas competições europeias. Diogo Ribeiro e Camila Rebelo apuraram-se para as meias-finais dos mundiais de natação.
+*   **Política:** Retrato de Gonçalo Saraiva Matias, o novo ministro da Reforma do Estado. Putin promulgou uma lei que proíbe o acesso a "conteúdos extremistas" na Rússia.
+
+*   **Crime:** A PJ deteve um suspeito de homicídio qualificado e profanação de cadáver em Lisboa.
+
+*   **Desporto:** Diogo Ribeiro e Camila Rebelo qualificaram-se para as meias-finais dos mundiais de natação. O Sp. Braga e o Santa Clara conheceram os seus adversários nas competições europeias.

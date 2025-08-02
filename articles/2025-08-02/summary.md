@@ -1,11 +1,11 @@
-O dia ficou marcado pelas **ondas de calor extremas** que afetam o mundo, com o Japão a registar o julho mais quente desde 1898. Em Portugal, o país continental está em situação de alerta devido ao elevado risco de incêndios, com destaque para o fogo em Ponte da Barca e Sabrosa, mobilizando centenas de operacionais. A campanha "Emigrante Chama" alerta para os comportamentos de risco no regresso a Portugal nesta época.
+O dia ficou marcado pelas **ondas de calor** que assolam o mundo, com o Japão a registar o julho mais quente desde 1898. Em Portugal, o Governo declarou **estado de alerta** devido ao elevado risco de incêndios, com o foco principal a ser o fogo em Ponte da Barca e a situação preocupante em Sabrosa. A campanha 'Emigrante Chama' procura alertar para os riscos associados aos incêndios rurais.
 
-No plano internacional, **ataques de Kyiv na Rússia** resultaram em mortes, enquanto a **Bélgica negoceia com os EUA** para evitar a destruição de contracetivos. O **Tribunal Penal Internacional** ordenou o afastamento de Karim Khan de um caso venezuelano por conflito de interesses. **Lula da Silva** mostrou-se aberto ao diálogo sobre tarifas após um gesto de Trump. A **UE** implementou novas regras para modelos de IA.
+No plano internacional, **ataques de Kyiv** na Rússia causaram mortes, enquanto a **detenção de um ex-deputado português em Macau** gerou reações e condenações por parte da UE. Nos EUA, **Trump congelou fundos para a UCLA** devido a alegações de antissemitismo e a **Justiça bloqueou deportações aceleradas** da era Trump. Houve também abertura para **diálogo sobre tarifas entre Lula e Trump**.
 
-Em Portugal, a **Misericórdia de Lisboa** está a apoiar cuidadores informais, e a **FCT** atribuiu bolsas de doutoramento; contudo, a sua extinção continua a gerar debate. A **GNR** deteve vários incendiários em flagrante delito.
+Em Portugal, a **Misericórdia de Lisboa apoia cuidadores informais**, a **FCT atribuiu bolsas de doutoramento** e a **GNR deteve incendiários**. O incêndio no Gerês continua a ser uma grande preocupação.
 
-No desporto, **Yu Zidi** fez história nos Mundiais de Natação, enquanto no futebol o **Sporting** procura um substituto para Diomande e **Jorge Jesus** quer juntar Bruno Fernandes a Cristiano Ronaldo no Al Nassr. **Leclerc** garantiu a pole position no Grande Prémio da Hungria de Fórmula 1.
+No mundo do desporto, destaque para a **transferência de Victor Froholdt para o FC Porto** e para a **"pole position" de Charles Leclerc no Grande Prémio da Hungria de Fórmula 1**. Katie Ledecky brilhou nos mundiais de natação.
 
-Na atualidade, **Robbie Williams** está de férias na Comporta com a princesa Eugenie, enquanto um luso-americano realiza um filme de terror e ambiciona trabalhar em Portugal. Foi também revelado que a **Suíça** continua a ser o principal destino da emigração portuguesa em 2023.
+Na área da tecnologia, a **UE estabeleceu novas regras para modelos de Inteligência Artificial**.
 
-Por fim, um **sismo** foi sentido nos Açores e mais de 70 pessoas foram assistidas após contacto com a água do mar na Nazaré, devido a contaminação.
+Outros destaques incluem a **reabertura da Praia da Nazaré** após contaminação, um **sismo sentido nos Açores** e um acidente de trabalho numa **mina no Chile**. Robbie Williams foi visto de férias na Comporta com a princesa Eugenie.

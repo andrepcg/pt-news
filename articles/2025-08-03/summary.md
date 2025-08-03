@@ -1,11 +1,13 @@
-Hoje, Portugal enfrenta uma situação de alerta devido ao calor intenso e ao risco de incêndios, com cinco distritos sob aviso vermelho. Mais de 90 incêndios estão a ser combatidos por cerca de 2000 operacionais, sendo os fogos em Vila Real os mais preocupantes. Em Sabrosa, um incêndio está 80% dominado. A GNR intensificou a fiscalização rodoviária a nível nacional.
+Hoje, Portugal enfrenta um sério risco de incêndios, com vários fogos ativos e o país em estado de alerta, levando algumas autarquias a apontar para ignições criminosas. O calor intenso também coloca cinco distritos sob aviso vermelho e todas as regiões do continente com risco muito elevado de exposição à radiação UV, levando os serviços de saúde a estarem em alerta.
 
-No cenário internacional, Netanyahu mostrou-se consternado com vídeos de reféns divulgados pelo Hamas, enquanto um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza.  A UE exige a libertação dos reféns. Na Ucrânia, um ataque atingiu um depósito de petróleo russo e Zelensky está a trabalhar para a troca de prisioneiros com a Rússia, após ter detetado um esquema de corrupção na compra de drones. Um vulcão russo entrou em erupção pela primeira vez em mais de 500 anos.
+No âmbito político, Marco Almeida (PSD) não exclui alianças com o Chega em Sintra, enquanto o Presidente da República terminou a visita aos Açores, onde o seu carro avariou. Nas autárquicas, o Chega pretende candidatar todos os deputados, e o Livre aposta em coligações à esquerda.
 
-No âmbito político nacional, Marco Almeida (PSD) não exclui alianças com o Chega para governar Sintra nas próximas autárquicas.  O Chega pretende candidatar todos os seus deputados nas autárquicas. O Presidente da República terminou a sua visita aos Açores, após o carro onde seguia ter avariado.
+A nível internacional, Netanyahu manifesta consternação com vídeos de reféns divulgados pelo Hamas, enquanto um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza. No leste europeu, a guerra na Ucrânia continua, com ataques de ambos os lados. A Arábia Saudita intensificou o uso da pena de morte para crimes de droga. Registou-se também um sismo de magnitude 3.0 em Nova Iorque e a erupção de um vulcão na Rússia.
 
-Na economia, o gasóleo deverá ficar mais barato e a gasolina mais cara. A ministra do Trabalho alertou para abusos na dispensa de amamentação e as reclamações no setor do turismo aumentaram 21% no primeiro semestre de 2025.
+Na economia, o gasóleo deverá ficar mais barato e a gasolina mais cara, enquanto a oferta de crude da OPEP+ aumenta.
 
-No desporto, Luuk de Jong é o mais recente reforço do FC Porto e Ruben Amorim manifestou o desejo de treinar o Manchester United por muitos anos. Lando Norris venceu o GP da Hungria em Fórmula 1 e Kalle Rovanperä conquistou o Rali da Finlândia.
+No desporto, o FC Porto oficializou a contratação de Luuk de Jong e cancelou o fogo de artifício no jogo de apresentação devido ao risco de incêndio. Ruben Amorim expressou o desejo de treinar o Manchester United, enquanto Lando Norris venceu o GP da Hungria em Fórmula 1. Mirko Topic confirmou a sua saída do Famalicão para o Norwich.
 
-Ainda sobre outros temas, um homem morreu na Praia dos Pescadores em Silves e um acidente no IP3 em Santa Comba Dão resultou em duas mortes. Registou-se também um surto de contaminação na praia da Nazaré. Foi ultrapassado o limiar de concentração de ozono na atmosfera no Norte do país.
+Ainda em Portugal, um homem morreu na Praia dos Pescadores em Silves, e outro faleceu após queda durante um concerto dos Oasis em Londres. A contaminação na praia da Nazaré afetou mais de uma centena de pessoas e um acidente no IP3 em Santa Comba Dão provocou duas mortes.
+
+Por fim, cientistas descobriram microplásticos no sémen humano e no fluido folicular, e a poluição persiste nos rios Lis e Lena.

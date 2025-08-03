@@ -1,13 +1,9 @@
-Hoje, Portugal enfrenta um sério risco de incêndios, com vários fogos ativos e o país em estado de alerta, levando algumas autarquias a apontar para ignições criminosas. O calor intenso também coloca cinco distritos sob aviso vermelho e todas as regiões do continente com risco muito elevado de exposição à radiação UV, levando os serviços de saúde a estarem em alerta.
+Em Portugal, o país encontra-se em alerta devido ao calor intenso e risco de incêndios, com cinco distritos sob aviso vermelho. Vários incêndios estão ativos, nomeadamente em Vila Real e Amarante, mobilizando centenas de operacionais. A GNR intensificou a fiscalização rodoviária a nível nacional. Também se registaram acidentes graves, incluindo um no IP3 em Santa Comba Dão que resultou em duas mortes, e um caso de contaminação na praia da Nazaré que afetou mais de uma centena de pessoas.
 
-No âmbito político, Marco Almeida (PSD) não exclui alianças com o Chega em Sintra, enquanto o Presidente da República terminou a visita aos Açores, onde o seu carro avariou. Nas autárquicas, o Chega pretende candidatar todos os deputados, e o Livre aposta em coligações à esquerda.
+No mundo, o conflito israelo-palestiniano continua tenso, com o Hamas a divulgar vídeos de reféns, gerando consternação em Netanyahu. Um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita. A nível político, um procurador que acusou Trump está a ser investigado por atividade política ilegal. Na Ucrânia, um ataque ucraniano atingiu um depósito de combustível russo.
 
-A nível internacional, Netanyahu manifesta consternação com vídeos de reféns divulgados pelo Hamas, enquanto um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza. No leste europeu, a guerra na Ucrânia continua, com ataques de ambos os lados. A Arábia Saudita intensificou o uso da pena de morte para crimes de droga. Registou-se também um sismo de magnitude 3.0 em Nova Iorque e a erupção de um vulcão na Rússia.
+Em vários outros temas, a Arábia Saudita aumentou as execuções por crimes de droga, e um vulcão russo entrou em erupção após mais de 500 anos. A OPEP+ aumentou a oferta de crude. Um sismo de magnitude 3.0 foi sentido em Nova Iorque.
 
-Na economia, o gasóleo deverá ficar mais barato e a gasolina mais cara, enquanto a oferta de crude da OPEP+ aumenta.
+No desporto, o FC Porto contratou Luuk de Jong e cancelou fogo de artifício devido ao risco de incêndio, enquanto no automobilismo, Lando Norris venceu o GP da Hungria em Fórmula 1 e Kalle Rovanperä conquistou o Rali da Finlândia. Sporting muda estratégia para Jota Silva e FC Porto vence amigável frente ao Atlético de Madrid.
 
-No desporto, o FC Porto oficializou a contratação de Luuk de Jong e cancelou o fogo de artifício no jogo de apresentação devido ao risco de incêndio. Ruben Amorim expressou o desejo de treinar o Manchester United, enquanto Lando Norris venceu o GP da Hungria em Fórmula 1. Mirko Topic confirmou a sua saída do Famalicão para o Norwich.
-
-Ainda em Portugal, um homem morreu na Praia dos Pescadores em Silves, e outro faleceu após queda durante um concerto dos Oasis em Londres. A contaminação na praia da Nazaré afetou mais de uma centena de pessoas e um acidente no IP3 em Santa Comba Dão provocou duas mortes.
-
-Por fim, cientistas descobriram microplásticos no sémen humano e no fluido folicular, e a poluição persiste nos rios Lis e Lena.
+A nível social, a ministra do Trabalho alertou para abusos na dispensa de amamentação.

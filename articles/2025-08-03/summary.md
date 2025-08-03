@@ -1,13 +1,7 @@
-Hoje, Portugal enfrenta um alerta vermelho em cinco distritos devido ao calor extremo, com risco muito elevado de radiação UV em todo o continente, levando a GNR a intensificar a fiscalização rodoviária. Um homem de 45 anos faleceu na Praia dos Pescadores em Silves, por causas desconhecidas, enquanto um incêndio em Sabrosa teve 80% do perímetro dominado.
+Em Portugal, o dia ficou marcado pelo calor extremo, com cinco distritos sob alerta vermelho e risco muito elevado de exposição à radiação UV em todo o continente, levando à intensificação da fiscalização rodoviária pela GNR e um alerta nacional para o risco de incêndios, com vários fogos a lavrar pelo país, incluindo um em Sabrosa com 80% do perímetro dominado. O dia foi também marcado por um acidente grave no IP3, perto de Santa Comba Dão, que provocou duas mortes. No campo da política, Marco Almeida (PSD) não exclui alianças com o Chega em Sintra, enquanto o Presidente da República termina hoje a visita aos Açores, onde um especialista defende limites ao crescimento do turismo.
 
-No mundo, um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza, facto que Netanyahu lamentou após a divulgação de vídeos de reféns pelo Hamas. Um sismo de magnitude 3.0 foi sentido em Nova Iorque. O Senado dos EUA confirmou uma ex-apresentadora da Fox News como procuradora de Washington.
+No mundo, Netanyahu mostrou-se consternado com os vídeos de reféns divulgados pelo Hamas, enquanto um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza. A UE exigiu a libertação de reféns israelitas na sequência da divulgação de vídeos "aterradores". Um procurador que acusou Trump está a ser investigado por atividade política ilegal. Um sismo de magnitude 3.0 foi sentido em Nova Iorque. No Brasil, Tarso Genro defende que o país não deve retaliar Portugal por causa do pacote anti-imigração. Na Ucrânia, foi detetado um esquema de corrupção na compra de drones, e um ataque russo em Mykolaiv fez feridos.
 
-No Brasil, Tarso Genro defende que o país não deve retaliar Portugal devido ao pacote anti-imigração.
+No desporto, destaque para o mercado de transferências e para a saída de um médio do FC Porto.
 
-Em Portugal, Marco Almeida (PSD) não exclui alianças com o Chega para governar Sintra. O Presidente da República terminou a sua visita aos Açores, onde um especialista defende limites ao crescimento do turismo.
-
-No desporto, o mercado de transferências continua agitado, com rumores e negócios a decorrer. O FC Porto pode perder um médio devido a Francesco Farioli. Clubes portugueses já não lucram tanto com a venda de jogadores para o estrangeiro.
-
-Na cultura, destaca-se uma crónica sobre os hábitos de leitura em Portugal e um obituário sobre James Lloydovich Patterson, um homem entre a Rússia e os EUA. Fábio Paim foi tema de uma crónica sobre a sua participação no Big Brother.
-
-Por fim, cientistas descobriram microplásticos no sémen humano e no fluido folicular.
+Outros temas incluem a descoberta de microplásticos no sémen humano e no fluido folicular, a persistente poluição nos rios Lis e Lena e as novas regras de rotulagem de vinhos.

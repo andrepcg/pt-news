@@ -1,13 +1,11 @@
-O dia ficou marcado pelo **calor extremo**, com cinco distritos em alerta vermelho, enquanto Portugal enfrenta um **alerta nacional devido ao risco de incêndios**. Vários incêndios deflagraram pelo país, com especial atenção para os fogos em Sabrosa e Vila Real, onde a situação levou a evacuações.
+Hoje, Portugal enfrenta um alerta nacional devido ao calor intenso e ao risco de incêndios, com cinco distritos sob aviso vermelho. Vários incêndios estão a ser combatidos em Vila Real e Sabrosa, com um foco preocupante em Siralhelhos. As autoridades intensificaram a fiscalização rodoviária e apelam à precaução, enquanto a radiação UV atinge níveis muito elevados em todo o país. Verificou-se um trágico acidente no IP3, em Santa Comba Dão, com duas mortes.
 
-No **panorama internacional**, o conflito israelo-palestiniano continua tenso, com Netanyahu consternado com a divulgação de vídeos de reféns pelo Hamas e a UE a exigir a sua libertação. Um funcionário do Crescente Vermelho Palestiniano foi morto num ataque em Gaza. Na Ucrânia, um ataque ucraniano atingiu um depósito de petróleo russo, enquanto Mykolaiv sofreu ataques russos.
+No plano internacional, o conflito israelo-palestiniano continua tenso, com Netanyahu consternado com vídeos de reféns divulgados pelo Hamas e a UE a exigir a sua libertação. Um funcionário do Crescente Vermelho Palestiniano foi morto num ataque israelita em Gaza. A guerra na Ucrânia também prossegue, com ataques e contra-ataques de ambos os lados. Um vulcão russo entrou em erupção após mais de 500 anos de inatividade.
 
-Em **Portugal**, um acidente no IP3 em Santa Comba Dão provocou duas mortes. Na Nazaré, um surto de contaminação na praia causou hospitalizações. A GNR intensificou a fiscalização rodoviária a nível nacional.
+Em outras notícias, a Arábia Saudita aumentou as execuções por crimes de droga, e a Jordânia condenou a visita de um ministro israelita ao Monte do Templo como provocação. Vários países estão reunidos para discutir um acordo global sobre plásticos. Nos Estados Unidos, o Senado confirmou uma ex-apresentadora da Fox News como procuradora de Washington.
 
-No **desporto**, destaque para a vitória de Lando Norris no GP da Hungria de Fórmula 1 e para a conquista de Kalle Rovanperä no Rali da Finlândia. Ruben Amorim expressou o desejo de treinar o Manchester United.
+Em Portugal, o PSD não exclui alianças com o Chega para governar Sintra, enquanto o Chega pretende candidatar todos os deputados nas autárquicas. O Presidente da República terminou a visita aos Açores, onde um especialista defende limites ao crescimento do turismo. As reclamações no setor do turismo aumentaram 21% no primeiro semestre.
 
-Na **política**, Marco Almeida (PSD) não exclui alianças com o Chega para governar Sintra. O Chega pretende candidatar todos os seus deputados nas autárquicas e o Livre aposta em coligações à esquerda.
+No desporto, o mercado de transferências continua agitado, com o FC Porto a contratar Luuk de Jong e o Sporting a alterar a estratégia para Jota Silva; Trubin atingiu a marca de 100 jogos pelo Benfica. Lando Norris venceu o GP da Hungria em Fórmula 1 e Kalle Rovanperä conquistou o Rali da Finlândia.
 
-Na **economia**, o gasóleo deverá ficar mais barato e a gasolina mais cara. O setor do turismo enfrenta um aumento de reclamações.
-
-Por fim, um vulcão russo entrou em erupção após mais de 500 anos e foi encontrada uma concentração de ozono na atmosfera acima do recomendado no Norte do país.
+Ainda em destaque, um surto de contaminação na praia da Nazaré causou várias hospitalizações e o número de banhistas assistidos ascende a 116. Registou-se um acidente na Praia dos Pescadores, em Silves, resultando na morte de um homem.

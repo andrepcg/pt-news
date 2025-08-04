@@ -1,9 +1,19 @@
-Em Portugal, o país encontra-se em alerta devido ao elevado risco de incêndios, com mais de 140 concelhos em risco máximo e a A7 cortada em Fafe. A Proteção Civil espera controlar os incêndios em Vila Real e Celorico de Basto, enquanto um fogo em Mondim de Basto ameaça aldeias. Na Madeira, um incêndio obrigou à deslocação de utentes de um centro de saúde. As candidaturas ao Ensino Superior terminaram com menos 10 mil inscritos. O INEM está sobrecarregado com horas extra, com Finanças a apontarem falhas na fiscalização.
+Em Portugal, o dia ficou marcado pelos **incêndios**, com mais de 140 concelhos em risco máximo e incêndios a afetar Vila Real, Celorico de Basto e a A7 cortada em Fafe. O Parque Nacional da Peneda-Gerês já perdeu mais de 75 mil hectares. O governo prepara apoios ao turismo afetado. Também se registou um incêndio que obrigou à deslocação de utentes num centro de saúde na Madeira.
 
-No mundo, Trump considera enviar um emissário à Rússia para discutir um acordo de paz na Ucrânia, enquanto a Índia mantém a compra de petróleo russo, desafiando a pressão dos EUA. O governo japonês admite desafios na implementação de um acordo com os EUA. A China rejeita exigências dos EUA sobre a compra de petróleo russo e iraniano e Pequim volta a decretar alerta máximo devido a chuvas. Em Moçambique, empresários estão preocupados com a retoma do projeto da TotalEnergies em Cabo Delgado, e a ONU alerta para uma "cascata implacável de emergências" no país. A Marinha indiana e filipina realizaram a primeira patrulha conjunta no Mar da China Meridional. Na Coreia do Sul, Seul ordenou a remoção de altifalantes de propaganda na fronteira com o Norte e fortes chuvas forçaram a evacuação de mais de 2500 pessoas. Taiwan exige a renúncia do passaporte chinês para residência.
+No **ensino superior**, as candidaturas terminaram com menos 10 mil inscritos.
 
-Na área económica, o Novobanco registou perdas devido a uma ordem do Banco de Portugal. Nvidia nega riscos nos seus 'chips' após acusações na China. A bolsa de Tóquio abriu em forte queda e o investimento imobiliário em Portugal disparou. A BP anunciou uma grande descoberta de petróleo e gás no Brasil. A Shein foi multada por "greenwashing" em Itália.
+A **saúde** também foi tema, com o INEM a recorrer a muitas horas extra e sob auditoria por possíveis prejuízos ao Estado. O pagamento de horas extra a dirigentes está a ser criticado. No Algarve, sindicatos fazem greve por melhores condições. Timor-Leste enfrenta um surto de raiva, com 11 mortos. Os pedidos de ensaios clínicos ao Infarmed aumentaram.
 
-No desporto, o FC Porto venceu o Atlético de Madrid em jogo de apresentação e o Fenerbahçe de Mourinho pode defrontar o Benfica no 'play-off' da Liga dos Campeões. A Volta a Portugal em Bicicleta terá um percurso montanhoso.
+A nível **económico**, o Novobanco registou perdas devido a uma ordem do Banco de Portugal, a Euribor subiu a 6 e 12 meses e a Polémica sobre amamentação gerou reações e críticas às declarações da ministra. O investimento imobiliário disparou em Portugal e o Fisco pagou milhões por software Oracle. Investimento imobiliário dispara 78% no 1º semestre.
 
-Outros destaques incluem o caso macabro em Lisboa, onde um homem foi detido por decapitar outro, e as críticas da CGTP às propostas do Governo para a maternidade. Assinalam-se os 150 anos da morte de Hans Christian Andersen e os 30 anos em que foi travada a venda do Coliseu do Porto à Igreja Universal.
+No **desporto**, o FC Porto venceu o Atlético de Madrid, e na Liga dos Campeões, o Benfica poderá defrontar o Fenerbahçe de Mourinho no "play-off". O Sporting de Braga pode defrontar clube de Gibraltar ou Arménia no acesso à Liga Europa.
+
+No **mundo**, Trump anunciou possível deslocação de enviado à Rússia, enquanto a Índia mantém a compra de petróleo russo, desafiando os EUA. A China enfrenta um ataque no centro do país, medidas contra a febre chikungunya e rejeita pressões dos EUA sobre a compra de petróleo. Na Coreia do Sul, Seul removeu altifalantes de propaganda na fronteira e fortes chuvas forçaram pessoas a abandonar as suas casas. No Reino Unido, a tempestade Floris causou estragos e o Japão registou recordes de calor em 17 localidades. A China continua com alerta máximo devido às chuvas.
+
+Em **Moçambique**, empresários estão preocupados com a retoma do projeto da TotalEnergies em Cabo Delgado e a ONU alerta para uma "cascata implacável de emergências", o fim do apoio da USAID agravou a situação.
+
+O mundo também acompanha o **conflito israelo-palestiniano**, com denúncias de mortes por fome em Gaza e pedidos de ajuda a Trump. Na Ucrânia, Trump deverá enviar um enviado para a Rússia.
+
+A **BP** anunciou uma grande descoberta de petróleo e gás no Brasil e Shein foi multada por "greenwashing" na Itália.
+
+Dua Lipa recebeu a cidadania do Kosovo.

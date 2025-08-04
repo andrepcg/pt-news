@@ -1,19 +1,15 @@
-Em Portugal, o dia ficou marcado pelos **incêndios**, com mais de 140 concelhos em risco máximo e incêndios a afetar Vila Real, Celorico de Basto e a A7 cortada em Fafe. O Parque Nacional da Peneda-Gerês já perdeu mais de 75 mil hectares. O governo prepara apoios ao turismo afetado. Também se registou um incêndio que obrigou à deslocação de utentes num centro de saúde na Madeira.
+Em Portugal, o país está em alerta devido aos incêndios, com mais de 140 concelhos em risco máximo e avisos vermelhos em cinco distritos do Norte. A A7 esteve cortada em Fafe e há grande preocupação com os incêndios em Vila Real e Mondim de Basto, onde aldeias estão em risco. O Parque Nacional da Peneda-Gerês já viu arder mais de 75 mil hectares. A Proteção Civil espera controlar os incêndios de Vila Real e Celorico de Basto ainda hoje, com mais de 1900 operacionais no terreno. O INEM tem recorrido a um elevado número de horas extra para manter os serviços operacionais, havendo falhas na fiscalização das horas de voo dos helicópteros.
 
-No **ensino superior**, as candidaturas terminaram com menos 10 mil inscritos.
+No Ensino Superior, as candidaturas terminaram com menos 10 mil inscritos. Mais de 60% dos manuais escolares do 5.º ao 12.º ano poderão ser reutilizados.
 
-A **saúde** também foi tema, com o INEM a recorrer a muitas horas extra e sob auditoria por possíveis prejuízos ao Estado. O pagamento de horas extra a dirigentes está a ser criticado. No Algarve, sindicatos fazem greve por melhores condições. Timor-Leste enfrenta um surto de raiva, com 11 mortos. Os pedidos de ensaios clínicos ao Infarmed aumentaram.
+Na economia, o Novobanco registou perdas de 14 milhões devido a uma ordem do Banco de Portugal. O investimento imobiliário disparou 78% no primeiro semestre. Os juros da dívida de Portugal estão em alta. A Shein foi multada por "greenwashing" em Itália. A BP anunciou uma grande descoberta de petróleo e gás no Brasil. O governo prepara uma linha de apoio ao turismo afetado pelos incêndios, e uma auditoria ao INEM aponta para risco de prejuízos ao Estado. Foi aprovada a compra de mais uma aeronave KC-390 com opção de venda a aliados.
 
-A nível **económico**, o Novobanco registou perdas devido a uma ordem do Banco de Portugal, a Euribor subiu a 6 e 12 meses e a Polémica sobre amamentação gerou reações e críticas às declarações da ministra. O investimento imobiliário disparou em Portugal e o Fisco pagou milhões por software Oracle. Investimento imobiliário dispara 78% no 1º semestre.
+A nível internacional, Trump anunciou uma possível deslocação de um enviado especial à Rússia para discutir um acordo de paz na Ucrânia. A Índia continua a comprar petróleo à Rússia, desafiando a pressão dos EUA, enquanto a China rejeita a exigência dos EUA para suspender a compra de petróleo russo e iraniano. A Marinha indiana e filipina realizaram a primeira patrulha conjunta no Mar da China Meridional. A Coreia do Sul ordenou a remoção de altifalantes de propaganda na fronteira com a Coreia do Norte, enquanto na China, um ataque no centro do país fez dois mortos e três feridos, e a província de Guangdong promete medidas contra a propagação da febre chikungunya. Uma forte tempestade atingiu o Reino Unido, causando interrupções, e Pequim voltou a decretar alerta máximo devido às chuvas.
 
-No **desporto**, o FC Porto venceu o Atlético de Madrid, e na Liga dos Campeões, o Benfica poderá defrontar o Fenerbahçe de Mourinho no "play-off". O Sporting de Braga pode defrontar clube de Gibraltar ou Arménia no acesso à Liga Europa.
+Em Moçambique, empresários estão preocupados com a retoma do projeto da TotalEnergies em Cabo Delgado, e a ONU alertou para uma "cascata implacável de emergências" no país.
 
-No **mundo**, Trump anunciou possível deslocação de enviado à Rússia, enquanto a Índia mantém a compra de petróleo russo, desafiando os EUA. A China enfrenta um ataque no centro do país, medidas contra a febre chikungunya e rejeita pressões dos EUA sobre a compra de petróleo. Na Coreia do Sul, Seul removeu altifalantes de propaganda na fronteira e fortes chuvas forçaram pessoas a abandonar as suas casas. No Reino Unido, a tempestade Floris causou estragos e o Japão registou recordes de calor em 17 localidades. A China continua com alerta máximo devido às chuvas.
+No desporto, o Fenerbahçe de Mourinho poderá defrontar o Benfica no 'play-off' da Liga dos Campeões. O FC Porto venceu o Atlético de Madrid em jogo de apresentação, e o Sporting de Braga conhecerá o seu possível adversário no playoff da Liga Europa.
 
-Em **Moçambique**, empresários estão preocupados com a retoma do projeto da TotalEnergies em Cabo Delgado e a ONU alerta para uma "cascata implacável de emergências", o fim do apoio da USAID agravou a situação.
+O Governo aprovou a compra de uma nova aeronave KC-390 e ativou a opção para vender a aliados. Houve polémica devido a comentários da Ministra do Trabalho sobre a amamentação. A CGTP criticou as propostas do Governo para a maternidade, considerando-as uma "insensibilidade social".
 
-O mundo também acompanha o **conflito israelo-palestiniano**, com denúncias de mortes por fome em Gaza e pedidos de ajuda a Trump. Na Ucrânia, Trump deverá enviar um enviado para a Rússia.
-
-A **BP** anunciou uma grande descoberta de petróleo e gás no Brasil e Shein foi multada por "greenwashing" na Itália.
-
-Dua Lipa recebeu a cidadania do Kosovo.
+Em Lisboa, um homem foi detido por ter decapitado outro no Rossio, num caso macabro.

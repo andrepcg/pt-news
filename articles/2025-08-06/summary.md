@@ -1,15 +1,9 @@
-Em Portugal, mais de 100 concelhos estão em risco máximo de incêndio, com 10 aeronaves paradas por falta de "kits" de adaptação. O fogo de Vila Real foi dominado, mas Celorico de Basto tem três frentes ativas. O governo vai adquirir kits de combate a incêndios para aviões C-130. Um programa de reabilitação para incendiários, anunciado em 2018, ainda não foi implementado.
+Hoje, Portugal enfrenta um elevado risco de incêndios com mais de 100 concelhos em alerta máximo, agravado pela falta de 'kits' para adaptar 10 aeronaves de combate a fogos. O incêndio em Vila Real foi dominado, mas a Proteção Civil permanece em alerta, com militares a patrulhar a área.
 
-Na economia, Trump voltou a pressionar o Brasil com tarifas e estas já entraram em vigor, com Lula a propor diálogo. A Visabeira Indústria lançou uma OPA sobre a Martifer, levando à suspensão da negociação das ações. A Tesla enfrenta uma quebra nas entregas da megafábrica de Xangai. Os preços das casas subiram ao maior nível desde 2022. O desemprego em Portugal recuou para 5,9% no segundo trimestre. A ASAE detetou especulação de preços em restaurantes de Santarém.
+No plano internacional, Trump volta a pressionar o Brasil com tarifas, enquanto um enviado dos EUA se reuniu com Putin para discutir a paz na Ucrânia. A Faixa de Gaza enfrenta uma crise humanitária após um camião de ajuda ter capotado, causando 20 mortes. A administração Trump também reinstalou um memorial removido após protestos antirracistas nos EUA.
 
-No mundo, um camião com ajuda humanitária capotou em Gaza, causando 20 mortes. A administração Trump reinstalou um memorial removido após protestos antirracistas. A Grande Barreira de Coral sofreu o maior declínio alguma vez registado. Um enviado de Trump chegou a Moscovo para negociações sobre a guerra na Ucrânia, com Putin a considerar a conversa "útil e construtiva". Taiwan recebeu 'drones' de combate dos EUA. O Japão apelou ao desarmamento nuclear global no 80º aniversário de Hiroshima. Um grande incêndio no sul de França fez um morto e vários feridos, aproximando-se da fronteira com Espanha.
+Na economia, a Tesla regista uma quebra nas entregas em Xangai, e a Visabeira lançou uma OPA sobre a Martifer. A Câmara de Lisboa perdeu um recurso no caso 'Russiagate', e o governo pretende facilitar a recusa do teletrabalho por parte das empresas. Foram anunciados apoios para a troca de eletrodomésticos, e a rede pública de carregamento de veículos elétricos atingiu um recorde em julho.
 
-Em Portugal, um despiste de motociclo em Alenquer resultou na morte de um jovem, e um homem foi detido em Coimbra por envenenar os seus cinco filhos no Brasil. Em Matosinhos, um suspeito matou a ex-namorada e feriu outra vítima. A Câmara de Lisboa perdeu um recurso no processo 'Russiagate'.
+No desporto, Artem Nych iniciou a defesa do título na Volta a Portugal, e o Benfica prepara-se para jogar o acesso à Liga dos Campeões frente ao Nice. O FC Porto está de luto pela morte de Jorge Costa, com o velório a decorrer no Estádio do Dragão.
 
-No desporto, Artem Nych iniciou a defesa do título na Volta a Portugal, que arrancou hoje na Maia. O FC Porto está em luto pela morte de Jorge Costa, com o velório a decorrer no Estádio do Dragão, e o jogo FC Porto-Vitória foi adiado. O Benfica joga o acesso à Liga dos Campeões frente ao Nice.
-
-Na saúde, a campanha "O Rim não Dói" alerta para a prevenção da doença renal crónica nas praias, e o Infarmed aprovou o financiamento de 51 medicamentos inovadores.
-
-Na cultura, o SonicBlast arrancou hoje com rock psicadélico em Caminha.
-
-A Altice vai cortar 1.000 empregos em Portugal devido à IA.
+Outras notícias incluem o alerta da campanha 'O Rim não Dói' para a prevenção da doença renal crónica, o 80º aniversário de Hiroshima com apelos ao desarmamento nuclear, um crime em Matosinhos onde um suspeito matou a ex-namorada e feriu outra vítima, e um despiste de motociclo em Alenquer que resultou na morte de um jovem. Um grande incêndio no sul de França fez um morto e vários feridos. A Grande Barreira de Coral sofreu o maior declínio alguma vez registado.

@@ -1,11 +1,21 @@
-O dia ficou marcado por diversos acontecimentos em Portugal e no mundo. Em Portugal, mais de 100 concelhos estão em risco máximo de incêndio, com 10 aeronaves de combate a incêndios paradas por falta de "kits" de adaptação. Um programa de reabilitação para incendiários de 2018 ainda não foi implementado. Em Alenquer, um jovem de 17 anos morreu num despiste de motociclo, e no Porto, o metro foi cortado devido a um atropelamento. A PSP registou um aumento de mortes nas estradas em julho. A Câmara de Lisboa perdeu um recurso no processo 'Russiagate'. O Governo quer facilitar a recusa do teletrabalho por parte das empresas, um homem foi detido em Coimbra por alegadamente ter envenenado os seus cinco filhos no Brasil, e a violência doméstica contra homens aumentou significativamente nos últimos quatro anos. Em termos económicos, o desemprego recuou para 5,9% no segundo trimestre de 2025, e a Petroprix queixou-se da burocracia no licenciamento de postos de combustível.
+Aqui estão os principais destaques das notícias de hoje:
 
-No cenário internacional, Trump voltou a pressionar o Brasil com tarifas para obter amnistia para Bolsonaro, enquanto Lula propôs diálogo. Um camião com ajuda humanitária capotou em Gaza, causando 20 mortes, e a administração Trump reinstalou um memorial removido após protestos antirracistas. Um enviado de Trump chegou a Moscovo para negociações sobre a guerra na Ucrânia. A Grande Barreira de Coral sofreu o maior declínio alguma vez registado e um grande incêndio no sul de França fez um morto e vários feridos. O Japão assinalou o 80º aniversário de Hiroshima, apelando ao desarmamento nuclear global, enquanto Taiwan recebeu "drones" de combate dos EUA face à pressão da China.
+**Política e Justiça:** Continua a polémica em torno do caso 'Russiagate' com a Câmara de Lisboa a perder um recurso e a enfrentar a possibilidade de pagar uma multa. O Ministério Público abriu um inquérito a André Ventura pela divulgação de nomes de crianças imigrantes. Bill e Hillary Clinton foram intimados a depor no Congresso sobre o caso Epstein. Zeinal Bava e Henrique Granadeiro, ex-líderes da Portugal Telecom, voltam a ter bens arrestados.
 
-No desporto, Jorge Costa faleceu, com o velório a ser realizado no Estádio do Dragão, resultando no adiamento do jogo do FC Porto. O Benfica joga o acesso à Liga dos Campeões frente ao Nice, e Artem Nych iniciou a defesa do título na Volta a Portugal na Maia.
+**Economia:** Trump volta a pressionar o Brasil com tarifas alfandegárias, levando Lula a propor diálogo. A Visabeira Indústria lançou uma Oferta Pública de Aquisição (OPA) sobre a Martifer, levando à suspensão da negociação das ações. A Tesla enfrenta uma quebra nas entregas da sua megafábrica em Xangai devido à concorrência chinesa. Em Portugal, o desemprego recuou para 5,9% no 2.º trimestre de 2025. Catástrofes naturais causaram perdas de 116 mil milhões de euros no primeiro semestre.
 
-Na saúde, a campanha 'O Rim não Dói' alertou para a prevenção da doença renal crónica nas praias, e o Infarmed aprovou o financiamento de 51 medicamentos inovadores.
+**Incêndios:** Mais de 100 concelhos estão em risco máximo de incêndio e 10 aeronaves permanecem paradas por falta de 'kits' de adaptação. O fogo em Vila Real foi dominado, mas Celorico de Basto ainda regista três frentes ativas. Um programa de reabilitação para incendiários anunciado em 2018 ainda não foi implementado.
 
-No mundo empresarial, a Tesla registou uma quebra nas entregas da 'megafábrica' de Xangai face à concorrência chinesa, a Visabeira Indústria lançou uma OPA sobre a Martifer, e a CMVM suspendeu a negociação da Martifer devido à OPA.
+**Mundo:** Um camião com ajuda humanitária capotou em Gaza, resultando em 20 mortes. A administração Trump reinstalou um memorial removido após protestos antirracistas nos EUA. Um enviado de Trump chegou a Moscovo para negociações sobre a guerra na Ucrânia. O Japão assinalou o 80º aniversário de Hiroshima, apelando ao desarmamento nuclear global.
 
-Outros destaques incluem um alerta da WWF para o aumento da desinformação climática e o SonicBlast a arrancar em Caminha com rock psicadélico.
+**Saúde:** A campanha 'O Rim não Dói' está a alertar para a prevenção da doença renal crónica nas praias. O Infarmed aprovou o financiamento de 51 medicamentos inovadores.
+
+**Desporto:** Artem Nych iniciou a defesa do título na Volta a Portugal, que arrancou hoje. O FC Porto está de luto pela morte de Jorge Costa, com o velório a decorrer no Estádio do Dragão. O jogo FC Porto-Vitória foi adiado devido ao falecimento de Jorge Costa e Benfica joga acesso à Liga dos Campeões frente ao Nice.
+
+**Sociedade:** A violência doméstica contra homens aumentou 48,2% em quatro anos, segundo a APAV. Uma brasileira acusada de matar os cinco filhos foi detida em Portugal.
+
+**Ambiente:** A Grande Barreira de Coral sofreu o maior declínio alguma vez registado e a WWF alerta para o aumento da desinformação climática.
+
+**Acidentes:** Um despiste de motociclo em Alenquer resultou na morte de um jovem de 17 anos e duas pessoas foram resgatadas após uma queda nas Cascatas de Várzeas, no Gerês.
+
+**Outros:** O SonicBlast arrancou hoje com rock psicadélico em Caminha.

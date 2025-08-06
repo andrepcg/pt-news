@@ -1,21 +1,13 @@
-Aqui estão os principais destaques das notícias de hoje:
+Em Portugal, mais de 100 concelhos estão sob risco máximo de incêndio, com o Estado a enfrentar dificuldades devido à falta de "kits" que impossibilitam o uso de 10 aeronaves no combate às chamas. O fogo em Vila Real foi dominado, mas em Celorico de Basto ainda possui três frentes ativas. Um programa de reabilitação para incendiários, prometido desde 2018, ainda não foi implementado. A ASAE detetou especulação de preços em restaurantes de Santarém. Um jovem de 17 anos morreu num despiste de motociclo em Alenquer e no Gerês duas pessoas foram resgatadas após uma queda. No Porto, o metro esteve cortado devido a um atropelamento e houve também o desmantelamento de um bar na praia dos Ingleses por razões de segurança. Em Coimbra, um homem foi detido por ter alegadamente envenenado os cinco filhos no Brasil. A violência doméstica contra homens aumentou quase 50% em quatro anos. Albufeira proibiu a venda de álcool na rua durante a noite.
 
-**Política e Justiça:** Continua a polémica em torno do caso 'Russiagate' com a Câmara de Lisboa a perder um recurso e a enfrentar a possibilidade de pagar uma multa. O Ministério Público abriu um inquérito a André Ventura pela divulgação de nomes de crianças imigrantes. Bill e Hillary Clinton foram intimados a depor no Congresso sobre o caso Epstein. Zeinal Bava e Henrique Granadeiro, ex-líderes da Portugal Telecom, voltam a ter bens arrestados.
+No mundo, Trump volta a pressionar o Brasil com tarifas para obter amnistia a Bolsonaro. Um camião com ajuda humanitária capotou em Gaza, causando 20 mortes, enquanto Israel ordenou a deslocação de habitantes de Gaza para sul. Os EUA reinstalaram um memorial removido após protestos antirracistas. Um enviado de Trump chegou a Moscovo para discutir a paz na Ucrânia. A Grande Barreira de Coral sofreu o maior declínio alguma vez registado. Assinalaram-se os 80 anos de Hiroshima , com o Japão a apelar ao desarmamento nuclear global. Um incêndio no sul de França fez um morto e vários feridos. Taiwan recebeu drones de combate dos EUA face à pressão da China. Bill e Hillary Clinton foram intimados a depor no Congresso sobre o caso Epstein. Karol Nawrocki foi empossado como Presidente da Polónia. Registaram-se inundações nos Himalaias com pelo menos 5 mortos e mais de 100 desaparecidos.
 
-**Economia:** Trump volta a pressionar o Brasil com tarifas alfandegárias, levando Lula a propor diálogo. A Visabeira Indústria lançou uma Oferta Pública de Aquisição (OPA) sobre a Martifer, levando à suspensão da negociação das ações. A Tesla enfrenta uma quebra nas entregas da sua megafábrica em Xangai devido à concorrência chinesa. Em Portugal, o desemprego recuou para 5,9% no 2.º trimestre de 2025. Catástrofes naturais causaram perdas de 116 mil milhões de euros no primeiro semestre.
+No desporto, Jorge Costa faleceu, com o FC Porto a realizar o velório no Estádio do Dragão, o que levou ao adiamento do jogo entre o FC Porto e o Vitória. O Benfica joga o acesso à Liga dos Campeões frente ao Nice e a Volta a Portugal 2025 arrancou na Maia.
 
-**Incêndios:** Mais de 100 concelhos estão em risco máximo de incêndio e 10 aeronaves permanecem paradas por falta de 'kits' de adaptação. O fogo em Vila Real foi dominado, mas Celorico de Basto ainda regista três frentes ativas. Um programa de reabilitação para incendiários anunciado em 2018 ainda não foi implementado.
+Na economia, o Governo pretende facilitar a recusa do teletrabalho por parte das empresas. A Tesla enfrentou uma quebra nas entregas da 'megafábrica' de Xangai. A Visabeira Indústria lançou uma OPA sobre a Martifer, levando a CMVM a suspender a negociação desta.
 
-**Mundo:** Um camião com ajuda humanitária capotou em Gaza, resultando em 20 mortes. A administração Trump reinstalou um memorial removido após protestos antirracistas nos EUA. Um enviado de Trump chegou a Moscovo para negociações sobre a guerra na Ucrânia. O Japão assinalou o 80º aniversário de Hiroshima, apelando ao desarmamento nuclear global.
+Na saúde, a campanha 'O Rim não Dói' alerta para a prevenção da doença renal crónica nas praias e o Infarmed aprovou o financiamento de 51 medicamentos inovadores.
 
-**Saúde:** A campanha 'O Rim não Dói' está a alertar para a prevenção da doença renal crónica nas praias. O Infarmed aprovou o financiamento de 51 medicamentos inovadores.
+Na cultura, o SonicBlast arrancou em Caminha com rock psicadélico e Lady Gaga lidera as nomeações aos prémios VMA da MTV.
 
-**Desporto:** Artem Nych iniciou a defesa do título na Volta a Portugal, que arrancou hoje. O FC Porto está de luto pela morte de Jorge Costa, com o velório a decorrer no Estádio do Dragão. O jogo FC Porto-Vitória foi adiado devido ao falecimento de Jorge Costa e Benfica joga acesso à Liga dos Campeões frente ao Nice.
-
-**Sociedade:** A violência doméstica contra homens aumentou 48,2% em quatro anos, segundo a APAV. Uma brasileira acusada de matar os cinco filhos foi detida em Portugal.
-
-**Ambiente:** A Grande Barreira de Coral sofreu o maior declínio alguma vez registado e a WWF alerta para o aumento da desinformação climática.
-
-**Acidentes:** Um despiste de motociclo em Alenquer resultou na morte de um jovem de 17 anos e duas pessoas foram resgatadas após uma queda nas Cascatas de Várzeas, no Gerês.
-
-**Outros:** O SonicBlast arrancou hoje com rock psicadélico em Caminha.
+A WWF alertou para o aumento da desinformação climática e os portugueses estão a abandonar marcas que praticam 'greenwashing'.

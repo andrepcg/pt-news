@@ -1,0 +1,9 @@
+Em dia marcado por múltiplos acontecimentos, Portugal enfrenta um elevado risco de incêndios, com mais de 100 concelhos em alerta máximo, enquanto 10 aeronaves permanecem inoperacionais devido à falta de 'kits'. No âmbito político, a Câmara de Lisboa perdeu um recurso no processo 'Russiagate', e o Governo pondera facilitar a recusa do teletrabalho por parte das empresas. Em Matosinhos, um crime chocante resultou na morte de uma mulher e ferimentos noutra vítima. Um despiste de motociclo em Alenquer causou a morte de um jovem de 17 anos.
+
+No panorama internacional, Trump volta a pressionar o Brasil com ameaças de tarifas, visando a amnistia de Bolsonaro. Um trágico incidente em Gaza, resultante do capotamento de um camião de ajuda humanitária, causou 20 mortes. Nos EUA, a administração Trump reinstalou um memorial que havia sido removido após protestos antirracistas, gerando polémica. Adicionalmente, um enviado de Trump chegou a Moscovo para negociações sobre a guerra na Ucrânia. A Grande Barreira de Coral enfrenta o seu maior declínio de sempre e um grande incêndio no sul de França provocou uma vítima mortal e vários feridos. O Japão assinalou o 80º aniversário de Hiroshima apelando ao desarmamento nuclear global.
+
+No mundo desportivo, a Volta a Portugal 2025 tem o seu início na Maia, com Artem Nych a defender o título. O FC Porto está de luto por Jorge Costa, cujo velório decorre no Estádio do Dragão, e o Benfica disputa o acesso à Liga dos Campeões frente ao Nice.
+
+Na economia, a Tesla enfrenta uma quebra nas entregas da sua 'megafábrica' de Xangai, devido à concorrência chinesa, e a Petroprix manifesta-se contra a burocracia no licenciamento de postos de combustível em Portugal. Estão disponíveis novos apoios para a troca de eletrodomésticos através de *vouchers*.
+
+Por fim, a campanha 'O Rim não Dói' procura alertar para a prevenção da doença renal crónica nas praias, e o festival SonicBlast arranca hoje em Caminha, com rock psicadélico.

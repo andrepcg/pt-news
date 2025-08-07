@@ -1,0 +1,9 @@
+No dia de hoje, Portugal continental enfrenta risco máximo de incêndio no interior Norte e Centro, com quatro distritos sob aviso laranja devido ao calor. No setor da saúde, médicos e enfermeiros do Algarve estão em greve por melhores condições no SNS e profissionais da Maternidade Bissaya Barreto entregam escusas de responsabilidade devido à sobrecarga.
+
+A nível internacional, Médicos Sem Fronteiras denunciam "assassinatos" durante distribuições de ajuda humanitária em Gaza, enquanto a Ucrânia ataca uma refinaria de petróleo estratégica na Rússia com drones, levando a China a apelar aos seus cidadãos para evitarem envolvimento no conflito. Na China, uma ponte suspensa caiu, resultando em mortes e feridos.
+
+No Brasil, a defesa de Bolsonaro recorre da prisão domiciliária e o congresso enfrenta um boicote. Trump implementou novas taxas com impacto global e planeia acabar com as missões da NASA de monitorização de dióxido de carbono.
+
+Na área económica, Trump implementou novas taxas com impacto global, a Sony anunciou um aumento de lucros no segundo trimestre de 2025 e a Eletrobras anunciou prejuízos no primeiro semestre de 2025, enquanto o salário líquido médio em Portugal aumenta, mas as desigualdades persistem. No panorama empresarial português, os irmãos Martins estão de saída do Caso Martifer, com a Visabeira a entrar no capital através de uma OPA. A taiwanesa TSMC foi isenta de sobretaxas de 100% sobre chips nos EUA.
+
+Em Portugal, a A4 está cortada em Mirandela devido a um acidente fatal e o governo adiou a reforma das finanças municipais para depois das autárquicas. A reforma da lei laboral, com mudanças na licença parental, amamentação e horários flexíveis, continua em debate. A Tailândia e o Camboja retomaram negociações sobre a disputa fronteiriça e Pequim condenou o líder de Taiwan acusando-o de "belicismo".

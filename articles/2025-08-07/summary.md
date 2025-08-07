@@ -1,28 +1,7 @@
-Aqui estão as principais notícias de 7 de agosto de 2025:
+Em Portugal, o interior Norte e Centro estão sob risco máximo de incêndio, com quatro distritos em aviso laranja devido ao calor. A greve de médicos e enfermeiros no Algarve, devido às más condições no SNS, continua a causar constrangimentos, com 60% de adesão. A Maternidade Bissaya Barreto enfrenta sobrecarga, levando a escusas de responsabilidade por parte dos profissionais. O Governo pondera prolongar a situação de alerta devido aos incêndios e já retomou o plano de intervenção para a floresta, criando ainda apoio a prejuízos por incêndios. A A4 esteve cortada em Mirandela devido a um acidente fatal, mas já foi reaberta.
 
-**Portugal:**
+No panorama internacional, a Ucrânia atacou uma refinaria de petróleo estratégica na Rússia com drones. A China apelou aos seus cidadãos para evitarem o envolvimento na guerra na Ucrânia, enquanto o Kremlin confirmou uma possível reunião entre Putin e Trump para breve. A China também enviou 47 aeronaves militares para a zona de identificação de defesa aérea de Taiwan, com Pequim a classificar o líder de Taiwan como "belicista". Uma queda de uma ponte suspensa na China resultou em morte e feridos. No Brasil, a defesa de Bolsonaro recorreu da prisão domiciliária, com o Congresso a ser boicotado.
 
-*   O interior Norte e Centro de Portugal estão sob risco máximo de incêndio, com quatro distritos em aviso laranja devido ao calor. O governo prolongou a situação de alerta e pondera novas medidas. Uma bombeira foi detida por suspeita de atear fogos em Pedrógão Grande. A A4 esteve cortada em Mirandela devido a um acidente fatal.
-*   No Algarve, médicos, enfermeiros e técnicos de saúde estão em greve por melhores condições no SNS, afetando urgências e bloco operatório. Profissionais da Maternidade Bissaya Barreto entregaram escusas de responsabilidade devido à sobrecarga. A prescrição de injetáveis para diabetes foi restringida a cinco especialidades.
-*   O salário líquido médio em Portugal aumentou, mas as desigualdades persistem. A ACT identificou casos de desrespeito à lei da amamentação. O governo adiou a reforma das finanças municipais para depois das autárquicas e está a ser criticado pelas declarações sobre o período pos-natal.
-*   Na economia, a Visabeira está a entrar no capital da Martifer com OPA. O PSI está em alta, com destaque para a Mota-Engil. O Tribunal de Contas alertou para atrasos na execução de projetos agrícolas do PRR. O governo já tem a carta da Azul que garante o pagamento das obrigações da TAP.
+Na economia, Trump implementou novas taxas com impacto global, incluindo 100% sobre chips importados, embora a TSMC taiwanesa esteja isenta. A Visabeira entrou no capital da Martifer com uma OPA, levando à saída dos irmãos Martins. O salário líquido médio em Portugal aumentou, embora as desigualdades persistam. A Sony anunciou um aumento de lucros, enquanto a Toyota reportou uma quebra devido às tarifas dos EUA. As taxas Euribor a 3 e 12 meses subiram, enquanto a taxa a 6 meses desceu. O Governo já tem a carta da Azul que garante o pagamento das obrigações da TAP.
 
-**Mundo:**
-
-*   Na Ucrânia, foi atacada uma refinaria de petróleo estratégica na Rússia com drones. China apela aos seus cidadãos para evitarem envolvimento na guerra. Trump poderá reunir-se em breve com Putin, com Zelensky a exigir um cessar-fogo prévio.
-*   Trump implementou novas taxas com impacto global, incluindo tarifas sobre chips importados da China, com isenção para a taiwanesa TSMC.
-*   No Brasil, a defesa de Bolsonaro recorreu da prisão domiciliária.
-*   Na China, uma queda de ponte suspensa resultou em mortes e feridos. Pequim condenou o líder de Taiwan.
-*   A Tailândia e o Camboja retomaram negociações sobre disputa fronteiriça.
-*   A Médicos Sem Fronteiras denunciou "assassinatos" em distribuições de ajuda humanitária em Gaza.
-
-**Economia e Empresas:**
-
-*   A Sony anunciou um aumento de lucros no segundo trimestre de 2025. A Toyota anunciou uma quebra nos lucros devido às tarifas impostas pelos EUA. A Eletrobras anunciou prejuízos no primeiro semestre de 2025. A Siemens registou um lucro de 2,2 mil milhões de euros.
-*    Várias empresas foram multadas por incumprimento da lei de amamentação.
-
-**Outros:**
-
-*   Julho foi o 3º mês mais quente desde que há registos.
-*   Helicóptero do INEM em Loulé voltou a estar operacional.
-*   A Bienal Internacional de Gravura do Douro abriu no Museu do Côa.
+Outros destaques incluem a retoma das negociações entre a Tailândia e o Camboja sobre a disputa fronteiriça, a promulgação por Marcelo da proibição de telemóveis nas escolas até ao 6.º ano, uma tentativa de homicídio em Miranda do Corvo e a abertura da Feira de São Mateus em Viseu. Julho foi o 3.º mês mais quente desde que há registos. A ACT identificou casos de desrespeito à lei da amamentação desde 2021. Um helicóptero do INEM em Loulé voltou a estar operacional.

@@ -1,11 +1,28 @@
-No dia de hoje, Portugal continental enfrenta **risco máximo de incêndio**, com quatro distritos em **aviso laranja** devido ao calor intenso, levando o governo a ponderar prolongar o estado de alerta. A A4 esteve cortada em Mirandela devido a um **acidente fatal**.
+Aqui estão as principais notícias de 7 de agosto de 2025:
 
-Na **saúde**, médicos e enfermeiros do Algarve realizaram uma greve por melhores condições no SNS, com adesão de 60%, afetando urgências e bloco operatório, enquanto profissionais da Maternidade Bissaya Barreto entregaram escusas de responsabilidade devido à sobrecarga. A prescrição de injetáveis para diabetes foi restringida.
+**Portugal:**
 
-No **mundo**, a Ucrânia atacou uma refinaria na Rússia com drones, enquanto a China pediu aos seus cidadãos para evitarem envolvimento na guerra. Trump implementou novas taxas com impacto global, incluindo uma tarifa de 100%  sobre chips importados, com isenção para a TSMC. Putin deverá reunir-se em breve com Trump, com Zelensky a exigir cessar-fogo prévio. Médicos Sem Fronteiras denunciaram "assassinatos" em Gaza. Uma ponte suspensa desabou na China, resultando em mortos e feridos. Tailândia e Camboja retomaram negociações sobre disputa fronteiriça.
+*   O interior Norte e Centro de Portugal estão sob risco máximo de incêndio, com quatro distritos em aviso laranja devido ao calor. O governo prolongou a situação de alerta e pondera novas medidas. Uma bombeira foi detida por suspeita de atear fogos em Pedrógão Grande. A A4 esteve cortada em Mirandela devido a um acidente fatal.
+*   No Algarve, médicos, enfermeiros e técnicos de saúde estão em greve por melhores condições no SNS, afetando urgências e bloco operatório. Profissionais da Maternidade Bissaya Barreto entregaram escusas de responsabilidade devido à sobrecarga. A prescrição de injetáveis para diabetes foi restringida a cinco especialidades.
+*   O salário líquido médio em Portugal aumentou, mas as desigualdades persistem. A ACT identificou casos de desrespeito à lei da amamentação. O governo adiou a reforma das finanças municipais para depois das autárquicas e está a ser criticado pelas declarações sobre o período pos-natal.
+*   Na economia, a Visabeira está a entrar no capital da Martifer com OPA. O PSI está em alta, com destaque para a Mota-Engil. O Tribunal de Contas alertou para atrasos na execução de projetos agrícolas do PRR. O governo já tem a carta da Azul que garante o pagamento das obrigações da TAP.
 
-Na **economia**, a Visabeira entrou no capital da Martifer com OPA, levando à saída dos irmãos Martins. O salário líquido médio em Portugal aumentou, mas as desigualdades persistem. A Sony anunciou um aumento nos seus lucros. A Toyota e Eletrobras anunciaram, respetivamente, diminuição dos lucros e prejuízos.  A produção industrial alemã atingiu um mínimo desde 2020, há alertas do Tribunal de Contas para atrasos na execução de projetos agrícolas do PRR.
+**Mundo:**
 
-No **desporto**, destaca-se o crescente investimento estrangeiro nas equipas de futebol portuguesas e o funeral de Jorge Costa, que reuniu centenas de pessoas no Porto.
+*   Na Ucrânia, foi atacada uma refinaria de petróleo estratégica na Rússia com drones. China apela aos seus cidadãos para evitarem envolvimento na guerra. Trump poderá reunir-se em breve com Putin, com Zelensky a exigir um cessar-fogo prévio.
+*   Trump implementou novas taxas com impacto global, incluindo tarifas sobre chips importados da China, com isenção para a taiwanesa TSMC.
+*   No Brasil, a defesa de Bolsonaro recorreu da prisão domiciliária.
+*   Na China, uma queda de ponte suspensa resultou em mortes e feridos. Pequim condenou o líder de Taiwan.
+*   A Tailândia e o Camboja retomaram negociações sobre disputa fronteiriça.
+*   A Médicos Sem Fronteiras denunciou "assassinatos" em distribuições de ajuda humanitária em Gaza.
 
-Outros temas incluem a discussão em torno da reforma da lei laboral, com mudanças na licença parental e horários flexíveis em debate, e a partilha de preocupações relativamente ao aumento do risco de problemas cardíacos em jovens associado à falta de sono e uso excessivo de ecrãs.
+**Economia e Empresas:**
+
+*   A Sony anunciou um aumento de lucros no segundo trimestre de 2025. A Toyota anunciou uma quebra nos lucros devido às tarifas impostas pelos EUA. A Eletrobras anunciou prejuízos no primeiro semestre de 2025. A Siemens registou um lucro de 2,2 mil milhões de euros.
+*    Várias empresas foram multadas por incumprimento da lei de amamentação.
+
+**Outros:**
+
+*   Julho foi o 3º mês mais quente desde que há registos.
+*   Helicóptero do INEM em Loulé voltou a estar operacional.
+*   A Bienal Internacional de Gravura do Douro abriu no Museu do Côa.

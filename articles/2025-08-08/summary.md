@@ -1,15 +1,9 @@
-Em resumo das notícias de hoje, destacam-se os seguintes pontos:
+Em Portugal, o governo prolongou o estado de alerta devido ao risco máximo de incêndios no interior Norte e Centro, com avisos vermelhos em Vila Real e Bragança. O governo também aprovou apoios à agricultura e medidas para grandes fogos, autorizando o abate de sobreiros para a eletrificação da Linha do Douro. A Lei dos Estrangeiros aguarda decisão do Tribunal Constitucional. A aplicação SNS 24 enfrenta constrangimentos, com o governo a prometer resolução. Os trabalhadores da Menzies iniciaram uma greve de 4 dias, afetando os aeroportos, e os trabalhadores das Misericórdias protestaram por melhores condições salariais. É esperado que os preços dos combustíveis desçam na próxima semana. Bruxelas aprovou o sexto pagamento do PRR a Portugal, e as empresas podem ter investimento minoritário em projetos inovadores no âmbito do PRR. Marcelo Rebelo de Sousa deu prazo até ao final do verão para resolver a crise nas urgências.
 
-*   **Política Nacional:** Marcelo Rebelo de Sousa pressiona o Governo para resolver a crise nas urgências hospitalares até ao final do Verão. O Governo reafirma que a Lei dos Estrangeiros vai avançar, apesar dos ajustes. António Vitorino será mandatário da candidatura de Alexandra Leitão à Câmara de Lisboa.
+No panorama económico, a Petrobras reportou um aumento de 193% nos lucros do primeiro semestre. Os pensionistas receberam as pensões de agosto com as novas tabelas de IRS. As exportações de Portugal para os EUA tiveram uma queda drástica em junho. O Tribunal suspendeu o encerramento da dona da Visão, e a Siemens negoceia a venda do seu campus em Lisboa.
 
-*   **Economia:** Os pensionistas receberam as suas pensões de agosto com as novas tabelas de IRS. A Petrobras registou um aumento de 193% nos lucros do primeiro semestre. Os combustíveis deverão ficar mais baratos na próxima semana. Portugal aguarda o sexto pagamento do PRR, enquanto a capacidade de armazenamento de gás natural do país é considerada baixa face às necessidades.
+A nível internacional, Israel aprovou um plano militar para ocupar a cidade de Gaza, gerando condenação internacional e exigências da ONU para suspensão imediata. Os EUA acusaram Maduro de narcotráfico e aumentaram a recompensa pela sua captura, com Caracas a reagir. A China saudou o prolongamento do cessar-fogo entre a Tailândia e o Camboja. A Arménia e o Azerbaijão realizaram uma "cimeira de paz histórica" na Casa Branca.
 
-*   **Mundo:** Israel aprovou um plano militar para ocupar a cidade de Gaza, gerando forte condenação internacional e apelos da ONU para suspensão imediata. Os EUA acusaram Nicolás Maduro de narcotráfico, oferecendo 50 milhões de dólares pela sua captura. A China saudou o prolongamento do cessar-fogo entre a Tailândia e o Camboja.
+No desporto, o Sporting CP inicia a época 2025/2026 contra o Casa Pia, e Cristiano Ronaldo afirmou que João Félix tomou a melhor opção ao escolher o Al Nassr.
 
-*   **Sociedade:** O Interior Norte e Centro de Portugal estão em risco máximo de incêndio, com o governo a prolongar o alerta. A DGS pede prudência em medidas que condicionem a amamentação.
-
-*   **Desporto:** O Sporting CP iniciará a época 2025/2026 contra o Casa Pia. Cristiano Ronaldo defendeu a escolha de João Félix em jogar na liga saudita.
-
-*   **Tecnologia:** A OpenAI lançou o novo modelo de IA, GPT-5, com capacidades aprimoradas.
-
-*   **Justiça:** O Tribunal suspendeu o fecho da dona da Visão, aguardando mais informações. A PJ deteve um homem procurado por Espanha por tráfico de droga e homicídio.
+Na área tecnológica, a OpenAI lançou o novo modelo de IA, GPT-5, com capacidades aprimoradas.

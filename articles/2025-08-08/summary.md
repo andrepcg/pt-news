@@ -1,0 +1,7 @@
+Em resumo das notícias de hoje, 8 de agosto de 2025: Israel aprovou um plano militar para ocupar a cidade de Gaza, gerando críticas da oposição. Em Portugal, o Interior Norte e Centro estão em risco máximo de incêndio, levando o Governo a prolongar o alerta, e os pensionistas recebem as pensões de agosto já com as novas tabelas de IRS. Trabalhadores da Menzies iniciaram uma greve de 4 dias, afetando vários aeroportos.
+
+A Petrobras registou um aumento significativo de 193% nos lucros do primeiro semestre. Os EUA acusaram Nicolás Maduro de narcotráfico e ofereceram 50 milhões pela sua captura, ao que Caracas já reagiu. A China saudou o prolongamento do cessar-fogo entre a Tailândia e o Camboja.
+
+No âmbito social e económico, agricultores propõem que a Segurança Social pague a dispensa para amamentação após os dois anos da criança. Portugal ainda está longe de atingir a meta da UE em termos de produção e investigação, e enfrenta desafios na capacidade de armazenamento de gás. O Plano de Recuperação e Resiliência (PRR) tem sido criticado por não resolver a crise habitacional no país.
+
+No desporto, o Sporting CP iniciará a época 2025/2026 contra o Casa Pia. A HRW instou Macau a libertar o ex-deputado Au Kam San. A nível da União Europeia, entrou em vigor o regulamento para a liberdade dos média.

@@ -1,11 +1,7 @@
-Hoje, um grave acidente em Castro Verde causou seis mortos, levando ao corte temporário do IP2. No Algarve, 38 migrantes, incluindo sete menores, chegaram à costa.
+Em Portugal, o dia ficou marcado por um acidente grave em Castro Verde que causou seis mortos, levando ao corte e posterior reabertura do IP2. No Algarve, um barco com 38 migrantes, incluindo sete menores, chegou à costa. No que toca aos incêndios, o país mantém-se em alerta, com ocorrências em Ribeira de Pena e Moimenta da Beira. Nove urgências de ginecologia e obstetrícia encerraram este fim de semana e um homem foi detido por agredir um gato. Um jovem foi também detido em Évora por violar uma adolescente.
 
-Na política nacional, Sarmento e Rangel dividirão a chefia do Governo durante as férias de Luís Montenegro, enquanto o Tribunal Constitucional travou a lei da imigração, gerando críticas da direita.
+A nível internacional, Zelensky rejeitou ceder território à Rússia e criticou um possível encontro entre Trump e Putin. Espanha, Grécia e Itália continuam a combater incêndios florestais. Nos EUA, um tiroteio perto de uma universidade em Atlanta resultou na morte de um suspeito e de um polícia, enquanto em Nova Iorque um tiroteio na Times Square fez vários feridos. Em El Salvador, uma organização de direitos humanos pediu a anulação de uma reforma eleitoral, enquanto na Venezuela uma ativista foi detida e o governo continua a negar crimes contra a humanidade. O México reafirmou que não aceitará forças militares dos EUA no seu território. Em Cabo Delgado, mais de 30 mil crianças foram deslocadas devido a ataques.
 
-Internacionalmente, Zelensky rejeita ceder território à Rússia, criticando um possível encontro entre Trump e Putin sem a presença ucraniana. Espanha, Grécia e Itália combatem incêndios florestais e em Cabo Delgado, Moçambique, mais de 30 mil crianças foram deslocadas devido a ataques. Nos EUA, um tiroteio perto de uma universidade em Atlanta resultou na morte de um suspeito e um polícia, e na Times Square, Nova Iorque, um tiroteio fez três feridos.
+No mundo económico, uma empresa brasileira de armas transferiu parte da sua produção para os EUA, e o presidente argentino garantiu que travará despesas aprovadas pela oposição. A Microsoft cancelou mais um jogo devido a cortes de custos.
 
-A nível económico, uma empresa brasileira de armas está a transferir parte da sua produção para os EUA e o presidente argentino garantiu travar despesas aprovadas pela oposição.
-
-Na saúde, nove urgências de ginecologia e obstetrícia encerraram este fim de semana, enquanto um novo tratamento para Alzheimer traz esperança.
-
-Outros destaques incluem o funeral da jornalista ucraniana Viktoria Roshchyna em Kiev, a emergência declarada por um avião da Air France que aterrou nos Açores e o 80º aniversário da bomba atómica, assinalado em Nagazaki.
+Outros destaques incluem o funeral da jornalista ucraniana Viktoria Roshchyna em Kiev, os 80 anos da bomba atómica assinalados em Nagasaki, e um avião da Air France que declarou emergência e aterrou nos Açores.

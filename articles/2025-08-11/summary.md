@@ -1,9 +1,9 @@
-Em Portugal, quase dois mil operacionais combatem os incêndios que assolam o país continental, com alerta em 120 concelhos, e a reativação do incêndio na Serra do Alvão entrou em resolução durante a madrugada. No desporto, a Volta a Portugal foi marcada pela penalização de Alexis Guérin e pela interrupção de uma etapa devido a um incêndio em Vila Real, enquanto no futebol, o FC Porto estreia-se no campeonato nacional contra o Vitória SC.
+Hoje, Portugal continental enfrenta uma batalha intensa contra os incêndios, com quase 2000 operacionais no terreno e 120 concelhos em alerta máximo, agravada por uma onda de calor que colocou 12 distritos sob aviso laranja. A situação levou à interrupção de uma etapa da Volta a Portugal em Vila Real.
 
-No plano político, as tensões entre Marcelo e Montenegro aumentam devido a questões como imigração, TAP e legislação laboral. O Governo admite reduzir tarifas alfandegárias se reequilibrar os défices, ao mesmo tempo que o Estado considera perdido o investimento no Hospital da Cruz Vermelha.
+No plano internacional, a Austrália e Portugal anunciaram que vão reconhecer o Estado da Palestina em setembro, enquanto as tensões geopolíticas aumentam com as Filipinas a denunciarem manobras perigosas da China no Mar do Sul da China, alertando que uma invasão de Taiwan poderá arrastar o país para um conflito.
 
-A nível internacional, a Austrália e Portugal vão reconhecer o Estado da Palestina em setembro, enquanto Greta Thunberg anuncia uma nova frota humanitária para Gaza. A China ameaça envolver as Filipinas num conflito em caso de invasão de Taiwan, e as Filipinas denunciam manobras perigosas da China em águas disputadas. Nos EUA, a Nvidia e a AMD pagarão 15% das vendas de chips à China.
+Na economia, o Governo está a considerar reduzir tarifas alfandegárias para reequilibrar défices, enquanto o Estado assume a perda de investimento no Hospital da Cruz Vermelha. O setor imobiliário continua a ser um tema quente, com a procura por solos rústicos em crescimento. A Nvidia e a AMD vão pagar 15% das vendas de chips à China aos EUA.
 
-No panorama económico, destaque para as mudanças propostas pelo Governo para os trabalhadores, o funcionamento da dispensa para amamentação e o setor imobiliário em Portugal, com uma entrevista a Patrícia Viana. A Nova Expressão e Nossa venceram o concurso de comunicação da Agência Portuguesa do Ambiente.
+Em destaque também, Marlene Vieira tornou-se a primeira mulher chef a receber uma Estrela Michelin em Portugal em 30 anos. Nas escolas, o uso de telemóveis será alvo de penalizações.
 
-Na sociedade, Marlene Vieira tornou-se a primeira mulher chef a receber uma Estrela Michelin em Portugal em 30 anos, e as escolas preparam-se para penalizar alunos que usem telemóveis.
+Relativamente ao desporto, o FC Porto estreia-se no campeonato nacional frente ao Vitória SC.

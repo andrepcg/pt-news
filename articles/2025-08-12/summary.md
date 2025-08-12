@@ -1,15 +1,13 @@
-Em Portugal, mais de 130 concelhos estão em risco máximo de incêndio, com mais de 1700 bombeiros a combater os fogos mais preocupantes. O país enfrenta um aviso laranja de calor prolongado até quinta-feira. Aviões de Marrocos substituem os Canadair no combate aos incêndios.
+Em Portugal, mais de 130 concelhos estão sob risco máximo de incêndio devido à onda de calor, levando ao combate de 1700 bombeiros contra os principais focos. O país estendeu o aviso laranja de calor até quinta-feira. Paralelamente, Espanha também enfrenta pré-emergência devido a incêndios.
 
-Na política nacional, o Governo quer simplificar o despedimento por justa causa nas PME's, proposta que a UGT rejeita. Candidatos presidenciais reagem ao chumbo da nova lei de estrangeiros. O Governo estima poupanças com o corte de cargos dirigentes e entidades nos Ministérios. No Porto, estudantes desafiam candidatos autárquicos com propostas.
+No exterior, Cabo Verde decretou luto nacional após uma tempestade causar várias mortes em São Vicente. A China reforçou o apoio a Lula da Silva, criticando as tarifas dos EUA ao Brasil, e proibiu a importação de aves da Espanha devido a surtos de gripe aviária. Xi Jinping também condenou o protecionismo dos EUA. A Índia prevê que altas taxas dos EUA impactarão mais da metade de suas exportações. O Presidente da Coreia do Sul irá reunir-se com Trump em Washington.
 
-No plano internacional, a China reforça o apoio a Lula e critica as tarifas dos EUA ao Brasil, com Xi Jinping a condenar o "protecionismo" americano. A China também proibiu a importação de aves da Espanha devido à gripe aviária. A Índia prevê que altas taxas dos EUA atinjam mais de metade das suas exportações. O Presidente sul-coreano reúne-se com Trump em Washington em agosto. A UE apoia o diálogo Trump-Putin, mas reitera a integridade territorial da Ucrânia. Putin é considerado "não confiável" por Starmer, enquanto o encontro com Trump se aproxima. Em Gaza, um ataque israelita fez pelo menos 12 mortos. Cabo Verde decretou luto nacional devido a uma tempestade mortal em São Vicente.
+Na área da cultura e entretenimento, Taylor Swift anunciou o seu novo álbum, "The Life Of A Showgirl", e BaianaSystem fará concertos em Portugal em setembro.
 
-Na economia, as bolsas chinesas subiram após a extensão da trégua comercial com os EUA. A Bolsa de Lisboa também abriu em alta. O SNS gastou mais de 236 milhões de euros com hemodiálise em 2024. O mercado de arrendamento em Portugal regista 17 famílias interessadas por cada casa anunciada.
+No desporto, o Benfica procura qualificação para o 'play-off' da Liga dos Campeões frente ao Nice e o FC Porto homenageou Jorge Costa.
 
-Na tecnologia, Elon Musk alega estar a ser prejudicado pela Apple.
+Na política nacional, candidatos presidenciais reagiram ao chumbo da Lei de Estrangeiros, enquanto milhares de migrantes são esperados em Fátima para a peregrinação de agosto. O governo pretende simplificar o despedimento por justa causa nas PME's.
 
-No desporto, o Benfica procura confirmar a qualificação para o 'play-off' da Liga dos Campeões frente ao Nice e o FC Porto homenageou Jorge Costa. Iúri Leitão é o novo ídolo da Volta a Portugal e Sofia Prazeres alcançou os oitavos de final no Mundial de Veteranos de ténis.
+A nível económico, a bolsa de Lisboa abriu em alta, e Bruxelas teve um incêndio que interrompeu a circulação do Metro por precaução. O SNS gastou mais de 236 milhões de euros com hemodiálise em 2024, e uma grávida deu à luz na rua após ser aconselhada pelo SNS24 a ir de carro para o hospital. O arrendamento continua pressionado com 17 famílias interessadas por cada casa.
 
-Na cultura, Taylor Swift anunciou um novo álbum, "The Life Of A Showgirl", e os BaianaSystem farão concertos em setembro no Porto, Lisboa e Almancil.
-
-Finalmente, a Zero alertou para a destruição de plantas endémicas no Alqueva.
+No cenário internacional, em Gaza, um ataque israelita causou várias mortes, enquanto Madonna apelou ao Papa. Starmer alertou que Putin não é confiável antes de um encontro com Trump, e a UE apoiou o diálogo entre Trump e Putin, reiterando a integridade territorial da Ucrânia. Moscovo afirmou ter abatido 25 drones ucranianos sobre território russo.

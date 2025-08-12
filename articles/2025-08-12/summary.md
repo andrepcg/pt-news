@@ -1,14 +1,15 @@
-Aqui estão as principais notícias de hoje, 12 de agosto de 2025:
+Em Portugal, o calor extremo coloca mais de 130 concelhos em risco máximo de incêndio, com mais de 1700 bombeiros a combater os principais focos. O país está sob aviso laranja de calor prolongado até quinta-feira.
 
-Portugal enfrenta uma onda de calor severa, com mais de 130 concelhos em risco máximo de incêndio, combatidos por mais de 1700 bombeiros.
+No mundo, a China reforça o apoio a Lula e critica as tarifas dos EUA ao Brasil, enquanto Xi Jinping condena o "protecionismo" americano. A China também proibiu a importação de aves da Espanha devido a surtos de gripe aviária. A Índia prevê que as altas taxas dos EUA afetarão mais da metade de suas exportações. O presidente sul-coreano vai se reunir com Trump em Washington. Em Gaza, um ataque israelita causou várias mortes, e Madonna apelou ao Papa. A Rússia alega ter abatido 25 drones ucranianos. A UE apoia o diálogo Trump-Putin, reiterando a integridade territorial da Ucrânia. Starmer alerta que Putin não é confiável. A Cidade do México contesta Trump sobre taxas de homicídio. Uma comissão de direitos humanos decidiu a favor de um opositor venezuelano, enquanto famílias de presos políticos na Venezuela denunciam a suspensão de visitas.
 
-No cenário internacional, a China reforça o apoio ao Brasil e critica as tarifas dos EUA, enquanto Xi Jinping condena o "protecionismo" americano após a imposição de taxas ao Brasil. A China também proibiu a importação de aves da Espanha devido a surtos de gripe aviária. As bolsas chinesas subiram após a extensão da trégua comercial com os EUA. A Índia prevê que as altas taxas dos EUA vão atingir mais da metade de suas exportações.
-O Presidente sul-coreano vai reunir-se com Trump em Washington, num momento em que a UE apoia o diálogo Trump-Putin, mas reitera a integridade territorial da Ucrânia. Starmer alerta que Putin não é confiável, enquanto o encontro com Trump se aproxima. Trump nomeou um economista conservador para o Gabinete de Estatísticas do Trabalho. A Cidade do México contesta Trump, afirmando que a taxa de homicídios é menor que em Washington.
+Cabo Verde decretou luto nacional após uma tempestade mortal em São Vicente.
 
-Em Cabo Verde, foi decretado Luto Nacional após uma tempestade mortal em São Vicente.
+No entretenimento, Taylor Swift anunciou um novo álbum, "The Life Of A Showgirl".
 
-No Médio Oriente, em Gaza, pelo menos 12 pessoas morreram num ataque israelita, com Madonna a apelar ao Papa.
+Em Portugal, o Governo quer simplificar o despedimento por justa causa nas PME's. Milhares de migrantes são esperados em Fátima para a peregrinação de agosto. O SNS gastou mais de 236 milhões de euros com tratamentos de hemodiálise em 2024. Uma grávida deu à luz na rua após ser aconselhada pelo SNS24.
 
-Na Venezuela, a Comissão de Direitos Humanos decidiu a favor de opositor venezuelano, enquanto famílias de presos políticos denunciam a suspensão de visitas.
+No desporto, o Benfica procura confirmar a qualificação para o 'play-off' da Liga dos Campeões, e o FC Porto homenageou Jorge Costa.
 
-Em Portugal, candidatos presidenciais reagem ao chumbo da Lei de Estrangeiros, e milhares de migrantes são esperados em Fátima para a peregrinação de agosto. No mundo da música, Taylor Swift anunciou um novo álbum intitulado "The Life Of A Showgirl". No setor empresarial, a Explorer negocia a compra de hotéis de luxo com um empréstimo da banca.
+No ambiente, a Zero alertou para a destruição de plantas endémicas no Alqueva.
+
+Elon Musk alega estar a ser prejudicado pela Apple, e o arrendamento em Portugal mostra alta procura.

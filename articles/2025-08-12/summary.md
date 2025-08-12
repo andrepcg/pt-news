@@ -1,9 +1,13 @@
-Em Portugal, mais de 130 concelhos estão em risco máximo de incêndio devido ao calor, com mais de 1700 bombeiros a combater os fogos. O governo quer simplificar o despedimento por justa causa nas PME's, medida que a UGT rejeita. Marcelo Rebelo de Sousa aguarda o parecer do Tribunal Constitucional sobre a nova lei de estrangeiros. Uma grávida deu à luz na rua após ser aconselhada pelo SNS24, levando o governo a pedir um inquérito. Aviões de Marrocos substituem os Canadair no combate aos incêndios.
+Hoje, Portugal enfrenta uma grave crise de incêndios, com mais de 130 concelhos em risco máximo e mais de 1700 bombeiros a combater os principais focos. O país está sob aviso laranja devido ao calor prolongado até quinta-feira. Espanha também enfrenta uma situação de pré-emergência devido a incêndios.
 
-No plano internacional, Cabo Verde decretou luto nacional após uma tempestade mortal. Xi Jinping manifestou apoio a Lula e criticou as tarifas dos EUA ao Brasil, enquanto a China proibiu a importação de aves da Espanha. O Presidente sul-coreano vai reunir-se com Trump em Washington, e Putin encontrará-se-á com Trump também. A UE apoia o diálogo Trump-Putin, mas reitera a integridade territorial da Ucrânia, país que poderá ceder território à Rússia em troca da adesão à NATO. Em Gaza, registaram-se mortes num ataque israelita. Moçambique foi palco de um ataque terrorista em Cabo Delgado, com um regulador a multar a companhia aérea LAM por preços excessivos.
+No plano internacional, a China reforçou o apoio a Lula da Silva e criticou as tarifas dos EUA ao Brasil, enquanto Xi Jinping condenou o protecionismo americano. A China proibiu a importação de aves da Espanha devido a surtos de gripe aviária. O presidente sul-coreano vai reunir-se com Trump em Washington. Em Gaza, um ataque israelita causou várias mortes, levando Madonna a apelar ao Papa. A UE apoia o diálogo Trump-Putin, mas reitera a integridade territorial da Ucrânia, enquanto Zelensky admite ceder territórios controlados pela Rússia para um acordo de paz.
 
-Na economia, a Índia prevê que altas taxas dos EUA atinjam mais de metade das suas exportações. As bolsas chinesas subiram após a extensão da trégua comercial com os EUA. A inflação em Portugal acelerou para 2,6% em julho.
+Cabo Verde decretou luto nacional após uma tempestade mortal em São Vicente.
 
-No desporto, o Benfica procura confirmar a qualificação para o 'play-off' da Liga dos Campeões.
+Em Portugal, o governo quer simplificar o despedimento por justa causa nas PME's, medida que enfrenta resistência dos sindicatos. São esperados milhares de migrantes em Fátima para a peregrinação de agosto. Uma grávida deu à luz na rua após ser aconselhada pelo SNS24 a ir de carro para o hospital, levando a um inquérito. A Praia da Nazaré voltou a interditar banhos devido a problemas de saneamento. Marcelo Rebelo de Sousa comentou a lei dos estrangeiros e incêndios, aguardando parecer do Tribunal Constitucional. Estudantes do Porto apresentaram propostas aos candidatos autárquicos para a Área Metropolitana.
 
-Na cultura, Taylor Swift anunciou um novo álbum, "The Life Of A Showgirl", e a cantora de jazz Sheila Jordan faleceu aos 96 anos. Várias famílias interessadas por cada casa disponível para arrendamento e praia da Nazaré com banhos interditos devido a problemas na conduta de saneamento.
+No mundo da música, Taylor Swift anunciou um novo álbum, "The Life Of A Showgirl", e Sheila Jordan, cantora de Jazz, faleceu aos 96 anos.
+
+No desporto, o Benfica procura confirmar a qualificação para o 'play-off' da Liga dos Campeões, e o FC Porto homenageou Jorge Costa. Iúri Leitão destaca-se na Volta a Portugal.
+
+Na área tecnológica, Elon Musk alega estar a ser prejudicado pela Apple e pondera avançar com um processo.

@@ -1,9 +1,17 @@
-Em Portugal, mais de 120 concelhos estão em risco máximo de incêndio, com Arganil a inspirar maior preocupação, e vários distritos sob aviso laranja devido ao calor. A Galp lidera as emissões de gases com efeito de estufa no país.
+Aqui fica um resumo das notícias de hoje, 14 de agosto de 2025:
 
-No Brasil, os advogados de Bolsonaro pedem a sua absolvição no processo de tentativa de golpe de Estado, enquanto Lula critica um relatório dos EUA, defendendo que o Brasil é mais democrático.
+Portugal enfrenta um elevado risco de incêndios, com mais de 120 concelhos em alerta máximo, sendo Arganil o mais preocupante. O país também está sob aviso laranja devido à persistência de calor elevado.
 
-A nível internacional, o Papa Leão XIV completa 100 dias de pontificado com foco na defesa da paz. A tempestade tropical Podul causou retiradas em massa no sul da China, onde a Lenovo reportou um aumento de 108% no lucro do primeiro trimestre fiscal. Zelensky reuniu-se com Starmer antes do encontro Trump-Putin sobre a Ucrânia. Israel intercetou um míssil lançado do Iémen. Um ministro de Taiwan confirmou uma visita ao Japão, assegurando que a China não afetará as relações. O Programa Alimentar Mundial alertou para uma crise alimentar em Moçambique.
+No Brasil, os advogados de Bolsonaro pedem a sua absolvição no processo de tentativa de golpe de Estado, enquanto Lula da Silva critica um relatório dos EUA, afirmando que o Brasil é mais democrático.
 
-No desporto, a Volta a Portugal testou a liderança de Artem Nych na subida à Torre, enquanto Sporting está envolvido numa polémica e o Benfica procura reforços.
+A nível internacional, o Papa Leão XIV completa 100 dias de pontificado defendendo a paz. A tempestade tropical Podul causou retiradas em massa no sul da China e uma nova vaga de cólera no Sudão já provocou 40 mortos. Israel intercetou um míssil lançado do Iémen. Em Taiwan, um ministro confirmou uma visita ao Japão e a líder apelou ao voto "não" num referendo sobre a reativação de uma central nuclear. Zelensky reuniu-se com Starmer antes do encontro Trump-Putin sobre a Ucrânia. Moçambique enfrenta uma crise alimentar e um impacto no PIB devido a ciclones e manifestações.
 
-Em outras notícias, o Governo português planeia rever a lei laboral e o Banco de Fomento deverá reforçar os programas de capitalização. O SNS regista um aumento significativo de imigrantes desde 2017.
+Em Portugal, o PSD retomou a atividade política com um discurso de Luís Montenegro. A Volta a Portugal testou a liderança de Artem Nych na subida à Torre. A Galp lidera as emissões de gases com efeito de estufa em Portugal, apesar da redução geral por outros poluidores. O Governo pretende rever a lei laboral. As Câmaras Municipais atingiram um recorde de 65 milhões de euros em taxas turísticas até junho. O número de imigrantes inscritos no SNS aumentou seis vezes desde 2017.
+
+No desporto, o Sporting está envolvido em polémica e o Benfica procura reforços. Cristiano Ronaldo causa alvoroço em Hong Kong com o Al Nassr. O Sporting de Braga e o Santa Clara tentam confirmar o 'play-off' na Liga Europa e Conferência. A UEFA condenou Israel após críticas de Salah.
+
+Na cultura, Taylor Swift anunciou um novo álbum para 3 de outubro.
+
+Na tecnologia, o WhatsApp vai lançar um assistente de IA para ajudar a escrever mensagens e a Lenovo viu o seu lucro disparar.
+
+Relativamente à Covid-19, uma nova linhagem da variante Ómicron causou 11 mortes num só dia.

@@ -1,13 +1,11 @@
-Em Portugal, mais de 120 concelhos estão em risco máximo de incêndio, com Arganil a ser a zona mais preocupante face aos fogos que consomem o país, já o pior ano desde Pedrógão, com 75 mil hectares ardidos. Espanha também enfrenta incêndios graves, com a ajuda francesa a ser mobilizada após uma terceira vítima mortal.
+Hoje, Portugal enfrenta uma grave crise de incêndios, com mais de 120 concelhos em risco máximo e Arganil como o caso mais preocupante. O país já viu 75 mil hectares ardidos, marcando o pior ano desde Pedrógão. Em Espanha, os incêndios já causaram três mortes, levando à mobilização de ajuda francesa.
 
-No Brasil, os advogados de Bolsonaro pedem a sua absolvição no processo de tentativa de golpe de Estado, enquanto Lula critica um relatório dos EUA, afirmando que o Brasil é mais democrático.
+No plano político, Lula da Silva defende que o Brasil é mais democrático que os EUA, enquanto os advogados de Bolsonaro pedem a sua absolvição num processo de tentativa de golpe de Estado. No âmbito internacional, Trump e Putin vão reunir-se no Alasca para discutir a paz na Ucrânia, conflito este que levou a Ucrânia a atacar uma refinaria russa com drones.
 
-A nível internacional, a tempestade tropical Podul causou retiradas em massa no sul da China. O Papa Leão XIV defende a paz nos seus primeiros 100 dias de pontificado. Na Ucrânia, Zelensky reuniu-se com Starmer antes do possível encontro entre Trump e Putin no Alasca. Israel intercetou um míssil lançado do Iémen. Moçambique enfrenta uma crise alimentar, enquanto o Sudão lida com uma grave epidemia de cólera.
+A nível económico, a Galp lidera as emissões de gases com efeito de estufa em Portugal, apesar da redução geral dos maiores poluidores. O Governo pretende rever a lei laboral, e o salário médio em Portugal aumentou 6% no segundo trimestre, atingindo 1.741 euros. A privatização da TAP avança, com o Governo a reservar 5% para os trabalhadores e com Lufthansa, Air France KLM e IAG interessadas.
 
-Em Portugal, a Galp lidera as emissões de gases com efeito de estufa, apesar da redução geral dos maiores poluidores do país. O Governo pretende rever a lei laboral. As Câmaras Municipais registaram um recorde de 65 milhões de euros em taxas turísticas até junho. O número de imigrantes inscritos no SNS aumentou significativamente desde 2017.
+No desporto, Artem Nych testa a sua liderança na Volta a Portugal na subida à Torre, e o Sporting está envolvido em polémica, enquanto o Benfica desespera por Amoura. O Chelsea irá doar parte do prémio do Mundial de Clubes à família de Diogo Jota e André Silva.
 
-No desporto, a Volta a Portugal testa a liderança de Artem Nych na subida à Torre, o Sporting está envolvido numa polémica, e o Benfica desespera por Amoura. O Sporting de Braga e o Santa Clara tentam confirmar o 'play-off' na Liga Europa e Conferência. Chelsea irá doar parte do prémio do Mundial de Clubes à família de Diogo Jota e André Silva. Cristiano Ronaldo causa 'loucura' na sua chegada a Hong Kong com o Al Nassr.
+No mundo, Moçambique enfrenta uma crise alimentar, enquanto o Sudão lida com a pior epidemia de cólera dos últimos anos. Na China, a tempestade tropical Podul causa retiradas em massa, ao mesmo tempo que o lucro da Lenovo dispara. Taiwan mantém as suas relações com o Japão. O Papa Leão XIV defende a paz nos seus primeiros 100 dias de pontificado.
 
-Na área tecnológica, a Lenovo viu o seu lucro disparar, enquanto o WhatsApp vai lançar um assistente de IA. A Rússia restringiu o acesso ao WhatsApp, além disso, Elon Musk, dono da xAI, considera a Google a favorita na corrida da IA.
-
-De destacar ainda o anúncio do novo álbum de Taylor Swift para 3 de outubro.
+Por fim, o número de imigrantes inscritos no SNS aumentou significativamente desde 2017.

@@ -1,11 +1,13 @@
-Os incêndios dominam as preocupações em Portugal, com mais de 120 concelhos em risco máximo e Arganil a ser a área mais crítica. O país enfrenta o pior ano em área ardida desde Pedrógão, com cerca de 75 mil hectares consumidos pelas chamas. Há relatos de bombeiros feridos no combate aos fogos e detenções de incendiários.
+Esta quinta-feira, Portugal enfrenta uma situação crítica devido aos incêndios, com mais de 120 concelhos em risco máximo e Arganil como o caso mais preocupante. O país já viu arder cerca de 75 mil hectares, o pior registo desde Pedrógão. Em Espanha, os incêndios já causaram três vítimas mortais e motivaram o envio de ajuda francesa.
 
-No Brasil, os advogados de Bolsonaro pedem a sua absolvição no processo de tentativa de golpe de Estado, enquanto Lula da Silva critica um relatório dos EUA, afirmando que o Brasil é mais democrático.
+No plano político, Lula da Silva defende que o Brasil é mais democrático que os EUA, enquanto os advogados de Bolsonaro pedem a sua absolvição num processo de tentativa de golpe de Estado. No cenário internacional, Trump e Putin vão encontrar-se no Alasca para discutir a paz na Ucrânia. Zelensky reuniu-se com Starmer antes deste encontro.
 
-A nível internacional, a tempestade tropical Podul causa retiradas em massa no sul da China e um míssil lançado do Iémen foi intercetado por Israel. No Sudão, uma epidemia de cólera já fez 40 mortos. Trump e Putin planeiam reunir-se no Alasca para discutir a paz na Ucrânia, antes da reunião, Putin elogiou os esforços dos EUA para acabar com a guerra na Ucrânia e Zelensky reuniu-se com Starmer. O Papa Leão XIV defende a paz nos seus primeiros 100 dias de pontificado.
+Moçambique enfrenta uma grave crise alimentar e viu o seu PIB afetado por ciclones e manifestações em 2024. No Sudão, uma epidemia de cólera já causou 40 mortos. Na China, a tempestade tropical Podul forçou retiradas em massa.
 
-Na economia, a Galp lidera as emissões de gases com efeito de estufa em Portugal, apesar da redução geral dos maiores poluidores. O lucro da Lenovo dispara na China e o Governo quer rever a lei laboral. O salário médio em Portugal aumentou 6% no segundo trimestre, atingindo 1.741 euros. O número de reformas na função pública atingiu máximos desde a Troika. A privatização da TAP avança, com a possibilidade de um investidor privado ficar com a totalidade do capital não adquirido pelos trabalhadores.
+Na economia, a Galp lidera as emissões de gases poluentes em Portugal, apesar da redução geral dos outros grandes poluidores. O Governo pretende rever a lei laboral e prepara-se para privatizar a TAP, reservando 5% do capital para os trabalhadores. O salário médio em Portugal aumentou 6%, atingindo 1.741 euros no segundo trimestre. As receitas do turismo também subiram 8% no primeiro semestre.
 
-No desporto, a Volta a Portugal testa a liderança de Artem Nych na subida à Torre e o Sporting está envolvido em polémica. O Chelsea irá doar parte do prémio do Mundial de Clubes à família de Diogo Jota e André Silva.
+No desporto, Artem Nych testa a sua liderança na subida à Torre da Volta a Portugal, enquanto o Sporting está envolvido em polémica e o Benfica procura reforços.
 
-Outras notícias incluem o aumento do número de imigrantes inscritos no SNS, o anúncio do novo álbum de Taylor Swift e o desenvolvimento de um assistente de IA para o WhatsApp. A GNR intensifica a fiscalização rodoviária face ao aumento do tráfego.
+A saúde também é tema de destaque, com o aumento do número de imigrantes inscritos no SNS e a preocupação com uma nova linhagem da variante Ómicron da Covid-19.
+
+Por fim, Taylor Swift anunciou o lançamento de um novo álbum para outubro.

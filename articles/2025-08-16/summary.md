@@ -1,9 +1,11 @@
-Em Portugal, mais de 3300 bombeiros lutam contra sete incêndios principais, com a situação em Nisa sob controlo. No âmbito social, regista-se um aumento drástico nos pagamentos em atraso do SNS entre Janeiro e Maio, levando a críticas à direção executiva por Correia de Campos. Viúvas ucranianas encontram refúgio no país, enquanto a guerra continua a ser tema central com acusações de Putin.
+Em Portugal, mais de 3300 bombeiros combatem sete grandes incêndios, com o fogo em Nisa já dominado, mas um incêndio num lar em Mirandela causou seis mortos. Milhares de clientes no Norte e Centro do país ficaram sem eletricidade devido aos incêndios.
 
-No panorama científico, centros de investigação contestam avaliações da FCT, contrastando com a proposta de duplicação da verba para a ciência no orçamento europeu.
+Na Saúde, os pagamentos em atraso no SNS aumentaram drasticamente entre Janeiro e Maio, facto criticado por Correia de Campos.
 
-Internacionalmente, o Paquistão enfrenta um desastre com mais de 225 mortos devido às monções. A Rússia atacou a Ucrânia com 85 drones.
+No panorama internacional, as viúvas ucranianas encontram refúgio em Portugal, enquanto a guerra continua, com a Rússia a atacar a Ucrânia com 85 drones durante um encontro entre Putin e Trump no Alasca, encontro esse que terminou sem acordo. Putin reiterou que a guerra não teria começado se ele estivesse na Casa Branca. O Paquistão enfrenta mais de 225 mortos devido às monções.
 
-Em outras notícias, uma escola de 'Chefs' de cozinha será inaugurada em Castelo Branco, enquanto no Porto, os tascos tradicionais oferecem comida acessível. Um Koenigsegg Jesko Absolut bateu um novo recorde de velocidade.
+Na ciência, centros de investigação contestam as avaliações da FCT, enquanto o orçamento europeu propõe duplicar a verba para a área científica.
 
-No desporto, o mercado de transferências continua agitado e o FC Porto enfrenta dificuldades para dispensar jogadores, enquanto o Benfica prepara-se para a estreia no campeonato.
+No desporto, o mercado de transferências continua agitado com o FC Porto a tentar dispensar jogadores excedentários e o Benfica a preparar o onze para a estreia no campeonato.
+
+Em outras notícias, a Air Canada suspendeu voos devido a uma greve de comissários de bordo, e a comunidade portuguesa no Brasil enfrenta o impacto das tarifas de Trump. A DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia. A Koenigsegg Jesko Absolut bateu o recorde de velocidade. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau.

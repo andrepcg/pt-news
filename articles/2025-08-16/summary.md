@@ -1,11 +1,15 @@
-Em Portugal, mais de 3300 bombeiros combatem sete grandes incêndios, com o fogo em Nisa já dominado, mas um incêndio num lar em Mirandela causou seis mortos. Milhares de clientes no Norte e Centro do país ficaram sem eletricidade devido aos incêndios.
+Em Portugal, mais de 3300 bombeiros combatem sete incêndios principais, com a situação em Nisa controlada e Arganil mais calma, apesar de um tornado de fogo em Aguiar da Beira. Um incêndio num lar em Mirandela causou seis mortos. Há também milhares de clientes sem eletricidade no Norte e Centro do país devido aos incêndios.
 
-Na Saúde, os pagamentos em atraso no SNS aumentaram drasticamente entre Janeiro e Maio, facto criticado por Correia de Campos.
+Na política, Correia de Campos critica a direção executiva do SNS, enquanto os pagamentos em atraso do SNS aumentaram drasticamente entre janeiro e maio. Autárquicas na Amadora revelam uma disputa intensa.
 
-No panorama internacional, as viúvas ucranianas encontram refúgio em Portugal, enquanto a guerra continua, com a Rússia a atacar a Ucrânia com 85 drones durante um encontro entre Putin e Trump no Alasca, encontro esse que terminou sem acordo. Putin reiterou que a guerra não teria começado se ele estivesse na Casa Branca. O Paquistão enfrenta mais de 225 mortos devido às monções.
+No mundo, o Paquistão enfrenta mais de 225 mortos devido a monções. Putin, ecoando Trump, afirma que a guerra na Ucrânia não teria começado se ele estivesse na Casa Branca, enquanto a Rússia ataca a Ucrânia com drones durante um encontro entre Trump e Putin no Alasca, que terminou sem acordo. Zelensky reuniu-se com Trump em Washington. 31 países árabes e islâmicos condenam os planos de Netanyahu.
 
-Na ciência, centros de investigação contestam as avaliações da FCT, enquanto o orçamento europeu propõe duplicar a verba para a área científica.
+Na economia, a Air Canada suspendeu voos devido a uma greve e a Kenmare não chegou a acordo para manter-se numa mina de titânio em Moçambique. Comunidade portuguesa no Brasil enfrenta impacto das tarifas de Trump. A SATA procura ser ressarcida por uma greve do IPMA.
 
-No desporto, o mercado de transferências continua agitado com o FC Porto a tentar dispensar jogadores excedentários e o Benfica a preparar o onze para a estreia no campeonato.
+Na tecnologia, a DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia.
 
-Em outras notícias, a Air Canada suspendeu voos devido a uma greve de comissários de bordo, e a comunidade portuguesa no Brasil enfrenta o impacto das tarifas de Trump. A DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia. A Koenigsegg Jesko Absolut bateu o recorde de velocidade. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau.
+Em sociedade, viúvas ucranianas encontram refúgio em Portugal. A falta de cuidados deixa reclusos idosos dependentes de outros presos e os crimes de abandono e maus tratos a animais estão em queda. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau.
+
+No desporto, Kingsley Coman junta-se ao Al Nassr.
+
+Em lazer, Castelo Branco avança com uma escola de 'Chefs' de cozinha e os tascos tradicionais do Porto oferecem comida a preços acessíveis. O Koenigsegg Jesko Absolut bateu o recorde de velocidade.

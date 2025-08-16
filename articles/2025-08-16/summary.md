@@ -1,11 +1,14 @@
-Em Portugal, o dia ficou marcado pelos **incêndios**, com mais de 3300 bombeiros a combaterem sete fogos principais, resultando em seis mortos num lar em Mirandela e milhares de clientes sem eletricidade. A área ardida já ultrapassa 139 mil hectares, 17 vezes mais que em 2024.  A Bulgária enviou duas aeronaves para ajudar no combate . O fogo em Sátão e Trancoso manteve uma frente ativa, e um tornado de fogo foi registado em Aguiar da Beira.
+Em Portugal, os incêndios florestais continuam a ser uma grande preocupação, com mais de 3300 bombeiros a combater sete fogos principais e a área ardida a atingir valores 17 vezes superiores a 2024. O incêndio num lar de Mirandela provocou seis mortos, levando ao luto nacional. A Europa enviará aviões de combate para ajudar.
 
-No plano internacional, a **guerra na Ucrânia** continuou com ataques russos, mesmo após uma cimeira entre Trump e Putin no Alasca que terminou sem acordo. Zelensky reuniu-se com Trump em Washington. No **Paquistão**, as monções causaram mais de 300 mortos.
+Na política internacional, uma cimeira entre Trump e Putin no Alasca terminou sem acordo, e Zelensky reuniu-se com Trump em Washington. A Rússia continuou os ataques na Ucrânia, mesmo durante a cimeira. A Hungria considera o mundo mais seguro após a cimeira Trump-Putin.
 
-Na **saúde**, os pagamentos em atraso no SNS aumentaram drasticamente, e a Madeira apresenta défice de iodo em grávidas e crianças.
+No Paquistão, as monções causaram mais de 300 mortos.
 
-Na **economia**, a Air Canada suspendeu voos devido a greve e a SATA quer ser ressarcida por greve do IPMA que impediu voos. O preço do café também aumentou.
+Na saúde, os pagamentos em atraso do SNS aumentaram drasticamente, o que gerou críticas. Foi também revelado que existe um défice de iodo nas grávidas e crianças da Madeira, comparativamente com o resto do país. A Sociedade do AVC criticou ainda as restrições na prescrição de injetáveis para a diabetes.
 
-No **desporto**, Kingsley Coman juntou-se ao Al Nassr, e Joaquim Oliveira, fundador da SportTV, faleceu, levando a um minuto de silêncio na Liga Portugal. Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+Na economia, Air Canada suspendeu voos devido a uma greve, e a SATA quer ser ressarcida devido a uma greve no IPMA que também impediu voos. O preço do café também aumentou, com a embalagem de 250 gramas a ultrapassar os 5 euros.
 
-Foi ainda noticiado um caso de tentativa de violação a um sem-abrigo em Massamá, e a PJ deteve suspeitos de atear fogos florestais no distrito da Guarda. Castelo Branco vai abrir uma escola de 'chefs' de cozinha.
+Em Castelo Branco, vai nascer uma escola de 'Chefs' de cozinha.
+O Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+No desporto, Kingsley Coman juntou-se ao Al Nassr, e Joaquim Oliveira, fundador da SportTV, faleceu.
+Na cultura, a Feira do Livro do Porto homenageou Sérgio Godinho e a nova série da RTP "FELP" tem estreia marcada para breve.

@@ -1,13 +1,15 @@
-Em Portugal, mais de 3300 bombeiros combatem sete grandes incêndios, com a situação em Nisa dominada, mas outras frentes ativas, como em Sátão e Trancoso. Um incêndio num lar em Mirandela causou seis mortos. As áreas ardidas já atingiram 139 mil hectares, 17 vezes mais que em 2024. Milhares de clientes ficaram sem eletricidade no Norte e Centro do país devido aos incêndios e várias estradas foram cortadas.
+Em Portugal, mais de 3300 bombeiros combatem sete incêndios principais, com a área ardida a aumentar 17 vezes face a 2024. Um incêndio num lar em Mirandela causou seis mortos e a PJ está a investigar. A Proteção Civil alerta para o risco máximo de incêndios em mais de 100 concelhos. Relatou-se um tornado de fogo em Aguiar da Beira.
 
-Na saúde, os pagamentos em atraso no SNS aumentaram drasticamente entre Janeiro e Maio, facto criticado por Correia de Campos.
+Na Ucrânia, a guerra continua a ter impacto, com viúvas ucranianas a encontrarem refúgio em Portugal. Zelensky reuniu-se com Trump após uma cimeira Trump-Putin no Alasca que terminou sem acordo. A Rússia lançou um ataque com drones durante esse encontro.
 
-No mundo, o Paquistão enfrenta monções que já causaram mais de 225 mortos. Na Ucrânia, a guerra continua a ser tema central, com viúvas ucranianas a encontrarem refúgio em Portugal. Após um encontro sem acordo no Alasca, Zelensky reuniu-se com Trump em Washington. A Rússia lançou um ataque com 85 drones durante o encontro Trump-Putin.
+No SNS, os pagamentos em atraso aumentaram drasticamente entre Janeiro e Maio, facto que foi criticado por Correia de Campos.
 
-Na economia, a Air Canada suspendeu voos devido a uma greve. A SATA procura ser ressarcida devido a uma greve do IPMA que impediu voos. A Kenmare não conseguiu manter-se numa mina de titânio em Moçambique.
+Na ciência, centros de investigação contestam avaliações da FCT, enquanto o orçamento europeu propõe duplicar a verba para a ciência. Foi descoberta a faísca que causa ondas de calor marinhas no Mediterrâneo.
 
-Em tecnologia, a DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia.
+No mundo, as monções no Paquistão já causaram mais de 300 mortos. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau. 31 países árabes e islâmicos condenaram os planos de Netanyahu.
 
-No desporto, Kingsley Coman juntou-se ao Al Nassr e um caso de racismo manchou a homenagem a Diogo Jota no Liverpool. Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+Na economia, a Air Canada suspendeu voos devido a greve e a SATA quer ser ressarcida pela greve do IPMA. Uma embalagem de 250 gramas de café já ultrapassa os 5 euros.
 
-Outras notícias incluem a criação de uma escola de 'Chefs' de cozinha em Castelo Branco, a homenagem a Sérgio Godinho na Feira do Livro do Porto, e a campanha de Marisa Liz para levar água a crianças na Guiné-Bissau.
+Em Castelo Branco, vai nascer uma escola de 'Chefs' de cozinha. No Porto, a Feira do Livro homenageia Sérgio Godinho e os tascos tradicionais oferecem comida a preços acessíveis.
+
+No desporto, Kingsley Coman juntou-se ao Al Nassr e o Koenigsegg Jesko Absolut bateu o recorde de velocidade. Um caso de racismo manchou a homenagem a Diogo Jota no Liverpool. Morreu Joaquim Oliveira, fundador da SportTV e Olivedesportos.

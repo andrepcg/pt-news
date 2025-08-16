@@ -1,7 +1,11 @@
-Esta sexta-feira foi marcada por diversos acontecimentos em Portugal e no mundo. Em Portugal, os incêndios florestais continuam a ser uma grande preocupação, com mais de 3300 bombeiros a combaterem vários focos ativos, afetando principalmente o Norte e Centro do país e com mais de 139 mil hectares ardidos, 17 vezes mais que em 2024. Um incêndio num lar de idosos em Mirandela causou seis mortos. No âmbito da saúde, os pagamentos em atraso no SNS aumentaram drasticamente e a gestão do SNS tem sido alvo de críticas.
+Em Portugal, o dia ficou marcado pelos **incêndios**, com mais de 3300 bombeiros a combaterem sete fogos principais, resultando em seis mortos num lar em Mirandela e milhares de clientes sem eletricidade. A área ardida já ultrapassa 139 mil hectares, 17 vezes mais que em 2024.  A Bulgária enviou duas aeronaves para ajudar no combate . O fogo em Sátão e Trancoso manteve uma frente ativa, e um tornado de fogo foi registado em Aguiar da Beira.
 
-No cenário internacional, a guerra na Ucrânia continua a ser tema central, com relatos de ataques russos e encontros diplomáticos, como a reunião entre Trump e Putin no Alasca que terminou sem acordo. O Paquistão enfrenta graves inundações devido às monções, resultando em centenas de mortos.
+No plano internacional, a **guerra na Ucrânia** continuou com ataques russos, mesmo após uma cimeira entre Trump e Putin no Alasca que terminou sem acordo. Zelensky reuniu-se com Trump em Washington. No **Paquistão**, as monções causaram mais de 300 mortos.
 
-Em outras notícias, a Air Canada suspendeu voos devido a uma greve, e a Kenmare enfrenta dificuldades para manter-se numa mina de titânio em Moçambique. No mundo da tecnologia, a DeepSeek está a enfrentar problemas com os chips de IA da Huawei. Foi ainda noticiado que o Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+Na **saúde**, os pagamentos em atraso no SNS aumentaram drasticamente, e a Madeira apresenta défice de iodo em grávidas e crianças.
 
-No desporto, o futebolista Kingsley Coman juntou-se ao Al Nassr e foi noticiado o falecimento de Joaquim Oliveira, fundador da SportTV e Olivedesportos.
+Na **economia**, a Air Canada suspendeu voos devido a greve e a SATA quer ser ressarcida por greve do IPMA que impediu voos. O preço do café também aumentou.
+
+No **desporto**, Kingsley Coman juntou-se ao Al Nassr, e Joaquim Oliveira, fundador da SportTV, faleceu, levando a um minuto de silêncio na Liga Portugal. Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+
+Foi ainda noticiado um caso de tentativa de violação a um sem-abrigo em Massamá, e a PJ deteve suspeitos de atear fogos florestais no distrito da Guarda. Castelo Branco vai abrir uma escola de 'chefs' de cozinha.

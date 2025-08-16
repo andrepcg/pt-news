@@ -1,15 +1,11 @@
-Em Portugal, mais de 3300 bombeiros combatem sete incêndios principais, com a situação em Nisa controlada e Arganil mais calma, apesar de um tornado de fogo em Aguiar da Beira. Um incêndio num lar em Mirandela causou seis mortos. Há também milhares de clientes sem eletricidade no Norte e Centro do país devido aos incêndios.
+Em Portugal, mais de 3300 bombeiros combatem sete incêndios principais, com a situação em Nisa dominada e Arganil mais calma, mas com um tornado de fogo registado em Aguiar da Beira. Um incêndio num lar em Mirandela causou seis mortos, gerando solidariedade. Milhares de clientes ficaram sem eletricidade no Norte e Centro do país devido aos fogos, com mais de 100 concelhos em risco máximo. A PJ deteve suspeitos de atear fogos florestais no distrito da Guarda.
 
-Na política, Correia de Campos critica a direção executiva do SNS, enquanto os pagamentos em atraso do SNS aumentaram drasticamente entre janeiro e maio. Autárquicas na Amadora revelam uma disputa intensa.
+No âmbito internacional, um encontro entre Putin e Trump no Alasca terminou sem acordo, seguido de uma reunião entre Zelensky e Trump em Washington. A Rússia lançou um ataque com drones na Ucrânia durante o encontro Trump-Putin. O Paquistão enfrenta mais de 225 mortos devido às monções. 31 países árabes e islâmicos condenam planos de Netanyahu. A Hungria considera o mundo mais seguro após a cimeira Trump-Putin. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau.
 
-No mundo, o Paquistão enfrenta mais de 225 mortos devido a monções. Putin, ecoando Trump, afirma que a guerra na Ucrânia não teria começado se ele estivesse na Casa Branca, enquanto a Rússia ataca a Ucrânia com drones durante um encontro entre Trump e Putin no Alasca, que terminou sem acordo. Zelensky reuniu-se com Trump em Washington. 31 países árabes e islâmicos condenam os planos de Netanyahu.
+Na economia, a Air Canada suspendeu voos devido a uma greve. A SATA quer ser ressarcida pela greve do IPMA. A Kenmare não chegou a acordo para se manter numa mina de titânio em Moçambique. Os pagamentos em atraso do SNS aumentaram drasticamente entre Janeiro e Maio.
 
-Na economia, a Air Canada suspendeu voos devido a uma greve e a Kenmare não chegou a acordo para manter-se numa mina de titânio em Moçambique. Comunidade portuguesa no Brasil enfrenta impacto das tarifas de Trump. A SATA procura ser ressarcida por uma greve do IPMA.
+Na área da ciência e tecnologia, centros de investigação contestam avaliações da FCT, enquanto o orçamento europeu propõe duplicar a verba para a ciência. A DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia. Uma faísca que desencadeia ondas de calor marinhas no Mediterrâneo foi descoberta.
 
-Na tecnologia, a DeepSeek enfrenta problemas com chips de IA da Huawei e volta a usar Nvidia.
+No desporto, Kingsley Coman juntou-se ao Al Nassr. Um caso de racismo manchou a homenagem a Diogo Jota no Liverpool. O Koenigsegg Jesko Absolut bateu o recorde de velocidade.
 
-Em sociedade, viúvas ucranianas encontram refúgio em Portugal. A falta de cuidados deixa reclusos idosos dependentes de outros presos e os crimes de abandono e maus tratos a animais estão em queda. Marisa Liz está em campanha para levar água a crianças na Guiné-Bissau.
-
-No desporto, Kingsley Coman junta-se ao Al Nassr.
-
-Em lazer, Castelo Branco avança com uma escola de 'Chefs' de cozinha e os tascos tradicionais do Porto oferecem comida a preços acessíveis. O Koenigsegg Jesko Absolut bateu o recorde de velocidade.
+Em outras notícias, viúvas ucranianas encontram refúgio em Portugal e um homem foi detido por tentativa de violação de um sem-abrigo em Massamá. Castelo Branco avança com a criação de uma Escola de 'Chefs' de cozinha. A Feira do Livro do Porto homenageia Sérgio Godinho.

@@ -1,17 +1,11 @@
-Aqui estão os principais destaques das notícias de hoje, 17 de agosto de 2025:
+Hoje, Artem Nych revalidou o título na Volta a Portugal em ciclismo. No futebol, o Sporting prepara-se para receber o Arouca num Alvalade renovado, enquanto o Benfica venceu o Estrela da Amadora, com Bruno Lage a considerar a vitória merecida. Messi regressou e comandou a vitória do Inter Miami, quebrando um recorde de Cristiano Ronaldo. João Pinheiro foi nomeado pela UEFA para os playoffs da Liga dos Campeões.
 
-**Portugal:** O país enfrenta uma onda de incêndios rurais, com mais de 3.200 bombeiros a combater nove grandes fogos. A resposta aos incêndios está a ser acompanhada de perto. Em Mondim de Basto, um fogo foi dominado. A GNR detetou uma descarga ilegal de águas residuais no rio Lis, em Leiria. Houve uma onda de solidariedade para oferecer uma nova casa a um pastor que perdeu tudo num incêndio em Oliveira do Hospital.
+Portugal está em alerta devido aos incêndios, com mais de 3.200 operacionais a combater nove grandes fogos, especialmente no Interior e Algarve. O fogo em Mondim de Basto foi dominado, mas em Arganil o fogo mantém uma frente ativa. Houve uma onda de solidariedade para um pastor que perdeu tudo num incêndio em Oliveira do Hospital.
 
-**Desporto:** Artem Nych revalidou o título na Volta a Portugal. O Sporting recebeu o Arouca no regresso a Alvalade para a I Liga. Messi comandou a vitória do Inter Miami. No mercado de transferências, continuam os rumores e negócios.
+No mundo, inundações na China causaram 8 mortos e 4 desaparecidos. Um sismo de magnitude 6,0 na Indonésia fez alguns feridos, com Xi Jinping a felicitar o país pelo 80º aniversário da independência. Israel atacou infraestrutura de energia no Iémen, enquanto países aliados da Ucrânia se reuniram para discutir a cimeira do Alasca e a visita de Zelensky a Washington, num dia em que a Rússia atacou a Ucrânia com drones. Confrontos em protestos contra o governo ocorreram na Sérvia pelo quinto dia consecutivo. Os EUA enviaram mais soldados para Washington DC. Uma tempestade em Cabo Verde causou perdas significativas.
 
-**Mundo:** Inundações na China causaram 8 mortos e 4 desaparecidos. Um sismo de magnitude 6,0 na Indonésia fez feridos, e Xi Jinping felicitou o país pelo 80º aniversário da independência. Israel atacou infraestruturas de energia no Iémen. Na Sérvia, protestos contra o governo entraram no quinto dia. O Reino Unido realizou mais detenções por apoio à organização Palestine Action. Os EUA enviaram mais soldados para Washington DC. Os países aliados da Ucrânia reuniram-se para discutir a cimeira do Alasca e a visita de Zelensky a Washington.
+Em Portugal, a GNR detetou uma descarga ilegal de águas residuais no rio Lis, em Leiria. A esterilização masculina está em crescimento, com homens a dividirem o 'peso da contracepção'. A violência doméstica também está em destaque, com um aumento no número de homens a pedir ajuda à APAV e no número de presos.
 
-**Sociedade:** A esterilização masculina está em crescimento, com homens a dividir o 'peso da contracepção'. Aumenta o número de homens a pedir ajuda à APAV devido a violência doméstica, bem como o número de presos em Portugal por este crime.
+Na cultura, os Da Weasel atuaram no festival Sol da Caparica e a Feira do Livro do Porto começa na próxima sexta-feira.
 
-**Economia:** Apesar de algumas saídas, CGD e Crédito Agrícola mantêm-se na aliança do clima. A GNR não apreende vinho tranquilo ilegal há três anos.
-
-**Saúde:** Uma descoberta científica revelou que pessoas centenárias têm capacidade 'sobre-humana'. Em Lisboa, a Horta no Hospital Júlio de Matos ajuda na reabilitação mental.
-
-**Opinião:** Artigos de opinião abordaram as responsabilidades éticas do jornalismo em Gaza, o Tribunal Constitucional, o uso de drones na ajuda humanitária em Gaza e o fim da FCT.
-
-**Cultura:** Os Da Weasel atuaram no festival Sol da Caparica.
+Foi ainda noticiado que pessoas centenárias têm capacidade 'sobre-humana', de acordo com uma descoberta científica.

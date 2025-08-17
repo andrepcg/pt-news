@@ -1,15 +1,9 @@
-Em Portugal, o fim de semana foi marcado por **incêndios**, com mais de 3.200 operacionais no terreno a combater nove grandes fogos, especialmente no Interior e Algarve. A situação levou ao corte de estradas e mobilizou apoio jurídico para as vítimas. O fogo em Mondim de Basto foi dominado, mas Arganil e outros concelhos continuam a ser uma preocupação. Em resposta à situação, a Câmara da Guarda ativou o Plano Municipal de Emergência e Proteção Civil. Uma onda de solidariedade surgiu para apoiar um pastor que perdeu tudo em Oliveira do Hospital.
+No dia de hoje, Portugal enfrenta uma severa crise de incêndios, com mais de 3.200 operacionais a combater nove grandes fogos, principalmente no interior e Algarve, levando à ativação de planos de emergência municipais e cortes em estradas nacionais. A situação é agravada pela fraca visibilidade que impede o apoio aéreo. A Ordem dos Advogados está a oferecer apoio jurídico gratuito às vítimas dos incêndios, enquanto uma onda de solidariedade tenta ajudar os afetados, como um pastor que perdeu a casa em Oliveira do Hospital e um adepto do Benfica ajudado pelo clube. Um incêndio num lar de Mirandela, que resultou na morte de seis idosos, está sob investigação.
 
-No **desporto**, Artem Nych revalidou o título na Volta a Portugal. O Sporting prepara-se para receber o Arouca num Alvalade renovado. No futebol, o Benfica venceu o Estrela da Amadora, enquanto Messi quebrou um recorde de Cristiano Ronaldo.
+No panorama político, Luís Montenegro procura distanciar-se do Chega, enquanto Nuno Cardoso anuncia coligação para as autárquicas no Porto. A nível internacional, Zelensky reúne-se com líderes europeus e prepara um encontro com Trump em Washington para discutir a guerra na Ucrânia. A Sérvia regista o quinto dia consecutivo de confrontos em protestos contra o governo.
 
-A nível **nacional**, foi detetada uma descarga ilegal de águas residuais no rio Lis, em Leiria.
+Em desporto, Artem Nych revalidou o título na Volta a Portugal. O Sporting prepara-se para receber o Arouca num Alvalade renovado. No futebol internacional, Messi bateu um recorde de Cristiano Ronaldo.
 
-No **mundo**, inundações na China causaram mortos e desaparecidos. Um sismo na Indonésia fez feridos. A Sérvia enfrenta protestos antigovernamentais pelo quinto dia consecutivo. Israel atacou infraestrutura de energia no Iémen, enquanto manifestações contra a guerra em Gaza resultaram em confrontos. Cabo Verde contabiliza perdas e aumento de preços após a passagem de uma tempestade. No Paquistão, as monções provocaram centenas de mortos e desaparecidos.
+Outras notícias incluem inundações mortais na China e Paquistão, um sismo na Indonésia, e um tiroteio em Nova Iorque. Em Cabo Verde, uma tempestade causou destruição e aumento dos preços. A GNR foi notícia por não apreender vinho tranquilo ilegal há três anos, ao passo que em Leiria foi detetada uma descarga ilegal de águas residuais no rio Lis. A APAV regista um aumento de homens a pedir ajuda por violência doméstica.
 
-Na **política internacional**, Zelensky reuniu-se com líderes europeus e Trump para discutir a guerra na Ucrânia. A Guiné-Bissau recusou dar explicações sobre a expulsão de órgãos de comunicação social portugueses.
-
-Em **tecnologia**, o WhatsApp lançou uma funcionalidade para agendar videochamadas.
-
-Na **cultura**, Da Weasel atuaram no festival Sol da Caparica e a Feira do Livro do Porto começa na próxima sexta-feira.
-
-Foi ainda registado um aumento de casos de Covid-19 devido a uma nova variante.
+A Feira do Livro do Porto começa na próxima sexta-feira, com homenagem a Sérgio Godinho.

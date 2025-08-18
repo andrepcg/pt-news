@@ -1,11 +1,11 @@
-Em Portugal, os incêndios continuam a ser uma grande preocupação, com a situação de alerta prolongada até terça-feira. Registou-se a morte de um bombeiro em serviço na Covilhã, que também emitiu um novo alerta. Há múltiplos focos ativos e críticas à gestão do combate. A situação levou o Chega a pedir a demissão da Ministra da Administração Interna. O PS apelou à convocação urgente da Comissão Nacional de Proteção Civil. A descida das temperaturas oferece uma janela de oportunidade para o combate aos incêndios.
+Hoje, Portugal enfrenta uma situação crítica devido aos incêndios, com o país em alerta prolongado e vários focos ativos, especialmente na Covilhã e Fundão. Infelizmente, um bombeiro perdeu a vida em serviço na Covilhã. O Chega solicitou a demissão da Ministra da Administração Interna devido à gestão dos incêndios, enquanto o PS pediu a convocação urgente da Comissão Nacional de Proteção Civil.
 
-No plano político, terminaram os prazos para a entrega das listas para as Autárquicas 2025, com apenas 21% de candidatas mulheres nos 20 municípios mais populosos. O Governo pretende limitar a atuação sindical em empresas sem sindicalizados.
+No âmbito político, as Autárquicas de 2025 aproximam-se do prazo final para a entrega de listas, com pouca representatividade feminina nos municípios mais populosos.
 
-Zelensky reuniu-se com Trump em Washington para discutir um acordo de paz para a Ucrânia, enquanto este país continua a sofrer ataques russos, nomeadamente em Odessa. A Coreia do Sul e os EUA iniciaram exercícios militares conjuntos anuais, aumentando as tensões na região. Israel continua os seus ataques contra a Faixa de Gaza, sendo acusado pela Amnistia Internacional de causar fome.
+A nível internacional, Zelensky reuniu-se com Trump em Washington para discutir um acordo de paz para a Ucrânia, enquanto a Coreia do Sul e os EUA iniciaram exercícios militares conjuntos, aumentando as tensões na região. Israel continua os ataques na Faixa de Gaza, levando a Amnistia Internacional a acusar o país de causar fome na região.
 
-Na economia, o gasóleo desceu, mas a gasolina manteve-se. A Google foi condenada na Austrália por violar as leis da concorrência. Os portugueses têm batido recordes de férias no estrangeiro com a procura a disparar. O novo crédito ao consumo subiu 13% em junho.
+Na economia, o gasóleo desceu, mas a gasolina manteve-se. A Google foi condenada na Austrália por violar as leis da concorrência, e o novo crédito ao consumo aumentou em junho. Os portugueses têm batido recordes de férias no estrangeiro.
 
-No desporto, o Sporting goleou o Arouca por 6-0 na I Liga. O Benfica irá defrontar o Fenerbahçe no 'play-off' da Liga dos Campeões.
+No desporto, o Sporting goleou o Arouca por 6-0 na I Liga, e o Benfica irá defrontar o Fenerbahçe no 'play-off' da Liga dos Campeões.
 
-A nível social, jovens profissionais de saúde propuseram um plano para reter talento no SNS. No Algarve, polícias são acusados de espancar um homem até à morte.
+Outras notícias incluem a entrega de um plano por jovens profissionais de saúde para reter talento no SNS, a aposta da NOS na inteligência artificial no departamento jurídico, e um estudo que desaconselha o consumo de água das lagoas do Pico devido à libertação de gases.

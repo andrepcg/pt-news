@@ -1,13 +1,15 @@
-As notícias do dia 18 de agosto de 2025 são marcadas por diversos temas:
+Em Portugal, o dia foi marcado pelos incêndios, com um novo alerta emitido na Covilhã e a morte de um bombeiro em serviço. A situação de alerta foi prolongada até terça-feira e vários concelhos estão em risco máximo. O Chega pediu a demissão da Ministra da Administração Interna devido à gestão dos incêndios, e o PS apelou à convocação urgente da Comissão Nacional de Proteção Civil.
 
-Em Portugal, a situação dos incêndios continua crítica, com o prolongamento do estado de alerta, vários concelhos em risco máximo e um novo alerta emitido na Covilhã, onde um bombeiro faleceu em serviço. O Chega e Ventura pediram a demissão da Ministra da Administração Interna devido à gestão dos incêndios, já o PS apelou à convocação urgente da Comissão Nacional de Proteção Civil, entretanto a MAI expressou pesar pela morte do bombeiro. O dia ficou também marcado por um grave acidente na CREL, com dois feridos graves. No âmbito político, terminou o prazo para a entrega das listas para as Autárquicas 2025 e o PS enfatizou o rejuvenescimento da democracia no poder local.
+No SNS, jovens profissionais de saúde propuseram um plano para reter talento, com melhores salários e condições.
 
-Na área da saúde, jovens profissionais apresentaram um plano para reter talento no SNS, propondo melhores salários e condições.
+Na política, terminou o prazo para a entrega das listas para as autárquicas de 2025.
 
-A nível económico, o gasóleo desceu de preço, enquanto a gasolina se manteve. Os portugueses estão a bater recordes de férias no estrangeiro, com um aumento de 30% na procura para o final do ano e os senhorios têm despejado cerca de 130 inquilinos por mês desde janeiro. A Google foi condenada na Austrália por violar as leis da concorrência.
+A nível económico, o gasóleo desceu e a gasolina manteve-se. A Google foi condenada na Austrália por violar as leis da concorrência. Os senhorios têm despejado cerca de 130 inquilinos por mês desde janeiro.
 
-No mundo, Zelensky reuniu-se com Trump em Washington para discutir um acordo de paz para a Ucrânia, numa reunião onde Trump terá pressionado Zelensky, com apoio europeu. A Rússia sofreu uma explosão numa fábrica, elevando o número de mortos para 20. A Coreia do Sul e os EUA iniciaram exercícios militares conjuntos, aumentando as tensões com a Coreia do Norte e um ataque russo com drones causou um grande incêndio em Odessa, Ucrânia. Israel continua os ataques contra a Faixa de Gaza, com a Amnistia Internacional a acusar Israel de provocar fome na região. Na Bolívia, candidatos de direita disputarão a segunda volta das presidenciais, e em Myanmar, a junta militar anunciou eleições legislativas para dezembro, boicotadas pela oposição.
+No mundo, Zelensky reuniu-se com Trump em Washington para discutir um acordo de paz para a Ucrânia, enquanto a Rússia realizou um ataque com drones em Odessa. A Coreia do Sul e os EUA iniciaram exercícios militares conjuntos anuais. Israel continua os ataques contra a Faixa de Gaza, sendo acusado pela Amnistia Internacional de causar fome. Na Bolívia, candidatos de direita disputarão a segunda volta das presidenciais.
 
-No desporto, o Sporting goleou o Arouca por 6-0 na I Liga, e o Benfica irá defrontar o Fenerbahçe no 'play-off' da Liga dos Campeões.
+No desporto, o Sporting goleou o Arouca por 6-0 na I Liga, e o Benfica vai defrontar o Fenerbahçe no 'play-off' da Liga dos Campeões.
 
-Em tecnologia, a NOS está a apostar na inteligência artificial no departamento jurídico e a aplicação do ChatGPT já gerou mais de 2 mil milhões de dólares, enquanto cientistas criam discos voadores minúsculos que levitam com a luz solar e o YouTube poderá vir a adquirir os direitos de transmissão dos Óscares.
+Na área da tecnologia, a NOS está a apostar na inteligência artificial no seu departamento jurídico e cientistas criaram discos voadores minúsculos que levitam com a luz solar.
+
+Em relação ao turismo, os portugueses têm batido recordes de férias no estrangeiro, com a procura a aumentar 30% para o final do ano.

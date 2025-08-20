@@ -1,13 +1,13 @@
-Os incêndios em Portugal continuam a ser uma grande preocupação, com Arganil no centro das atenções e quase 4 mil operacionais envolvidos no combate. Um homem ficou gravemente ferido no Sabugal devido a queimaduras.
+O dia ficou marcado pelos **incêndios** em Portugal, com Arganil a ser a principal preocupação e o Sabugal a registar um ferido grave. Infelizmente, houve uma terceira vítima mortal em Mirandela, e a Proteção Civil admitiu descoordenação. As autoridades contam com quase 4 mil operacionais no combate aos fogos.
 
-Na A1, um camião em chamas cortou o trânsito perto de Leiria, mas a circulação já foi reaberta.
+Na **economia**, a TAP planeia voltar a ter mais de 100 aviões a partir de 2026. O Complemento Solidário para Idosos teve um aumento de beneficiários. O Governo pretende limitar os contratos de estafetas e discute-se se a falta ao trabalho para combater incêndios deve ser justificada.
 
-A Casa Branca estreou-se no TikTok, apesar da ameaça de proibição da rede social nos EUA. Na Colômbia, um tribunal ordenou a libertação do ex-presidente Álvaro Uribe, gerando denúncias de pressões.
+No plano **social**, Pedro Portugal Gaspar é o novo presidente da AIMA, e um estudo alerta para os riscos dos cigarros eletrónicos em jovens.
 
-O Centro Europeu de Prevenção e Controlo de Doenças alertou para o aumento de doenças transmitidas por mosquitos na Europa, considerando-o o "novo normal". Israel aprovou um plano militar para ocupar a cidade de Gaza. Trump questionou Orbán sobre o bloqueio da adesão da Ucrânia à UE.
+No **desporto**, a seleção nacional iniciou os Mundiais de Velocidade e paracanoagem, e o Benfica vai defrontar o Fenerbahçe no acesso à Champions.
 
-O Festival Vilar de Mouros acolhe mais de 20 artistas e bandas. A Venezuela proibiu o uso, compra e venda de drones. Um estudo alerta para os riscos dos cigarros eletrónicos em jovens.
+A nível **internacional**, Israel aprovou um plano militar para ocupar a cidade de Gaza, a Colômbia ordenou a libertação do ex-presidente Álvaro Uribe, e Trump questionou Orbán sobre o bloqueio da adesão da Ucrânia à UE. A Casa Branca juntou-se ao TikTok, apesar das ameaças de proibição nos EUA. A China prepara um desfile militar, e a Venezuela proibiu o uso, compra e venda de drones.
 
-A seleção nacional iniciou hoje os Mundiais de Velocidade e paracanoagem. A TAP planeia voltar a operar com mais de 100 aviões a partir de 2026. Discutiu-se se a falta ao trabalho para combater incêndios é justificada.
+Na **saúde**, o Centro Europeu de Prevenção e Controlo de Doenças alertou para o aumento de doenças transmitidas por mosquitos na Europa.
 
-A economia espanhola tem tido um impacto positivo na economia portuguesa. Pedro Portugal Gaspar é o novo presidente da AIMA. Xi Jinping vai passar revista às tropas no aniversário do fim da Segunda Guerra Mundial na China. O Benfica vai defrontar o Fenerbahçe no acesso à Champions. Portugal estreou-se nos Mundiais de canoagem em Milão.
+Por fim, um **acidente rodoviário** na A1, junto a Leiria, cortou o trânsito devido a um camião em chamas, mas a circulação já foi reaberta. O Festival Vilar de Mouros arrancou com mais de 20 artistas.

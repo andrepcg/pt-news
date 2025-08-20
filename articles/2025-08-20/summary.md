@@ -1,11 +1,57 @@
-O dia foi marcado pelos **incêndios em Portugal**, com Arganil a ser a maior preocupação e um total de três vítimas mortais registadas em Mirandela e no Sabugal, onde um homem sofreu queimaduras graves. O combate aos fogos envolve quase 4 mil operacionais, mas a Proteção Civil admitiu descoordenação e há alertas para a falta de recursos no Fundão. Um investigador defende a gestão da terra como prevenção, enquanto um ambientalista alerta para os perigos da poluição. O Governo convocou um Conselho de Ministros extraordinário para aprovar apoios.
+Em Portugal, os incêndios continuam a ser uma grande preocupação, com Arganil como o foco principal e um total de quase 4 mil operacionais envolvidos no combate. Registaram-se três vítimas mortais em Mirandela e um ferido grave no Sabugal. O governo convocou um Conselho de Ministros extraordinário para aprovar apoios e o Secretário de Estado admitiu "descoordenação momentânea" no combate aos fogos. Vários incêndios estão ativos e há falta de recursos no Fundão. Marrocos e França enviaram apoio aéreo. Um estudo aponta para um maior risco de incêndios graves em florestas privadas. Julho foi o 9.º mês mais quente e o 7.º mais seco desde 1931/2000.
 
-Na **economia**, a inflação da Zona Euro manteve-se nos 2% em julho, enquanto a taxa de juro no crédito à habitação continua a descer. O número de beneficiários do Complemento Solidário para Idosos aumentou e o desemprego registado no IEFP diminuiu. A TAP deverá voltar a ter mais de 100 aviões a partir de 2026. A PJ e Europol apreenderam 66 milhões de euros em notas falsas.
+Na A1, um camião em chamas cortou o trânsito junto a Leiria, mas a circulação já foi reaberta.
 
-No **mundo**, Israel aprovou um plano militar para ocupar a cidade de Gaza e mobilizou milhares de reservistas. A Casa Branca estreou-se no TikTok, apesar da ameaça de proibição nos EUA. Um tribunal na Colômbia ordenou a libertação do ex-presidente Álvaro Uribe. No âmbito da guerra na Ucrânia, Trump questionou Orbán sobre o bloqueio da adesão da Ucrânia à UE e um ataque russo em Sumy feriu várias pessoas. A China prepara um desfile militar com novas armas.
+A Casa Branca estreou-se no TikTok, enquanto nos EUA a rede social enfrenta ameaças de proibição.
 
-Na **cultura**, o Festival Vilar de Mouros arrancou com mais de 20 artistas e o Festival Eurovisão da Canção regressará a Viena em 2026.
+Na Colômbia, o tribunal ordenou a libertação do ex-presidente Álvaro Uribe, com um senador a denunciar pressões.
 
-No **desporto**, a seleção nacional iniciou os Mundiais de Velocidade e paracanoagem, enquanto o Benfica vai defrontar o Fenerbahçe no acesso à Champions.
+O Centro Europeu de Prevenção e Controlo de Doenças alerta para o aumento de doenças transmitidas por mosquitos na Europa, considerando-o o "novo normal" devido às alterações climáticas.
 
-Outros destaques incluem o aumento de doenças transmitidas por mosquitos na Europa, um estudo que alerta para os riscos dos cigarros eletrónicos em jovens e a reabertura da A1 após um incêndio num camião perto de Leiria.
+Israel aprovou um plano militar para ocupar a cidade de Gaza, mobilizando milhares de reservistas.
+
+Trump questionou Orbán sobre o bloqueio da adesão da Ucrânia à UE e o Kremlin desvaloriza negociações Ucrânia-Rússia. Um ataque russo em Sumy feriu pelo menos 14 pessoas. Moscovo rejeita обсуждение sobre garantias de segurança a Kiev sem a Rússia.
+
+Na Venezuela, foi proibido o uso, compra e venda de drones.
+
+Um estudo alerta para os riscos dos cigarros eletrónicos em jovens.
+
+A seleção nacional iniciou os Mundiais de Velocidade e paracanoagem, enquanto os mundiais de canoagem começaram em Milão. O Benfica defrontará o Fenerbahçe no acesso à Champions, em Istambul.
+
+A TAP deverá voltar a superar os 100 aviões a partir de 2026.
+
+O número de beneficiários do Complemento Solidário para Idosos (CSI) aumentou significativamente e foi lançado um retrato sobre o presidente da AIMA, Pedro Portugal Gaspar.
+
+Xi Jinping vai passar revista às tropas no aniversário do fim da Segunda Guerra Mundial na China, que também apresenta novas armas em desfile militar.
+
+No Paquistão, o número de mortos devido a monções subiu para 739.
+
+Vídeos do Facebook e Instagram agora têm tradução automática por IA.
+
+Há novas greves nos aeroportos nacionais.
+
+Foi anunciado um bónus para as pensões de setembro.
+
+A PJ e a Europol apreenderam 66 milhões de euros em notas falsas.
+
+A Zona Euro registou uma inflação de 2% em julho.
+
+Haverá novas eleições autárquicas em 2025 e Ventura admite possível candidatura às Presidenciais 2026.
+
+Festival Eurovisão da Canção regressa a Viena em 2026.
+
+A Microsoft está sob protesto por ligações com o exército israelita.
+
+O Papa Francisco pediu um dia de jejum e oração pela paz mundial.
+
+A União Africana defende o multilateralismo através de João Lourenço no Japão.
+
+A Guiné-Bissau expulsou meios de comunicação portugueses, gerando preocupação e críticas.
+
+A taxa de juro no crédito à habitação diminuiu para 3,385% em julho.
+
+Foi aberto um inquérito para apurar as causas de falhas de água em Almada.
+
+Diversos eventos culturais foram noticiados: o Festival Vilar de Mouros, Bob Vylan atuará em Lisboa e a Sala Musicbox encerrará em setembro.
+
+Em termos de economia, a taxa de desemprego registado no IEFP diminuiu em julho, embora haja novas greves nos aeroportos. A autoridade tributária alerta para nova fraude por 'phishing' e o preço das casas de luxo em Lisboa subiu 2,4%.

@@ -1,15 +1,11 @@
-Em Portugal, os incêndios continuam a ser uma preocupação grave, com mais de 20 concelhos em risco máximo. O Governo aprovou medidas de apoio, enquanto autarcas pedem mais meios. Imigrantes têm integrado o combate aos incêndios. A gestão de incêndios tem sido alvo de críticas, nomeadamente à "inexperiência" do Ministério da Administração Interna.
+Hoje, Portugal enfrentou mais de 20 concelhos em perigo máximo de incêndio, levando o Governo a aprovar apoios. Imigrantes têm integrado o combate às chamas. Autarcas manifestam preocupação com a falta de meios, enquanto Pedro Cabrita critica a "inexperiência" do MAI na gestão dos fogos. A Proteção Civil disponibilizou apoio psicossocial às vítimas em Castelo Branco, com a Pampilhosa da Serra sem frentes ativas há 24 horas.
 
-No plano climático, Portugal tem sido elogiado pelo seu planeamento, contrastando com as falhas apontadas a outros países. O país enfrentou "uma das ondas de calor mais intensas".
+No panorama internacional, a Rússia lançou o maior ataque na Ucrânia desde julho, com Zelensky a pedir ajuda a Trump e rejeitando garantias de segurança da China. Kim Jong-un saudou os "heróis" norte-coreanos que lutam ao lado da Rússia. Israel iniciou uma operação militar em Gaza, provocando a fuga de palestinianos, e António Guterres, da ONU, instou Israel a reverter a decisão de construir colonatos na Cisjordânia. Os EUA enviaram navios lança-mísseis para perto da Venezuela, que ameaça deter estrangeiros sem autorização de entrada. A China pediu unidade no Tibete após o anúncio do sucessor do Dalai Lama. Foi também descoberta uma base secreta na Coreia do Norte que poderá representar uma ameaça nuclear para os EUA.
 
-A nova Unidade Nacional de Estrangeiros e Fronteiras da PSP entrou em vigor, com reforço de 1200 agentes nas fronteiras. Imigrantes desempenham um papel importante no combate a incêndios e na sustentabilidade da Segurança Social.
+No Brasil, Bolsonaro e o filho foram indiciados por coação no processo de tentativa de golpe de Estado, com o Supremo a dar 48 horas para explicações sobre um potencial plano de fuga para a Argentina.
 
-Na economia, a Savannah Resources confirmou a elevação de lítio em Boticas e planeia expansão. Um relatório critica o preço dos voos face aos comboios.
+Em notícias económicas, a Savannah Resources confirmou a elevação de lítio em Boticas, antevendo expansão. Um relatório elogia o planeamento climático de Portugal, apontando falhas noutros países da UE. As reservas internacionais de Moçambique atingiram máximos de quatro anos em junho. O aumento de estrangeiros sustenta o crescimento na Segurança Social.
 
-No mundo, a guerra na Ucrânia intensificou-se com o maior ataque russo desde julho, levando Zelensky a procurar apoio de Trump. A Coreia do Norte saudou os seus "heróis" que lutam ao lado da Rússia. Israel lançou uma operação militar em Gaza, causando deslocações de palestinianos, enquanto Guterres pede a Israel para reverter a decisão de construir colonatos na Cisjordânia. A Venezuela ameaça deter estrangeiros sem autorização, num momento de tensão com os EUA que enviaram navios lança-mísseis para a região. Bolsonaro e o seu filho foram indiciados por coação no processo de tentativa de golpe de Estado. Xi Jinping apelou à unidade no Tibete. Frank Caprio, o juiz conhecido como o "melhor juiz do mundo", faleceu.
+A nível nacional, a nova Unidade Nacional de Estrangeiros e Fronteiras da PSP entrou em vigor, com reforço de 1200 agentes nas fronteiras. No entanto, o hospital de Évora viu a urgência de Ortopedia encerrada por falta de equipa. Estudantes do Técnico criaram um sistema de IA para combater 'fake news'. A Greenpeace criticou os voos por serem 26 vezes mais baratos que os comboios. As férias de Natal nas escolas públicas começam um dia mais tarde.
 
-Na tecnologia, estudantes do Técnico criaram um sistema de IA para combater 'fake news'.
-
-Em saúde, a urgência de Ortopedia do hospital de Évora está encerrada por falta de equipa.
-
-No Brasil, o Supremo Tribunal Federal deu 48 horas para Bolsonaro explicar um suposto plano de fuga. No Uganda, foi fechado um acordo controverso com os EUA para receber migrantes deportados.
+Por fim, faleceu Frank Caprio, o juiz conhecido como o "melhor juiz do mundo".

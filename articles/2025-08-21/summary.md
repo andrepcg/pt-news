@@ -1,9 +1,17 @@
-Hoje, Portugal enfrenta uma situação crítica com mais de 20 concelhos em perigo máximo de incêndio, levando o Governo a aprovar medidas de apoio. Imigrantes juntam-se ao combate aos fogos, que já fizeram vítimas mortais em Mirandela. Autarcas mostram-se preocupados com a falta de meios, enquanto a Proteção Civil oferece apoio psicossocial. A Grécia enviou dois Canadair para ajudar. Paralelamente, o planeamento climático de Portugal é elogiado num relatório, apesar de ondas de calor intensas.
+Em Portugal, o dia ficou marcado pelos **incêndios**, com mais de 20 concelhos em perigo máximo e autarcas a clamarem por mais meios. O Governo aprovou medidas de apoio, enquanto imigrantes ajudam no combate às chamas. Um incêndio num lar em Mirandela causou sete mortes. A Proteção Civil está a dar apoio psicossocial às vítimas em Castelo Branco. A associação empresarial da Serra da Lousã exige medidas urgentes, reportando que 60% dos seus associados foram afetados pelos fogos.
 
-No âmbito internacional, a Rússia lançou o maior ataque na Ucrânia desde julho, levando Zelensky a pedir ajuda a Trump, enquanto Kim Jong-un saúda os norte-coreanos que lutam ao lado da Rússia. Israel iniciou uma operação militar em Gaza, provocando a fuga de palestinianos e Guterres (ONU) pede a Israel que reverta decisão de construir colonatos na Cisjordânia. A Venezuela ameaça deter estrangeiros sem autorização, enquanto os EUA enviam navios lança-mísseis para a região. No Brasil, Bolsonaro e o filho foram indiciados por coação no processo de tentativa de golpe de Estado, tendo 48 horas para dar explicações sobre um possível plano de fuga para a Argentina. A China pediu unidade no Tibete.
+No plano **político**, a nova Unidade Nacional de Estrangeiros e Fronteiras da PSP entrou em vigor, com reforço de 1200 agentes nas fronteiras. O Chega já tem candidato à Câmara da Mealhada para as Autárquicas 2025.
 
-A nível interno, a nova Unidade Nacional de Estrangeiros e Fronteiras da PSP entrou em vigor, com reforço de 1200 agentes nas fronteiras. A imigração também tem um papel importante no crescimento da Segurança Social. O encerramento da urgência de Ortopedia em Évora por falta de equipa destaca-se na área da saúde.
+Na **economia**, a Savannah Resources confirmou a elevação de lítio em Boticas, prevendo expansão futura. Um relatório elogia o planeamento climático de Portugal, apontando falhas noutros países. A EDP Gás SU foi multada por violação de prazos. As reservas internacionais de Moçambique atingiram máximos de quatro anos. Foi noticiado que o aumento de estrangeiros sustenta o crescimento da Segurança Social.
 
-Na economia, a Savannah Resources confirmou a elevação de lítio em Boticas, com planos de expansão. Por outro lado, a Greenpeace critica os voos por serem mais baratos que os comboios. A EDP Gás SU foi multada por incumprimento de prazos.
+No âmbito **social**, as férias de Natal nas escolas públicas começam um dia mais tarde.
 
-Na tecnologia, estudantes do Técnico criaram um sistema de IA para combater 'fake news'. As férias de Natal nas escolas públicas começarão um dia mais tarde. Frank Caprio, o juiz conhecido como o "melhor juiz do mundo", faleceu.
+A nível **internacional**, a guerra na Ucrânia continua, com a Rússia a lançar o maior ataque desde julho. Zelensky pediu ajuda a Trump, enquanto Kim Jong-un saudou "heróis" norte-coreanos que lutam ao lado da Rússia. A Venezuela ameaça deter estrangeiros que entrem no país sem autorização, e os EUA enviaram navios lança-mísseis para a região. Bolsonaro e o filho foram indiciados por coação no processo de tentativa de golpe de Estado no Brasil. Guterres pediu a Israel que reverta a decisão de construir colonatos na Cisjordânia. Israel iniciou uma operação militar em Gaza, provocando a fuga de palestinianos. A China pediu unidade no Tibete. A produção de petróleo em Angola caiu para menos de 1 milhão de barris diários.
+
+Na área da **tecnologia**, estudantes do Técnico criaram um sistema de IA para combater 'fake news'.
+
+Relativamente ao **clima**, Portugal viveu "uma das ondas de calor mais intensas".
+
+Na **segurança**, Leiria queixa-se da falta de efetivos na PSP.
+
+Foi ainda noticiada a morte de Frank Caprio, o juiz conhecido como o "melhor juiz do mundo".

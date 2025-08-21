@@ -1,0 +1,7 @@
+Portugal enfrenta uma vaga de incêndios, com mais de 20 concelhos em perigo máximo, levando o Governo a aprovar apoios. Imigrantes estão a integrar os esforços no combate aos fogos no interior do país. Entretanto, Cabrita criticou a "inexperiência" do MAI na gestão destas ocorrências.
+
+No plano internacional, a guerra na Ucrânia intensificou-se com o maior ataque russo desde julho, levando Zelensky a pedir ajuda a Trump. Kim Jong-un saudou os "heróis" norte-coreanos que lutam ao lado da Rússia. António Guterres apelou a Israel para reverter a decisão de construir colonatos na Cisjordânia. A Venezuela ameaça deter estrangeiros que entrem no país sem autorização, enquanto os EUA enviam navios lança-mísseis para a região, aumentando as tensões. Xi Jinping apelou à unidade no Tibete após o anúncio do sucessor do Dalai Lama. No Brasil, Bolsonaro e o seu filho foram indiciados por coação no processo de tentativa de golpe de Estado.
+
+Em notícias de economia, a Savannah Resources confirmou a elevação de lítio em Boticas e prevê expansão. Um relatório elogia o planeamento climático em Portugal, mas aponta falhas noutros países. A Greenpeace criticou os voos por serem 26 vezes mais baratos que os comboios.
+
+A nova Unidade Nacional de Estrangeiros e Fronteiras da PSP entrou em vigor, sendo que a PSP reforçou as fronteiras com 1200 agentes. A Segurança Social, a devolução de propinas e os produtos falsificados também foram temas em destaque.

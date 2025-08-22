@@ -1,0 +1,7 @@
+Em Portugal, mais de 50 concelhos estão em perigo máximo de incêndio, apesar da melhoria da situação dos fogos. No setor da saúde, enfermeiros do Montepio Rainha D. Leonor estão em greve e novos especialistas do SNS podem ser impedidos de trabalhar como tarefeiros. Na cultura, a Feira do Livro do Porto homenageia Sérgio Godinho e faleceu Eduardo Serra, diretor de fotografia português.
+
+No mundo, a Colômbia foi abalada por ataques terroristas que causaram pelo menos 18 mortos, enquanto a Venezuela mobiliza a população contra os EUA face a crescentes tensões. Trump estabeleceu um novo prazo de duas semanas para o fim da guerra na Ucrânia e um ministro israelita alertou que "as portas do inferno vão abrir-se" em Gaza. Na Tailândia, o ex-primeiro-ministro Thaksin foi absolvido de crime de lesa-majestade, e a China acusou Taiwan de ciberataques. Lula chegou à Colômbia para a cimeira dos Países da Amazónia.
+
+Na economia, a inflação no Japão acelerou para 3,1% em julho e Powell enfrenta pressões para definir o futuro das taxas de juro. Meta investiu 10 mil milhões de dólares na Google Cloud para IA. Bancos de Fomento procuram com garantias para empresas acelerarem projetos do PT2030 e o setor de Vinhos e Bebidas Espirituosas aguarda acordo para baixar tarifas dos EUA.
+
+No desporto, Portugal busca medalhas nos Mundiais de Canoagem. António Costa prepara a segunda volta na liderança do Conselho Europeu. CEO portugueses estão mais satisfeitos com as suas equipas do que os espanhóis e italianos.

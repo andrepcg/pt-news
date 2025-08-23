@@ -1,0 +1,7 @@
+Em Portugal, mais de 1600 operacionais combatem os incêndios na Serra da Estrela, numa altura em que as próximas horas são consideradas decisivas. Aponta-se para falhas de coordenação no combate devido à duplicação de funções. O Governo está a reformular o plano de António Costa para a floresta, criando um novo "pacto".
+
+No mundo, o chefe da secreta militar dos EUA demitiu-se após um relatório desfavorável a Trump. Maduro acusou os EUA de procurarem uma "mudança de regime" terrorista na Venezuela. Taiwan vota num referendo sobre a destituição de deputados e o regresso à energia nuclear. A Tailândia e o Camboja assinaram um acordo para a desminagem da fronteira comum. A China reforçou o controlo da produção e exportação de terras raras. A administração Trump travou a construção de um parque eólico offshore já 80% concluído. A Coreia do Norte acusou a Coreia do Sul de "grave provocação" na fronteira. O senador colombiano Iván Cepeda candidatou-se às presidenciais de 2026. Israel negou a existência de fome em Gaza, apesar de relatos locais confirmarem escassez extrema.
+
+Na economia, o Banco de Portugal alertou para uma empresa que exige 10 mil milhões ao Novo Banco em tribunal.
+
+No desporto, Nuno Espírito Santo está envolvido em polémica no Nottingham Forest, Fernando Pimenta disputa o título de K1 1.000 metros nos Mundiais de canoagem e o Sporting e o Benfica preparam-se para jogos da I Liga antes de clássicos europeus.

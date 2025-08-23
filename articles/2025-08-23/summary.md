@@ -1,9 +1,11 @@
-Esta sexta-feira, Portugal enfrenta **incêndios devastadores** com mais de 1600 operacionais a combater as chamas, especialmente na Serra da Estrela e Arganil, onde um bombeiro perdeu a vida, elevando o número total de vítimas mortais para quatro. A coordenação do combate aos fogos enfrenta desafios devido à duplicação de funções entre operacionais. O Governo está a reformular o plano para a floresta e Marcelo Rebelo de Sousa defende mais investimento na prevenção.
+Em Portugal, o combate aos incêndios continua a ser uma prioridade, com mais de 1600 operacionais mobilizados na Serra da Estrela e Arganil. Um bombeiro morreu no Sabugal, elevando o número de vítimas mortais para quatro. O fogo em Arganil permanece como a principal preocupação, com o IC8 cortado em Pedrógão Grande e evacuações em várias localidades. Há críticas à coordenação e apelos ao investimento na prevenção. O governo reformula o plano para a floresta, enquanto especialistas defendem que, em certos casos, deixar arder é uma forma de gestão.
 
-No **SNS**, quatro urgências encerraram e há falta de sensores para diabéticos nas farmácias. No **ensino superior**, quase 50 mil alunos aguardam os resultados de colocação.
+No panorama nacional, cerca de 50 mil alunos aguardam os resultados de colocação no Ensino Superior, as aulas estão previstas começarem em meados de setembro e a Linha do Algarve foi reaberta após um atropelamento mortal. Quatro urgências do SNS encerraram este sábado, enquanto se regista falta de sensores para diabéticos nas farmácias devido ao aumento da procura. Na cultura, a Argentina devolveu a Portugal um Missal Romano roubado do Palácio Nacional de Sintra.
 
-A nível **económico**, o Banco de Portugal alerta para uma empresa que exige 10 mil milhões ao Novo Banco em tribunal, e o preço dos brócolos disparou. A China reforça o controlo da produção e exportação de terras raras.
+A nível económico, o Banco de Portugal alertou para uma empresa que exige 10 mil milhões ao Novo Banco e o preço dos brócolos disparou. A China reforçou o controlo da produção e exportação de terras raras.
 
-No **desporto,** Fernando Pimenta conquistou bronze nos Mundiais de Canoagem e o Sporting goleou o Nacional.
+No desporto, Fernando Pimenta conquistou bronze nos Mundiais de canoagem, e o Sporting goleou o Nacional por 4 - 0, com três golos de Pedro Gonçalves.
 
-No **panorama internacional**, o chefe da secreta militar dos EUA demitiu-se, Maduro acusa os EUA de procurarem uma "mudança de regime" na Venezuela, e a Coreia do Norte acusa a Coreia do Sul de "grave provocação" na fronteira. A Argentina devolveu a Portugal um Missal Romano roubado do Palácio Nacional de Sintra.
+No mundo, o chefe da secreta militar dos EUA foi demitido após um relatório desfavorável a Trump. Maduro acusou os EUA de procurarem uma "mudança de regime" na Venezuela, e a Coreia do Norte acusou a Coreia do Sul de "grave provocação" na fronteira. Houve ainda um ataque israelita em Gaza que matou 17 pessoas. A Tailândia e o Camboja assinaram um acordo para a desminagem da fronteira comum.
+
+Relativamente à guerra na Ucrânia, Kiev alertou para exercícios militares conjuntos entre a Rússia e a Bielorrússia, representando uma ameaça à Europa. Trump voltou a ameaçar a Rússia com sanções caso não haja acordo de paz.

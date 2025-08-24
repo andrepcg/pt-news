@@ -1,47 +1,9 @@
-Aqui estão as principais notícias de 24 de agosto de 2025:
+Hoje, Portugal debate-se com as vagas por preencher no Ensino Superior, apesar dos quase 44 mil alunos colocados na 1ª fase, enquanto os Politécnicos alertam para a diminuição de estudantes e pedem revisão de acesso. Engenharia Aeroespacial no Porto destaca-se com a média de entrada mais alta. A habitação também é notícia, com o aumento da procura por crédito para casas pré-fabricadas, embora o IVA e a burocracia sejam obstáculos.
 
-**Portugal:**
+No país, os incêndios continuam a ser uma preocupação, com Piódão em alerta máximo após 11 dias e Pedrógão Grande em fase de resolução. Um espetador morreu no Campo Pequeno após uma colhida de um forcado.
 
-*   **Ensino Superior:** Quase 44 mil alunos foram colocados na 1ª fase do ensino superior, mas o número de vagas por preencher é recorde. Politécnicos alertam para a diminuição de alunos e pedem mudanças no acesso, enquanto Engenharia Aeroespacial no Porto mantém a média de entrada mais alta.
+A nível internacional, Kim Jong-un supervisionou testes de mísseis na Coreia do Norte, Maduro considera um sucesso o alistamento de milicianos na Venezuela face às ameaças dos EUA, e na Colômbia, suspeitos foram acusados de ataque terrorista. O Canadá mostrou apoio à Ucrânia no seu Dia da Independência, enquanto a China reafirma que o "separatismo" em Taiwan está condenado.
 
-*   **Incêndios:** Piódão continua a ser a maior preocupação após 11 dias, com o incêndio em Pedrógão Grande em fase de resolução. A GNR afirma que "o pior já passou" em Pedrógão Grande. Há alertas para atrasos no Plano de Intervenção da Floresta.
+No desporto, destaque para a prata de João Ribeiro e Messias Batista nos Mundiais de Canoagem. No futebol, o Sporting goleou na Madeira, o Benfica venceu o Tondela e Rodrigo Mora pode trocar o FC Porto pela Arábia Saudita.
 
-*   **Sociedade:** Um espectador morreu após uma colhida de forcado no Campo Pequeno. Cinco urgências do SNS encerraram este domingo.
-
-*   **Economia:** A procura por crédito para casas pré-fabricadas está a aumentar. Preços dos combustíveis vão aumentar.
-
-*   **Turismo:** Espaços termais dos Açores atraíram 150 mil pessoas em 2024.
-
-*   **Política:** Marcelo criticou "pretensos medianeiros" da paz na Ucrânia, no Dia da Independência.
-
-*   **Outros:** Portuguesa é deportada por atrasos da AIMA.
-
-**Mundo:**
-
-*   **Ucrânia:** Ucrânia celebra o Dia da Independência com a visita do Primeiro-Ministro do Canadá a Kiev. Marcelo criticou "pretensos medianeiros" da paz.
-
-*   **Coreia do Norte:** Kim Jong-un supervisionou teste de mísseis de defesa aérea.
-
-*   **Venezuela:** Maduro considerou um 'sucesso' o alistamento de milicianos face a ameaças dos EUA.
-
-*   **Colômbia:** Suspeitos foram acusados de ataque terrorista com camião-bomba.
-
-*   **Estados Unidos:** Juiz aceitou ação de empresário que alega discriminação "por ser português".
-
-*   **China:** China afirmou que "separatismo" em Taiwan está "condenado ao fracasso".
-
-*   **Conflito Israelo-Palestiniano:** Manifestações em Tel Aviv exigiram um acordo de cessar-fogo e a libertação de reféns em Gaza.
-
-*   **Outros:** Repórteres Sem Fronteiras consideram regras europeias sobre IA insuficientes.
-
-**Desporto:**
-
-*   **Futebol:** Rodrigo Mora pode trocar FC Porto pela Arábia Saudita. Sporting goleou na Madeira, Benfica venceu Tondela. Deportivo rejeita proposta do Sporting por Yeremay. Paulinho e William Carvalho tiveram noite para esquecer no México. Marinakis Afasta Nuno Espírito Santo do Nottingham Forest
-
-*   **Canoagem:** João Ribeiro e Messias Batista conquistaram prata em K2 500m nos Mundiais de Canoagem. Fernando Pimenta terminou K1 500 dos Mundiais de canoagem no quarto lugar..
-
-**Cultura:**
-
-*   Morreu o ator Luís Lucas, fundador do Teatro Comuna.
-
-*   Gulbenkian: Nova temporada com exposições de Xerazade, Carlos Bunga e cultura do Brasil.
+Na cultura, Michele Mara traz de Aretha Franklin à ópera 'Adilson' a Lisboa, enquanto no entretenimento Luís Lucas, ator e fundador do Teatro Comuna, faleceu.

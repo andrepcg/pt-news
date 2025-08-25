@@ -1,17 +1,19 @@
-Esta segunda-feira, Portugal continental enfrenta um elevado risco de incêndios, com mais de 40 concelhos em perigo máximo. O diploma com os apoios aos afetados pelos incêndios já entrou em vigor e o Governo aprovou um regime de lay-off simplificado para as empresas afetadas. Marques Mendes defende um pacto para a floresta e um estudo sobre a quebra de alunos no Ensino Superior. O incêndio em Arganil é já o maior de sempre em área ardida em Portugal. Em Sabrosa, o autarca suspeita de mão criminosa no incêndio já dominado.
+Em Portugal, mais de 40 concelhos estão em perigo máximo de incêndio, com o fogo em Arganil a ser o de maior área ardida de sempre no país. O Governo aprovou medidas de apoio aos afetados, incluindo lay-off simplificado para empresas e a isenção de contribuições para a Segurança Social até um ano, e alargou o prazo para o pagamento de impostos nas áreas afetadas. Marques Mendes defende um pacto para a floresta. BE e Chega propõem comissões de inquérito parlamentares sobre a prevenção e o combate aos incêndios.
 
-A nível meteorológico, dez distritos estão sob aviso amarelo devido à agitação marítima.
+A agitação marítima colocou dez distritos sob aviso amarelo.
 
-No ensino superior, os alunos colocados têm até quinta-feira para se matricularem, havendo mais apoios financeiros para colégios privados.
+No ensino superior, os alunos colocados têm até quinta-feira para efetuar a matrícula num ano em que houve menos nove mil candidatos na primeira fase de acesso. Proprietários querem incentivos fiscais para arrendar a estudantes.
 
-No espaço, a SpaceX cancelou e remarcou o voo teste do foguetão Starship.
+A SpaceX cancelou, e depois remarcou, o voo de teste do foguetão Starship.
 
-Na política nacional, o PS questiona a ministra do Trabalho sobre contratos a termo e o Governo apertou as regras para a regularização de imigrantes. O PS também acusa Carlos Moedas de dar ordens ilegais à Polícia Municipal. A Universidade de Verão do PSD arrancou em Castelo de Vide e Marcelo Rebelo de Sousa marcou presença.
+Na política, o PS questiona a ministra do Trabalho sobre os contratos a termo e o Governo aperta as regras para a regularização de imigrantes. Universidades de Verão do PSD e Marcelo Rebelo de Sousa em destaque.
 
-No panorama desportivo, o FC Porto goleou o Casa Pia e o Sporting de Braga empatou na I Liga. Djokovic avançou para a segunda ronda do US Open e Francisco Cabral é o tenista português mais bem classificado no ranking ATP. Mbappé bisou e o Real Madrid venceu na Liga Espanhola.
+No mundo, 30 mil pessoas foram retiradas no Vietname devido ao tufão Kajiki. A Coreia do Norte criticou o Presidente sul-coreano. Ataques israelitas no Iémen causaram seis mortos, e um ataque a um hospital em Gaza matou jornalistas. As negociações entre o Irão e países europeus prosseguem em Genebra. A Evergrande foi expulsa da bolsa de Hong Kong. A Rússia lançou mais de uma centena de drones contra a Ucrânia, que respondeu com ataques no dia da sua independência. Os EUA suspenderam uma vacina contra a chikungunya devido a efeitos secundários.
 
-A nível internacional, 30 mil pessoas foram retiradas no Vietname devido ao tufão Kajiki. A Coreia do Norte criticou o Presidente sul-coreano e Israel realizou ataques no Iémen, resultando em mortos. As negociações entre o Irão e países europeus decorrem em Genebra. A Evergrande foi expulsa da bolsa de Hong Kong. A Rússia lançou mais de uma centena de drones contra a Ucrânia. Um ataque israelita a um hospital em Gaza provocou várias mortes, incluindo jornalistas da Reuters. Nos Estados Unidos, a vacina contra a chikungunya foi suspensa devido a efeitos secundários. Um cidadão norte-americano foi acusado pela Alemanha de espionagem a favor da China
+No desporto, o FC Porto goleou o Casa Pia e o Sporting de Braga empatou na I Liga. Djokovic avançou para a segunda ronda do US Open, enquanto Medvedev foi eliminado com um ataque de fúria. Cabral é o português mais bem classificado no ranking ATP. Mbappé bisou na vitória do Real Madrid.
 
-Na economia, a Keurig Dr Pepper ofereceu 15,7 mil milhões pela JDE Peet's. A Autoridade da Concorrência investiga a subida de preços na saúde privada. Os juros da dívida de Portugal subiram nos três prazos e o Banco de Portugal alertou para a atividade ilegal da "Euro Global Banco". Empresas postais europeias, incluindo os CTT, suspenderam envios para os EUA devido a taxas alfandegárias.
+Na economia, a Keurig Dr Pepper ofereceu 15,7 mil milhões pela JDE Peet's. Há uma investigação da concorrência sobre a subida de preços na saúde privada. Os juros da dívida de Portugal subiram. A Autoridade Tributária alerta para burlas via SMS. Empresas postais europeias, incluindo os CTT, suspenderam envios para os EUA devido a taxas alfandegárias.
 
-Por fim, o Centro Internet Segura registou pedidos de ajuda sobre imagens sexuais de menores criadas com IA e a poluição do ar acelera o declínio cognitivo.
+Em Moçambique, terroristas reivindicaram o ataque e morte de dois cristãos em Cabo Delgado. Taxistas queixam-se do impacto das aplicações no negócio. A Feira Internacional de Maputo arrancou com 3.150 expositores.
+
+Foi reportado um aumento de pedidos de ajuda sobre imagens sexuais de menores geradas por IA.

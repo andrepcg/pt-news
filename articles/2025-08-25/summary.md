@@ -1,13 +1,11 @@
-Em Portugal, mais de 40 concelhos estão em perigo máximo de incêndio, enquanto os apoios aos afetados pelos fogos já entraram em vigor. O incêndio em Arganil é já considerado o maior de sempre no país. Marques Mendes defende um pacto para a floresta e o Governo aprovou um regime de lay-off simplificado para empresas afetadas. Agricultores terão apoios garantidos em 10 dias. O Governo alarga ainda o prazo para pagamento do IMI nas zonas afetadas pelos incêndios.
+Em Portugal, mais de 40 concelhos estão sob perigo máximo de incêndio, com o incêndio em Arganil a registar a maior área ardida de sempre no país. Os diplomas com apoios aos afetados pelos incêndios já entraram em vigor, e o governo aprovou um regime de lay-off simplificado para as empresas afetadas. Marques Mendes defende um pacto para a floresta.
 
-Dez distritos estão sob aviso amarelo devido à agitação marítima. As matrículas para o ensino superior decorrem até quinta-feira.
+Dez distritos estão sob aviso amarelo devido à agitação marítima. Os alunos colocados no ensino superior têm até quinta-feira para efetuarem a matrícula.
 
-No mundo, o Vietname retirou 30 mil pessoas devido ao tufão Kajiki. A Coreia do Norte criticou o Presidente sul-coreano e Israel atacou o Iémen, resultando em mortos. Negociações sobre o programa nuclear iraniano decorrem em Genebra. A Rússia lançou mais de uma centena de drones contra a Ucrânia, que por sua vez lançou ataques contra a Rússia no dia da independência. Um ataque israelita a um hospital em Gaza causou várias vítimas mortais. E terroristas reivindicaram um ataque em Cabo Delgado, Moçambique.
+No desporto, o FC Porto goleou o Casa Pia e o Sporting de Braga empatou com o AVS na I Liga. Djokovic avançou para a segunda ronda do US Open e Francisco Cabral é o tenista português mais bem classificado no ranking ATP.
 
-A SpaceX cancelou, mas depois remarcou, o voo teste do foguetão Starship.
+A nível internacional, a SpaceX cancelou o voo teste do foguetão Starship, mas espera lançar hoje. No Vietname, 30 mil pessoas foram retiradas devido ao tufão Kajiki. A Coreia do Norte criticou o Presidente sul-coreano. Ataques de Israel no Iémen resultaram em mortos, e as negociações entre o Irão e países europeus decorrem em Genebra. A Evergrande foi expulsa da bolsa de Hong Kong. A Rússia lançou mais de uma centena de drones contra a Ucrânia. Os EUA suspenderam a vacina contra a chikungunya devido a efeitos secundários. Ataque israelita a hospital em Gaza mata jornalistas, gerando condenação internacional.
 
-No desporto, o FC Porto goleou o Casa Pia, enquanto o Sporting de Braga empatou. Djokovic avançou para a segunda ronda do US Open.
+No campo económico, a Keurig Dr Pepper ofereceu 15,7 mil milhões pela JDE Peet's, enquanto a Autoridade da Concorrência investiga a subida de preços na saúde privada. Os juros da dívida de Portugal subiram.
 
-Na economia, a Evergrande foi expulsa da bolsa de Hong Kong, a Keurig Dr Pepper ofereceu 15,7 mil milhões pela JDE Peet's e a Autoridade da Concorrência investiga a subida de preços na saúde privada. Os juros da dívida de Portugal subiram.
-
-Ainda, o Centro Internet Segura registou um aumento de pedidos de ajuda relacionados com imagens sexuais de menores criadas com recurso a Inteligência Artificial.
+No âmbito da tecnologia, o Centro Internet Segura regista um aumento de pedidos de ajuda sobre imagens sexuais de menores geradas por IA.

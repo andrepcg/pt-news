@@ -1,13 +1,12 @@
-Portugal continental enfrenta um elevado risco de incêndios, com mais de 40 concelhos em perigo máximo. Entraram em vigor os apoios para os afetados pelos incêndios. Dez distritos estão sob aviso amarelo devido à agitação marítima.
+Em Portugal continental, mais de 40 concelhos estão sob perigo máximo de incêndio, mas não há incêndios de grande dimensão ativos. Entraram em vigor os apoios para os afetados pelos incêndios. Marques Mendes defende um pacto para a floresta e um estudo sobre a quebra de alunos no Ensino Superior.
 
-Na área da educação, os alunos colocados no ensino superior têm até quinta-feira para realizar a matrícula. Marques Mendes defende um estudo sobre a quebra de alunos no ensino superior e um pacto para a floresta.
+Dez distritos estão sob aviso amarelo devido à agitação marítima. Os alunos colocados no ensino superior têm até quinta-feira para efetuar a matrícula, e haverá mais financiamento para colégios privados com contrato de associação. O Governo apertou as regras para a regularização de imigrantes. O PS questiona a ministra do Trabalho sobre os contratos a termo.
 
-A SpaceX cancelou o voo teste do foguetão Starship.
+No mundo, o Vietname retirou 30 mil pessoas devido ao tufão Kajiki. A Rússia lançou mais de uma centena de drones contra a Ucrânia. Israel realizou ataques no Iémen, resultando em mortos. Negociações entre o Irão e países europeus decorrem em Genebra sobre o programa nuclear iraniano. A Coreia do Norte criticou o Presidente sul-coreano. A Evergrande foi expulsa da bolsa de Hong Kong. Os EUA suspenderam a vacina contra a chikungunya devido a efeitos secundários.
 
-Na política, o PS questiona a ministra do Trabalho sobre contratos a termo.
+Na I Liga, o FC Porto goleou o Casa Pia e o Sporting de Braga empatou. Mbappé marcou dois golos na vitória do Real Madrid na Liga Espanhola. Djokovic avançou para a segunda ronda do US Open.
 
-A nível internacional, trinta mil pessoas foram retiradas no Vietname devido ao tufão Kajiki, a Coreia do Norte criticou o Presidente sul-coreano e Israel realizou ataques no Iémen, resultando em seis mortos. Decorrem negociações entre o Irão e países europeus em Genebra, a Rússia lançou mais de uma centena de drones contra a Ucrânia e a Evergrande foi expulsa da bolsa de Hong Kong.
+A SpaceX cancelou inicialmente, mas depois remarcou, o voo teste do foguetão Starship.
 
-No desporto, o FC Porto goleou o Casa Pia na I Liga, enquanto o Sporting de Braga empatou com o AVS.
+Madalena Oliveira e Silva é a primeira mulher a presidir a Aicep. A Keurig Dr Pepper fez uma oferta de 15,7 mil milhões pela JDE Peet's. A Concorrência está a investigar a subida de preços na saúde privada.
 
-Madalena Oliveira e Silva tornou-se a primeira mulher a presidir à Aicep.

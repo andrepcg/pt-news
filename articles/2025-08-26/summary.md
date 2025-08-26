@@ -1,0 +1,9 @@
+O dia ficou marcado por um acidente grave na A4, no sentido Vila Real-Amarante, e pelos incêndios que colocam cerca de 60 concelhos em perigo máximo, com o fogo de Vila Real a ser o único de maiores dimensões ainda ativo. A área ardida já corresponde a 3% do território nacional, mas o governo afasta falhas na prevenção. Face à situação, os trabalhadores podem ser chamados a fazer horas extra para além dos limites legais no combate aos incêndios.
+
+A agitação marítima levou ao fecho de seis barras e 10 distritos estão sob aviso amarelo.
+
+No plano internacional, o líder do Governo de Macau visitará Portugal a partir de 16 de setembro. Em Israel, manifestantes bloquearam estradas para exigir um acordo para Gaza, enquanto a Austrália acusou o Irão de ataques antissemitas e expulsou o embaixador. O Canadá pondera o envio de tropas para a Ucrânia após a guerra. No Brasil, a justiça restabeleceu a proibição da compra de soja plantada na Amazónia. Corina Machado, líder da oposição venezuelana, acredita que a liberdade está próxima. Trump demitiu a governadora da Reserva Federal por alegações de fraude.
+
+No que toca à economia, o PS questiona o Governo sobre o investimento em infraestruturas de segurança alimentar. Powell agitou os mercados e os juros de Portugal renovaram máximos de vários meses. Portugal está à frente de 15 países no cumprimento do PRR. Um consórcio de IA liderado pela Unbabel já recebeu mais de 37 milhões do PRR. A Accenture refere que as empresas estão a deixar o 'offshoring' tecnológico para terem soberania.
+
+Por fim, a SpaceX suspendeu novamente o teste de lançamento da Starship devido ao mau tempo e Sandra Santos, CEO industrial, enfrenta um novo desafio na Logoplaste.

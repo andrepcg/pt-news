@@ -1,0 +1,7 @@
+Um ataque russo com mísseis em Kiev causou 8 mortos, levando Zelensky a exigir mais sanções. A TAP registou um prejuízo de 70,7 milhões no primeiro semestre, apesar de lucros no segundo trimestre. Em Portugal, mais de 40 concelhos estão em perigo máximo de incêndio.
+
+Na China, Kim Jong-un deverá marcar presença na parada militar de 3 de setembro. Na Colômbia, um jovem foi condenado a 7 anos de prisão pela morte de um candidato presidencial. Em Portugal, o PS questiona a ministra sobre a intervenção da CPCJ em casos de amamentação prolongada. A nova lei laboral aumenta os requisitos para trabalhadores independentes com dependência económica. A NATO prevê que Portugal cumpra a meta de 2% do PIB em Defesa.
+
+A justiça brasileira proibiu a exposição de crianças com fins lucrativos no Instagram e Facebook. O Irão manifestou solidariedade à Venezuela face às pressões dos EUA. Os donos da Lusiaves compraram a empresa de betão Soplacas. As insolvências em Portugal diminuíram quase 12%, mas o contexto internacional exige prudência. A Síria acusou Israel de novos ataques noturnos perto de Damasco.
+
+A associação Zero defende a inclusão de todas as emissões da aviação nos planos climáticos. Em Hong Kong, terminaram as alegações finais no caso do magnata pró-democracia Jimmy Lai. O Exército português está prestes a atingir o maior aumento de efetivos da última década. Os EUA não assinaram a declaração de apoio a um relatório que confirma a fome em Gaza. O Benfica garantiu milhões na Champions e Pablo Rosario já chegou a Lisboa.

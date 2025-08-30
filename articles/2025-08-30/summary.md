@@ -1,7 +1,15 @@
-Em destaque neste dia, a política nacional foi marcada pela acusação do PS ao Governo de manipulação no IRS para fins eleitorais, enquanto a IL realizou a sua "rentrée" com críticas ao executivo. No ensino superior, registou-se uma diminuição de candidatos nos primeiros dias de concurso, e o Governo pretende contratualizar o pré-escolar com 30 autarquias.
+Aqui fica um resumo das notícias de hoje, 30 de agosto:
 
-Na economia, o PCP denunciou um alegado cartel da banca, e a produção de maçã em Carrazeda foi afetada pelas condições climáticas adversas. A nível internacional, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China, enquanto Trump enfrenta contestações judiciais sobre as suas tarifas. A Venezuela alertou os EUA sobre as consequências de um possível ataque, e um navio de guerra americano dirigiu-se às Caraíbas em meio a tensões.
+Em destaque na política nacional, o PS acusou o Governo de manipular o IRS para fins eleitorais, enquanto a IL criticou o executivo na sua 'rentrée'. O Governo pretende também contratualizar o pré-escolar com 30 autarquias. O BE iniciou a sua 'rentrée' em Coimbra. Pedro Duarte (PSD) defende uma reflexão sobre a regionalização após as autárquicas. Mais de 30 antigos autarcas voltam a candidatar-se. Catarina Martins pondera uma candidatura a Belém.
 
-No desporto, Djokovic e Sabalenka avançaram no US Open, enquanto no futebol nacional antevê-se um clássico entre Sporting e FC Porto.
+No plano internacional, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. Caracas advertiu que um ataque à Venezuela seria uma "calamidade" para os EUA, com um navio de guerra dos EUA a dirigir-se ao Caribe. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes, enquanto o Brasil notificou os EUA sobre um processo de resposta a tarifas. A ONU apelou à diplomacia face à intensificação dos ataques na Ucrânia. Um incêndio num edifício governamental na Indonésia causou três mortos durante protestos.
 
-Outros temas incluem os incêndios, com um incêndio a destruir uma embarcação na Marina de Cascais e pastores na Covilhã a lutarem para recuperar, a discriminação enfrentada por jovens afrodescendentes em Portugal, e o apelo da ONU à diplomacia face à intensificação dos ataques na Ucrânia. No mundo do espetáculo, faleceu a atriz brasileira Bia Lomelino, e a atriz Nicole Eggert foi operada durante a sua luta contra o cancro.
+Na economia, o PCP denunciou um "cartel da banca". A produção de maçã em Carrazeda foi afetada pela chuva e calor. No setor da saúde, foi noticiado um aumento de preços e o Infarmed suspendeu lotes de um medicamento para a depressão.
+
+Na sociedade, registou-se um incêndio que destruiu uma embarcação na Marina de Cascais, e empresas de meios aéreos contrataram 177 milhões com o Estado para combater fogos. Associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal. Os brasileiros representam metade dos estudantes imigrantes nas escolas públicas.
+
+No desporto, Djokovic e Sabalenka avançaram no US Open.
+
+No mundo da cultura e do entretenimento, faleceu o escritor brasileiro Luis Fernando Veríssimo, e a atriz brasileira Bia Lomelino também morreu. Trump quer edifícios federais com arquitetura clássica greco-romana, e o Festival F em Faro celebra 10 anos.
+
+Outros destaques incluem o apoio de Portugal a sanções da UE mais duras contra a Rússia, e o aumento de reformas acima de 5.000 euros na Função Pública.

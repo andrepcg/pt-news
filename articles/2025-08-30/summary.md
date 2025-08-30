@@ -1,11 +1,11 @@
-Em Portugal, o PS acusa o Governo de manipulação no IRS com fins eleitorais, enquanto o Governo procura contratualizar o pré-escolar com 30 autarquias e promete mais vagas. A IL e o BE realizaram as suas "rentrées" políticas com críticas ao Governo. No ensino superior, registou-se um decréscimo de 16% nos candidatos nos primeiros dias de concurso. Associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal. Na Covilhã, pastores e queijeiros lutam para recuperar após os incêndios. Um incêndio em Cascais destruiu uma embarcação na marina.
+Em destaque neste dia, a política nacional agitou-se com o PS a acusar o Governo de manipular as tabelas de IRS para fins eleitorais, enquanto a IL criticou o executivo na sua 'rentrée'. O Governo, por sua vez, anunciou a contratualização do pré-escolar com 30 autarquias e prometeu mais vagas no ensino pré-escolar. Catarina Martins pondera candidatar-se a Belém.
 
-No mundo, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China, enquanto Caracas adverte que um ataque à Venezuela seria uma "calamidade" para os EUA, intensificando a tensão geopolítica com o envio de um navio de guerra americano para o Caribe. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes, e o Brasil notificou os EUA sobre um processo de resposta a tarifas. A ONU apelou à diplomacia perante a intensificação dos ataques na Ucrânia, onde um ex-presidente do parlamento foi assassinado. Na Indonésia, um incêndio em edifício governamental causou mortes durante protestos.
+No panorama internacional, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China, enquanto Caracas advertiu os EUA sobre as consequências de um possível ataque. A tensão na Ucrânia mantém-se, com a Rússia a intensificar os ataques e a ONU a apelar à diplomacia. Os EUA enfrentam bloqueios judiciais a deportações imediatas de imigrantes. O Brasil notificou os EUA sobre tarifas.
+
+A nível económico, a Standard & Poor's elevou o rating de Portugal para A. A produção de maçã em Carrazeda foi afetada pelas condições climáticas.
+
+Na sociedade, um incêndio destruiu uma embarcação na Marina de Cascais e os jovens afrodescendentes continuam a enfrentar discriminação em Portugal. Registaram-se menos candidatos nos primeiros dias do concurso ao ensino superior.
 
 No desporto, Djokovic e Sabalenka avançaram no US Open.
 
-Na cultura, Luís Fernando Veríssimo faleceu aos 88 anos, e Trump pretende edifícios federais com arquitetura clássica greco-romana.
-
-A atriz Nicole Eggert, conhecida por 'Marés Vivas', foi operada durante a sua luta contra o cancro.
-
-Quanto à economia, a produção de maçã em Carrazeda foi afetada pela chuva e calor, e a Standard & Poor's subiu a notação de Portugal para A.
+Lamenta-se o falecimento do escritor brasileiro Luís Fernando Veríssimo, aos 88 anos.

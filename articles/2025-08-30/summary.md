@@ -1,15 +1,9 @@
-## Resumo do dia 2025-08-30
+As notícias de hoje destacam tensões políticas e conflitos internacionais. Em Portugal, o PS acusa o Governo de manipulação do IRS, enquanto a IL critica o executivo na sua "rentrée". O Governo, por outro lado, quer contratualizar o pré-escolar com 30 autarquias e promete mais vagas.
 
-Em Portugal, o PS acusa o Governo de manipulação no IRS para fins eleitorais. O Governo pretende contratualizar o pré-escolar com 30 autarquias e promete mais vagas. A IL criticou o Governo na sua 'rentrée'. A Fenprof, por sua vez, critica a reforma do Ministério da Educação. Mais de 30 antigos autarcas voltam a candidatar-se nas próximas eleições. A PSP registou quase 300 casos de violência doméstica numa semana. Um incêndio na Marina de Cascais causou o afundamento de uma embarcação e está a ser investigado. Na Covilhã, pastores e queijeiros lutam para recuperar após incêndios. O IP3 esteve cortado devido a um despiste de um camião perto de Penacova.
+No plano internacional, a Venezuela adverte os EUA sobre as consequências de um possível ataque, enquanto um navio de guerra americano se dirige ao Caribe. Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. A ONU apela à diplomacia face à intensificação dos ataques na Ucrânia, onde um ex-presidente do parlamento foi assassinado. A UE rejeita devolver à Rússia fundos congelados, reafirmando o apoio de Portugal a sanções mais duras contra a Rússia. Paralelamente, a UE pede aos EUA que reconsiderem a rejeição de vistos para autoridades palestinianas, face à crescente tensão no conflito israelo-palestiniano.
 
-No Ensino Superior, registou-se um decréscimo de 16% nos candidatos nos primeiros dias do concurso. Nas escolas públicas, os estudantes brasileiros representam metade dos imigrantes.
+Na economia, a Standard & Poor's elevou o rating de Portugal para A, enquanto a produção de maçã em Carrazeda foi afetada pelas condições climáticas. Há preocupações sobre a escassez de mão de obra em Portugal sem imigração.
 
-Na Economia, o CNA critica o impacto dos hipermercados na produção agrícola local. A produção de maçã em Carrazeda foi afetada pela chuva e calor. A Standard & Poor's elevou o *rating* de Portugal para A. A ASAE está a controlar a autenticidade das uvas nas vindimas.
+Na sociedade, um incêndio destruiu uma embarcação na Marina de Cascais, e jovens afrodescendentes em Portugal denunciam discriminação. No desporto, Djokovic e Sabalenka avançam no US Open e Oscar Piastri conquistou a 'pole' no GP dos Países Baixos em Fórmula 1.
 
-No Mundo, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. Caracas advertiu que um ataque à Venezuela seria uma calamidade para os EUA. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes. O Brasil notificou os EUA sobre o processo de resposta a tarifas. A ONU apelou à diplomacia face à intensificação dos ataques na Ucrânia. Um ataque israelita no Iémen terá morto um primeiro-ministro Houthi. A União Europeia rejeita devolver à Rússia fundos congelados. O Governo português diz não ter obrigação de proteger flotilha humanitária rumo a Gaza. No Brasil, faleceu o escritor Luís Fernando Veríssimo, aos 88 anos.
-
-No Desporto, Djokovic e Sabalenka avançaram no US Open. Oscar Piastri conquistou a *pole position* no GP dos Países Baixos em Fórmula 1.
-
-Na Saúde, o Infarmed suspendeu lotes de um medicamento para a depressão.
-
-Moçambique tem apostado na agricultura e no comércio para reduzir as desigualdades, segundo o Presidente Chapo.
+Lamenta-se o falecimento do escritor brasileiro Luís Fernando Veríssimo.

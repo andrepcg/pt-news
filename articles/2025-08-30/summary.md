@@ -1,15 +1,15 @@
-Aqui fica um resumo das notícias de hoje, 30 de agosto:
+Resumo das notícias de 30 de agosto de 2025:
 
-Em destaque na política nacional, o PS acusou o Governo de manipular o IRS para fins eleitorais, enquanto a IL criticou o executivo na sua 'rentrée'. O Governo pretende também contratualizar o pré-escolar com 30 autarquias. O BE iniciou a sua 'rentrée' em Coimbra. Pedro Duarte (PSD) defende uma reflexão sobre a regionalização após as autárquicas. Mais de 30 antigos autarcas voltam a candidatar-se. Catarina Martins pondera uma candidatura a Belém.
+A política nacional foi marcada pela acusação do PS ao Governo de manipulação do IRS para fins eleitorais, enquanto a IL criticou o Governo na sua 'rentrée'. O Governo iniciou a contratualização do pré-escolar com 30 autarquias e ouviu os partidos sobre o reconhecimento da Palestina. Mais de 30 antigos autarcas voltam a candidatar-se nas próximas eleições. Catarina Martins pondera candidatar-se à Presidência da República.
 
-No plano internacional, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. Caracas advertiu que um ataque à Venezuela seria uma "calamidade" para os EUA, com um navio de guerra dos EUA a dirigir-se ao Caribe. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes, enquanto o Brasil notificou os EUA sobre um processo de resposta a tarifas. A ONU apelou à diplomacia face à intensificação dos ataques na Ucrânia. Um incêndio num edifício governamental na Indonésia causou três mortos durante protestos.
+Na economia, o PCP denunciou um alegado cartel da banca, enquanto a CNA criticou o impacto dos hipermercados na produção agrícola local. A produção de maçã em Carrazeda foi afetada pela chuva e calor. Foi ainda noticiado que a petrolífera russa Rosneft teve uma queda de lucros e que a S&P alertou para a escassez de mão de obra em Portugal sem imigração.
 
-Na economia, o PCP denunciou um "cartel da banca". A produção de maçã em Carrazeda foi afetada pela chuva e calor. No setor da saúde, foi noticiado um aumento de preços e o Infarmed suspendeu lotes de um medicamento para a depressão.
+No ensino superior, registou-se um decréscimo de 16% de candidatos nos primeiros dias de concurso. Brasileiros representam metade dos estudantes imigrantes nas escolas públicas de Portugal.
 
-Na sociedade, registou-se um incêndio que destruiu uma embarcação na Marina de Cascais, e empresas de meios aéreos contrataram 177 milhões com o Estado para combater fogos. Associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal. Os brasileiros representam metade dos estudantes imigrantes nas escolas públicas.
+Na sociedade, registaram-se 300 casos de violência doméstica numa semana. Associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal. Um incêndio destruiu uma embarcação na Marina de Cascais, estando a ocorrência sob investigação. Empresas de meios aéreos contrataram 177 milhões com o Estado para combater fogos. Pastores e queijeiros da Covilhã lutam para recuperar após incêndios.
+
+No mundo, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. A Venezuela advertiu os EUA sobre um possível ataque. Os EUA enfrentam contestações judiciais relativamente às tarifas impostas. A Rússia bombardeou diversas regiões da Ucrânia levando a ONU a apelar à diplomacia. Um navio de guerra dos EUA dirigiu-se ao Caribe, em meio a tensão com a Venezuela. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes.
 
 No desporto, Djokovic e Sabalenka avançaram no US Open.
 
-No mundo da cultura e do entretenimento, faleceu o escritor brasileiro Luis Fernando Veríssimo, e a atriz brasileira Bia Lomelino também morreu. Trump quer edifícios federais com arquitetura clássica greco-romana, e o Festival F em Faro celebra 10 anos.
-
-Outros destaques incluem o apoio de Portugal a sanções da UE mais duras contra a Rússia, e o aumento de reformas acima de 5.000 euros na Função Pública.
+No mundo da fama, a atriz brasileira Bia Lomelino faleceu aos 25 anos. Nicole Eggert, atriz de 'Marés Vivas', foi operada durante a luta contra o cancro e a Princesa Marie Caroline do Liechtenstein casou-se. Morreu o escritor brasileiro Luis Fernando Verissimo.

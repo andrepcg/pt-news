@@ -1,11 +1,7 @@
-Em Portugal, o PS acusa o Governo de manipulação no IRS para fins eleitorais, enquanto o Governo pretende a contratualização do pré-escolar com 30 autarquias. O PCP denuncia o "cartel da banca", e o IL criticou o Governo na sua 'rentrée'. No ensino superior, regista-se uma diminuição de candidatos nos primeiros dias de concurso.
+As notícias de hoje destacam tensões políticas e acontecimentos internacionais. Em Portugal, o PS acusa o Governo de manipular o IRS para fins eleitorais, enquanto IL e BE realizaram as suas "rentrées" políticas com críticas ao executivo. No ensino superior, regista-se uma diminuição de candidatos.
 
-No país, um incêndio destruiu uma embarcação na Marina de Cascais. Os pastores e queijeiros da Covilhã lutam para recuperar após os incêndios que destruíram pastagens. Associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal.
+No âmbito internacional, Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China, enquanto a Venezuela adverte os EUA sobre as consequências de um possível ataque, face à tensão crescente que levou ao envio de um navio de guerra americano para as Caraíbas. Uma juíza nos EUA bloqueou deportações imediatas de imigrantes, e o Brasil notificou os EUA sobre um processo de resposta a tarifas. Ataques na Ucrânia intensificam-se, com a ONU a apelar à diplomacia, e na Indonésia, um incêndio em protestos causou mortes.
 
-A nível internacional, Merkel reflecte sobre o "Nós vamos conseguir" que mudou a Alemanha há 10 anos. Caracas adverte que um ataque à Venezuela seria uma "calamidade" para os EUA, em resposta, um navio de guerra dos EUA dirige-se às Caraíbas. Xi Jinping reuniu-se com Putin, Modi e Kim Jong-un na China. No Brasil, o país notificou os EUA sobre o processo de resposta a taxas. Uma juíza dos EUA bloqueou deportações imediatas de imigrantes. A ONU apela à diplomacia face à intensificação dos ataques na Ucrânia.
+Na área económica, a CNA critica o impacto dos hipermercados na produção agrícola local, e a produção de maçã em Carrazeda foi afetada pelo clima. A banca está sob escrutínio com denúncias do PCP relativas a um alegado cartel.
 
-No desporto, Djokovic e Sabalenka avançam no US Open.
-
-Na área da saúde, a atriz Nicole Eggert, de 'Marés Vivas', foi operada durante a sua luta contra o cancro.
-
-Por fim, a produção de maçã em Carrazeda foi afetada pela chuva e calor.
+Em outras notícias, um incêndio destruiu uma embarcação na Marina de Cascais. No desporto, Djokovic e Sabalenka avançaram no US Open. No panorama social, associações alertam para a discriminação enfrentada por jovens afrodescendentes em Portugal.

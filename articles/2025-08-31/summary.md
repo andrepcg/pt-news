@@ -1,13 +1,17 @@
-No panorama desportivo, o FC Porto venceu o Sporting em Alvalade num clássico marcado por incidentes que resultaram em 17 feridos devido ao colapso de uma estrutura. Conrad Harder poderá estar de saída do Sporting, com o Chelsea interessado no jogador. Portugal sagrou-se campeão europeu de hóquei de sub-19. No mundo do ténis, Swiatek e Auger-Aliassime avançaram para os oitavos de final do US Open, com um jovem "lesado" a receber presentes de um tenista.
+As notícias de hoje em Portugal e no mundo destacam-se por:
 
-Na política nacional, a JSD propõe o regresso do quociente familiar no IRS e uma licença parental de seis meses paga a 100%. Montenegro encerrou a Universidade de Verão do PSD, marcada por apelos à moderação. O governo lançará um "balcão único da empresa" e vai rever os licenciamentos urbanísticos, enquanto Montenegro anunciou um pacote de 1.300 milhões de euros para habitação acessível. Marcelo Rebelo de Sousa apelou ao reconhecimento da contribuição dos afrodescendentes em Portugal. Aguiar-Branco criticou falhas do estado no combate aos incêndios. Em sentido oposto, a Iniciativa Liberal defende o despedimento de funcionários públicos.
+*   **Política Nacional:** A JSD propõe o regresso do quociente familiar e uma licença parental de seis meses paga a 100%. O PSD encerrou a sua Universidade de Verão com apelos à moderação, enquanto Montenegro lançou um pacote de medidas para a habitação acessível e nega ter-se oposto à divulgação de dados sobre os seus imóveis. O Governo planeia rever o modelo da Proteção Civil e lançar um "balcão único da empresa".
 
-A nível internacional, Putin visitou a China para se encontrar com Xi Jinping. Há tensões entre os EUA e Chicago devido à recusa da Presidente da Câmara em colaborar com a administração Trump. O Equador passou a exigir vistos de trânsito a cidadãos de vários países, incluindo Angola e Guiné-Bissau. Uma ONG denunciou "desaparecimentos forçados" na Venezuela como política estatal. Israel atacou infraestruturas do Hezbollah no Líbano e aumentou a ofensiva em Gaza, agravando a crise humanitária e a fome. A Espanha ofereceu proteção diplomática a uma flotilha para Gaza. Além disso, as Ilhas Canárias aguardam apoio para 4.000 menores migrantes. Índia e China retomaram voos diretos após mais de 5 anos.
+*   **Economia:** Moçambique aprovou investimentos de 4,2 mil milhões de euros no primeiro semestre. O gasóleo vai subir e a gasolina descer. A África do Sul pondera alterar a definição de milionário para aumentar a receita fiscal.
 
-Na sociedade, registou-se um aumento na venda de fármacos para a disfunção eréctil, com um novo "Viagra" sem receita disponível. Georgina Rodríguez partilhou fotos com um anel de noivado e Cristiano Ronaldo. Morreu Sen Soshitsu XV, Grão-Mestre do chá japonês, aos 102 anos. Gordon Ramsay revelou ter sido diagnosticado com cancro de pele e ter sido submetido a cirurgia.
+*   **Desporto:** O FC Porto venceu o Sporting em Alvalade num clássico marcado por incidentes que feriram 17 adeptos devido à queda de uma estrutura de vidro. Portugal sagrou-se campeão europeu de hóquei de sub-19. No US Open, Swiatek e Auger-Aliassime avançaram para os oitavos de final.
 
-Na economia, Moçambique aprovou investimentos de 4,2 mil milhões de euros no primeiro semestre, enquanto a África do Sul pondera alterar a definição de milionário para aumentar a receita fiscal. Os combustíveis terão alterações, com o gasóleo a subir e a gasolina a descer.
+*   **Sociedade:** A venda de fármacos para a disfunção eréctil aumentou com a chegada do novo "Viagra" sem receita. Marcelo Rebelo de Sousa apelou ao reconhecimento da contribuição dos afrodescendentes em Portugal.
 
-No âmbito ambiental, condomínios de Aldeia reclamam pagamentos em atraso do Fundo Ambiental. Os laboratórios da floresta de Arganil foram destruídos pelos incêndios, e o recomeço é a única opção. O programa de transformação da paisagem avança lentamente, com risco de perder financiamento. Ativistas climáticos lançaram tinta contra a Sagrada Família em Barcelona.
+*   **Mundo:** Putin está na China para se encontrar com Xi Jinping. A tensão aumenta entre os EUA e a Venezuela, e Israel atacou infraestruturas do Hezbollah no Líbano. Foi confirmada a morte do corpo de um luso-israelita refém do Hamas em Gaza.
 
-Por fim, na cultura, o Festival de Violoncelo em Coimbra conta com Ophélie Gaillard. Ezequiel e Jeremias, herdeiros de Franco, foram condenados a devolver estátuas à Catedral de Santiago.
+*   **Local:** Condomínios da Aldeia reclamam pagamentos em atraso do Fundo Ambiental, e os laboratórios da floresta de Arganil foram destruídos pelos incêndios.
+
+*   **Cultura:** O Festival de Violoncelo de Coimbra conta com Ophélie Gaillard. Luís Fernando Veríssimo faleceu e o Brasil decretou luto nacional.
+
+*   **Fama:** Georgina Rodríguez partilhou fotos com um anel de noivado com Cristiano Ronaldo, e Gordon Ramsay revelou ter sido diagnosticado com cancro de pele.

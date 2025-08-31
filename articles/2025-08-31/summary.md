@@ -1,11 +1,11 @@
-Em dia de variadas notícias, o FC Porto destacou-se ao vencer o Sporting em Alvalade, enquanto Portugal conquistou o Europeu de hóquei de sub-19. No US Open, Swiatek e Auger-Aliassime garantiram lugar nos oitavos de final, e um jovem foi compensado por uma decisão controversa.
+Em destaque neste dia, o FC Porto venceu o Sporting em Alvalade num clássico que resultou em duas detenções. No desporto, Portugal sagrou-se campeão europeu de hóquei de sub-19, e no US Open, Swiatek e Auger-Aliassime avançaram para os oitavos de final.
 
-Na política nacional, a JSD propôs o regresso do quociente familiar no IRS e uma licença parental de seis meses. No âmbito social, registou-se um aumento na venda de fármacos para a disfunção eréctil, com um novo "Viagra" disponível sem receita.
+Na política nacional, a JSD propõe o regresso do quociente familiar no IRS e uma licença parental de seis meses. O Montenegro encerrou a Universidade de Verão do PSD, apelando à moderação.
 
-A nível local, os condomínios de Aldeia reclamam pagamentos em atraso do Fundo Ambiental, enquanto em Arganil, os laboratórios da floresta destruídos pelos incêndios procuram recomeçar. O programa de transformação da paisagem enfrenta atrasos e risco de perder financiamento.
+A nível internacional, Putin visitou a China para se encontrar com Xi Jinping, enquanto Trump duvida de uma reunião bilateral entre Putin e Zelensky. O Equador passou a exigir vistos de trânsito a cidadãos de vários países, incluindo Angola e Guiné-Bissau. Uma ONG denunciou "desaparecimentos forçados" na Venezuela. Nas Ilhas Canárias, 4.000 menores migrantes aguardam apoio.
 
-No cenário internacional, o Equador começou a exigir vistos de trânsito a cidadãos de vários países, incluindo Angola e Guiné-Bissau. As tensões entre os EUA e Chicago aumentaram devido à recusa de colaboração da Presidente da Câmara com a administração Trump. Uma ONG denunciou "desaparecimentos forçados" na Venezuela, e nas Ilhas Canárias, 4.000 menores migrantes aguardam apoio.
+Na economia, Moçambique aprovou investimentos de 4,2 mil milhões de euros no primeiro semestre. Os preços dos combustíveis apresentam variações, com o gasóleo a subir e a gasolina a descer.
 
-Na cultura, o Festival de Violoncelo em Coimbra conta com a participação de Ophélie Gaillard. Em Espanha, os herdeiros de Franco foram condenados a devolver estátuas à Catedral de Santiago.
+Na sociedade, a venda de fármacos para a disfunção eréctil aumentou, com um novo 'Viagra' disponível sem receita.
 
-Por fim, Georgina Rodríguez partilhou fotos com um anel de noivado com Cristiano Ronaldo e há rumores de que Conrad Harder pode deixar o Sporting para assinar pelo RB Leipzig.
+Na cultura, o Festival de Violoncelo em Coimbra conta com Ophélie Gaillard. Ezequiel e Jeremias, herdeiros de Franco, foram condenados a devolver estátuas à Catedral de Santiago.

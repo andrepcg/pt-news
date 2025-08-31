@@ -1,11 +1,13 @@
-Em destaque neste dia, o FC Porto venceu o Sporting em Alvalade num clássico que resultou em duas detenções. No desporto, Portugal sagrou-se campeão europeu de hóquei de sub-19, e no US Open, Swiatek e Auger-Aliassime avançaram para os oitavos de final.
+No dia 31 de agosto de 2025, o FC Porto venceu o Sporting em Alvalade num clássico marcado por incidentes, incluindo a queda de uma estrutura de vidro que feriu 17 adeptos. Conrad Harder, do Sporting, está a ser cobiçado por clubes como o RB Leipzig e o Chelsea. O US Open viu Swiatek e Auger-Aliassime avançarem, enquanto um jovem "roubado" recebeu presentes de um tenista. Portugal sagrou-se campeão europeu de hóquei de sub-19.
 
-Na política nacional, a JSD propõe o regresso do quociente familiar no IRS e uma licença parental de seis meses. O Montenegro encerrou a Universidade de Verão do PSD, apelando à moderação.
+Na política, a JSD propõe o regresso do quociente familiar no IRS e uma licença parental de seis meses, enquanto Montenegro encerrou a Universidade de Verão do PSD. Uma flotilha com Greta Thunberg e Mariana Mortágua partiu para Gaza, com oposição do governo português que, no entanto, oferece proteção diplomática à comitiva. Marcelo Rebelo de Sousa apelou ao reconhecimento da contribuição dos afrodescendentes em Portugal e a Iniciativa Liberal defende o despedimento de funcionários públicos.
 
-A nível internacional, Putin visitou a China para se encontrar com Xi Jinping, enquanto Trump duvida de uma reunião bilateral entre Putin e Zelensky. O Equador passou a exigir vistos de trânsito a cidadãos de vários países, incluindo Angola e Guiné-Bissau. Uma ONG denunciou "desaparecimentos forçados" na Venezuela. Nas Ilhas Canárias, 4.000 menores migrantes aguardam apoio.
+Na economia, Moçambique aprovou investimentos de 4,2 mil milhões de euros no primeiro semestre. O gasóleo vai subir e a gasolina vai descer. Estão a ser ponderadas alterações à definição de milionário na África do Sul para aumentar a receita fiscal.
 
-Na economia, Moçambique aprovou investimentos de 4,2 mil milhões de euros no primeiro semestre. Os preços dos combustíveis apresentam variações, com o gasóleo a subir e a gasolina a descer.
+No mundo, Putin visitou a China para se encontrar com Xi Jinping, e Trump duvida de uma reunião bilateral entre Putin e Zelensky. O Equador começou a exigir vistos de trânsito a cidadãos de mais de 40 países, incluindo Angola e Guiné-Bissau. Israel tem forçado palestinianos a deixarem as suas casas na Cisjordânia e atacou infraestruturas do Hezbollah no Líbano. Foi recuperado em Gaza o corpo de um luso-israelita refém do Hamas, levando a uma reação do Governo português. Índia e China retomaram voos diretos após mais de 5 anos.
 
-Na sociedade, a venda de fármacos para a disfunção eréctil aumentou, com um novo 'Viagra' disponível sem receita.
+Em Portugal, os laboratórios da floresta de Arganil foram destruídos pelos incêndios e o programa de transformação da paisagem avança lentamente, arriscando perder financiamento. Um fogo ameaça o futuro de uma aldeia no Fundão que renasceu com a cereja.
 
-Na cultura, o Festival de Violoncelo em Coimbra conta com Ophélie Gaillard. Ezequiel e Jeremias, herdeiros de Franco, foram condenados a devolver estátuas à Catedral de Santiago.
+Na cultura, o Festival de Violoncelo em Coimbra conta com Ophélie Gaillard. Ezequiel e Jeremias, herdeiros de Franco, foram condenados a devolver estátuas à Catedral de Santiago. Morreu Sen Soshitsu XV, Grão-Mestre do chá japonês, aos 102 anos.
+
+Outras notícias incluem o aumento da venda de fármacos para disfunção eréctil e Georgina Rodríguez a partilhar fotos com um anel de noivado e Cristiano Ronaldo. Gordon Ramsay revelou ter sido diagnosticado e operado a um cancro de pele.

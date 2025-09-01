@@ -1,20 +1,17 @@
-Um sismo devastador no Afeganistão já causou mais de 800 mortos, com a China a oferecer ajuda e o governo português a lamentar a tragédia.
-Na América Latina, a CELAC convocou uma reunião de emergência devido à escalada militar dos EUA na Venezuela, enquanto a Guiana denunciou disparos venezuelanos contra uma embarcação eleitoral.
+## Resumo do Dia - 2025-09-01
 
-Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, levando Zelensky a ordenar retaliação, enquanto o Kremlin acusa a Europa de dificultar a paz. Os EUA apoiam o envio de tropas europeias para a Ucrânia, e Kiev angariou fundos para comprar armas, sendo que um suspeito de matar o ex-presidente do parlamento ucraniano foi detido. Putin, durante uma cimeira na China com Xi Jinping, culpou o Ocidente pela guerra, enquanto Modi afirmou que a paz é um clamor mundial.
+Um forte sismo no Afeganistão causou a morte a centenas de pessoas, com as autoridades a preverem que o número de vítimas continue a aumentar. A China e outros países ofereceram ajuda.
 
-A China criticou a "mentalidade da Guerra Fria", e os EUA impuseram tarifas de 15% sobre a UE, levando o setor têxtil português a manifestar receios. Lagarde alertou para o risco acrescido na zona euro em caso de queda do governo francês, e criticou uma possível tentativa de controlo da Fed por Trump.
+Na América Latina, a tensão aumentou devido à escalada militar dos EUA na Venezuela e a relatos de disparos venezuelanos contra uma embarcação eleitoral da Guiana, levando a CELAC a convocar uma reunião de emergência.
 
-Em Portugal, foram recebidos 83 pedidos de compensação por abusos na Igreja, cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos, e o governo prepara novos aumentos salariais para a função pública em 2026, revendo o acordo plurianual. O prazo para pagar o IRS e a 2ª prestação do IMI terminou hoje. O Pingo Doce contesta judicialmente uma cobrança de 9,6 milhões de euros de TSU, enquanto se aguarda o licenciamento da fábrica do avião português LUS-222 em Ponte de Sor. Relativamente ao setor energético, pontos de carregamento elétrico têm sido alvo de vandalismo e roubo. Os tribunais portugueses preparam-se para o regresso dos processos judiciais mediáticos. A dívida pública portuguesa atingiu um novo recorde de 288 mil milhões de euros em julho, e as taxas Euribor iniciaram setembro em alta.
+Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, com Zelensky a prometer retaliar. O Kremlin acusou a Europa de dificultar as negociações de paz, enquanto Von der Leyen afirmou que os EUA apoiam o envio de tropas europeias para a Ucrânia. Kiev angariou mais de dois mil milhões de dólares para comprar armas, e um suspeito de matar o ex-presidente do parlamento ucraniano foi detido. Putin, numa cimeira com Xi Jinping, culpou o Ocidente pela guerra.
 
-No contexto internacional, a Coreia do Sul suspendeu as emissões de propaganda para a Coreia do Norte, o Irão denunciou o "massacre contínuo em Gaza" na Cimeira da SCO, e Guterres exigiu a libertação de funcionários da ONU detidos no Iémen, onde rebeldes Huthis lançaram um míssil contra um petroleiro. Redações de todo o mundo protestaram contra o assassinato de jornalistas em Gaza. O avião de Von der Leyen fez uma aterragem de emergência devido a alegada interferência russa, o que levou a Bulgária a abrir uma investigação.
+As tensões geopolíticas também se fizeram sentir noutras áreas, com a China a criticar a "mentalidade da Guerra Fria", enquanto os EUA impuseram tarifas de 15% sobre produtos da UE. A Coreia do Sul suspendeu as emissões de propaganda para a Coreia do Norte, e o Irão denunciou o "massacre contínuo em Gaza" na cimeira da SCO.
 
-No desporto, Sabalenka e Djokovic avançaram para os quartos de final do US Open, Portugal defronta a Letónia no Eurobasket, e o Sporting de Braga renovou contrato com Sandro Vidigal. O Sporting oficializou a contratação de Ioannidis.
+No plano económico, a indústria transformadora da China recuperou em agosto. Nos EUA, entraram em vigor tarifas de 15% sobre setores estratégicos da UE. Lagarde alertou para os riscos de uma crise política em França. Relativamente a Portugal, o Governo prepara novos aumentos salariais para a Função Pública em 2026 e revê o acordo plurianual. Terminou o prazo para pagar o IRS e a segunda prestação do IMI. O setor têxtil português está preocupado com as novas tarifas dos EUA. O Pingo Doce contestou em tribunal uma cobrança de 9,6 milhões de euros de TSU. Foi disponibilizada uma linha de crédito de 100 milhões para projetos agrícolas PDR2020.
 
-Em Macau, os casinos registaram as maiores receitas desde o início da pandemia.
+No desporto, destaque para o US Open onde Sabalenka e Djokovic avançaram para os quartos de final. No Eurobasket, Portugal perdeu com a Letónia.
 
-O governo apresentou medidas para impulsionar a habitação, e a linha de crédito de 100 milhões já está disponível para projetos agrícolas PDR2020.
+Em Portugal, o Grupo Vita recebeu 83 pedidos de indemnização por abusos sexuais na Igreja Católica. Cuidadores informais denunciaram cortes nos apoios. O Hospital Garcia de Orta reforçou as urgências de obstetrícia e ginecologia. A dívida pública portuguesa atingiu um novo recorde em julho, fixando-se nos 288 mil milhões de euros. O Governo estendeu os prazos fiscais para as áreas afetadas pelos incêndios. Foi aprovado um regime para grupos de IVA com efeitos a partir de 2026.
 
-Foi noticiada a renúncia do autarca de Sobral de Monte Agraço, bem como um caso de violação em Odivelas.
-
-Ainda, Espanha propôs a Portugal um pacto para responder à emergência climática.
+Ainda, o avião de Von der Leyen fez uma aterragem de emergência devido a alegada interferência russa.

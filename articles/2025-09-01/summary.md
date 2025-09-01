@@ -1,0 +1,9 @@
+Um sismo devastador no Afeganistão causou pelo menos 600 mortos, com receios de que o número aumente. Na América Latina, a escalada militar dos EUA na Venezuela levou a CELAC a convocar uma reunião de emergência, enquanto a Guiana denuncia disparos venezuelanos contra um barco eleitoral.
+
+Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, levando Zelensky a ordenar retaliação. O Kremlin acusa a Europa de dificultar a paz. Ursula von der Leyen afirmou que os EUA apoiam o envio de tropas europeias para a Ucrânia. O país angariou mais de dois mil milhões de dólares para a compra de armas e foi detido o suspeito de matar o ex-presidente do parlamento ucraniano.
+
+A China criticou a "mentalidade da Guerra Fria" e os EUA impuseram tarifas de 15% sobre a UE, o que preocupa o setor têxtil português. Em Portugal, foram recebidos 83 pedidos de compensação financeira por abusos na Igreja. O Governo prepara novos aumentos salariais para a função pública em 2026 e revê o acordo plurianual. Termina hoje o prazo para pagar o IRS e a segunda prestação do IMI. O Pingo Doce contestou em tribunal uma cobrança de 9,6 milhões de euros de TSU.
+
+Seul suspendeu as emissões de propaganda para a Coreia do Norte. O Irão denunciou o "massacre contínuo em Gaza" na Cimeira da SCO. Guterres exigiu a libertação de funcionários da ONU detidos no Iémen.
+
+A indústria transformadora da China recuperou em agosto e a fábrica do avião português LUS-222 aguarda licenciamento em Ponte de Sor. Os processos judiciais mediáticos regressam aos tribunais em setembro. Redações de todo o mundo protestam contra o assassinato de jornalistas em Gaza. O tribunal decretou serviços mínimos para a greve dos trabalhadores da Menzies.

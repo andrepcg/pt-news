@@ -1,13 +1,25 @@
-Um sismo devastador no Afeganistão já causou mais de 800 mortos, com a China a oferecer ajuda. Na América Latina, a tensão agrava-se com a escalada militar dos EUA na Venezuela e denúncias da Guiana. A Ucrânia enfrenta novos bombardeamentos russos, com Zelensky a ordenar retaliação, enquanto o Kremlin acusa a Europa de dificultar a paz, e arrecada mais de dois mil milhões de dólares para comprar armas. Apoiada pelos EUA, Von der Leyen garante que o envio de tropas europeias para a Ucrânia tem apoio dos EUA. Putin culpou o ocidente pela guerra na Ucrânia numa cimeira com Xi Jinping.
+## Resumo do dia 2025-09-01
 
-No panorama económico, a China critica a "mentalidade da Guerra Fria", enquanto os EUA impõem tarifas de 15% sobre a UE, o que preocupa o setor têxtil português. A indústria transformadora chinesa recupera e os casinos de Macau registam as maiores receitas desde o início da pandemia. Em Portugal, o Governo prepara novos aumentos salariais para a Função Pública em 2026, enquanto termina o prazo para pagar o IRS e a 2ª prestação do IMI. O Pingo Doce contesta uma cobrança de 9,6 milhões de euros de TSU em tribunal. Lagarde alerta para riscos na zona euro devido à crise política em França e criticou a tentativa de Trump de controlar a Reserva Federal.
+Um sismo devastador no Afeganistão causou mais de 800 mortos, com previsão de aumento, levando à mobilização de ajuda internacional e ofertas de apoio, inclusive de Portugal e da China.
 
-No âmbito social, foram recebidos 83 pedidos de compensação por abusos na Igreja Católica. Os cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos.
+Na América Latina, a tensão aumenta com a CELAC a convocar uma reunião de emergência devido à escalada militar dos EUA na Venezuela, e a Guiana a denunciar disparos venezuelanos contra uma embarcação eleitoral.
 
-A Coreia do Sul suspendeu as emissões de propaganda para a Coreia do Norte. O Irão denuncia o "massacre contínuo em Gaza" na Cimeira da SCO, enquanto redações de todo o mundo protestam contra o assassinato de jornalistas em Gaza. Guterres exige a libertação de funcionários da ONU detidos pelos Huthis no Iémen, que também lançaram um míssil contra um petroleiro no Mar Vermelho.
+Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, com Zelensky a ordenar retaliação. O Kremlin acusa a Europa de dificultar a paz, enquanto surgem notícias de que os EUA apoiam o envio de tropas europeias para a Ucrânia, que angariou mais de dois mil milhões de dólares para comprar armas, contando com financiamento Europeu e Canadiano. Putin defende a ofensiva russa, culpando o Ocidente, numa cimeira com Xi Jinping.
 
-No desporto, Sabalenka e Djokovic avançam para os quartos de final do US Open e Portugal defronta a Letónia no Eurobasket.
+A China criticou a "mentalidade da Guerra Fria", enquanto os EUA impuseram tarifas de 15% sobre a UE, afetando o setor têxtil português que antecipa uma correção ao acordo. A indústria transformadora chinesa mostra sinais de recuperação.
 
-Um professor do Técnico foi denunciado por assédio moral e laboral, levando à abertura de um processo disciplinar.
+No Médio Oriente, o Irão denunciou o "massacre contínuo em Gaza" na Cimeira da SCO, enquanto rebeldes Huthis do Iémen lançaram um míssil contra um petroleiro no Mar Vermelho; Guterres exigiu a libertação de funcionários da ONU detidos pelos Huthis no Iémen. Redações de todo o mundo protestaram contra o assassinato de jornalistas em Gaza.
 
-A nível nacional, o Governo lamenta as consequências do sismo no Afeganistão e oferece apoio, e apresenta medidas para impulsionar a habitação. Uma linha de crédito de 100 milhões já está disponível para projetos agrícolas PDR2020. O Hospital Garcia de Orta reforça as urgências de obstetrícia e ginecologia com novos médicos.
+Em Portugal, o Governo prepara novos aumentos salariais para a função pública para 2026 e revê o acordo plurianual. Termina hoje o prazo para pagar o IRS e a segunda prestação do IMI, enquanto o Pingo Doce contesta judicialmente uma cobrança de 9,6 milhões de euros de TSU. O Governo prorrogou os prazos fiscais para as zonas afetadas pelos incêndios. Cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos.
+
+Na Igreja Católica, o grupo Vita já recebeu 83 pedidos de indemnização por abusos sexuais.
+
+Na Coreia, Seul suspendeu as emissões de propaganda para a Coreia do Norte.
+
+No mundo do desporto, Sabalenka e Djokovic avançaram para os quartos de final do US Open, e Portugal prepara-se para defrontar a Letónia no Eurobasket. O Benfica questiona o rigor disciplinar da arbitragem na I Liga, e o Sporting de Braga renovou com Sandro Vidigal até 2030.
+
+Os casinos de Macau registaram as maiores receitas desde o início da pandemia.
+
+Lagarde alertou para um risco acrescido na zona euro em caso de queda do governo em França.
+
+A dívida pública portuguesa atingiu um novo recorde em julho, fixando-se nos 288 mil milhões de euros. A Polaca InPost adquiriu uma participação na startup portuguesa Bloq.it. As taxas Euribor iniciaram setembro em alta nos prazos de 3, 6 e 12 meses.

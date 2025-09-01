@@ -1,17 +1,35 @@
-## Resumo do Dia - 2025-09-01
+Aqui fica um resumo das notícias de hoje, 1 de setembro de 2025:
 
-Um forte sismo no Afeganistão causou a morte a centenas de pessoas, com as autoridades a preverem que o número de vítimas continue a aumentar. A China e outros países ofereceram ajuda.
+**Destaques Internacionais:**
 
-Na América Latina, a tensão aumentou devido à escalada militar dos EUA na Venezuela e a relatos de disparos venezuelanos contra uma embarcação eleitoral da Guiana, levando a CELAC a convocar uma reunião de emergência.
+*   Um sismo devastador no Afeganistão causou a morte a mais de 800 pessoas, com a ONU a mobilizar ajuda humanitária urgente.
+*   A tensão geopolítica agudiza-se com a China a criticar a "mentalidade da Guerra Fria" e os EUA a imporem novas tarifas sobre a UE. O avião de Von der Leyen fez uma aterragem de emergência devido a alegada interferência russa, com a Bulgária a investigar.
+*   Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, enquanto Zelensky promete retaliação. Putin culpa o Ocidente pela guerra durante uma cimeira na China com Xi Jinping, com a China a defender a paz. Há relatos de que o envio de tropas europeias para a Ucrânia tem apoio dos EUA.
+*   No Médio Oriente, o Irão denuncia o "massacre contínuo em Gaza" e os rebeldes Huthis do Iémen lançaram um míssil contra um petroleiro no Mar Vermelho, levando Guterres a exigir a libertação de funcionários da ONU detidos no Iémen.
 
-Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, com Zelensky a prometer retaliar. O Kremlin acusou a Europa de dificultar as negociações de paz, enquanto Von der Leyen afirmou que os EUA apoiam o envio de tropas europeias para a Ucrânia. Kiev angariou mais de dois mil milhões de dólares para comprar armas, e um suspeito de matar o ex-presidente do parlamento ucraniano foi detido. Putin, numa cimeira com Xi Jinping, culpou o Ocidente pela guerra.
+**Política e Economia:**
 
-As tensões geopolíticas também se fizeram sentir noutras áreas, com a China a criticar a "mentalidade da Guerra Fria", enquanto os EUA impuseram tarifas de 15% sobre produtos da UE. A Coreia do Sul suspendeu as emissões de propaganda para a Coreia do Norte, e o Irão denunciou o "massacre contínuo em Gaza" na cimeira da SCO.
+*   Em Portugal, terminam os prazos para pagamento do IRS e IMI, enquanto o Governo prepara novos aumentos salariais para a Função Pública em 2026 e revê o acordo plurianual.
+*   Lagarde alerta para o risco acrescido na zona euro em caso de queda do governo em França e critica a tentativa de controlo da Fed por Trump.
+*   A indústria transformadora da China recupera, enquanto os casinos de Macau registam as maiores receitas desde o início da pandemia.
+*   O Governo apresentou medidas para impulsionar a habitação, enquanto Marques Mendes considera-as insuficientes, o Chega questiona Montenegro sobre o acesso a dados de imóveis e o PS quer rever a avaliação dos juízes na reforma da justiça.
 
-No plano económico, a indústria transformadora da China recuperou em agosto. Nos EUA, entraram em vigor tarifas de 15% sobre setores estratégicos da UE. Lagarde alertou para os riscos de uma crise política em França. Relativamente a Portugal, o Governo prepara novos aumentos salariais para a Função Pública em 2026 e revê o acordo plurianual. Terminou o prazo para pagar o IRS e a segunda prestação do IMI. O setor têxtil português está preocupado com as novas tarifas dos EUA. O Pingo Doce contestou em tribunal uma cobrança de 9,6 milhões de euros de TSU. Foi disponibilizada uma linha de crédito de 100 milhões para projetos agrícolas PDR2020.
+**Sociedade:**
 
-No desporto, destaque para o US Open onde Sabalenka e Djokovic avançaram para os quartos de final. No Eurobasket, Portugal perdeu com a Letónia.
+*   Foram recebidos 83 pedidos de compensação por abusos na Igreja Católica.
+*   Cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos. O Estado já cortou apoios por deficiência e dependência, gerando queixas.
+*   Estudantes da Guiné-Bissau estão retidos em Lisboa e podem ser repatriados, enquanto as redações de todo o mundo protestam contra o assassinato de jornalistas em Gaza.
 
-Em Portugal, o Grupo Vita recebeu 83 pedidos de indemnização por abusos sexuais na Igreja Católica. Cuidadores informais denunciaram cortes nos apoios. O Hospital Garcia de Orta reforçou as urgências de obstetrícia e ginecologia. A dívida pública portuguesa atingiu um novo recorde em julho, fixando-se nos 288 mil milhões de euros. O Governo estendeu os prazos fiscais para as áreas afetadas pelos incêndios. Foi aprovado um regime para grupos de IVA com efeitos a partir de 2026.
+**Desporto:**
 
-Ainda, o avião de Von der Leyen fez uma aterragem de emergência devido a alegada interferência russa.
+*   No US Open, Sabalenka e Djokovic avançam para os quartos de final.
+*   O Benfica questiona o rigor disciplinar da arbitragem na I Liga.
+*   Sporting anuncia Ioannidis e Benfica confirma vendas de Akturkoglu e Florentino Luís.
+
+**Outros Destaques:**
+
+*   O Garcia de Orta reforçou as urgências de obstetrícia e ginecologia.
+*   Há vandalismo e roubo em pontos de carregamento elétricos.
+*   Professor do Técnico foi denunciado por assédio moral e laboral.
+*   A Espanha propõe um pacto a Portugal e França para responder à emergência climática após incêndios.
+*   A Câmara da Lousã vai devolver o valor da fatura da água às populações e empresas afetadas pelos incêndios.

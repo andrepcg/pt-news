@@ -1,25 +1,21 @@
-## Resumo do dia 2025-09-01
+## Resumo das Notícias de 1 de Setembro de 2025
 
-Um sismo devastador no Afeganistão causou mais de 800 mortos, com previsão de aumento, levando à mobilização de ajuda internacional e ofertas de apoio, inclusive de Portugal e da China.
+**Internacional:** Um sismo devastador no Afeganistão já causou mais de 800 mortos, com a China a oferecer ajuda. As tensões geopolíticas estão em alta, com a CELAC a reunir-se de emergência devido à escalada militar dos EUA na Venezuela, após a Guiana denunciar disparos venezuelanos contra uma embarcação eleitoral. A China criticou a "mentalidade da Guerra Fria" e os EUA impuseram tarifas de 15% sobre a UE. A Coreia do Sul suspendeu emissões de propaganda para a Coreia do Norte enquanto o Irão denunciou um "massacre contínuo em Gaza". Guterres exigiu a libertação de funcionários da ONU detidos no Iémen, onde rebeldes Huthis também atacaram um petroleiro. Von der Leyen sobreviveu a uma aterragem de emergência devido a alegada interferência russa.
 
-Na América Latina, a tensão aumenta com a CELAC a convocar uma reunião de emergência devido à escalada militar dos EUA na Venezuela, e a Guiana a denunciar disparos venezuelanos contra uma embarcação eleitoral.
+**Guerra na Ucrânia:** Um casal morreu em Zaporíjia devido a um bombardeamento russo, levando Zelensky a ordenar retaliação. O Kremlin acusa a Europa de dificultar a paz, enquanto Putin defende a ofensiva na Ucrânia, culpando o Ocidente. A Ucrânia angariou mais de 2 mil milhões de dólares para comprar armas, contando com apoio financeiro europeu e canadiano. Há suspeitas de envolvimento russo na morte de um antigo presidente do parlamento ucraniano.
 
-Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, com Zelensky a ordenar retaliação. O Kremlin acusa a Europa de dificultar a paz, enquanto surgem notícias de que os EUA apoiam o envio de tropas europeias para a Ucrânia, que angariou mais de dois mil milhões de dólares para comprar armas, contando com financiamento Europeu e Canadiano. Putin defende a ofensiva russa, culpando o Ocidente, numa cimeira com Xi Jinping.
+**Economia:** O governo português prepara novos aumentos salariais para a função pública em 2026 e revê o acordo plurianual. Terminou o prazo para pagar o IRS e a 2ª prestação do IMI, com prorrogação de prazos fiscais para zonas afetadas por incêndios. O setor têxtil está receoso com as novas tarifas dos EUA. O Pingo Doce contestou judicialmente uma cobrança de 9,6 milhões de euros de TSU. A indústria transformadora da China recuperou em agosto. Os casinos de Macau registaram as maiores receitas desde o início da pandemia. A dívida pública portuguesa atingiu um novo recorde, 288 mil milhões de euros, em julho. Os cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos, com o Estado a cortar alguns apoios sociais. A linha de crédito de 100 milhões para projetos agrícolas PDR2020 está disponível.
 
-A China criticou a "mentalidade da Guerra Fria", enquanto os EUA impuseram tarifas de 15% sobre a UE, afetando o setor têxtil português que antecipa uma correção ao acordo. A indústria transformadora chinesa mostra sinais de recuperação.
+**Política:** O presidente moçambicano empossou o novo Conselho de Estado com a presença de Venâncio Mondlane.
 
-No Médio Oriente, o Irão denunciou o "massacre contínuo em Gaza" na Cimeira da SCO, enquanto rebeldes Huthis do Iémen lançaram um míssil contra um petroleiro no Mar Vermelho; Guterres exigiu a libertação de funcionários da ONU detidos pelos Huthis no Iémen. Redações de todo o mundo protestaram contra o assassinato de jornalistas em Gaza.
+**Sociedade:** O Grupo Vita recebeu 83 pedidos de compensação financeira por abusos na Igreja Católica, com cuidadores informais a denunciarem cortes nos apoios.
 
-Em Portugal, o Governo prepara novos aumentos salariais para a função pública para 2026 e revê o acordo plurianual. Termina hoje o prazo para pagar o IRS e a segunda prestação do IMI, enquanto o Pingo Doce contesta judicialmente uma cobrança de 9,6 milhões de euros de TSU. O Governo prorrogou os prazos fiscais para as zonas afetadas pelos incêndios. Cuidadores informais denunciam cortes nos apoios devido à contabilização de prestações por deficiência como rendimentos.
+**Justiça:** Processos judiciais mediáticos regressaram aos tribunais em setembro. Um professor do Técnico foi denunciado por assédio moral e laboral.
 
-Na Igreja Católica, o grupo Vita já recebeu 83 pedidos de indemnização por abusos sexuais.
+**Desporto:** No US Open, Sabalenka e Djokovic avançaram para os quartos de final. Portugal defronta a Letónia no Eurobasket. O Benfica questionou o rigor disciplinar da arbitragem na I Liga. O Sporting de Braga renovou contrato com Sandro Vidigal.
 
-Na Coreia, Seul suspendeu as emissões de propaganda para a Coreia do Norte.
+**Tecnologia:** A Meta autorizou 'bots' de IA baseados em celebridades e a Microsoft despediu funcionários que protestaram contra contratos com Israel.
 
-No mundo do desporto, Sabalenka e Djokovic avançaram para os quartos de final do US Open, e Portugal prepara-se para defrontar a Letónia no Eurobasket. O Benfica questiona o rigor disciplinar da arbitragem na I Liga, e o Sporting de Braga renovou com Sandro Vidigal até 2030.
+**País:** O Hospital Garcia de Orta reforçou as urgências de obstetrícia e ginecologia.
 
-Os casinos de Macau registaram as maiores receitas desde o início da pandemia.
-
-Lagarde alertou para um risco acrescido na zona euro em caso de queda do governo em França.
-
-A dívida pública portuguesa atingiu um novo recorde em julho, fixando-se nos 288 mil milhões de euros. A Polaca InPost adquiriu uma participação na startup portuguesa Bloq.it. As taxas Euribor iniciaram setembro em alta nos prazos de 3, 6 e 12 meses.
+**Nota:** Redações de todo o mundo protestaram contra o assassinato de jornalistas em Gaza.

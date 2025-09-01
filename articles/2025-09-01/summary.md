@@ -1,9 +1,15 @@
-Um sismo devastador no Afeganistão causou pelo menos 600 mortos, com receios de que o número aumente. Na América Latina, a escalada militar dos EUA na Venezuela levou a CELAC a convocar uma reunião de emergência, enquanto a Guiana denuncia disparos venezuelanos contra um barco eleitoral.
+Um sismo devastador no Afeganistão causou mais de 600 mortos, com o número a poder aumentar, levando o governo português a oferecer apoio. Na América Latina, a CELAC convocou uma reunião de emergência devido a tensões militares na Venezuela, que também é acusada pela Guiana de disparar contra uma embarcação eleitoral.
 
-Na Ucrânia, um casal morreu num bombardeamento russo em Zaporíjia, levando Zelensky a ordenar retaliação. O Kremlin acusa a Europa de dificultar a paz. Ursula von der Leyen afirmou que os EUA apoiam o envio de tropas europeias para a Ucrânia. O país angariou mais de dois mil milhões de dólares para a compra de armas e foi detido o suspeito de matar o ex-presidente do parlamento ucraniano.
+Na Ucrânia, um casal morreu em Zaporíjia devido a bombardeamentos russos, com Zelensky a ordenar retaliação. A Europa é acusada pelo Kremlin de dificultar a paz, enquanto Von der Leyen indica que o envio de tropas europeias para a Ucrânia tem apoio dos EUA. Kiev arrecadou mais de dois mil milhões de dólares para comprar armas. Putin, numa cimeira com Xi Jinping, culpou o Ocidente pela guerra.
 
-A China criticou a "mentalidade da Guerra Fria" e os EUA impuseram tarifas de 15% sobre a UE, o que preocupa o setor têxtil português. Em Portugal, foram recebidos 83 pedidos de compensação financeira por abusos na Igreja. O Governo prepara novos aumentos salariais para a função pública em 2026 e revê o acordo plurianual. Termina hoje o prazo para pagar o IRS e a segunda prestação do IMI. O Pingo Doce contestou em tribunal uma cobrança de 9,6 milhões de euros de TSU.
+A nível económico, a China critica a "mentalidade da Guerra Fria" enquanto os EUA impõem tarifas de 15% à UE, afetando o setor têxtil português que teme as novas tarifas. A indústria transformadora chinesa recuperou em agosto. Lagarde alertou para o risco acrescido na zona euro em caso de queda do governo em França. Em Portugal, o Governo prepara novos aumentos salariais para a função pública em 2026 e revê acordo plurianual, enquanto termina o prazo para pagar o IRS e a 2ª prestação do IMI. O Pingo Doce contesta judicialmente uma cobrança de 9,6 milhões de euros de TSU.
 
-Seul suspendeu as emissões de propaganda para a Coreia do Norte. O Irão denunciou o "massacre contínuo em Gaza" na Cimeira da SCO. Guterres exigiu a libertação de funcionários da ONU detidos no Iémen.
+No plano social, foram recebidos 83 pedidos de compensação por abusos na Igreja Católica, e cuidadores informais denunciam cortes nos apoios, que também estão a ser reportados noutras áreas da segurança social.
 
-A indústria transformadora da China recuperou em agosto e a fábrica do avião português LUS-222 aguarda licenciamento em Ponte de Sor. Os processos judiciais mediáticos regressam aos tribunais em setembro. Redações de todo o mundo protestam contra o assassinato de jornalistas em Gaza. O tribunal decretou serviços mínimos para a greve dos trabalhadores da Menzies.
+Internacionalmente, Seul suspendeu emissões de propaganda para a Coreia do Norte, o Irão denunciou um "massacre contínuo em Gaza" na Cimeira da SCO e Guterres exigiu a libertação de funcionários da ONU detidos no Iémen, onde os Huthis também atacaram um petroleiro.
+
+Em Moçambique, o Presidente empossou um novo Conselho de Estado e a Alemanha financia projetos agrícolas.
+
+No desporto, Sabalenka e Djokovic avançaram para os quartos de final do US Open, Portugal defronta a Letónia no Eurobasket e o Benfica questiona o rigor da arbitragem na I Liga.
+
+Por fim, realce para a estreia da nova adaptação de Frankenstein no Festival de Veneza com a presença de Guillermo del Toro.

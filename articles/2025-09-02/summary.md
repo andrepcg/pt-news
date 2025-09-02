@@ -1,0 +1,9 @@
+*   **Mundo:** Um deslizamento de terras no Sudão causou cerca de mil mortos, soterrando uma aldeia inteira. Na Indonésia, pelo menos 20 pessoas estão desaparecidas após protestos contra o aumento salarial de políticos. Ataques israelitas em Gaza resultaram na morte de 31 pessoas. O Reino Unido doou um milhão de libras para ajudar vítimas de sismos no Afeganistão. A Bélgica vai reconhecer o Estado da Palestina na Assembleia Geral da ONU. A Coreia do Sul reporta que cerca de dois mil norte-coreanos morreram na guerra da Ucrânia.
+
+*   **Relações Internacionais:** Putin afirmou que as relações entre Rússia e China atingiram um "nível sem precedentes" durante um encontro com Xi Jinping. A China exibiu o seu poderio militar num desfile com líderes estrangeiros e a SCO delineou um plano de dez anos para promover um mundo multipolar.
+
+*   **Economia:** A União Europeia caminha para um novo recorde de gastos com armamento em 2025, atingindo 381 mil milhões de euros. Em Portugal, o Chega propõe IVA zero num cabaz de alimentos essenciais durante a discussão do Orçamento do Estado para 2026. Portugal tem a dívida mais segura da Europa. O IPO do banco angolano BFA (BPI) arranca esta semana, com um custo de 3 milhões de euros. João Leão alertou que o crescimento da despesa estrutural do Estado ameaça o défice em 2026, e instituições económicas também preveem um regresso ao défice nesse ano. A moeda chinesa atingiu o valor mais alto face ao dólar desde a eleição de Trump.
+
+*   **Tecnologia:** O modelo de inteligência artificial "Amália" não incluirá inicialmente uma aplicação "tipo chatbot", com análise jurídica em curso sobre direitos de autor. A sua disponibilização está prevista para setembro.
+
+*   **Ambiente:** O fenómeno 'La Niña' poderá impactar o clima global novamente a partir de setembro.

@@ -1,43 +1,11 @@
-Aqui estão as principais notícias de hoje, 2 de setembro de 2025:
+Um deslizamento de terras no Sudão causou cerca de mil mortos, soterrando uma aldeia inteira. Na Indonésia, pelo menos 20 pessoas estão desaparecidas após protestos contra aumentos salariais de políticos. No âmbito internacional, a UE caminha para um novo recorde de gastos em armamento, atingindo os 381 mil milhões de euros em 2025, enquanto as relações entre Rússia e China atingem um "nível sem precedentes", segundo Putin. Kim Jong-un esteve na China para um desfile militar com Xi Jinping e Putin. A Bélgica vai reconhecer o Estado da Palestina na Assembleia Geral da ONU. Ataques israelitas em Gaza mataram 31 pessoas. O Reino Unido doou um milhão de libras para as vítimas dos sismos no Afeganistão, onde o número de mortos já ultrapassa os 1.100. A Coreia do Sul reporta cerca de 2.000 norte-coreanos mortos na guerra da Ucrânia. O fenómeno 'La Niña' poderá impactar o clima global a partir de setembro.
 
-**Destaques Internacionais:**
+Em Portugal, a discussão do Orçamento do Estado para 2026 está em curso, com o Chega a propor IVA zero num cabaz de alimentos essenciais. Portugal é considerado o país com a dívida mais segura da Europa. O IPO do banco angolano BFA (BPI) arranca esta semana, com um custo de 3 milhões de euros. João Leão avisa que o crescimento da despesa estrutural do Estado ameaça o défice em 2026, com instituições económicas a preverem também o regresso ao défice nesse ano. O projeto do modelo IA Amália não incluirá inicialmente uma aplicação "tipo chatbot". A análise jurídica sobre direitos de autor está em curso. No SNS, utentes à espera de cirurgia poderão escolher ser operados no privado por SMS.
 
-*   No Sudão, um deslizamento de terras causou cerca de mil vítimas mortais e destruiu uma aldeia inteira. No Afeganistão, um sismo fez mais de 1.100 mortos e milhares de feridos, levando o Reino Unido a doar um milhão de libras em ajuda.
-*   A guerra israelo-palestiniana intensificou-se com ataques israelitas em Gaza, resultando em 31 mortos. A Bélgica anunciou o reconhecimento do Estado da Palestina na Assembleia Geral da ONU.
-*   As relações entre a Rússia e a China atingiram um "nível sem precedentes", com Putin e Xi Jinping a reafirmarem o desejo de cooperação. Kim Jong-un marcou presença num desfile militar na China, demonstrando o crescente poderio militar chinês. A Rússia, China e Mongólia assinaram um memorando para a construção do gasoduto Força da Sibéria 2.
-*   A União Europeia caminha para um novo recorde de gastos com armamento em 2025, atingindo os 381 mil milhões de euros.
-*   Na Indonésia, protestos contra o aumento salarial de políticos resultaram em pelo menos 20 desaparecidos.
-*   O fenómeno La Niña poderá impactar o clima global a partir de setembro, e a moeda chinesa atingiu o valor mais alto face ao dólar desde a eleição de Trump.
+No Brasil, o julgamento de Bolsonaro por tentativa de golpe de Estado teve início, podendo resultar numa pena superior a 40 anos. Em termos económicos, a moeda chinesa atingiu o valor mais alto face ao dólar desde a eleição de Trump e o preço do ouro atingiu um novo máximo histórico, ultrapassando os 3.500 dólares. A taxa de inflação homóloga da zona euro abrandou para 2,1% em agosto. As taxas Euribor voltaram a subir a três, seis e 12 meses.
 
-**Economia:**
+A nível nacional, o Ministério Público investiga a morte de um bebé à porta de urgências em Idanha-a-Nova. A GNR deteve 12 pessoas por tráfico de droga em Leiria, Lisboa e Santarém e desmantelou uma rede de tráfico de droga. Um trabalhador morreu num acidente de trabalho na Linha do Norte, em Pombal. Uma padaria de Aveiro despediu um trabalhador por ameaças xenófobas nas redes sociais e um homem foi detido em Guimarães por violência doméstica, ficando em prisão preventiva. O Hospital de Loures sofreu uma falha informática, adiando cirurgias e consultas. A PSP autorizou a entrada da maioria dos estudantes guineenses retidos no Aeroporto de Lisboa. O Conselho da Europa pediu mais escrutínio anticorrupção a quadros superiores do Governo e polícias.
 
-*   A União Europeia deverá atingir um novo recorde de gastos com armamento em 2025, atingindo os 381 mil milhões de euros.
-*   Portugal apresenta a dívida mais segura da Europa, apesar das preocupações de João Leão e de outras instituições económicas sobre o regresso ao défice em 2026 devido ao crescimento da despesa estrutural do Estado.
-*   O IPO do banco angolano BFA (BPI) arranca esta semana com um custo de 3 milhões de euros. O preço do ouro atingiu um novo máximo histórico, ultrapassando os 3.500 dólares.
-*   A inflação na Zona Euro subiu para 2,1% em agosto.
+No desporto, o Sporting atingiu um recorde de vendas com a transferência de Gyökeres, mas falhou a transferência de Jota Silva. Benfica e FC Porto bateram recordes de gastos em contratações no mercado de transferências.
 
-**Política Nacional:**
-
-*   O Chega propõe IVA zero num cabaz de alimentos essenciais durante a discussão do Orçamento do Estado para 2026.
-*   Documentos indicam que imóveis de Luís Montenegro estão inacessíveis ao público.
-*   José Sócrates regressou a tribunal no âmbito da Operação Marquês.
-*   O Governo português prepara novos aumentos para a Função Pública.
-
-**Tecnologia:**
-
-*   O projeto do modelo de IA Amália não incluirá inicialmente uma aplicação "tipo chatbot", estando a decorrer uma análise jurídica sobre direitos de autor. A versão pública deverá ser lançada ainda em setembro.
-
-**Sociedade:**
-
-*   O Ministério Público está a investigar a morte de um bebé à porta das urgências em Idanha-a-Nova. No Porto, uma padaria despediu um trabalhador por ameaças xenófobas nas redes sociais.
-*   A GNR deteve 12 pessoas por tráfico de droga em Leiria, Lisboa e Santarém.
-*   Utentes do SNS à espera de cirurgia poderão escolher ser operados no privado por SMS.
-*   A OMS reporta que mais de mil milhões de pessoas vivem com perturbações mentais.
-
-**Desporto:**
-
-*   Portugal inicia a preparação para a qualificação do Mundial 2026. O Sporting atingiu um recorde de vendas com a transferência de Gyökeres, enquanto Benfica e FC Porto bateram recordes de gastos em contratações. A transferência de Jota Silva para o Sporting falhou por inscrição tardia.
-
-**Outros:**
-
-*   O ator Graham Greene, de 'Danças com Lobos', faleceu aos 73 anos.
+Foi noticiado o falecimento do ator Graham Greene, de 'Danças com Lobos', aos 73 anos.

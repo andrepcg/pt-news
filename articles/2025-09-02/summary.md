@@ -1,15 +1,13 @@
-Em destaque nas notícias de hoje, um devastador deslizamento de terras no Sudão causou cerca de mil mortos, enquanto um sismo no Afeganistão elevou o número de vítimas para mais de 1.400, com a UE a enviar ajuda de emergência.
+Um deslizamento de terras no Sudão causou cerca de mil mortos, enquanto um sismo no Afeganistão já vitimou mais de 1.400 pessoas, levando o Reino Unido e a UE a enviarem ajuda. Na Indonésia, protestos resultaram em vários desaparecidos.
 
-No plano internacional, as relações entre Rússia e China atingem um "nível sem precedentes", com Kim Jong-un presente num desfile militar em Pequim. A Bélgica prepara-se para reconhecer o Estado da Palestina na Assembleia Geral da ONU. A guerra Israelo-Palestiniana continua a fazer vítimas, com ataques israelitas em Gaza a causarem 31 mortos.
+No plano internacional, as relações entre a Rússia e a China atingiram um "nível sem precedentes", com Kim Jong-un a juntar-se a Putin num desfile militar em Pequim. A Bélgica vai reconhecer o Estado da Palestina na Assembleia Geral da ONU. Putin afirmou também que não se opõe à entrada da Ucrânia na União Europeia. A Organização de Cooperação de Xangai (SCO) anunciou um plano de dez anos para promover um mundo multipolar. A UE caminha para um novo recorde de gastos com armamento em 2025. A Coreia do Sul reporta a morte de dois mil norte-coreanos na guerra da Ucrânia.
 
-Na Europa, a UE caminha para um novo recorde de gastos com armamento em 2025, enquanto a inflação na Zona Euro sobe para 2,1% em agosto. Em Portugal, a discussão em torno do Orçamento do Estado para 2026 ganha destaque, com o Chega a propor IVA zero num cabaz de alimentos essenciais. João Leão alerta para o risco de défice em 2026 devido ao aumento da despesa estrutural do Estado.
+Em Portugal, a discussão do Orçamento do Estado para 2026 está em curso, com o Chega a propor IVA zero em produtos essenciais. João Leão alerta para o risco de défice em 2026. O IPO do BFA (BPI) arranca esta semana. A Bondalti vai investir 41 milhões de euros em novos eletrolisadores no país. A inflação na Zona Euro subiu para 2,1% em agosto, enquanto o preço do ouro atingiu um novo máximo histórico. As taxas Euribor voltaram a subir. O Governo prepara novos aumentos para a Função Pública, com os sindicatos a exigirem aumentos salariais de 6,4%. O Conselho da Europa criticou a falta de escrutínio anticorrupção em cargos de topo no governo português.
 
-No Brasil, teve início o julgamento de Bolsonaro por tentativa de golpe de Estado.
+Na justiça, o julgamento de Bolsonaro por tentativa de golpe de Estado começou no Brasil. Em Portugal, o julgamento de Sócrates retomou e o Ministério Público investiga a morte de um bebé à porta de urgências em Idanha-a-Nova.
 
-A nível nacional, o Ministério Público investiga a morte de um bebé à porta das urgências em Idanha-a-Nova, e um homem foi detido em Guimarães por violência doméstica. A GNR desmantelou uma rede de tráfico de droga em Leiria, Lisboa e Santarém. Relativamente ao SNS, utentes à espera de cirurgia poderão escolher ser operados no privado por SMS. O julgamento de José Sócrates no âmbito da Operação Marquês foi retomado e na sequência da mesma operação, o MP usa escutas a Sócrates para provar jantar com Salgado.
+Na tecnologia, o modelo de IA Amália será público em breve, mas inicialmente sem chatbot.
 
-Na área da tecnologia, o modelo de IA Amália será público em breve, mas sem aplicação "tipo chatbot" inicialmente.
+No desporto, Portugal iniciou a preparação para a qualificação do Mundial 2026. O Sporting bateu recordes de vendas com a transferência de Gyökeres, enquanto o Benfica e o FC Porto também gastaram montantes recorde no mercado de transferências. Cristiano Ronaldo é o rosto da campanha de Turismo da Arábia Saudita.
 
-No desporto, Portugal iniciou a preparação para a qualificação do Mundial 2026, e o Sporting atingiu um recorde de vendas com a transferência de Gyökeres, apesar de ter falhado a transferência de Jota Silva.
-
-Por fim, o mundo do cinema lamenta a morte do ator Graham Greene, de 'Danças com Lobos', aos 73 anos.
+O mundo também se prepara para o possível regresso do fenómeno 'La Niña' em setembro.

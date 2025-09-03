@@ -1,0 +1,7 @@
+No panorama internacional, Xi Jinping alertou para uma escolha entre "paz ou guerra", numa parada militar que contou com a presença de Putin e Kim Jong-un, enquanto Trump acusou China, Rússia e Coreia do Norte de conspiração contra os EUA. A Colômbia propôs uma força de paz da ONU para a Palestina, a Indonésia enfrenta protestos violentos e a Tailândia iniciou a dissolução do parlamento. Nicolás Maduro acusou os EUA de cobiçarem os recursos da Venezuela. No Paquistão, um atentado suicida num comício político resultou em 13 mortos.
+
+Na Europa, os incêndios florestais estão a comprometer a absorção de carbono e Portugal enfrenta atrasos na implementação do regulamento europeu sobre inteligência artificial. A nível social, a UNICEF alertou que cortes na ajuda externa podem forçar milhões de crianças a abandonar a escola, enquanto a Amnistia Internacional e a Human Rights Watch denunciaram a repressão iraniana.
+
+Em Portugal, arrancou hoje uma greve no handling dos aeroportos, com duração até janeiro. Em Lisboa, a queda da fachada de um prédio desalojou dez pessoas e um acidente cortou a Via do Infante junto a Paderne. O Governo está reunido com os partidos para discutir o Orçamento de Estado, a Lei da Nacionalidade e a situação na Palestina. No ano passado, verificou-se uma diminuição no número de técnicos designados para as CPCJ. No desporto, Portugal enfrenta a Estónia no Eurobasket com desvantagem.
+
+No âmbito tecnológico, a Universidade da Pensilvânia desenvolveu uma IA capaz de criar novos antibióticos.

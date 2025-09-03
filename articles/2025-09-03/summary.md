@@ -1,65 +1,13 @@
-## Resumo das Notícias de 3 de Setembro de 2025
+Hoje, o ambiente geopolítico mundial foi marcado por tensões elevadas, com Xi Jinping a alertar para uma escolha entre "paz ou guerra" num desfile militar com Putin e Kim Jong-un. Trump acusou China, Rússia e Coreia do Norte de conspiração contra os EUA, enquanto Maduro denunciou a cobiça dos EUA pelos recursos da Venezuela. A Colômbia propôs uma força de paz da ONU para a Palestina, e a Rússia intensificou a sua ofensiva na Ucrânia, atacando Kiev e Lviv.
 
-**Política e Mundo:**
+Em Portugal, uma greve no 'handling' dos aeroportos começou hoje e vai durar até janeiro, e uma queda de fachada em Lisboa desalojou várias pessoas. O Governo iniciou negociações com os partidos para o Orçamento de Estado de 2026, a Lei da Nacionalidade e a situação na Palestina, enquanto a oposição, nomeadamente o Chega, se oferece como parceiro preferencial. Há preocupações com o atraso na transposição do regulamento europeu sobre inteligência artificial e com a violação do direito de acesso à informação no caso da mina do Barroso. Os apoios aos incêndios de 2024 ainda não chegaram às vítimas.
 
-*   Xi Jinping, acompanhado por Putin e Kim Jong-un, alertou para uma escolha entre "paz ou guerra", enquanto Trump acusou China, Rússia e Coreia do Norte de conspiração contra os EUA.
-*   A Colômbia propôs uma força de paz da ONU para a Palestina.
-*   Nicolás Maduro acusou os EUA de cobiçar os recursos naturais da Venezuela. Os EUA responderam restringindo a exportação de chips para a China.
-*   A Rússia intensificou a ofensiva na Ucrânia, atacando Kiev e Lviv, enquanto procura reconhecimento internacional das regiões ocupadas.
-*   A Tailândia iniciou a dissolução do parlamento, e a Guiana reivindicou a reeleição de Irfaan Ali.
-*  O líder de Macau exigiu patriotismo aos funcionários públicos através do voto.
-*   Um atentado suicida no Paquistão causou dezenas de mortos.
-*   Amnistia Internacional e Human Rights Watch denunciaram a repressão no Irão.
+No âmbito económico, o preço do ouro atingiu um novo recorde histórico. A Europa enfrenta desafios com incêndios florestais que enfraquecem a absorção de carbono, e a Zona Euro regista crescimento económico lento com pressão sobre os preços. A Euribor voltou a subir. Bruxelas está a pressionar para um acordo com o Mercosul.
 
-**Portugal:**
+A nível social, uma onda de protestos na Indonésia causou mortos e feridos, e a Amnistia Internacional denunciou a repressão no Irão. A UNICEF alertou para o impacto dos cortes na ajuda externa na educação de milhões de crianças. Em Portugal, foram designados menos técnicos para a CPCJ no ano passado e as equipas de cuidados paliativos enfrentam condições indignas. Há contestação devido ao aumento das propinas no Ensino Superior, apesar de um estudo revelar que os portugueses leem mais.
 
-*   O Governo iniciou negociações com os partidos para o Orçamento de Estado de 2026, e pondera alterações à Lei de Estrangeiros. O Chega manifestou interesse em ser parceiro preferencial e colabora para o Orçamento de Estado e Lei da Nacionalidade, cujo debate o Governo quer adiar para outubro.
-*   Os apoios aos incêndios de 2024 ainda não chegaram às vítimas da Região Centro. Os emigrantes também protestam contra a exclusão nos apoios à reconstrução de casas.
-*   Uma greve no 'handling' dos aeroportos portugueses começou hoje e prolonga-se até janeiro, podendo causar perturbações.
-*   Uma queda de fachada de prédio em Lisboa desalojou pelo menos 16 pessoas, e a autarquia garantiu realojamento.
-*   Foram designados menos técnicos para as CPCJ no ano passado.
-*   O Governo retomou as negociações com os sindicatos sobre o tempo de trabalho dos enfermeiros.
-*   A reserva de água diminuiu em todas as bacias hidrográficas em agosto.
-*   Portugal violou o direito de acesso à informação no caso da mina de lítio do Barroso.
+Na área da tecnologia, a Universidade da Pensilvânia desenvolveu uma IA capaz de criar novos antibióticos.
 
-**Economia:**
+No desporto, Portugal prepara-se para um jogo decisivo no Eurobasket, enquanto Djokovic e Alcaraz se encontrarão nas meias-finais do US Open.
 
-*   O preço do ouro atingiu um novo recorde histórico.
-*    A Euribor voltou a subir a três, seis e doze meses, enquanto os juros do crédito à habitação atingiram mínimos de quase três anos em julho.
-*   A taxa de juro dos depósitos caiu pelo 19.º mês consecutivo.
-*   A linha de crédito para financiar casas acessíveis é de 1.300 milhões.
-*   A Comissão Europeia avançou com uma proposta de acordo com o Mercosul.
-*   A Ryanair fechou a base em Santiago de Compostela devido às taxas aeroportuárias.
-*  Lagarde alertou para o risco de liquidez em fundos de criptomoedas estáveis.
-*   O Governo garantiu excedente orçamental para 2025, mas há preocupações com o PRR.
-
-**Tecnologia e Ciência:**
-
-*   A Universidade da Pensilvânia desenvolveu uma IA capaz de criar novos antibióticos.
-*   O DE-CIX lançou o primeiro nó de internet para IA, disponível em Lisboa.
-*   O Google lançou novas ferramentas de IA no Gemini para estudantes.
-*   Foram reportadas falhas no serviço ChatGPT após o lançamento de ferramentas de controlo parental.
-
-**Sociedade:**
-
-*   A UNICEF alertou que cortes na ajuda externa podem forçar seis milhões de crianças a abandonar a escola.
-*   A onda de protestos na Indonésia causou mortos e feridos.
-*    A Linha SNS24 está com tempos de espera elevados.
-*   A Associação Académica da Universidade de Lisboa prometeu lutar contra o aumento das propinas.
-*   Um estudo revelou que os portugueses leem mais, especialmente os jovens.
-*    Um spray nasal comum poderá prevenir infeção por Covid-19.
-*   Foi detido um idoso em Braga por violência doméstica contra a esposa.
-
-**Desporto:**
-
-*   Portugal jogará uma "final" contra a Estónia no Eurobasket.
-*   Djokovic e Alcaraz encontrar-se-ão nas meias-finais do US Open.
-*   O Benfica e o Sporting disputarão a Supertaça de Futsal.
-*   O Ministério Público investiga incidentes no jogo Sporting-FC Porto.
-
-**Outros:**
-
-*   Os incêndios florestais enfraquecem a absorção natural de carbono na Europa.
-*   Portugal está atrasado na transposição do regulamento europeu sobre inteligência artificial.
-*   A APA defendeu que não violou a lei sobre a mina do Barroso.
-*   Sondagens geofísicas revelaram a localização de um templo romano em Faro.
+Outros acontecimentos incluem um atentado suicida no Paquistão, restrições dos EUA à exportação de chips para a China, e a investigação de incidentes no jogo Sporting-FC Porto.

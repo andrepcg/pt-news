@@ -1,15 +1,15 @@
-## Resumo das Notícias de 4 de Setembro de 2025
+As notícias de hoje foram marcadas pela **tragédia no Elevador da Glória, em Lisboa, com 17 mortos**, levando ao luto nacional e ao cancelamento de eventos políticos. As autoridades investigam as causas do acidente e a PJ já descartou a hipótese de crime. Várias entidades, incluindo o Parlamento Europeu, manifestaram solidariedade e ofereceram apoio.
 
-O dia foi marcado pela **tragédia no Elevador da Glória, em Lisboa, com 17 mortos**, provocando luto nacional e comoção internacional. As autoridades investigam as causas do acidente, com a Polícia Judiciária a não apontar para crime e a Ordem dos Engenheiros a oferecer apoio técnico. O Instituto do Sangue reforçou as reservas nos hospitais e várias entidades manifestaram solidariedade.
+Na **economia**, destaque para a expansão da manutenção de jatos privados em Ponte de Sor, a possível privatização da TAP até 2026, o aumento das exportações da UE para o Mercosul e o interesse de empresas em novas concessões portuárias. A Sogrape recuperou lucros com vendas recorde no vinho e turismo e a Ryanair está a instalar novos medidores de bagagem em aeroportos europeus.  O governo flexibilizou ainda o pacote anti-imigração, aceitando o reagrupamento familiar.
 
-Na **economia**, destacam-se a expansão da manutenção de jatos privados em Ponte de Sor, um acordo da UE para aumentar as exportações para o Mercosul, o plano de privatização da TAP até julho de 2026, a recuperação dos lucros da Sogrape e o interesse de empresas em novas concessões portuárias. A Google foi condenada a pagar uma multa milionária por recolha ilegal de dados.
+A nível **nacional**, a CP está a substituir automotoras do Intercidades por máquinas mais lentas. As alterações climáticas estão a aumentar as ondas de calor em Portugal e um projeto de reflorestação na Serra do Açor foi afetado por incêndios. A PSP registou 17 crimes de furto por carteirista por dia no primeiro semestre. Abusos contra idosos predominam na forma psicológica.
 
-No **âmbito internacional**, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, Israel ameaçou os houthis, e a Rússia vê como "perigosas" as garantias de segurança da Europa à Ucrânia. Xi Jinping confirmou o compromisso de assistência da China a Cuba e reuniu-se com Kim Jong-un.
+No **desporto**, a seleção portuguesa iniciou a qualificação para o Mundial 2026, Anthony Taylor será o árbitro do jogo com a Arménia e Diogo Dalot foi dispensado da seleção, com Nuno Tavares a ser chamado. O Sporting criticou St. Juste após críticas públicas sobre despromoção e Helton Arruda, antigo guarda-redes do FCP, foi detido por violência doméstica.
 
-Em **Portugal**, as alterações climáticas aumentam as ondas de calor, a CP substituiu automotoras do Intercidades por máquinas mais lentas, a PSP registou 17 crimes de furto por carteirista por dia no primeiro semestre, e um estudo aponta para a prevalência de violência psicológica contra idosos. A seleção portuguesa iniciou a qualificação para o Mundial 2026.
+No **mundo**, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, enquanto a Rússia considera "perigosas" as garantias de segurança da Europa à Ucrânia. A China confirmou uma reunião entre Xi Jinping e Kim Jong-un. Um comandante da polícia foi destituído na Indonésia após a morte de um manifestante. Houve ainda um naufrágio na Nigéria com pelo menos 32 mortos e um sismo no Afeganistão que causou milhares de mortes. Giorgio Armani faleceu aos 91 anos.
 
-Na **cultura**, Giorgio Armani faleceu aos 91 anos, deixando um legado na moda.
+Na **tecnologia**, a Google foi condenada a uma multa milionária por recolha ilegal de dados e o Instagram ficou finalmente disponível para iPad.
 
-Foram ainda identificadas **novas espécies de aranhas na Península Ibérica.**
+Na **justiça**, Sócrates vai depor sobre a Operação Marquês e o Ministério Público tem 10 dias para decidir sobre o fim do processo contra Ricardo Salgado.
 
-A **Linha Nacional de Prevenção do Suicídio** começa a operar em 10 de setembro, com o número 1411.
+Foi identificada uma nova espécie de aranha na Península Ibérica e um estudo apontou para a prevalência de violência psicológica contra idosos.

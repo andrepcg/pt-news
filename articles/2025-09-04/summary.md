@@ -1,15 +1,9 @@
-O dia foi marcado pela tragédia do Elevador da Glória, em Lisboa, que causou 17 mortos e levou ao luto nacional, com várias entidades a expressarem condolências e a oferecerem apoio. A investigação está em curso para apurar as causas do acidente. A Ordem dos Engenheiros questiona a intervenção técnica no elevador da glória.
+Em Portugal, o dia ficou marcado pela tragédia no Elevador da Glória, em Lisboa, com 17 mortos, levando o governo a decretar luto nacional e várias entidades a expressarem condolências. A PJ já investiga o caso, com a Ordem dos Engenheiros a oferecer apoio técnico. O Instituto do Sangue reforçou as reservas hospitalares, e a Fidelidade abriu uma linha de apoio às vítimas. As causas do acidente estão a ser investigadas, com especialistas a admitirem uma falha catastrófica.
 
-Na Economia, destaque para a expansão da manutenção de jatos privados em Ponte de Sor, o acordo da UE para aumentar as exportações com o Mercosul, a intenção do Governo de privatizar a TAP até julho de 2026, a recuperação dos lucros da Sogrape e o interesse de empresas em novas concessões portuárias. A Google foi condenada ao pagamento de uma multa milionária por recolha ilegal de dados.
+Na economia, destaca-se a expansão da manutenção e 'handling' de jatos privados em Ponte de Sor, a apresentação de um acordo da UE para aumentar as exportações para o Mercosul, a intenção do Governo de privatizar a TAP até julho de 2026 e a recuperação dos lucros da Sogrape. Empresas mostraram interesse em novas concessões portuárias, e a Ryanair está a instalar medidores de bagagem maiores nos aeroportos europeus. A Tekever expandiu as operações para Aveiro, e a Glintt Global registou um aumento nos lucros.
 
-No plano internacional, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, Israel ameaçou os Houthis e a China reafirmou o apoio a Cuba. A Rússia considera perigosas as garantias de segurança da Europa à Ucrânia.
+No panorama internacional, Maduro elogiou a China como potência militar, Trump prometeu resolver a guerra na Ucrânia, e Israel ameaçou os Houthis. A China confirmou um encontro entre Xi Jinping e Kim Jong-un. A Google foi condenada a pagar uma multa milionária por recolha ilegal de dados, e um comandante da polícia indonésia foi destituído após a morte de um manifestante.
 
-Em Portugal, as alterações climáticas aumentam as ondas de calor e um projeto de reflorestação na Serra do Açor foi afetado por um incêndio. A PSP registou 17 crimes de furto por carteiristas por dia no primeiro semestre.
+Em desporto, a seleção portuguesa treina para a qualificação para o Mundial'2026, o Sporting criticou St. Juste, e Ayuso triunfou na Vuelta. Fernando Pimenta sagrou-se campeão mundial de maratona em canoagem.
 
-No Desporto, a seleção portuguesa treina para o jogo de qualificação para o Mundial 2026, o Sporting explicou a falha na contratação de Jota Silva e Miguel Oliveira pode ficar sem equipa no MotoGP em 2026.
-
-Na Justiça, Sócrates vai depor sobre o caso Grupo Lena na Operação Marquês, cujo processo contra Ricardo Salgado poderá estar perto do fim.
-
-A nível social, a Fundação Ageas e a CUF relançaram um programa de impacto social e foi identificada uma nova espécie de aranha na Península Ibérica. Uma nova linha de prevenção do suicídio será lançada em breve com o número 1411.
-
-Giorgio Armani faleceu aos 91 anos, deixando uma grande marca na moda.
+Outros temas incluem o aumento das ondas de calor em Portugal devido às alterações climáticas, a identificação de uma nova espécie de aranha na Península Ibérica, um projeto de reflorestação afetado por incêndios, o registo de crimes de furto em Portugal e um estudo sobre abusos contra idosos. Foi ainda noticiado que Giorgio Armani faleceu aos 91 anos.

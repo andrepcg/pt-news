@@ -1,15 +1,15 @@
-As notícias de hoje foram marcadas pela **tragédia no Elevador da Glória, em Lisboa, com 17 mortos**, levando ao luto nacional e ao cancelamento de eventos políticos. As autoridades investigam as causas do acidente e a PJ já descartou a hipótese de crime. Várias entidades, incluindo o Parlamento Europeu, manifestaram solidariedade e ofereceram apoio.
+O dia foi marcado pela tragédia do Elevador da Glória, em Lisboa, que causou 17 mortos e levou ao luto nacional, com várias entidades a expressarem condolências e a oferecerem apoio. A investigação está em curso para apurar as causas do acidente. A Ordem dos Engenheiros questiona a intervenção técnica no elevador da glória.
 
-Na **economia**, destaque para a expansão da manutenção de jatos privados em Ponte de Sor, a possível privatização da TAP até 2026, o aumento das exportações da UE para o Mercosul e o interesse de empresas em novas concessões portuárias. A Sogrape recuperou lucros com vendas recorde no vinho e turismo e a Ryanair está a instalar novos medidores de bagagem em aeroportos europeus.  O governo flexibilizou ainda o pacote anti-imigração, aceitando o reagrupamento familiar.
+Na Economia, destaque para a expansão da manutenção de jatos privados em Ponte de Sor, o acordo da UE para aumentar as exportações com o Mercosul, a intenção do Governo de privatizar a TAP até julho de 2026, a recuperação dos lucros da Sogrape e o interesse de empresas em novas concessões portuárias. A Google foi condenada ao pagamento de uma multa milionária por recolha ilegal de dados.
 
-A nível **nacional**, a CP está a substituir automotoras do Intercidades por máquinas mais lentas. As alterações climáticas estão a aumentar as ondas de calor em Portugal e um projeto de reflorestação na Serra do Açor foi afetado por incêndios. A PSP registou 17 crimes de furto por carteirista por dia no primeiro semestre. Abusos contra idosos predominam na forma psicológica.
+No plano internacional, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, Israel ameaçou os Houthis e a China reafirmou o apoio a Cuba. A Rússia considera perigosas as garantias de segurança da Europa à Ucrânia.
 
-No **desporto**, a seleção portuguesa iniciou a qualificação para o Mundial 2026, Anthony Taylor será o árbitro do jogo com a Arménia e Diogo Dalot foi dispensado da seleção, com Nuno Tavares a ser chamado. O Sporting criticou St. Juste após críticas públicas sobre despromoção e Helton Arruda, antigo guarda-redes do FCP, foi detido por violência doméstica.
+Em Portugal, as alterações climáticas aumentam as ondas de calor e um projeto de reflorestação na Serra do Açor foi afetado por um incêndio. A PSP registou 17 crimes de furto por carteiristas por dia no primeiro semestre.
 
-No **mundo**, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, enquanto a Rússia considera "perigosas" as garantias de segurança da Europa à Ucrânia. A China confirmou uma reunião entre Xi Jinping e Kim Jong-un. Um comandante da polícia foi destituído na Indonésia após a morte de um manifestante. Houve ainda um naufrágio na Nigéria com pelo menos 32 mortos e um sismo no Afeganistão que causou milhares de mortes. Giorgio Armani faleceu aos 91 anos.
+No Desporto, a seleção portuguesa treina para o jogo de qualificação para o Mundial 2026, o Sporting explicou a falha na contratação de Jota Silva e Miguel Oliveira pode ficar sem equipa no MotoGP em 2026.
 
-Na **tecnologia**, a Google foi condenada a uma multa milionária por recolha ilegal de dados e o Instagram ficou finalmente disponível para iPad.
+Na Justiça, Sócrates vai depor sobre o caso Grupo Lena na Operação Marquês, cujo processo contra Ricardo Salgado poderá estar perto do fim.
 
-Na **justiça**, Sócrates vai depor sobre a Operação Marquês e o Ministério Público tem 10 dias para decidir sobre o fim do processo contra Ricardo Salgado.
+A nível social, a Fundação Ageas e a CUF relançaram um programa de impacto social e foi identificada uma nova espécie de aranha na Península Ibérica. Uma nova linha de prevenção do suicídio será lançada em breve com o número 1411.
 
-Foi identificada uma nova espécie de aranha na Península Ibérica e um estudo apontou para a prevalência de violência psicológica contra idosos.
+Giorgio Armani faleceu aos 91 anos, deixando uma grande marca na moda.

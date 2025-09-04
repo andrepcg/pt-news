@@ -1,13 +1,11 @@
-## Resumo do dia 2025-09-04
+Em Portugal, o dia foi marcado pela tragédia no Elevador da Glória, em Lisboa, com o número de mortos a subir para 17, levando ao luto nacional. As autoridades investigam as causas, com a Polícia Judiciária a afastar a hipótese de crime. O Instituto do Sangue reforçou as reservas nos hospitais e houve solidariedade internacional, com reações de Espanha e do Parlamento Europeu.
 
-Portugal está de luto nacional devido à tragédia no Elevador da Glória em Lisboa, que causou 17 mortos e 23 feridos. A Polícia Judiciária afastou a hipótese de crime, enquanto o Instituto do Sangue reforçou as reservas hospitalares. O Parlamento Europeu e Espanha manifestaram solidariedade.
+Na economia, a manutenção e 'handling' de jatos privados em Ponte de Sor expandem-se, criando 600 empregos. A UE apresentou um acordo para aumentar as exportações para o Mercosul, visando contornar tarifas de Trump. O Governo pretende concluir a privatização da TAP até julho de 2026, enquanto várias empresas mostram interesse nas novas concessões portuárias. A Sogrape recuperou lucros com vendas recorde no Vinho e Turismo. Foi ainda noticiado o fim das portagens nas ex-SCUT, levando ao aumento de tráfego, e a substituição de automotoras do Intercidades por máquinas mais lentas devido à falta de material circulante.
 
-Na economia, destacam-se a expansão da manutenção de jatos privados em Ponte de Sor, um possível acordo UE-Mercosul para aumentar as exportações, o plano do Governo de privatizar a TAP até julho de 2026, e a recuperação dos lucros da Sogrape. Empresas mostram-se interessadas nas novas concessões portuárias, enquanto o fim das portagens nas ex-SCUT leva a um aumento do tráfego.
+No âmbito do desporto, o Sporting venceu o Benfica na Supertaça de Futsal, enquanto a seleção portuguesa iniciou a qualificação para o Mundial 2026, defrontando a Arménia.
 
-No plano internacional, Maduro elogiou a China como potência militar, Trump prometeu "algo" para acabar com a guerra na Ucrânia, e Israel ameaçou os houthis. A Rússia considerou "perigosas" as garantias de segurança da Europa à Ucrânia, enquanto a China reafirma o seu apoio contínuo a Cuba e Xi Jinping se reuniu com Kim Jong-un.
+A nível internacional, Maduro elogiou a China como a "primeira potência militar do planeta", e Trump anunciou que "algo vai acontecer" para acabar com a guerra na Ucrânia. Israel ameaçou os houthis após lançamento de mísseis. A Rússia considerou "perigosas" as garantias de segurança da Europa à Ucrânia, e a China prometeu continuar a prestar assistência a Cuba.
 
-Em tecnologia, a Google foi condenada a pagar multas milionárias por recolha ilegal de dados, e Instagram lançou finalmente a sua app para iPad.
+Na tecnologia, a Google foi condenada a pagar milhões por recolha ilegal de dados.
 
-No desporto, a seleção portuguesa prepara-se para o jogo de qualificação para o Mundial'2026 contra a Arménia. O Sporting venceu o Benfica na Supertaça de Futsal e esclareceu a situação de St. Juste.
-
-Outros destaques incluem o aumento das ondas de calor devido às alterações climáticas, a descoberta de uma nova espécie de aranha na Península Ibérica, alterações na CP com a substituição de automotoras por máquinas mais lentas e um projeto de reflorestação na Serra do Açor afetado por um incêndio.
+Foram também identificadas novas espécies de aranha na Península Ibérica e as alterações climáticas estão a aumentar as ondas de calor em Portugal, sendo agora 40 vezes mais prováveis.

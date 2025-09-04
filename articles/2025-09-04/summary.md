@@ -1,9 +1,17 @@
-Em Portugal, o dia ficou marcado pela tragédia no Elevador da Glória, em Lisboa, com 17 mortos, levando o governo a decretar luto nacional e várias entidades a expressarem condolências. A PJ já investiga o caso, com a Ordem dos Engenheiros a oferecer apoio técnico. O Instituto do Sangue reforçou as reservas hospitalares, e a Fidelidade abriu uma linha de apoio às vítimas. As causas do acidente estão a ser investigadas, com especialistas a admitirem uma falha catastrófica.
+## Resumo do Dia (2025-09-04)
 
-Na economia, destaca-se a expansão da manutenção e 'handling' de jatos privados em Ponte de Sor, a apresentação de um acordo da UE para aumentar as exportações para o Mercosul, a intenção do Governo de privatizar a TAP até julho de 2026 e a recuperação dos lucros da Sogrape. Empresas mostraram interesse em novas concessões portuárias, e a Ryanair está a instalar medidores de bagagem maiores nos aeroportos europeus. A Tekever expandiu as operações para Aveiro, e a Glintt Global registou um aumento nos lucros.
+O dia ficou marcado pela **tragédia no Elevador da Glória**, em Lisboa, que causou 17 mortos e originou luto nacional. As autoridades investigam as causas do acidente, com as primeiras análises a apontarem para uma falha catastrófica. Várias personalidades e instituições manifestaram o seu pesar e solidariedade.
 
-No panorama internacional, Maduro elogiou a China como potência militar, Trump prometeu resolver a guerra na Ucrânia, e Israel ameaçou os Houthis. A China confirmou um encontro entre Xi Jinping e Kim Jong-un. A Google foi condenada a pagar uma multa milionária por recolha ilegal de dados, e um comandante da polícia indonésia foi destituído após a morte de um manifestante.
+Na **política nacional**, o PS alertou para incompreensões em Angola face às alterações na lei da nacionalidade. José Sócrates negou irregularidades no âmbito da Operação Marquês. O Governo está a flexibilizar o pacote anti-imigração, aceitando o reagrupamento familiar, e aprovou a criação de uma linha de prevenção ao suicídio (1411).
 
-Em desporto, a seleção portuguesa treina para a qualificação para o Mundial'2026, o Sporting criticou St. Juste, e Ayuso triunfou na Vuelta. Fernando Pimenta sagrou-se campeão mundial de maratona em canoagem.
+A nível **económico**, a venda da TAP deverá ser concluída até julho de 2026. A Sogrape recuperou os lucros com vendas recorde no vinho e turismo. Empresas demonstraram interesse nas novas concessões portuárias. A manutenção de jatos privados está em expansão em Ponte de Sor, criando 600 empregos. Bruxelas lançou uma consulta pública sobre a legislação da inteligência artificial.
 
-Outros temas incluem o aumento das ondas de calor em Portugal devido às alterações climáticas, a identificação de uma nova espécie de aranha na Península Ibérica, um projeto de reflorestação afetado por incêndios, o registo de crimes de furto em Portugal e um estudo sobre abusos contra idosos. Foi ainda noticiado que Giorgio Armani faleceu aos 91 anos.
+No **desporto**, a seleção portuguesa iniciou a qualificação para o Mundial 2026 e Fernando Pimenta sagrou-se campeão mundial de maratona K1. O Sporting criticou St. Juste após declarações públicas sobre o seu futuro no clube.
+
+No **mundo**, Maduro elogiou a China como a "primeira potência militar". Trump prometeu "algo" para acabar com a guerra na Ucrânia, enquanto a Rússia considera "perigosas" as garantias de segurança da Europa a Kiev. Israel ameaçou os houthis após lançamento de mísseis. O primeiro-ministro da Jamaica foi reeleito para o terceiro mandato. A China confirmou uma reunião entre Xi Jinping e Kim Jong-un. Um avião que transportava Pedro Sánchez sofreu uma avaria.
+
+Em **tecnologia**, a Google foi condenada a pagar uma multa milionária por recolha ilegal de dados.
+
+No **ambiente**, as alterações climáticas estão a aumentar as ondas de calor em Portugal e um projeto de reflorestação na Serra do Açor foi afetado por um incêndio. Uma nova espécie de aranha foi identificada na Península Ibérica.
+
+Por fim, na **sociedade**, um estudo aponta para uma prevalência de violência psicológica nos abusos contra idosos e a PSP registou 17 crimes de furto por carteirista por dia no primeiro semestre.

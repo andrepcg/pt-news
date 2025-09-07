@@ -1,9 +1,11 @@
-Os principais destaques de hoje incluem o domínio do incêndio em Seia com a ajuda da chuva, embora a PJ tenha detido um suspeito de atear fogos. Em Lisboa, as clínicas de proximidade realizaram 6 mil consultas este ano. No âmbito internacional, um ataque russo com drones e mísseis em Kyiv causou mortes e destruição, enquanto cortes de cabos submarinos interromperam a internet na Ásia e no Médio Oriente. O Irão exige "novas condições" para negociações nucleares com os EUA.
+O dia ficou marcado pelo maior ataque russo a Kyiv desde o início da guerra, com drones e mísseis a causarem pelo menos duas mortes e danos em edifícios governamentais. Portugal condenou o ataque.
 
-No desporto, Portugal sagrou-se campeão europeu de hóquei e Inglaterra venceu Andorra num jogo que resultou em lesões de jogadores do PSG. Sinner e Alcaraz vão disputar o topo do ranking mundial na final do US Open.
+A nível nacional, o incêndio em Seia foi dominado com a ajuda da chuva, após a detenção de um suspeito. Em Lisboa, as clínicas de proximidade realizaram 6 mil consultas este ano, enquanto um acidente no Elevador da Glória causou problemas.
 
-Outras notícias relevantes incluem a detenção de mais de 400 pessoas em Londres num protesto de apoio à Ação Palestina, a remodelação do Governo no Senegal e a canonização de Carlo Acutis pelo Papa Leão XIV. No Brasil, Lula criticou "traidores da pátria".
+Na economia, o Supremo Tribunal de Justiça considerou "fraude à lei" a venda de crédito malparado na habitação, e novas regras visam proteger os clientes. O investimento em imobiliário comercial atingiu um recorde, impulsionado pelo retalho, mas a DECO alerta para "atropelos" nos direitos dos consumidores na venda de créditos à habitação.
 
-A nível económico, o Supremo Tribunal de Justiça analisou a venda de crédito malparado na habitação e a associação ZERO apelou a mais incentivos para veículos elétricos. Foi noticiado que o Governo está confiante quanto às tarifas e vantagens para Portugal após o acordo UE-EUA.
+Internacionalmente, cortes em cabos submarinos interromperam a internet na Ásia e Médio Oriente. O Irão exigiu "novas condições" para negociações nucleares com os EUA. Lula criticou "traidores da pátria" e defendeu a soberania do Brasil. Mais de 400 pessoas foram detidas em Londres num protesto de apoio à Ação Palestina. O primeiro-ministro japonês anunciou a sua demissão após a derrota nas eleições de julho.
 
-Por fim, um eclipse total da Lua será visível este fim de semana e prevêem-se dias de outono seguidos do regresso do verão na terceira semana de setembro.
+No desporto, Portugal sagrou-se campeão europeu de hóquei. Cristiano Ronaldo superou Messi e está perto de um novo recorde. O jovem surfista Zion Brocchi faleceu aos 12 anos, vítima de cancro.
+
+Ainda, Carlo Acutis, o "influencer de Deus", foi canonizado pelo Papa Leão XIV.

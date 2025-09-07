@@ -1,7 +1,9 @@
-O dia ficou marcado por um ataque russo em Kyiv que causou pelo menos duas mortes e danificou um edifício governamental. A nível internacional, a internet foi interrompida na Ásia e no Médio Oriente devido a cortes de cabos submarinos. No Irão, foram exigidas "novas condições" para as negociações nucleares com os EUA.
+Em Portugal, o incêndio em Seia foi dominado com o auxílio da chuva. As clínicas de proximidade em Lisboa realizaram 6 mil consultas este ano, enquanto uma aluna de 10 anos representará o país num concurso de mandarim na China. Prevê-se um clima outonal até ao dia 10, seguido de um regresso do verão. O FC Porto celebra Pablo Rosario, e Cristiano Ronaldo aproxima-se de um novo recorde. A GNR desmantelou uma rede de tráfico de droga em Ponte de Sor.
 
-Em Portugal, o incêndio em Seia foi dominado com a ajuda da chuva. Em Lisboa, as clínicas de proximidade realizaram 6 mil consultas este ano e o Elevador da Glória sofreu problemas devido à queda de um cabo. No desporto, Portugal sagrou-se campeão europeu de hóquei e no futebol, um jogador do Estoril mostrou-se revoltado com o jogo em plena pausa das seleções.
+A nível internacional, um ataque russo com drones e mísseis em Kyiv matou pelo menos duas pessoas. Cortes em cabos submarinos interromperam a internet na Ásia e no Médio Oriente. O Irão exige "novas condições" para negociações nucleares com os EUA. Lula criticou "traidores da pátria" e defendeu a soberania do Brasil. Mais de 400 pessoas foram detidas em Londres num protesto de apoio à Ação Palestina. Shigeru Ishiba demitiu-se no Japão após a derrota nas eleições de julho e Rosa Roisinblit, figura da luta contra a ditadura argentina, faleceu. A comissão eleitoral da Guiana confirmou a reeleição do Presidente Irfaan Ali.
 
-No mundo, registaram-se protestos de apoio à Ação Palestina em Londres, com mais de 400 detidos. A Canonização de Carlo Acutis ganhou destaque, recordando a visita do jovem a um Santuário em Portugal antes de morrer.
+No desporto, Portugal sagrou-se campeão europeu de hóquei e Sinner e Alcaraz disputarão o topo do ranking mundial na final do US Open. Inglaterra venceu Andorra, mas jogadores do PSG lesionaram-se.
 
-Foi ainda noticiado o eclipse total da Lua visível este domingo e a previsão de dias de outono até dia 10, com o verão a regressar na terceira semana de setembro.
+Na economia, o Supremo Tribunal de Justiça identificou "fraude à lei" na venda de crédito malparado na habitação. Foi alcançado um recorde no investimento em imobiliário comercial, impulsionado pelo retalho. Ambientalistas e agricultores contestam o acordo UE-Mercosul.
+
+Um eclipse total da Lua será visível este domingo. Cientistas desenvolveram um método para transformar resíduos plásticos em gasolina.

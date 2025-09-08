@@ -1,5 +1,19 @@
-Em Portugal, o foco está no acidente no Elevador da Glória, com Moedas a ser criticado e o PS a exigir explicações. Paralelamente, o PS também pede audições no Parlamento sobre o caso do "cartel da banca". A PSP encontrou 52 armas em escolas no último ano letivo. No âmbito económico, discute-se a melhor opção entre a devolução de propinas e o IRS Jovem, enquanto o Crédito Agrícola está no radar do BCE devido à venda do Novo Banco. A ANA planeia aumentar as taxas aeroportuárias no Porto e Faro em 2026, e o prazo para a devolução de propinas aos jovens trabalhadores termina esta semana. No desporto, o Torreense venceu o Benfica na Supertaça Feminina.
+Hoje, Portugal debateu-se com as consequências do incidente no Elevador da Glória, com críticas a Moedas e pedidos de explicações. No parlamento, o PS requereu audições sobre a prescrição no processo do "Cartel da Banca".
 
-A nível internacional, a moção de confiança ameaça o governo francês de Bayrou. Na Argentina, a oposição peronista venceu as eleições legislativas em Buenos Aires.  Na Ucrânia, o exército recuperou território estratégico, enquanto a Rússia mantém superioridade numérica. A China poderá ter um papel crucial nas negociações de paz entre a Rússia e a Ucrânia, e está a acelerar a reabertura do mercado de dívida para empresas energéticas russas. Espanha anunciou medidas contra Israel devido à situação em Gaza. Um ataque em Jerusalém resultou em mortos e feridos. Nos EUA, Seul anunciou o regresso de mais de 300 trabalhadores detidos.
+Na Europa, os pedidos de asilo diminuíram, enquanto em França, o governo de Bayrou enfrenta uma moção de confiança. A nível internacional, a oposição peronista venceu eleições na Argentina, um tufão causou estragos na China, e comunidades na Colômbia sequestraram militares.
 
-Na União Europeia, os pedidos de asilo sofreram uma queda em 2025. Rick Davies, vocalista dos Supertramp, faleceu aos 81 anos e Lady Gaga venceu o prémio de Artista do Ano nos MTV VMA. O TikTok ultrapassou os 200 milhões de utilizadores mensais na Europa.
+Em Portugal, a PSP encontrou diversas armas em escolas, e discute-se qual a opção mais vantajosa entre a devolução de propinas e o IRS Jovem. O mercado de dívida chinês está a reabrir para empresas energéticas russas. Na guerra na Ucrânia, as forças ucranianas recuperaram território em Donetsk, enquanto um comandante ucraniano alega que a Rússia tem uma superioridade numérica de 3 para 1.
+
+Montenegro está em visita oficial à China, país que Rangel considera ter um papel crucial para persuadir a Rússia à paz. A China também vê a sua influência crescer na Cimeira das Ilhas do Pacífico.
+
+No desporto, o Torreense venceu o Benfica na Supertaça Feminina.
+
+No mundo da cultura, Lady Gaga foi distinguida nos MTV VMA, enquanto a música perdeu Rick Davies, vocalista dos Supertramp.
+
+Em Lisboa, o Metro enfrenta uma greve parcial. A capital também debate um fundo de apoio às vítimas do acidente no Elevador da Glória.
+
+Portugal subiu no "rating", alcançando a nota "A". A ANA planeia aumentar as taxas aeroportuárias no Porto e Faro em 2026.
+
+Na área da segurança rodoviária, a campanha "Cinto-me Vivo" foi lançada, enquanto a justiça investiga um caso de tentativa de homicídio em Lousada e pede análise de ADN num caso de homicídio em Bragança. Em Jerusalém, um ataque terrorista provocou mortos e feridos, levando Espanha a anunciar medidas contra Israel, incluindo um embargo de armas.
+
+A Agência para a Investigação e Inovação iniciará funções em janeiro. O TikTok ultrapassou os 200 milhões de utilizadores na Europa.

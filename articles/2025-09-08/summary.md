@@ -1,7 +1,15 @@
-Em Portugal, o descarrilamento do Elevador da Glória domina a atualidade política, com Moedas a ser acusado de "fuga para a frente" e o PS a exigir explicações. A PSP revelou ter encontrado 52 armas em escolas portuguesas no último ano letivo. No Metro de Lisboa, prevê-se greve parcial com perturbações no serviço para terça e quinta-feira. No desporto, o Torreense venceu o Benfica na Supertaça Feminina.
+As notícias de hoje, 8 de setembro de 2025, incluem desenvolvimentos políticos tanto a nível nacional como internacional. Em Portugal, o PS exige explicações sobre o descarrilamento do Elevador da Glória, incidente que coloca Moedas sob pressão, e pede audições no Parlamento sobre o caso do "cartel da banca". Montenegro está em visita oficial à China, enquanto Rangel sugere que a China pode ter um papel na resolução da guerra na Ucrânia.
 
-A nível económico, o PS requereu audições no Parlamento sobre o caso do "cartel da banca", após anulação de coimas. Está em cima da mesa qual a opção mais vantajosa entre a devolução de propinas e o IRS Jovem. O Crédito Agrícola está no radar do BCE devido à venda do Novo Banco. O apoio para a troca de equipamentos a gás por elétricos conta já com 241 fornecedores candidatos. A China prepara-se para reabrir o mercado de dívida a empresas energéticas russas.
+A nível internacional, o governo francês de Bayrou enfrenta uma moção de confiança, a oposição peronista venceu eleições legislativas na Argentina, e um ex-chefe da diplomacia japonesa lançou a sua candidatura à liderança do partido no poder. Um tufão causou estragos na China e a influência chinesa está a crescer na Cimeira das Ilhas do Pacífico. A Espanha anunciou medidas contra Israel devido à situação em Gaza e novas sanções da UE à Rússia estão a ser coordenadas com os EUA. Um ataque em Jerusalém provocou mortos e feridos.
 
-No plano internacional, o governo francês de Bayrou enfrenta uma moção de confiança. Na Argentina, a oposição peronista venceu as eleições legislativas em Buenos Aires. Comunidades na Colômbia sequestraram dezenas de militares. A China foi atingida pelo tufão Tapah, que causou estragos e suspensão de aulas no sul do país. A Ucrânia recuperou território estratégico na região de Donetsk, e a China poderá ter um "papel único" para persuadir a Rússia a alcançar a paz. Espanha anunciou medidas contra o "genocídio em Gaza", incluindo um embargo de armas a Israel. Em Jerusalém, um tiroteio resultou em mortos e feridos. O ex-chefe da diplomacia do Japão lançou a sua candidatura à liderança do partido.
+Na Ucrânia, as forças ucranianas recuperaram território na região de Donetsk, apesar da superioridade numérica russa.
 
-Na cultura, Lady Gaga venceu o prémio de Artista do Ano nos MTV VMA. Rick Davies, vocalista dos Supertramp, faleceu aos 81 anos.
+Na área da justiça e segurança, a PSP encontrou 52 armas em escolas portuguesas e começou o julgamento de um casal acusado de triplo homicídio em Bragança.
+
+Na economia, os pedidos de asilo na UE diminuíram, a China planeia reabrir o mercado de dívida para empresas energéticas russas, e discute-se qual a opção mais vantajosa entre a devolução de propinas e o IRS Jovem. O apoio para troca de equipamentos a gás por elétricos tem vários fornecedores candidatos e o Crédito Agrícola está no radar do BCE devido à venda do Novo Banco. A ANA planeia aumentar as taxas nos aeroportos do Porto e Faro em 2026.
+
+No desporto, o Torreense venceu o Benfica na Supertaça Feminina e a seleção portuguesa treina para o duelo com a Hungria.
+
+Na cultura, Lady Gaga venceu o prémio de Artista do Ano nos MTV VMA, e faleceu Rick Davies, vocalista dos Supertramp.
+
+Outras notícias incluem o regresso a casa de trabalhadores detidos nos EUA, o lançamento da Agência para a Investigação e Inovação, uma campanha de segurança rodoviária, o crescimento do TikTok na Europa e um estudo sobre o impacto dos adoçantes na saúde cerebral.

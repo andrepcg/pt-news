@@ -1,54 +1,17 @@
-Aqui ficam os principais destaques do dia 9 de setembro de 2025:
+Em Portugal, o Metro de Lisboa enfrentou perturbações devido a uma greve, levando ao encerramento de estações, mas a circulação já foi normalizada. O Governo aprovou o processo de privatização da TAP. Proprietários insistem no fim do AIMI e isenção de IRS para arrendamento a estudantes. Em Lisboa, a crise no Elevador da Glória continua a gerar polémica política, com o Chega a ver uma moção de censura chumbada.
 
-**Política e Economia:**
+A nível económico, as exportações portuguesas caíram 11,3% em julho, enquanto as importações subiram 2,8%. A Fieldfisher aposta no mercado português e pretende crescer 20%. Há 315 milhões disponíveis no PRR para inovação empresarial. O Governo lançou o "Cartão Único da Empresa" e um portal de licenciamentos com recurso a Inteligência Artificial.
 
-*   Luís Montenegro encontrou-se com Xi Jinping na China, agradecendo o apoio financeiro e procurando apoio para a paz na Ucrânia.
-*   Proprietários insistem no fim do AIMI e isenção de IRS para arrendamento a estudantes, enquanto o Governo propõe alterações à lei laboral, criticadas pelo PS.
-*   Foi aprovado o processo de privatização da TAP em quatro etapas e a Lufthansa manifestou interesse na compra.
-*   A Comissão Europeia propõe empréstimos de 5,8 mil milhões para Portugal investir em Defesa.
-*   As exportações portuguesas caíram 11,3% em julho, enquanto as importações subiram 2,8%.
+Na política, Luís Montenegro encontrou-se com Xi Jinping na China, onde agradeceu o apoio financeiro e defendeu a necessidade de paz na Ucrânia , enquanto Costa e antigos ministros de Guterres acusam Moedas de falsidades sobre Jorge Coelho.
 
-**Conflitos e Relações Internacionais:**
+No panorama internacional, uma flotilha humanitária com destino a Gaza foi atacada, gerando forte reação de Mariana Mortágua e acompanhamento do governo português. Israel voltou a ordenar a saída imediata de residentes de Gaza e reivindicou um ataque a líderes do Hamas no Qatar, que foi fortemente condenado pela ONU e Liga Árabe. Ainda no globo, a Coreia do Sul vai repatriar trabalhadores detidos nos EUA, e a China felicitou a Coreia do Norte pelo seu 77º aniversário, reafirmando laços bilaterais.
 
-*   Uma flotilha humanitária para Gaza foi atacada, provocando uma onda de condenações e pedidos de reação internacional, nomeadamente de Mariana Mortágua. O Governo está a acompanhar a situação. Israel voltou a ordenar a saída imediata de residentes de Gaza, mas aceita cessar-fogo se o Hamas depuser as armas. Israel reivindicou um ataque contra líderes do Hamas em Doha, no Catar, algo que foi condenado pela Liga Árabe.
-*   China, Rússia e Mongólia realizaram manobras conjuntas de cooperação fronteiriça.
-*   A UE já enviou 80% das munições prometidas à Ucrânia, enquanto um ataque russo matou mais de 20 civis numa aldeia no leste do país.
+Na área da saúde, um transplante de rim de porco em humano teve sucesso nos EUA. O regulador da Saúde aplicou coimas de 300 mil euros no primeiro semestre.
 
-**Saúde e Sociedade:**
+Relativamente ao clima e ambiente, agosto de 2025 foi o terceiro agosto mais quente a nível mundial e um sismo de magnitude 2.7 foi sentido na Ilha Terceira, nos Açores.
 
-*   O regulador da Saúde aplicou coimas de 300 mil euros no primeiro semestre.
-*   Um transplante de rim de porco para um humano foi realizado com sucesso nos EUA.
-*   Alargada a vacinação gratuita contra a gripe a crianças dos 6 aos 23 meses.
-*   Quase metade dos adultos portugueses têm dificuldades em compreender textos.
-*   4.000 alunos no ensino primário podem começar as aulas sem professor.
+Na educação, um estudo da OCDE revela que quase metade dos adultos portugueses têm dificuldades em compreender textos. A Fenprof alerta que 4 mil alunos do ensino primário poderão começar as aulas sem professor.
 
-**Clima e Ambiente:**
+No desporto, Nuno Espírito Santo foi despedido do Nottingham Forest. Varandas recusou uma oferta milionária para ser CEO na Liga Saudita e Otávio transferiu-se para o Al-Qadsiah.
 
-*   Agosto de 2025 foi o terceiro agosto mais quente a nível mundial.
-*   Um sismo de magnitude 2.7 foi sentido na Ilha Terceira, nos Açores
-*   Um estudo revela uma diminuição alarmante do número de insetos.
-
-**Tecnologia e Inovação:**
-
-*   Uma startup europeia de IA, Mistral, angariou 1,7 mil milhões de euros, tornando-se a startup de IA mais valiosa da Europa.
-*   Governo lançou o 'cartão único' para empresas e portal de licenciamentos com Inteligência Artificial
-*    Google admite declínio da pesquisa devido à Inteligência Artificial.
-
-**Transportes:**
-
-*   Uma greve no Metro de Lisboa causou o encerramento de estações, mas a circulação já foi normalizada.
-
-**Desporto:**
-
-*   Nuno Espírito Santo foi despedido do Nottingham Forest.
-*   Varandas recusou uma oferta milionária para ser CEO na Liga Saudita.
-
-**Outros:**
-
-*   A PJ deteve um estrangeiro em Almada procurado por abuso sexual da filha no Brasil.
-*   No Nepal, o Primeiro-Ministro demitiu-se após protestos violentos.
-*   Foram descobertos vestígios de presença humana com mais de 26 mil anos no Vale do Côa
-
-**Em Lisboa:**
-
-*   Crise no Elevador da Glória gerou polémica política com moção de censura a Moedas.
+Outros destaques incluem a descoberta de vestígios arqueológicos no Vale do Côa, revelando presença humana de há 26 mil anos, e uma startup europeia de IA a angariar 1,7 mil milhões de euros.

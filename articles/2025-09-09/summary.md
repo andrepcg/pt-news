@@ -1,17 +1,11 @@
-Em Portugal, o Metro de Lisboa enfrentou perturbações devido a uma greve, levando ao encerramento de estações, mas a circulação já foi normalizada. O Governo aprovou o processo de privatização da TAP. Proprietários insistem no fim do AIMI e isenção de IRS para arrendamento a estudantes. Em Lisboa, a crise no Elevador da Glória continua a gerar polémica política, com o Chega a ver uma moção de censura chumbada.
+Em Portugal, a greve no Metro de Lisboa causou o encerramento de estações, mas a situação já foi normalizada. Proprietários insistem no fim do AIMI e isenção de IRS para arrendamento a estudantes, enquanto o Governo aprovou em quatro etapas o processo de privatização da TAP. A empresa que gere o Terminal de Contentores de Sines alertou para uma nova greve, com possíveis impactos na economia, e as exportações portuguesas registaram uma queda de 11,3% em julho. No âmbito do PRR, 315 milhões serão destinados ao financiamento da inovação empresarial. Foi inaugurada uma capela em Alcafache, 40 anos após o maior acidente ferroviário do país, e descobertos vestígios de presença humana com mais de 26 mil anos no Vale do Côa. Quase metade dos adultos portugueses demonstra dificuldades na compreensão de textos, e mais de metade dos professores têm mais de 50 anos. Na saúde, foram aplicadas coimas de 300 mil euros pelo regulador no primeiro semestre.
 
-A nível económico, as exportações portuguesas caíram 11,3% em julho, enquanto as importações subiram 2,8%. A Fieldfisher aposta no mercado português e pretende crescer 20%. Há 315 milhões disponíveis no PRR para inovação empresarial. O Governo lançou o "Cartão Único da Empresa" e um portal de licenciamentos com recurso a Inteligência Artificial.
+A nível político, Luís Montenegro encontrou-se com Xi Jinping na China, onde agradeceu o apoio financeiro chinês e solicitou apoio para a paz na Ucrânia. Em Lisboa, a crise no Elevador da Glória gerou uma moção de censura a Moedas, que foi rejeitada. O Governo propõe alterações à lei laboral, criticadas pelo PS, enquanto o Governo defende exames no acesso ao ensino superior.
 
-Na política, Luís Montenegro encontrou-se com Xi Jinping na China, onde agradeceu o apoio financeiro e defendeu a necessidade de paz na Ucrânia , enquanto Costa e antigos ministros de Guterres acusam Moedas de falsidades sobre Jorge Coelho.
+No plano internacional, uma flotilha humanitária para Gaza foi atacada, levando Mariana Mortágua a pedir uma reação internacional e Israel voltou a ordenar a saída imediata de residentes de Gaza, mas posteriormente aceitou cessar-fogo se o Hamas depuser as armas. A China felicitou a Coreia do Norte pelo seu 77º aniversário, reafirmando laços bilaterais. A Coreia do Sul vai repatriar trabalhadores detidos nos EUA. Na Ucrânia, a UE já enviou 80% das munições prometidas.
 
-No panorama internacional, uma flotilha humanitária com destino a Gaza foi atacada, gerando forte reação de Mariana Mortágua e acompanhamento do governo português. Israel voltou a ordenar a saída imediata de residentes de Gaza e reivindicou um ataque a líderes do Hamas no Qatar, que foi fortemente condenado pela ONU e Liga Árabe. Ainda no globo, a Coreia do Sul vai repatriar trabalhadores detidos nos EUA, e a China felicitou a Coreia do Norte pelo seu 77º aniversário, reafirmando laços bilaterais.
+No âmbito ambiental, agosto de 2025 foi o terceiro agosto mais quente a nível mundial e um sismo de magnitude 2.7 foi sentido nos Açores, na Ilha Terceira.
 
-Na área da saúde, um transplante de rim de porco em humano teve sucesso nos EUA. O regulador da Saúde aplicou coimas de 300 mil euros no primeiro semestre.
+Na área da saúde, um transplante de rim de porco em humano teve sucesso nos EUA.
 
-Relativamente ao clima e ambiente, agosto de 2025 foi o terceiro agosto mais quente a nível mundial e um sismo de magnitude 2.7 foi sentido na Ilha Terceira, nos Açores.
-
-Na educação, um estudo da OCDE revela que quase metade dos adultos portugueses têm dificuldades em compreender textos. A Fenprof alerta que 4 mil alunos do ensino primário poderão começar as aulas sem professor.
-
-No desporto, Nuno Espírito Santo foi despedido do Nottingham Forest. Varandas recusou uma oferta milionária para ser CEO na Liga Saudita e Otávio transferiu-se para o Al-Qadsiah.
-
-Outros destaques incluem a descoberta de vestígios arqueológicos no Vale do Côa, revelando presença humana de há 26 mil anos, e uma startup europeia de IA a angariar 1,7 mil milhões de euros.
+No desporto, Nuno Espírito Santo foi despedido do Nottingham Forest e Varandas recusou uma oferta milionária para ser CEO na Liga Saudita.

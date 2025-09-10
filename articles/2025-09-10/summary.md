@@ -1,17 +1,15 @@
-Hoje, a Polónia investiga a violação do seu espaço aéreo por drones russos durante um ataque à Ucrânia, levando à invocação do artigo 4 da NATO. A Ucrânia também reportou estar sob ataque de "muitos mísseis" russos. Ursula von der Leyen discursou sobre o Estado da União Europeia, onde defendeu a independência da Europa e anunciou uma estratégia para o mercado único até 2028.
+A Polónia invocou o Artigo 4 da NATO e investiga a violação do seu espaço aéreo por drones russos durante um ataque à Ucrânia, que também foi alvo de "muitos mísseis". A União Europeia considera a violação "intencional e a mais grave".
 
-Em Portugal, o governo e os parceiros sociais debatem alterações à legislação laboral, enquanto o Montenegro envolve Macau na relação económica com a China. Imigrantes agendaram uma manifestação em frente ao Parlamento para 17 de setembro, exigindo melhores condições. Gouveia e Melo procura apoios no PS para a sua candidatura presidencial.
+Ursula von der Leyen fez o discurso sobre o Estado da União Europeia, defendendo a independência da Europa e o fim da pobreza na UE até 2050, propondo ainda sanções a Israel. A Comissão Europeia quer criar um Semestre Europeu da Defesa.
 
-No âmbito internacional, a ONU reuniu o Conselho de Segurança de emergência após um ataque ao Qatar, e o exército do Nepal reforçou a presença em Katmandu após protestos violentos. Trump anunciou a libertação de uma refém israelo-russa sequestrada no Iraque.
+Em Portugal, o Governo e os parceiros sociais debatem alterações à legislação laboral, enquanto Montenegro defende discrição no caso da detenção de um ex-deputado português em Macau. Gouveia e Melo procura apoios no PS para uma possível candidatura presidencial. Secretas portuguesas lançam recrutamento e a PJ deteve oito suspeitos de crimes violentos em Lisboa.
 
-Na área da ciência e tecnologia, foi descoberto um objeto interestelar com origem em Plutão e a China bloqueou 1.200 contas por divulgarem notícias falsas. Novos AirPods foram lançados com funcionalidades como tradução em tempo real.
+Uma manifestação de imigrantes está agendada para 17 de setembro em frente ao Parlamento. Uma nova linha de prevenção do suicídio (1411) já está em funcionamento. O Ministro da Educação garante que a maioria das escolas terá todas as aulas asseguradas. A associação Zero defende planos de ação climática para prevenir incêndios.
 
-Em Lisboa, uma empresa de manutenção do Elevador da Glória teve sede num local onde nunca funcionou.
+A China bloqueou 1.200 contas por divulgarem notícias falsas e criticou o ataque israelita no Qatar, apelando à ordem no Nepal, onde o exército reforçou a presença em Katmandu após protestos violentos. Trump anunciou a libertação de uma refém israelo-russa sequestrada no Iraque.
 
-Foi lançada uma nova linha de prevenção do suicídio (1411) e a campanha de vacinação sazonal contra a Covid-19 e a gripe começa a 23 de setembro.
+Na área da ciência, foi descoberto um objeto interestelar com origem em Plutão, abrindo novas perspetivas sobre o Sistema Solar.
 
-Na economia, o autoconsumo de energia tem crescido significativamente em Portugal.
+No desporto, Luis Suárez fez história no Sporting, e o Brasil perdeu. A possível saída de Gonçalo Inácio do Sporting para a Arábia poderá acontecer em breve.
 
-No desporto, Luis Suárez fez história num jogo onde Otamendi foi expulso e o Brasil perdeu. A possível saída de Gonçalo Inácio do Sporting para a Arábia está a ser noticiada.
-
-A associação Zero defende planos de ação climática para prevenir incêndios e foi detetada carne de tubarão de espécies protegidas a ser vendida com rótulos falsos, podendo chegar a Portugal.
+A campanha de vacinação sazonal contra a Covid-19 e a gripe começa a 23 de setembro. As rendas vão subir 2,24% em 2026, impulsionadas pela inflação, que acelerou para 2,8% em agosto. O ascensor da Nazaré está encerrado para manutenção por tempo indeterminado.

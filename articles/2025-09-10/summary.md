@@ -1,11 +1,15 @@
-Hoje, a tensão internacional aumentou com a **violação do espaço aéreo polaco por drones russos**, levando a Polónia a invocar o Artigo 4.º da NATO. A Ucrânia também sofreu intensos ataques russos com mísseis. Ursula von der Leyen discursou sobre o **Estado da União Europeia**, defendendo a autonomia europeia e o fim da pobreza na UE até 2050, propondo ainda sanções a Israel, o que gerou controvérsia. Na China, mais de 1200 contas foram bloqueadas por divulgarem notícias falsas.
+Esta quinta-feira ficou marcada por tensões geopolíticas e desenvolvimentos internos em várias áreas.
 
-Em Portugal, o **Governo e parceiros sociais** debateram alterações à legislação laboral, enquanto a CGTP criticou mudanças na lei da greve. Gouveia e Melo procura apoios para a sua candidatura presidencial no PS. O diretor do SNS negou qualquer relação entre o encerramento de urgências e a morte de bebés. A **inflação** em agosto acelerou para 2,8%, com os alimentos a liderar a subida, prevendo-se que as rendas aumentem 2,24% em 2026. Foi lançada uma **nova linha de prevenção do suicídio (1411)**.
+No plano internacional, a Polónia invocou o Artigo 4 da NATO após drones russos violarem o seu espaço aéreo, levando a condenações da UE e da NATO e alertas sobre a escalada do conflito na Ucrânia. Ursula von der Leyen, no seu discurso sobre o Estado da União, defendeu a independência da Europa e propôs sanções a Israel, gerando debate. No Médio Oriente, um ataque israelita no Qatar motivou críticas, enquanto Trump anunciou a libertação de uma refém no Iraque.
 
-No âmbito económico, o autoconsumo de energia tem crescido exponencialmente, e Portugal colocou 1.131 milhões de euros em dívida com juros mais altos. A EDP Renováveis concluiu a venda de ativos eólicos em França e na Bélgica.
+Em Portugal, o Governo debateu alterações à legislação laboral com os parceiros sociais, enquanto a CGTP criticou as mudanças na lei da greve. Gouveia e Melo procura apoios para a sua candidatura presidencial. A nível económico, a inflação acelerou para 2,8% em agosto e as rendas deverão subir 2,24% em 2026. Foi ainda noticiado que Portugal pagou mais para emitir dívida. No setor energético, o autoconsumo tem crescido exponencialmente.
 
-Em Lisboa, a empresa de manutenção do Elevador da Glória é acusada usar uma morada falsa, e a capa do Charlie Hebdo com o acidente gerou debate. A Câmara de Lisboa aprovou um programa de renda acessível para jovens nos bairros históricos.
+Na política nacional, o diretor do SNS negou qualquer relação entre o encerramento de urgências e a morte de bebés, enquanto Centeno foi chamado ao Parlamento para prestar esclarecimentos sobre a nova sede do Banco de Portugal. Catarina Martins anunciou a sua candidatura à Presidência da República.
 
-No desporto, Luís Suárez fez história no futebol, e o Sporting venceu na Liga dos Campeões de Andebol.
+Em Lisboa, a empresa de manutenção do Elevador da Glória está sob escrutínio por alegadamente ter usado uma morada falsa. O ascensor da Nazaré foi encerrado para manutenção.
 
-Adicionalmente, foi descoberto um possível objeto interestelar originário de Plutão, e a Apple lançou novos AirPods com tradução em tempo real.
+Na área da saúde, entrou em funcionamento uma nova linha de prevenção do suicídio (1411) e a campanha de vacinação sazonal contra a Covid-19 e a gripe começa a 23 de setembro. O Infarmed alertou para a venda online de aparelhos de medição de glicemia falsos.
+
+Finalmente, no desporto, Luis Suárez fez história no campeonato, e o Brasil perdeu. No futebol nacional, Farioli (FC Porto) foi eleito o melhor treinador de agosto.
+
+Outras notícias incluem a descoberta de um objeto interestelar com origem em Plutão, o bloqueio de contas na China por notícias falsas, e a aprovação de parentalidade conjunta a um casal lésbico em Hong Kong.

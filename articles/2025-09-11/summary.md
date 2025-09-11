@@ -1,9 +1,15 @@
-- Em Portugal, o Metro de Lisboa enfrenta o segundo dia de greve parcial, com estações encerradas. O início das aulas é marcado pela falta de professores em várias escolas, apesar da promessa do Ministro da Educação de valorizar os profissionais. A PSP reporta uma diminuição nos casos de bullying e cyberbullying nas escolas. Um relatório indica que Portugal é um país menos seguro no uso da violência por parte do Estado.
+Aqui estão os principais acontecimentos de hoje, 11 de setembro de 2025:
 
-- No plano político, Portugal e Japão elevam a sua relação bilateral para uma parceria estratégica. Ventura criticou a visita de Marcelo a Berlim, confundindo um evento com um festival de hambúrgueres. No Brasil, a família de Bolsonaro celebra o voto favorável à absolvição no processo de tentativa de golpe.
+Em Portugal, o Metro de Lisboa enfrenta o segundo dia de greve parcial, levando ao encerramento de várias estações. O início das aulas é marcado pela falta de professores em algumas escolas, enquanto o Ministro da Educação promete valorização dos profissionais do setor. A PSP registou uma diminuição de casos de bullying e cyberbullying nas escolas, embora continue atenta com ações de sensibilização. No âmbito social, um relatório aponta Portugal como um país menos seguro no que toca ao uso da violência pelo Estado. Assinalam-se 40 anos da tragédia de Alcafache.
 
-- A nível internacional, Zelensky acusa a Rússia de testar a NATO com intensificação de ataques de drones. Israel declara-se pronto para um acordo com o Hamas, apesar de um ataque em Doha. Um camião-cisterna explodiu no México, causando mortos e feridos. O exército israelita intercetou um míssil lançado do Iémen. A NASA restringiu ainda mais o acesso de cientistas chineses aos seus programas espaciais.
+No plano político, Portugal e Japão estabeleceram uma parceria estratégica. André Ventura criticou Marcelo Rebelo de Sousa, confundindo uma festa com um festival de hambúrgueres.
 
-- Na economia, o BCE deverá manter as taxas de juro inalteradas. A Vista Alegre vendeu a sua participação na Índia e estabeleceu uma parceria com um gigante do luxo. A Bondalti mantém a sua agenda de hidrogénio verde, apesar das incertezas no mercado. A carência entre idosos portugueses na Venezuela aumentou.
+Na economia, o BCE deverá manter as taxas de juro inalteradas. A Vista Alegre vendeu a sua participação na Índia, enquanto a Bondalti mantém a sua agenda de hidrogénio verde. A agricultura portuguesa poderá perder milhões devido às restrições da UE aos pesticidas. A Teixeira Duarte valorizou após promoção ao PSI, e a Embraer vendeu 50 aviões para os EUA.
 
-- No âmbito da tecnologia, um investigador brasileiro afirma que a IA vai ajudar os médicos no diagnóstico, reduzindo erros.
+A nível internacional, Zelensky acusa a Rússia de testar a NATO com intensificação de ataques de drones, levando a Polónia a restringir o tráfego aéreo na sua fronteira leste. Israel declara-se pronto para um acordo com o Hamas, apesar de um ataque em Doha, enquanto o exército israelita intercetou um míssil lançado do Iémen. Um camião-cisterna explodiu no México, causando mortos e feridos. A família de Bolsonaro celebra um voto favorável à absolvição no processo de tentativa de golpe. A NASA restringiu ainda mais o acesso de cientistas chineses aos seus programas espaciais.  A Tunísia investiga um ataque a uma flotilha de ajuda humanitária para Gaza.
+
+Na área da saúde, a Inteligência Artificial vai auxiliar médicos no diagnóstico.
+
+No mundo da tecnologia, o cartão navegante no telemóvel entra em fase de testes na AML, enquanto a Alibaba aposta na 'cloud'.
+
+Outros destaques incluem a legalização de apostas desportivas em basquetebol em Hong Kong, a criação de uma reserva natural pela China num atol disputado com as Filipinas e a aprovação de uma vacina contra a clamídia em coalas australianos.

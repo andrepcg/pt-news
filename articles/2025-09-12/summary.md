@@ -1,11 +1,15 @@
-Resumo das notícias de 12 de setembro de 2025:
+Aqui estão os principais destaques das notícias de hoje:
 
-Em destaque internacional, Bolsonaro foi condenado a mais de 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar que irá recorrer. Os EUA e a China retomaram as negociações comerciais. A Rússia abateu 221 drones ucranianos num ataque massivo, enquanto o Reino Unido impôs novas sanções à Rússia, e o Príncipe Harry visitou Kyiv demonstrando apoio. Senadores dos EUA acusaram Israel de "limpeza étnica" em Gaza. A Polónia procura apoio na ONU devido a incursões de drones russos, levando a França a convocar o embaixador russo.
+**Política e Economia:** Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe de Estado, com a defesa a recorrer. Lula reafirmou que impedirá a amnistia para condenados pelo golpe. Na política nacional, o Chega ultrapassou a AD numa sondagem DN/Aximage, liderando as intenções de voto. Montenegro antecipa uma possível subida do rating de Portugal pela Fitch, que hoje avalia a situação do país. Empresas vão aplicar retenção na fonte total sobre prémios de produtividade. O Governo pretende concluir o inventário de imóveis do Estado até 2026. Ambientalistas pedem redução do IVA na eletricidade.
 
-No Brasil, Lula garantiu que vai impedir a amnistia para os condenados pelo golpe.
+**Mundo:** Os EUA e a China retomaram negociações comerciais em Madrid. A Rússia abateu 221 drones ucranianos num ataque massivo e o Príncipe Harry fez uma visita surpresa a Kyiv, prometendo apoio aos militares ucranianos. O Reino Unido impôs 100 novas sanções à Rússia. A Polónia procura apoio na ONU após uma incursão de drones russos, levando o governo francês a convocar o embaixador russo. Israel é acusado por senadores dos EUA de "limpeza étnica" em Gaza. O número de centenários no Japão atingiu um recorde de quase 100 mil pessoas.
 
-Em Portugal, o Chega ultrapassou a AD nas intenções de voto numa sondagem. Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha. A PSP registou menos furtos a casas no primeiro semestre de 2025. O Elevador da Glória pode ter tido um acidente causado por um cabo defeituoso. Ambientalistas defendem a redução do IVA na eletricidade. O Hospital de Setúbal tem restrições no serviço de obstetrícia. Os médicos exigem mais incentivos para zonas carenciadas. Foi noticiado que Lisboa tem o maior custo mediano na habitação no país. Um homem ficou gravemente ferido após queda em poço de elevador em Lisboa e os bombeiros protestaram por melhores condições de trabalho. A pianista Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva.
+**Portugal:** A PSP registou menos furtos a casas no primeiro semestre de 2025. O Elevador da Glória pode ter tido um acidente devido ao cabo. Lisboa apresenta o maior custo mediano na habitação. O Hospital de Setúbal tem restrições no serviço de obstetrícia. Médicos exigem incentivos para zonas carenciadas. A AIMA deu ordem de expulsão a imigrantes com filhos portugueses.
 
-Na economia, as empresas terão de aplicar retenção na fonte total sobre prémios de produtividade. A Startup Portugal defende um plano estratégico para o empreendedorismo. A Fitch avalia o rating de Portugal. A taxa Euribor desceu a 3, 6 e 12 meses após decisão do BCE. Os preços dos combustíveis mantêm-se estáveis. O Banco Sabadell rejeitou a OPA do BBVA.
+**Cultura:** Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. O filme "Banzo" é o candidato de Portugal aos Óscares para Melhor Filme Internacional.
 
-Outros destaques incluem o apoio humanitário de Timor-Leste a Bali, a receção pela China dos restos mortais de soldados mortos na Guerra da Coreia, um estudo sobre o uso de ferramentas na Idade da Pedra, e a revelação de detalhes da fuga do prisioneiro de Vale de Judeus.
+**Tecnologia e Empresas:** O novo portal Sapo aposta na IA para agregar conteúdos. A Microsoft terá que manter o Teams fora do Office na UE.
+
+**Timor-Leste:** Timor-Leste disponibilizou apoio humanitário a Bali e o Governo aprovou uma operação conjunta das Forças de Defesa e da Polícia até 2026.
+
+**Acidentes:** Queda em fosso de elevador no Campo Grande, em Lisboa, deixou um homem em estado grave.

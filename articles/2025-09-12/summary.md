@@ -1,13 +1,9 @@
-Hoje, a atualidade ficou marcada pela condenação de Bolsonaro a mais de 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar que irá recorrer. Relacionado com o Brasil, Lula garantiu que irá impedir qualquer amnistia para os condenados.
+No panorama nacional, o Chega ultrapassa a AD em intenções de voto, segundo sondagens, enquanto o PS e PSD divergem em soluções para Faro. A PSP registou menos furtos a casas no primeiro semestre e garante que a mensagem de prevenção contra o bullying está a ser transmitida nas escolas. Contudo, a Fenprof estima que 93 mil alunos iniciaram o ano letivo sem professores atribuídos. Lisboa mantém o maior custo mediano na habitação em Portugal, e os bombeiros protestaram em Lisboa por melhores condições de trabalho. O Elevador da Glória poderá ter sofrido um acidente devido a problemas no cabo.
 
-No plano internacional, os EUA e a China retomaram as negociações comerciais em Madrid, enquanto a Rússia abateu 221 drones ucranianos num ataque massivo. O Reino Unido impôs 100 novas sanções à Rússia, e o Príncipe Harry fez uma visita surpresa a Kyiv. A Polónia procura apoio na ONU após incursão de drones russos, levando o governo francês a convocar o embaixador russo. A NATO também reforçou a sua presença no flanco leste. Paralelamente, senadores dos EUA acusaram Israel de "limpeza étnica" em Gaza, considerando os EUA cúmplices.
+Na política, Montenegro foi dado como um "protesto formal" concertado na UE e mostra-se otimista quanto a uma possível subida do "rating" de Portugal pela Fitch, com Marcelo a concordar que a economia está no "bom caminho".
 
-Em Portugal, o Chega ultrapassou a AD nas intenções de voto segundo uma sondagem, e a pianista Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha e considerou que a economia portuguesa está no "bom caminho", com Montenegro a antecipar uma possível subida do rating de Portugal pela Fitch.
+No mundo, Bolsonaro foi condenado a mais de 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar que irá recorrer da sentença. Os EUA e a China retomaram negociações comerciais em Madrid, enquanto a Rússia abateu 221 drones ucranianos num ataque massivo. Timor-Leste disponibilizou apoio humanitário a Bali e o Governo aprovou uma operação conjunta das Forças de Defesa e da Polícia até 2026.
 
-A nível económico, foi anunciado que as empresas terão de aplicar retenção na fonte total sobre prémios de produtividade, e os preços dos combustíveis deverão manter-se estáveis na próxima semana. Lisboa destaca-se com o maior custo mediano na habitação.
+Na cultura, Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025, e o álbum "Banzo" foi escolhido como o candidato de Portugal aos Óscares. A Microsoft foi obrigada a manter o Teams fora do Office na União Europeia.
 
-No âmbito social, a PSP registou menos furtos a casas no primeiro semestre de 2025. Contudo, a AIMA deu ordem de expulsão a imigrantes com filhos portugueses, gerando controvérsia. A Fenprof estima que cerca de 93 mil alunos iniciaram o ano letivo sem todos os professores atribuídos.
-
-No desporto, o Benfica prepara-se para a Champions League após receber o Santa Clara, enquanto o FC Porto anunciou lucros de 21 milhões no último ano.
-
-Em Timor-Leste, o governo aprovou uma operação conjunta das Forças de Defesa e da Polícia até 2026, disponibilizando também apoio humanitário a Bali.
+Na economia, as empresas terão de aplicar retenção na fonte total sobre prémios de produtividade e o vinho português perde margem para combater as tarifas de Trump. Os preços dos combustíveis mantêm-se estáveis na próxima semana, e a taxa Euribor desceu a 3, 6 e 12 meses.

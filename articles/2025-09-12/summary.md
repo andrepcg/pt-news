@@ -1,15 +1,11 @@
-## Resumo do Dia - 12 de Setembro de 2025
+Hoje, Bolsonaro foi condenado a mais de 27 anos de prisão por tentativa de golpe de Estado, sentença da qual a defesa irá recorrer. Lula garantiu que impedirá qualquer amnistia para os condenados.
 
-**Política e Justiça:** Jair Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar que irá recorrer. Lula da Silva garantiu que vai impedir qualquer amnistia para os condenados pelo golpe. Em Portugal, o Chega reúne o seu Conselho Nacional para decidir sobre a candidatura às Presidenciais. Em Faro, PS e PSD apresentam visões diferentes para a cidade nas próximas eleições autárquicas. Um fugitivo de Vale de Judeus revelou detalhes da sua fuga.
+No plano internacional, os EUA e a China retomaram negociações comerciais em Madrid, enquanto a Rússia abateu 221 drones ucranianos num ataque massivo. Timor-Leste disponibilizou apoio humanitário a Bali, com o governo timorense a aprovar uma operação conjunta das Forças de Defesa e da Polícia até 2026 e a doar dois milhões de dólares em apoio. A China recebeu os restos mortais de soldados mortos na Guerra da Coreia, e o Ministro dos Negócios Estrangeiros de Taiwan visitou a Europa.
 
-**Economia e Finanças:** Os EUA e a China retomaram as negociações comerciais em Madrid. Em Portugal, as empresas terão de aplicar retenção na fonte total sobre os prémios de produtividade. A Startup Portugal defende um plano estratégico para o empreendedorismo. Lisboa apresenta o maior custo mediano na habitação. O vinho português enfrenta dificuldades para combater as tarifas de Trump.
+Em Portugal, o Chega reuniu o Conselho Nacional para decidir sobre a candidatura às Presidenciais, tendo ultrapassado a AD nas intenções de voto. Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha. Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. A PSP registou menos furtos a casas no primeiro semestre de 2025.
 
-**Mundo:** A Rússia anunciou ter abatido 221 drones ucranianos num ataque massivo. Timor-Leste disponibilizou apoio humanitário a Bali, com o governo a doar dois milhões de dólares. A China recebeu os restos mortais de soldados mortos na Guerra da Coreia. O FBI divulgou um vídeo do suspeito do homicídio do ativista Charlie Kirk.
+Na economia, as empresas terão de aplicar retenção na fonte total sobre prémios de produtividade. A Startup Portugal defende um plano estratégico para o empreendedorismo. Lisboa tem o maior custo mediano na habitação no país. Ambientalistas pedem a redução do IVA na eletricidade para 6%. O vinho português enfrenta dificuldades devido às tarifas de Trump. A Fitch avalia o rating de Portugal. A Lufthansa Technik, em parceria com a Teixeira Duarte e Ferreira Construção, vai construir uma fábrica em Santa Maria da Feira.
 
-**Sociedade:** A PSP registou menos furtos a casas no primeiro semestre de 2025. Um estudo revela que as mulheres ainda enfrentam obstáculos na progressão para cargos de topo.
+Na sociedade, o fugitivo de Vale de Judeus revelou detalhes da fuga, alegando facilidade devido à rotina dos guardas. A AIMA deu ordem de expulsão a imigrantes com filhos portugueses. Um estudo revelou que mulheres e crianças da Idade da Pedra também usavam ferramentas. Um cabo com "núcleo de corda de plástico" pode ter causado o acidente no Elevador da Glória. A Meo fez um acordo com a associação Mirabilis para diminuir a dependência digital dos mais novos.
 
-**Cultura:** Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025.
-
-**Tecnologia e Media:** O novo portal Sapo aposta na Inteligência Artificial para agregar conteúdos.
-
-**Nacional:** Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha.
+No desporto, o Benfica prepara-se para receber o Santa Clara antes de iniciar a Champions League.

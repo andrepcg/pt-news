@@ -1,15 +1,58 @@
-Aqui estão os principais destaques das notícias de hoje:
+## Resumo do Dia 2025-09-12
 
-**Política e Economia:** Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe de Estado, com a defesa a recorrer. Lula reafirmou que impedirá a amnistia para condenados pelo golpe. Na política nacional, o Chega ultrapassou a AD numa sondagem DN/Aximage, liderando as intenções de voto. Montenegro antecipa uma possível subida do rating de Portugal pela Fitch, que hoje avalia a situação do país. Empresas vão aplicar retenção na fonte total sobre prémios de produtividade. O Governo pretende concluir o inventário de imóveis do Estado até 2026. Ambientalistas pedem redução do IVA na eletricidade.
+**Política Nacional e Internacional:**
 
-**Mundo:** Os EUA e a China retomaram negociações comerciais em Madrid. A Rússia abateu 221 drones ucranianos num ataque massivo e o Príncipe Harry fez uma visita surpresa a Kyiv, prometendo apoio aos militares ucranianos. O Reino Unido impôs 100 novas sanções à Rússia. A Polónia procura apoio na ONU após uma incursão de drones russos, levando o governo francês a convocar o embaixador russo. Israel é acusado por senadores dos EUA de "limpeza étnica" em Gaza. O número de centenários no Japão atingiu um recorde de quase 100 mil pessoas.
+*   Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar recurso, inclusive a nível internacional. Lula garantiu que vai impedir qualquer amnistia para os condenados pelo golpe.
+*   O Chega ultrapassou a AD nas intenções de voto, segundo sondagens, liderando as preferências.
+*   Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha.
+*   O Governo francês convocou o embaixador russo devido à intrusão de drones na Polónia, que procura apoio dos aliados na ONU após o incidente.
+*   Timor-Leste disponibilizou apoio humanitário a Bali, com o Governo a aprovar uma operação conjunta das Forças de Defesa e da Polícia até 2026.
+*   Uma delegação de eurodeputados visitou Timor-Leste para fortalecer os laços com a UE.
+*   Taiwan: Ministro dos Negócios Estrangeiros visita Europa ao mesmo tempo que homólogo chinês.
 
-**Portugal:** A PSP registou menos furtos a casas no primeiro semestre de 2025. O Elevador da Glória pode ter tido um acidente devido ao cabo. Lisboa apresenta o maior custo mediano na habitação. O Hospital de Setúbal tem restrições no serviço de obstetrícia. Médicos exigem incentivos para zonas carenciadas. A AIMA deu ordem de expulsão a imigrantes com filhos portugueses.
+**Economia e Finanças:**
 
-**Cultura:** Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. O filme "Banzo" é o candidato de Portugal aos Óscares para Melhor Filme Internacional.
+*   A Fitch avalia hoje o rating de Portugal. Montenegro antecipa possível subida, defendendo que Portugal é um exemplo financeiro na Europa.
+*   A taxa Euribor desceu a 3, 6 e 12 meses após a decisão do BCE.
+*   Empresas terão de aplicar retenção na fonte total sobre prémios de produtividade.
+*   Ambientalistas pedem redução do IVA na eletricidade para 6%, igualando o gás.
+*   O preço dos combustíveis deverá manter-se estável na próxima semana: descida do gasóleo e subida da gasolina.
+*   Lisboa apresenta o maior custo mediano na habitação em Portugal.
+*   Banco Sabadell rejeitou a OPA do BBVA, apelando aos acionistas para recusarem.
+*   Governo quer inventariar imóveis do Estado até final de 2026.
+*   Portugal avança com grupos de IVA: o que muda para as empresas.
 
-**Tecnologia e Empresas:** O novo portal Sapo aposta na IA para agregar conteúdos. A Microsoft terá que manter o Teams fora do Office na UE.
+**Sociedade:**
 
-**Timor-Leste:** Timor-Leste disponibilizou apoio humanitário a Bali e o Governo aprovou uma operação conjunta das Forças de Defesa e da Polícia até 2026.
+*   A PSP registou menos furtos a casas no primeiro semestre de 2025. Garante que a mensagem de prevenção contra o bullying "está a passar" nas escolas.
+*   Um estudo revelou que mulheres e crianças da Idade da Pedra também usavam ferramentas.
+*   O número de centenários no Japão atingiu um recorde de quase 100 mil pessoas.
+*    AIMA dá ordem de expulsão a imigrantes com filhos portugueses.
+*   Fenprof estima cerca de 93 mil alunos sem professores atribuídos.
+*   Foi identificado o suspeito do homicídio do ativista Charlie Kirk, com Trump a confirmar a detenção.
+*   Aumento da mortalidade em agosto face a 2024.
 
-**Acidentes:** Queda em fosso de elevador no Campo Grande, em Lisboa, deixou um homem em estado grave.
+**Cultura:**
+
+*   Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025.
+*   "Banzo" é o candidato de Portugal aos Óscares para Melhor Filme Internacional.
+*   Editora suspendeu a publicação do livro de memórias de Juan Carlos.
+
+**Tecnologia e Inovação:**
+
+*   Novo portal Sapo aposta na IA para agregar conteúdos
+*   Microsoft obrigada a manter Teams fora do Office na União Europeia após queixa da Slack.
+
+**Desporto:**
+
+*   Benfica recebe Santa Clara antes de iniciar a Champions League.
+*   FC do Porto: SAD lucrou 21 milhões no ano passado.
+*   Portugal venceu a Polónia na Superfinal feminina da Liga Europeia de futebol de praia.
+
+**Outros:**
+
+* Mudança do cabo pode estar na origem do acidente no Elevador da Glória.
+* Gasóleo deverá descer e gasolina subir na próxima semana.
+* Colisão corta a EN2 em Mora, provocando três vítimas.
+* Homem fica gravemente ferido após queda em poço de elevador em Lisboa.
+* Dinamarca anuncia a maior compra de armas de sempre em defesa aérea.

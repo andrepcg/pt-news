@@ -1,13 +1,17 @@
-Aqui estão os principais destaques das notícias de hoje:
+Aqui estão as principais notícias de hoje, 12 de setembro de 2025:
 
-*   **Política Nacional:** Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe de Estado, decisão que a defesa irá recorrer. Lula assegura que impedirá qualquer amnistia para os condenados pelo golpe. Em Portugal, o Chega ultrapassa a AD nas intenções de voto, segundo sondagem DN/Aximage. Marcelo Rebelo de Sousa iniciou uma visita oficial à Alemanha e Montenegro antecipa uma possível subida do rating de Portugal pela Fitch. O governo pretende concluir o inventário de imóveis do Estado até 2026.
+**Política Nacional e Internacional:** Destaque para a condenação de Bolsonaro a 27 anos de prisão por tentativa de golpe de Estado, com a defesa a anunciar recurso. Lula garantiu que irá impedir qualquer amnistia para os condenados. Em Portugal, o Chega ultrapassou a AD nas intenções de voto numa sondagem DN/Aximage, liderando as intenções de voto. Marcelo Rebelo de Sousa está na Alemanha em visita oficial e Montenegro sinaliza possível subida do "rating" de Portugal pela Fitch. A Polónia procura apoio na ONU após a incursão de drones russos. A China recebeu os restos mortais de soldados mortos na Guerra da Coreia. Os EUA avisaram que defenderão "cada centímetro" do território da NATO após incidentes com drones russos. A ONU aprovou uma resolução para a solução de dois Estados entre Israel e Palestina, com Israel a condenar a decisão. Alemanha, França e Reino Unido exigem cessar-fogo imediato em Gaza.
 
-*   **Economia:** A Fitch avalia o rating de Portugal. Empresas são obrigadas a aplicar retenção na fonte total sobre prémios de produtividade. Startup Portugal defende um plano estratégico para o empreendedorismo. O vinho português enfrenta dificuldades devido às tarifas de Trump. Os preços dos combustíveis mantêm-se estáveis.
+**Economia:** A Fitch elevou o "rating" de Portugal para A com perspetiva estável. As empresas terão de aplicar retenção na fonte total sobre prémios de produtividade. O vinho português está a perder margem para combater as tarifas de Trump. Lisboa tem o maior custo mediano na habitação no país. Os preços dos combustíveis mantêm-se estáveis na próxima semana. As taxas Euribor desceram a 3, 6 e 12 meses após a decisão do BCE. O Banco Sabadell rejeitou a OPA do BBVA.
 
-*   **Sociedade:** Lisboa tem o maior custo mediano na habitação em Portugal. Um fugitivo de Vale de Judeus revelou detalhes da sua fuga. Existe preocupação com a falta de professores para cerca de 93 mil alunos. A PSP garante que a mensagem de prevenção contra o bullying "está a passar" nas escolas. Lisboa está a investigar as causas do acidente no Elevador da Glória, que poderá ter sido causado por um cabo defeituoso.
+**Sociedade:** A PSP registou menos furtos a casas no primeiro semestre de 2025. Um homem ficou gravemente ferido após queda num poço de elevador em Lisboa, com a causa a poder estar relacionada com o cabo. A Fenprof estima cerca de 93 mil alunos sem professores atribuídos.
 
-*   **Mundo:** EUA e China retomaram as negociações comerciais em Madrid. A Rússia abateu 221 drones ucranianos em um ataque massivo. Timor-Leste disponibiliza apoio humanitário a Bali. A China recebeu os restos mortais de soldados mortos na Guerra da Coreia. O FBI divulgou um vídeo do suspeito do homicídio do ativista Charlie Kirk, já detido. O número de centenários no Japão atingiu um recorde de quase 100 mil pessoas. O Príncipe Harry fez uma visita surpresa a Kyiv e prometeu apoio aos militares ucranianos. Vários países ponderam boicotar a Eurovisão devido à participação de Israel. ONU aprova resolução para solução de dois Estados para Israel e Palestina, mas Israel condena.
+**Mundo:** A Rússia abateu 221 drones ucranianos num ataque massivo. O número de centenários no Japão atingiu um recorde de quase 100 mil pessoas. Um suspeito foi detido no caso do homicídio do ativista Charlie Kirk nos EUA.
 
-*   **Cultura:** Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. "Banzo" foi o filme escolhido para representar Portugal nos Óscares.
+**Timor-Leste:** O Governo timorense disponibilizou apoio humanitário a Bali e aprovou uma operação conjunta das Forças de Defesa e da Polícia até 2026.
 
-*   **Desporto:** O Benfica venceu o Santa Clara antes de iniciar a Champions League.
+**Cultura:** Maria João Pires venceu o Prémio Europeu Helena Vaz da Silva 2025. O filme "Banzo" é o candidato de Portugal aos Óscares para Melhor Filme Internacional.
+
+**Desporto:** O Benfica empatou com o Santa Clara (1-1) e o Alverca conquistou a primeira vitória na I Liga frente ao Tondela (1-0). Jota Silva foi emprestado ao Besiktas.
+
+**Tecnologia:** O novo portal Sapo aposta na IA para agregar conteúdos.

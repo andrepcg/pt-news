@@ -1,17 +1,9 @@
-## Resumo do Dia 2025-09-13
+Em Portugal, o dia ficou marcado pela vitória de Portugal sobre Cuba no Mundial de Voleibol, após 23 anos de ausência. Contudo, também se registaram protestos em Lisboa contra a reforma laboral e em defesa dos bombeiros, além de uma greve dos guardas prisionais de Alcoentre. Um incêndio em Murça mobilizou mais de 300 operacionais. A nível político, André Ventura deverá anunciar a sua decisão sobre as presidenciais até terça-feira, enquanto o PS realizou uma convenção autárquica em Coimbra e o Livre discutiu estratégias para as autárquicas. Marcelo Rebelo de Sousa trocou hambúrgueres por Bolas de Berlim na Alemanha.
 
-Em Portugal, destaque para a estreia vitoriosa da seleção no Mundial de Voleibol após 23 anos de ausência, a forte mobilização de operacionais no combate a um incêndio em Murça, e a greve dos guardas prisionais de Alcoentre. Em Lisboa, registaram-se protestos contra a reforma laboral e em defesa dos bombeiros, enquanto a convenção autárquica do PS decorreu em Coimbra, com o partido a discutir estratégias para as próximas eleições. A Força Especial de Proteção Civil foi reforçada e Vale Formoso, no Porto, abre à comunidade antes de ser reabilitado. Lamentavelmente, um atropelamento ferroviário em Santarém causou uma vítima mortal e duas mulheres morreram atropeladas por um comboio em Mesão Frio. Registou-se ainda um reacendimento do incêndio em Murça.
+Na economia, a Fitch subiu o rating de Portugal e registou-se um aumento do preço do pequeno-almoço.
 
-No plano económico, a Fitch subiu o rating de Portugal, um feito considerado "uma conquista" pelo ministro das Finanças, contrastando com o aumento do preço do pequeno-almoço e as críticas do PCP face às dificuldades da população.
+No mundo, um sismo de magnitude 7,1 atingiu o Leste da Rússia e a China garantiu aos EUA que não solicitará dados do TikTok. A Coreia do Norte pretende combinar armas nucleares com forças convencionais e a Ucrânia não deve ceder território à Rússia, segundo o chefe da diplomacia da UE. Um drone russo violou o espaço aéreo da Roménia. Em Londres, milhares protestaram contra a imigração. Israel intensificou ataques em Gaza, provocando um elevado número de deslocados. Vários Estados europeus preparam-se para reconhecer formalmente a Palestina. Também foi noticiada uma explosão num bar em Madrid com vários feridos.
 
-Na política nacional, André Ventura deverá anunciar a sua decisão sobre as presidenciais até terça-feira, recandidatando-se também à liderança do Chega. O Livre também discutiu estratégias para as autárquicas e a CDU participará nos debates da SIC em Lisboa e Porto na sequência da decisão da ERC.
+No desporto, Caio Bonfim agradeceu o apoio do Benfica após a conquista no Mundial de Atletismo, enquanto Enzo Barrenechea está em risco de suspensão no Benfica. João Vieira estabeleceu um recorde com 14 participações nos Mundiais de Atletismo.
 
-A nível internacional, um sismo de magnitude 7,1 atingiu o leste da Rússia, e Pequim garantiu aos EUA que não solicitará dados do TikTok. A NATO mantém-se consciente da necessidade de se preparar para novas ameaças. O governo português condenou a passagem de navios militares ocidentais no Estreito de Taiwan e a China criticou as ações. O chefe da diplomacia da UE rejeitou cedências territoriais à Rússia, enquanto a Coreia do Norte pretende combinar armas nucleares com forças convencionais. Em Londres, milhares protestaram contra a imigração. Ataques aéreos israelitas no Iémen e em Gaza causaram mortos e Israel intensificou os ataques em Gaza, causando deslocamento de pessoas.
-
-No desporto, Caio Bonfim conquistou uma medalha de prata no Mundial de Atletismo e João Vieira estabeleceu um recorde com 14 participações. Enzo Barrenechea está em risco de suspensão no Benfica, enquanto Rúben Amorim está a ser seguido pelo Manchester United. Vingegaard venceu etapa e João Almeida garantiu o 2.º lugar na Vuelta.
-
-Na área da saúde, os serviços de urgência de obstetrícia e ginecologia encerraram no fim de semana e o Hospital de Évora limitou a admissão de utentes na urgência.
-
-Um grupo de orcas afundou um veleiro próximo da Costa da Caparica.
-
-Assinalaram-se os 40 anos do "Super Mario Bros.".
+Outros temas relevantes incluem o encerramento de serviços de urgência de obstetrícia e ginecologia em vários hospitais durante o fim de semana, o reforço da Força Especial de Proteção Civil, o 40º aniversário de "Super Mario Bros." e um atropelamento mortal na Linha do Norte, em Santarém. Na Costa da Caparica, um veleiro foi afundado por orcas.

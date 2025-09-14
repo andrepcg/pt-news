@@ -1,11 +1,13 @@
-Hoje, o encerramento temporário da obstetrícia em Almada e as falhas no SNS dominam as preocupações na área da saúde. No país, investiga-se a morte de um jovem militar em Abrantes. Na política, Ventura prepara-se para as presidenciais e o PSD Viseu define o seu programa autárquico, enquanto o Livre propõe soluções para a habitação. Álvaro Santos Pereira foi nomeado Governador do Banco de Portugal.
+As notícias de hoje, 14 de setembro de 2025, em Portugal e no mundo:
 
-No panorama internacional, a China acusa as Filipinas de aliança com forças externas, a Coreia do Norte alerta sobre exercícios militares de Seul e Washington, e a Austrália investe fortemente em submarinos nucleares. A Ucrânia reivindica ataques em território russo. Registam-se tensões no Médio Oriente, com o Secretário de Estado dos EUA a visitar Israel e relatos de mais mortes em Gaza devido a bombardeamentos.
+Em Portugal, a obstetrícia em Almada volta a encerrar por falta de soluções, gerando críticas à gestão do SNS, que celebra 46 anos com falta de médicos e enfermeiros. O bastonário dos Médicos manifesta preocupação com as urgências de obstetrícia. Um jovem militar morreu em Abrantes, com a PJ Militar a investigar o caso. Na política, Ventura prepara-se para as próximas presidenciais e o PSD Viseu define prioridades para as autárquicas. Álvaro Santos Pereira foi nomeado Governador do Banco de Portugal. A Confederação do Comércio rejeitou a proposta do Governo para as leis do trabalho. A capital do móvel sofreu um despiste em evento automóvel que causou três feridos.
 
-Na educação, Medicina no Porto mantém a média de entrada mais alta, enquanto cursos para professores enfrentam forte procura. O destino académico preferido por jovens portugueses são agora os Países Baixos.
+No ensino superior, a média de entrada em Medicina no Porto mantém-se alta, enquanto cursos de professores têm procura elevada, mas vagas limitadas. Apenas metade dos candidatos à 2ª fase do ensino superior foram colocados.
 
-No desporto, Portugal perdeu na Taça Davis contra o Peru e o Inter Miami de Messi foi goleado. Fala-se de um possível regresso de Bernardo Silva ao Benfica. Miguel Oliveira obteve o 9.º lugar em San Marino no MotoGP, quenianos dominaram a Meia Maratona do Porto e Sevilla devolve 100m à Jamaica nos Mundiais de Atletismo.
+Relativamente à economia, o Banco do Brasil expande operações em Portugal, visando o acordo Mercosul-UE. Há consenso sobre a lei das criptomoedas, mas Portugal poderá estar a perder riqueza.
 
-Na cultura, lamenta-se a morte do músico brasileiro Hermeto Pascoal.
+No desporto, Portugal foi derrotado pelo Peru na Taça Davis, enquanto Messi sofreu uma humilhação com o Inter Miami. Especula-se sobre um possível regresso de Bernardo Silva ao Benfica. Quenianos dominaram a Meia Maratona do Porto. Miguel Oliveira terminou em nono no MotoGP em San Marino.
 
-Outros temas incluem a apreensão de amêijoa-japonesa em Alcochete, o risco máximo de incêndios em vários concelhos e um acidente grave durante um evento de carros em Vila do Conde com três feridos.
+A nível global, a China acusa as Filipinas de aliança com forças externas. A Coreia do Norte alerta sobre exercícios militares de Seul e Washington. A Austrália investe em submarinos nucleares. A Ucrânia reivindica ataques a refinarias russas. Uma explosão em Madrid causou um morto e vários feridos. Nos EUA, a morte de Charlie Kirk gerou polémica. Em Gaza, mais de 40 pessoas morreram devido a bombardeamentos.
+
+Na cultura, Hermeto Pascoal, músico brasileiro, faleceu. Em Lisboa, decorre o Festival Olhares do Mediterrâneo.

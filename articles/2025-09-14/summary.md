@@ -1,7 +1,11 @@
-Em destaque neste dia, o encerramento temporário da obstetrícia em Almada devido à falta de soluções no SNS, enquanto a Polícia Judiciária Militar investiga a morte de um jovem militar em Abrantes. No panorama político, discute-se a posição de Ventura nas próximas presidenciais e o crescimento do Chega entre os mais jovens.
+Hoje, em Portugal, a obstetrícia em Almada encerrou após 13 dias devido à falta de soluções, enquanto a morte de um jovem militar em Abrantes está sob investigação da PJ Militar. Na política, Ventura prepara-se para as próximas presidenciais, e o PSD Viseu delineia o seu programa eleitoral autárquico. O Livre propõe resolver o problema da habitação, e Montenegro entregou o cheque da casa.
 
-Na economia, o Banco do Brasil expande as suas operações em Portugal, de olho no acordo Mercosul-UE. Paralelamente, a IA portuguesa Amália não será disponibilizada ao público.
+Na educação, os Países Baixos tornaram-se um destino académico preferido por jovens portugueses, a média de entrada em Medicina no Porto mantém-se alta, e os cursos para professores têm uma procura elevada.
 
-A nível internacional, a Ucrânia utiliza apps e o Telegram para alertar sobre a necessidade de procurar refúgio, a China acusa as Filipinas de alinhamento com forças externas, a Coreia do Norte manifesta preocupação com exercícios militares de Seul e Washington, e a Austrália investe em submarinos nucleares. Os Países Baixos ganham popularidade como destino académico para estudantes portugueses.
+Na economia, o Banco do Brasil expande as suas operações em Portugal com vista a um acordo Mercosul-UE, e o comércio rejeita a proposta do Governo para as leis do trabalho.
 
-No desporto, Portugal foi derrotado pelo Peru na Taça Davis, o Inter Miami de Messi sofreu uma pesada derrota, e levanta-se a possibilidade do regresso de Bernardo Silva ao Benfica. Sporting e FC Porto mantêm-se invictos.
+No mundo, a China acusa as Filipinas de aliança com forças externas, a Coreia do Norte alerta sobre exercícios militares de Seul e Washington, e a Austrália investe em submarinos nucleares. Apps e o Telegram ajudam ucranianos a decidir quando ir para os bunkers. O funeral de Charlie Kirk será a 21 de setembro no Arizona.
+
+No desporto, Portugal foi derrotado pelo Peru na Taça Davis, o Inter Miami foi humilhado, e discute-se o possível regresso de Bernardo Silva ao Benfica. Sporting e FC Porto mantêm-se invictos, e um tribunal brasileiro retirou a suspensão de Bruno Henrique.
+
+Outras notícias incluem o não lançamento ao público da IA portuguesa Amália, o debate sobre o património colonial de Braga no Festival Paraíso, a apreensão de amêijoa-japonesa em Alcochete e o risco máximo de incêndio em 14 concelhos de Portugal.

@@ -1,11 +1,9 @@
-Em Portugal, o encerramento temporário da obstetrícia em Almada devido à falta de soluções e as críticas à gestão do SNS marcaram o dia na saúde. Um jovem militar faleceu em Abrantes, com a PJ Militar a investigar o caso. No ensino, verificou-se que apenas metade dos candidatos à 2ª fase do ensino superior foram colocados, enquanto Medicina no Porto mantém a média de entrada mais alta e os cursos de professores continuam a ser bastante procurados.
+Em Portugal, o encerramento temporário da urgência de obstetrícia em Almada e as falhas no SNS geram preocupação, enquanto o PSD Viseu delineia o seu programa autárquico e o Livre propõe soluções para a habitação. A educação é tema de destaque, com Medicina no Porto a manter a média de entrada mais alta e muitos a procurarem cursos de professores, apesar das vagas limitadas bem como metade dos candidatos à 2ª fase terem sido colocados no ensino superior. Álvaro Santos Pereira foi nomeado Governador do Banco de Portugal.
 
-Na política, destaque para a nomeação de Álvaro Santos Pereira como Governador do Banco de Portugal e para as discussões sobre habitação pelo Livre. Ventura prepara-se para as próximas presidenciais e o PSD Viseu definiu as suas prioridades eleitorais. O Primeiro-Ministro português quebrou o sigilo ao anunciar a subida do rating por agência Fitch.
+No mundo, a China acusa as Filipinas de aliança com forças externas, enquanto a Coreia do Norte alerta sobre exercícios militares de Seul e Washington. A Austrália investe fortemente em submarinos nucleares. A guerra na Ucrânia continua, com relatos de ataques e a população a recorrer a apps para se proteger. Registam-se tensões no Médio Oriente, com um palestiniano galardoado com um Óscar a denunciar a invasão da sua casa por forças israelitas, e o Secretário de Estado dos EUA a reunir-se com Netanyahu. Há ainda notícias de uma explosão fatal em Madrid e de protestos de extrema-direita em Londres.
 
-No mundo, a China acusou as Filipinas de aliança com forças externas, enquanto a Coreia do Norte alertou sobre exercícios militares de Seul e Washington. A Austrália anunciou um investimento significativo em submarinos nucleares. A Ucrânia reivindicou um ataque a uma refinaria russa e apps e Telegram ajudam a decidir se devem descer para a bunker.
+No desporto, Portugal perdeu a eliminatória da Taça Davis contra o Peru, e Messi foi criticado após uma derrota do Inter Miami. No futebol português, Sporting e FC Porto mantêm-se invictos.
 
-No desporto, Portugal foi derrotado pelo Peru na Taça Davis, enquanto Messi não brilhou na derrota do Inter Miami. Há especulações sobre o possível regresso de Bernardo Silva ao Benfica.
+Na cultura, destaque para a morte do músico brasileiro Hermeto Pascoal e para o festival Olhares do Mediterrâneo em Lisboa.
 
-Na cultura, destaque para o debate sobre o património colonial em Braga e para o falecimento do músico brasileiro Hermeto Pascoal.
-
-A GNR apreendeu uma grande quantidade de amêijoa-japonesa em Alcochete.
+Foi ainda noticiada a morte de um jovem militar em Abrantes, com a PJ Militar a investigar o caso.

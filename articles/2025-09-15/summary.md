@@ -1,35 +1,13 @@
-Aqui estão os principais destaques das notícias de hoje, 15 de setembro de 2025:
+Esta segunda-feira ficou marcada por tensões internas e externas. Em Timor-Leste, a polícia dispersou manifestantes estudantis, enquanto no Nepal o governo retomou serviços essenciais após distúrbios. A Austrália enfrenta ameaças das alterações climáticas e na Guiné-Bissau critica-se o silêncio de Portugal.
 
-**Política e Sociedade:**
+Na Europa, oito concelhos em Portugal estão sob perigo máximo de incêndio, e as urgências de obstetrícia na Margem Sul encerraram por falta de médicos. O PCP propõe fixar médicos no SNS. A nível económico, os preços dos combustíveis mantêm-se estáveis, enquanto Jerónimo Martins expande Biedronka na Eslováquia, mas enfrenta desafios na Polónia. A dona do Licor Beirão comprou a Sheridan's. O Procurador Europeu alertou para fragilidades nos portos portugueses. A Fitch melhorou o rating de Portugal.
 
-*   Em Timor-Leste, a polícia dispersou manifestantes estudantis com gás lacrimogéneo, enquanto o Presidente apelou à calma. Deputados recuaram na compra de viaturas após os protestos. A União Europeia reduziu a delegação no país, o que é considerado um "problema sério".
-*   O PCP quer fixar médicos no SNS e impedir a "privatização" dos cuidados de saúde, enquanto Marcelo Rebelo de Sousa defende o SNS como "pilar fundamental" da democracia. Médicos exigem a reconstrução do SNS para evitar o seu colapso. As urgências de obstetrícia da margem sul encerraram devido à falta de médicos.
-*   Na Alemanha, a CDU venceu na Renânia do Norte-Vestfália, mas o AfD ganhou terreno. A popularidade de Marcelo Rebelo de Sousa está em queda na reta final do mandato.
+No mundo tecnológico, a agenda nacional de Inteligência Artificial será apresentada no quarto trimestre e a xAI de Elon Musk despediu funcionários. Trump afirmou que o futuro do TikTok nos EUA depende da China.
 
-**Economia e Finanças:**
+Na cultura, os Emmys 2025 destacaram "The Studio" e "Adolescência", com um protesto em prol da Palestina. A Orquestra Metropolitana de Lisboa abriu a nova temporada, e o Oceanário de Lisboa reabriu o espaço dos pinguins. Jamiroquai foi confirmado no CoolJazz 2026.
 
-*   A Fitch melhorou o rating de Portugal, com os juros da dívida da Zona Euro a aliviarem. Os gestores do Novo Banco estão a caminho de receber bónus milionários após a venda da instituição.
-*   A Dona do Licor Beirão comprou a Sheridan's e prevê duplicar a faturação. A Jerónimo Martins está a expandir a Biedronka na Eslováquia, mas enfrenta problemas na Polónia.
-*   Os preços dos combustíveis mantêm-se estáveis.
-*   A Savannah anunciou um aumento significativo de lítio na mina do Barroso.
-*   A Ponte Vasco da Gama estará fechada ao trânsito na madrugada de terça-feira para manutenção. Os sindicatos da CP exigem o cumprimento imediato do acordo salarial.
+No desporto, Diallo qualificou-se para as meias-finais dos 400 metros barreiras em Tóquio, e Rui Pinto terminou a maratona no 42.º lugar. Portugal participará no Mundial de Natação Paralímpica e estará no Mundial feminino de futsal.
 
-**Mundo:**
+Houve ainda desenvolvimentos políticos, com a CDU a vencer na Renânia do Norte-Vestfália, e a popularidade de Marcelo a cair. A associação Zero exortou o parlamento a reduzir emissões. O Secretário de Estado da Agricultura está sob investigação por suspeitas de corrupção.
 
-*   A Austrália está a ser ameaçada pelas alterações climáticas, com a subida do nível do mar e o calor extremo.
-*   Trump afirma que o futuro do TikTok nos EUA depende da China.
-*   A Rússia negou envolvimento no incidente com drone na Roménia e culpou a Ucrânia. Kiev reivindicou ataques à rede ferroviária russa.
-*   A China multou adolescentes por urinarem num caldeirão de sopa.
-
-**Cultura e Desporto:**
-
-*   Nos Emmys 2025, "The Studio" e "Adolescência" foram os destaques, com uma atriz a protestar pela Palestina. "O Compositor" venceu o Prémio MOTELX de melhor 'curta' portuguesa de terror.
-*   Fatoumata Diallo qualificou-se para as meias-finais dos 400 metros barreiras nos Mundiais de Atletismo. Rui Pinto terminou a maratona no 42.º lugar.
-
-**Outros:**
-
-*   Oito concelhos em Portugal estão sob perigo máximo de incêndio. Quatro distritos estão sob aviso amarelo devido ao tempo quente.
-*   A GNR intensificou a fiscalização de veículos de duas rodas.
-*   O Procurador Europeu alertou para a fragilidade nos portos portugueses e o risco de crime organizado.
-*   O Governo apresentará a Agenda Nacional de Inteligência Artificial no quarto trimestre.
-*   A xAI, de Elon Musk, despediu 500 funcionários.
+Por fim, registaram-se vários incidentes internacionais, incluindo ataques na Ucrânia e Moçambique, e tensões com um drone na Roménia.

@@ -1,15 +1,13 @@
-Em resumo das notícias de hoje, 15 de setembro de 2025:
+Hoje, em Portugal, oito concelhos estão sob perigo máximo de incêndio e as urgências de obstetrícia na Margem Sul encontram-se encerradas por falta de médicos, um problema que o PCP quer resolver fixando profissionais no SNS. Marcelo Rebelo de Sousa defende o SNS como pilar fundamental da democracia, enquanto os médicos exigem a sua reconstrução, alertando para o risco de o perder. Os preços dos combustíveis mantêm-se estáveis.
 
-No **Mundo**, a polícia timorense dispersou manifestantes estudantes com gás lacrimogéneo, levando o Presidente a apelar à calma, enquanto no Nepal o governo retomou serviços essenciais após distúrbios. A Austrália enfrenta ameaças graves devido às alterações climáticas, incluindo a subida do nível do mar e ondas de calor extremo. Em África, o salário mínimo em Angola não garante as necessidades básicas das famílias, e na Guiné-Bissau, Remna Schwarz criticou o silêncio de Portugal face a problemas locais.
+No mundo, a polícia timorense dispersou manifestantes estudantes com gás lacrimogéneo, levando o Presidente a apelar à calma, enquanto no Nepal o governo retomou serviços essenciais após distúrbios. A Austrália enfrenta ameaças das alterações climáticas e Angola debate-se com um salário mínimo que não garante as necessidades básicas das famílias. Remna Schwarz critica o silêncio de Portugal em relação à Guiné-Bissau. Na Alemanha, a CDU venceu na Renânia do Norte-Vestfália, com AfD a ganhar terreno.
 
-Nos **Estados Unidos**, Trump declarou que o futuro do TikTok depende da China.
+Na área empresarial, a Jerónimo Martins expande a Biedronka na Eslováquia, mas enfrenta problemas na Polónia, e a dona do Licor Beirão compra a Sheridan's. Gestores do Novo Banco receberam bónus de 1,1 mil milhões com a venda. Uma empresa de Ponte de Lima adquiriu a marca Chipicao na Ibéria e França.
 
-Em **Portugal**, oito concelhos estão sob perigo máximo de incêndio, e as urgências de obstetrícia na margem sul estão encerradas devido à falta de médicos. O PCP propõe medidas para fixar médicos no SNS e impedir a "privatização" dos cuidados de saúde. O Procurador Europeu alertou para a fragilidade nos portos portugueses e o risco de crime organizado. No âmbito **Económico**, os preços dos combustíveis mantêm-se estáveis, enquanto o regulador aguarda um estudo sobre a "ecotaxa" dos resíduos. A Jerónimo Martins expande a Biedronka na Eslováquia, mas enfrenta problemas na Polónia e a dona do Licor Beirão comprou a Sheridan's, prevendo duplicar a faturação.
+Na tecnologia, o Governo apresentará a Agenda Nacional de Inteligência Artificial no quarto trimestre. Trump afirmou que o futuro do TikTok nos EUA depende da China.
 
-Na **Cultura**, "The Studio" e "Adolescência" foram os principais destaques nos Emmys 2025, onde uma atriz protestou pela Palestina. A Orquestra Metropolitana de Lisboa abriu a nova temporada com obras de Schubert, Schostakovich e Haydn.
+Nos desportos, Diallo qualificou-se para as meias-finais dos 400 metros barreiras em Tóquio.
 
-No **Desporto**, Diallo qualificou-se para as meias-finais dos 400 metros barreiras em Tóquio.
+Na cultura, os Emmys 2025 destacaram "The Studio" e "Adolescência", com uma atriz a protestar pela Palestina. A Orquestra Metropolitana de Lisboa abriu a nova temporada e "O Compositor" venceu o Prémio MOTELX de melhor curta portuguesa de terror.
 
-Na **Tecnologia**, o Governo apresentará a Agenda Nacional de Inteligência Artificial no quarto trimestre.
-
-Por fim, no mundo do **Trabalho**, destaca-se a importância de trabalhadores adaptáveis, mas reconhece-se o valor dos 'velhos do Restelo'.
+Outros temas incluem o alerta do Procurador Europeu para a fragilidade nos portos portugueses face ao crime organizado, a discussão sobre a 'ecotaxa' dos resíduos, a intensificação da fiscalização de veículos de duas rodas pela GNR e o estudo que revela um alimento que pode reduzir a gordura do fígado em 50%.

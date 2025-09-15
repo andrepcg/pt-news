@@ -1,52 +1,8 @@
-Aqui estão os principais destaques do dia 15 de setembro de 2025:
+Aqui estão os principais destaques das notícias de hoje:
 
-**Política e Economia:**
-
-*   Em Portugal, o Secretário de Estado da Agricultura está sob investigação por suspeitas de corrupção, enquanto o PCP defende a fixação de médicos no SNS. O Governo apresentará a Agenda Nacional de Inteligência Artificial no quarto trimestre. O Tribunal Constitucional apoia artigo sobre 'Outsourcing' pós-despedimento e a ministra da saúde anuncia novas regras para atrair médicos ao SNS.
-*    A Fitch melhorou o rating de Portugal. Os juros da dívida da Zona Euro estão em alívio.
-*   No cenário internacional, a CDU venceu as eleições na Renânia do Norte-Vestfália, na Alemanha, onde o AfD também ganhou terreno. As autoridades chinesas multaram adolescentes por urinarem numa panela de 'hot pot'.
-* Deputados timorenses cederam e recuaram na compra de viaturas de luxo após forte contestação pública, enquanto a polícia dispersou violentamente uma manifestação de estudantes.
-*   Aumento do Salário mínimo em Angola não garante necessidades básicas familiares.
-*   Elon Musk é acusado de ter despedido mais de 500 funcionários da sua empresa xAI.
-*    Aconteceu a Reabertura da casa dos pinguins no Oceanário de Lisboa após remodelações.
-
-**Saúde:**
-
-*   As urgências de obstetrícia da margem sul do Tejo estão encerradas devido à falta de médicos, enquanto médicos exigem a reconstrução do SNS. O PRR viu instituições desistirem de centenas de camas de cuidados continuados.
-*   O SNS está a testar um novo sistema (SINNAC) no IPO do Porto e ULS de Coimbra e Vale do Ave.
-
-**Clima e Ambiente:**
-
-*   Oito concelhos em Portugal estão sob perigo máximo de incêndio. Distritos estão sob aviso amarelo devido ao aumento das temperaturas.
-*   A associação Zero apelou ao parlamento para reduzir as emissões de carbono.
-
-**Cultura e Desporto:**
-
-*   Os Emmys 2025 premiaram "The Studio" e "Adolescência", com um protesto a favor da Palestina a marcar a cerimónia. A Orquestra Metropolitana de Lisboa abriu a nova temporada.
-*   No desporto, Diallo qualificou-se para as meias-finais dos 400 metros barreiras, e Rui Pinto terminou a maratona nos Mundiais de Atletismo em 42º lugar. Portugal irá participar no Mundial feminino de futsal.
-
-**Empresas:**
-
-*   A Jerónimo Martins está a expandir a Biedronka na Eslováquia, mas enfrenta desafios na Polónia. A dona do Licor Beirão comprou a Sheridan's e prevê duplicar a faturação. Gestores do Novo Banco estão a caminho de receber bónus milionários. Savannah anunciou um aumento significativo de lítio na mina do Barroso.
-
-**Segurança e Justiça:**
-
-*   Um procurador Europeu alertou para a fragilidade nos portos portugueses e o risco de crime organizado. O caso Maddie McCann continua sem resolução, com o principal suspeito a recusar prestar declarações.
-
-**Tecnologia:**
-
-*   Trump afirmou que o futuro do TikTok nos EUA depende da China.
-
-**Conflitos e Relações Internacionais:**
-
-*   A Rússia negou envolvimento num incidente com um drone na Roménia, culpando a Ucrânia. Kiev reivindicou ataques à rede ferroviária russa. Uma flotilha humanitária partiu da Tunísia rumo a Gaza.
-
-**Transportes:**
-
-*   A Ponte Vasco da Gama estará fechada ao trânsito na madrugada de terça-feira para manutenção.
-
-**Sociedade:**
-
-*   Um professor condenado por abusos volta a ser colocado, com o ministro a garantir o seu afastamento dos alunos.
-
-**Nota:** Este resumo reúne os principais eventos noticiados no dia 15 de setembro de 2025, com o objetivo de fornecer uma visão geral concisa e abrangente dos acontecimentos mais relevantes.
+**Política e Economia:** Portugal enfrenta desafios com o SNS, levando a protestos e discussões sobre financiamento e gestão, enquanto o Governo lida com a crise habitacional em Lisboa e a necessidade de reformas nas leis laborais. A PJ investiga o Secretário de Estado da Agricultura por corrupção. No panorama económico, a Fitch melhorou o rating de Portugal, mas há preocupações com a fragilidade dos portos portugueses e o risco de crime organizado. A nível empresarial, a Dona do Licor Beirão comprou a Sheridan's e a Jerónimo Martins expande-se na Eslováquia, enquanto a Savannah anuncia mais lítio na mina do Barroso.
+**Mundo:** A polícia timorense dispersou manifestantes estudantis e o Presidente apelou à calma. Trump abordou o futuro do TikTok nos EUA, dependendo da China. A Guiné-Bissau criticou o silêncio de Portugal sobre questões culturais. A Rússia negou envolvimento num incidente com um drone na Roménia, culpando a Ucrânia, que, por sua vez, reivindicou ataques à rede ferroviária russa.
+**Social:** A crise na obstetrícia causou o encerramento de urgências na Margem Sul devido à falta de médicos. Há preocupações com o aumento das temperaturas e o perigo de incêndios em vários concelhos de Portugal. Bombeiros reivindicam melhores condições de trabalho. Foi noticiado um caso de agressão mortal com arma branca no Cartaxo. A China multou adolescentes por urinarem numa panela de "hot pot".
+**Cultura e Desporto:** Os Emmys 2025 destacaram "The Studio" e "Adolescência", com um protesto pela Palestina. A Orquestra Metropolitana de Lisboa abriu a nova temporada. Diallo qualificou-se para as meias-finais dos 400 metros barreiras em Tóquio e Rui Pinto terminou a maratona em 42.º lugar. Portugal irá participar no Mundial feminino de futsal.
+**Tecnologia:** O Governo apresentará a Agenda Nacional de Inteligência Artificial no quarto trimestre. A OpenAI processou uma microempresa portuguesa devido à marca GPT.
+**Educação:** O PS alertou para a falta de professores, enquanto o Governo garantiu a sua colocação.

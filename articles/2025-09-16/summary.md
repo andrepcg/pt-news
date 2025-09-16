@@ -1,0 +1,7 @@
+Em destaque hoje: Israel intensificou os seus ataques aéreos em Gaza, avançando para uma possível ofensiva terrestre, enquanto a China aumentou a pressão sobre Taiwan após a passagem de navios dos EUA e do Reino Unido. A China também impôs "medidas de controlo" a navios filipinos num recife disputado. Os EUA deixaram de considerar a Colômbia como aliado na luta contra o tráfico de droga.
+
+No plano económico, a justiça dos EUA rejeitou a tentativa de Trump de destituir a governadora da Fed, e na Europa, apenas uma em cada 10 medidas do relatório de Draghi para a competitividade da UE foi adotada. A Nvidia refutou acusações de infração na China. Em Portugal, a Inetum vai comprar uma empresa e contratar 200 pessoas, mas classificou o contrato com a Spinumviva como um "serviço pontual", enquanto a Carris negou desinvestimento na manutenção após o descarrilamento do Elevador da Glória.
+
+Em Portugal, 17 concelhos estão em perigo máximo de incêndio em quatro distritos. Arrancou hoje a vacinação gratuita contra o Vírus Sincicial Respiratório (VSR). No Alto da Pina, a reabilitação da esquadra da PSP vai demorar pelo menos 11 anos.
+
+A nível global, manifestações em Timor-Leste foram dispersadas com gás lacrimogéneo, e a Europa contabilizou 43 mil milhões de euros em custos devido a eventos climáticos extremos em 2025. A ONU prevê que a camada de ozono esteja recuperada até 2066. A Galiza lançou uma ferramenta digital para combater o bullying nas escolas.

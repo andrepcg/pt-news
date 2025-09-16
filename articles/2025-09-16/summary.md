@@ -1,7 +1,11 @@
-Em destaque hoje: Israel intensificou os seus ataques aéreos em Gaza, avançando para uma possível ofensiva terrestre, enquanto a China aumentou a pressão sobre Taiwan após a passagem de navios dos EUA e do Reino Unido. A China também impôs "medidas de controlo" a navios filipinos num recife disputado. Os EUA deixaram de considerar a Colômbia como aliado na luta contra o tráfico de droga.
+Aqui estão os principais destaques do dia:
 
-No plano económico, a justiça dos EUA rejeitou a tentativa de Trump de destituir a governadora da Fed, e na Europa, apenas uma em cada 10 medidas do relatório de Draghi para a competitividade da UE foi adotada. A Nvidia refutou acusações de infração na China. Em Portugal, a Inetum vai comprar uma empresa e contratar 200 pessoas, mas classificou o contrato com a Spinumviva como um "serviço pontual", enquanto a Carris negou desinvestimento na manutenção após o descarrilamento do Elevador da Glória.
+No cenário internacional, a situação em Gaza agrava-se com Israel a intensificar os ataques aéreos e a avançar para uma ofensiva terrestre, enquanto a China aumenta a pressão sobre Taiwan. Os EUA deixaram de considerar a Colômbia como aliado na luta contra o tráfico de droga e a China impõe medidas de controlo a navios filipinos num recife disputado. No continente Africano, o Malaui realiza eleições gerais num contexto de crise económica.
 
-Em Portugal, 17 concelhos estão em perigo máximo de incêndio em quatro distritos. Arrancou hoje a vacinação gratuita contra o Vírus Sincicial Respiratório (VSR). No Alto da Pina, a reabilitação da esquadra da PSP vai demorar pelo menos 11 anos.
+Na Europa, os eventos climáticos extremos de 2025 já custaram 43 mil milhões de euros. A nível climático, a ONU prevê que a camada de ozono esteja recuperada até 2066, enquanto dez distritos em Portugal continental estão sob aviso amarelo devido ao calor, e 17 concelhos estão em perigo máximo de incêndio.
 
-A nível global, manifestações em Timor-Leste foram dispersadas com gás lacrimogéneo, e a Europa contabilizou 43 mil milhões de euros em custos devido a eventos climáticos extremos em 2025. A ONU prevê que a camada de ozono esteja recuperada até 2066. A Galiza lançou uma ferramenta digital para combater o bullying nas escolas.
+Na economia, apenas uma em cada 10 medidas do relatório de Draghi para a competitividade da UE foi adotada. A Nvidia refuta acusações de infração na China. Em Portugal, a tecnológica Inetum vai comprar uma empresa e contratar mais 200 pessoas, enquanto a Carris nega desinvestimento na manutenção após o descarrilamento do Elevador da Glória. Agências de rating preveem o regresso aos défices em 2026.
+
+No âmbito social, a PSP no Alto da Pina enfrenta atrasos na reabilitação da esquadra, com as obras a demorarem pelo menos 11 anos. No setor da saúde, arrancou hoje a vacinação gratuita contra o Vírus Sincicial Respiratório. A Galiza criou uma ferramenta digital para combater o bullying nas escolas.
+
+No desporto, o Benfica prepara-se para receber o Qarabag na Liga dos Campeões.

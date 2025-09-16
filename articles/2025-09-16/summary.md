@@ -1,46 +1,9 @@
-Aqui estão os principais destaques das notícias de hoje:
+Hoje, as notícias são dominadas por tensões internacionais e desafios internos. No Médio Oriente, a situação em Gaza agrava-se com Israel a intensificar os ataques, levando a ONU a acusar o país de genocídio, acusações que Israel nega. A China aumenta a pressão sobre Taiwan, enquanto os EUA repensam a sua aliança com a Colômbia na luta contra o tráfico de droga.
 
-**Conflitos Internacionais e Política:**
+Na Europa, a União Europeia enfrenta críticas pela lentidão na implementação de medidas para aumentar a competitividade, com Mario Draghi a expressar descontentamento. Os eventos climáticos extremos deste ano já custaram 43 mil milhões de euros. Em Portugal, há 17 concelhos em perigo máximo de incêndio e dez distritos sob aviso amarelo devido ao calor.
 
-*   A situação em Gaza intensifica-se com Israel a avançar para uma ofensiva terrestre, levando a ONU a acusar Israel de genocídio, alegações negadas por Israel. A UE pondera suspender o acordo com Israel devido à situação.
-*   A China aumenta a pressão sobre Taiwan, enquanto impõe "medidas de controlo" a navios filipinos num recife disputado.
-*   Os EUA deixam de considerar a Colômbia como aliado na luta contra o tráfico de droga.
-*   A justiça dos EUA rejeita a tentativa de Trump de destituir a governadora da Fed, e Trump exige 15 mil milhões de dólares ao New York Times por difamação.
-*   Na Ucrânia, Marco Rubio indica que Trump e Zelensky deverão reunir-se na próxima semana.
+No campo económico, a Nvidia refuta acusações de infração na China, e a tecnológica Inetum prepara-se para expandir em Portugal. A startup portuguesa Nutrium recebeu um investimento de 10 milhões de euros para expansão nos EUA. As agências de rating preveem um regresso aos défices em 2026 em Portugal, ao mesmo tempo que os custos salariais nas empresas portuguesas sobem acima da média da UE.
 
-**Economia e União Europeia:**
+Em Portugal, a campanha de vacinação gratuita contra o Vírus Sincicial Respiratório (VSR) teve início hoje. A Carris nega desinvestimento na manutenção, após o descarrilamento do Elevador da Glória. A nível judicial, a Ministra da Justiça suspendeu um inspetor da PJ por agressão a um colega.
 
-*   Apenas uma em cada 10 medidas do relatório de Draghi para a competitividade da UE foi adotada, com Draghi a criticar a inércia da UE. Von der Leyen destaca a necessidade de "velocidade, escala, intensidade" para a competitividade da UE e o potencial do lítio em Portugal.
-*   Custos salariais em Portugal sobem acima da média da UE.
-*   Startup portuguesa Nutrium fecha ronda de investimento de 10 milhões para expansão nos EUA.
-*   Agências de rating preveem um regresso aos défices em 2026.
-*  O dólar atinge mínimos de dois meses face ao euro.
-
-**Portugal:**
-
-*   Dezessete concelhos estão em perigo máximo de incêndio e um incêndio em Murça e Alijó já queimou cerca de 1.100 hectares.
-*   A vacinação gratuita contra o Vírus Sincicial Respiratório (VSR) arranca hoje.
-*   A GNR inicia uma operação para prevenir a introdução ilegal de vinho no país.
-*   Uma escola na Quarteira pondera restringir o uso de telemóveis no secundário.
-*   Um estudo revela que atuar cedo sobre acácias invasoras é essencial.
-*   Abanca fecha 24 balcões e avança com 60 saídas após compra do Eurobic.
-*   A piscina das Azenhas do Mar, em Sintra, está interditada devido a falhas estruturais.
-*   A EDP produz hidrogénio verde no Carregado.
-
-**Tecnologia:**
-
-*   A Nvidia refuta acusações de infração na China.
-*   Uma análise da WPP prevê que dados biométricos e IA dominarão a publicidade em 2030.
-
-**Sociedade:**
-
-*   Eventos climáticos extremos na Europa em 2025 causaram 43 mil milhões de euros em prejuízos.
-*   A ONU prevê que a camada de ozono deverá estar recuperada até 2066.
-*   Um estudo sugere que a mudança de hora em outubro pode aumentar o risco de obesidade e AVC.
-
-**Outros Destaques:**
-
-*   No desporto, o Benfica recebe o Qarabag na Liga dos Campeões com a "obrigação" de vencer, e um jogador do Benfica arrasou o Qarabag com 4 golos na Youth League.
-*   Na cultura, o Cinema português de animação procura nomeação para os Óscares.
-*   Na saúde, especialistas alertam que a contratação de tarefeiros é um risco para o SNS.
-*   Cláudia Nayara foi internada após sofrer um aborto durante um concerto.
+No desporto, o Benfica prepara-se para receber o Qarabag na Liga dos Campeões.

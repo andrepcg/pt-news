@@ -1,0 +1,9 @@
+Em Portugal, mais de 50 concelhos estão sob perigo máximo de incêndio rural devido ao calor, enquanto o Parlamento debateu a comissão técnica sobre os incêndios de agosto. O calor extremo causou 16.500 mortes na Europa neste verão. Um sismo de magnitude 2.0 foi sentido na ilha Terceira, nos Açores. Em Lisboa, imigrantes protestaram contra um "clima de intimidação".
+
+No mundo desportivo, o Benfica despediu Bruno Lage, com José Mourinho a ser apontado como possível sucessor, e Portugal venceu a Colômbia no Mundial de Voleibol, mantendo as esperanças de qualificação.
+
+A nível internacional, Manila acusou Pequim de ferir um tripulante filipino com um canhão de água num recife disputado. Israel abriu uma nova rota para evacuar a Cidade de Gaza. A China destacou os benefícios mútuos no acordo com os EUA sobre o TikTok, enquanto os EUA e o Reino Unido celebraram um acordo de prosperidade tecnológica focado em IA, quântica e energia nuclear. A China e Cuba reforçaram a cooperação militar. O chefe da diplomacia da UE criticou a falta de ação dos EUA contra a Rússia e a UE mostrou-se preocupada com a expulsão de jornalistas da Lusa e RTP da Guiné-Bissau. A oposição venezuelana pediu apoio internacional para travar desaparecimentos forçados.
+
+Em termos económicos, a Vila Galé anunciou um investimento de 130 milhões de euros em expansão hoteleira em Portugal e no Brasil. Ricardo Arroja, da AICEP, criticou o modelo de financiamento e fundos europeus. A transposição do MiCA obriga a um novo registo de empresas de criptoativos junto do Banco de Portugal.
+
+Na política nacional, Marques Mendes prometeu um departamento para emigrantes e defendeu o voto presencial, postal e eletrónico nas presidenciais de 2026. Uma proposta da UE sobre o controlo de mensagens levantou preocupações com a privacidade dos cidadãos.

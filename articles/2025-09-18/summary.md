@@ -1,0 +1,7 @@
+No panorama noticioso de hoje, destacam-se as tensões internacionais com a China a denunciar "lógicas hegemónicas" sobre Taiwan e Trump a classificar a Antifa como organização terrorista após um assassinato. A nível climático, Portugal continental enfrenta perigo máximo de incêndios, e agosto foi o mês mais seco na Europa desde 2012.
+
+Na política nacional, o Governo procura agilizar a expulsão de imigrantes e flexibilizar a lei do arrendamento, enquanto o Chega se mostra disponível para acordo sobre o IRC, mediante contrapartidas. Álvaro Santos Pereira assumiu funções como Governador do Banco de Portugal, criticando o seu antecessor, Mário Centeno. O Tribunal Constitucional questiona a exclusão de funcionários públicos da Caixa-Geral de Aposentações.
+
+No mundo da economia, as exportações chinesas de terras raras atingiram um pico desde 2012, e o Fórum Social do Porto debateu empregos de qualidade. Em termos de imigração, recorda-se que os EUA deportaram cerca de 300 portugueses durante o primeiro mandato de Trump.
+
+Outras notícias incluem a suspensão do programa de Jimmy Kimmel pela ABC, encarada por Trump como “boa notícia”, o alerta em Moçambique sobre propostas de emprego duvidosas, a imposição de limites por Lula da Silva ao uso de redes sociais por crianças no Brasil, e o casamento de António Zambujo com Maria Luiza Jobim. No desporto, o Palmeiras de Abel Ferreira venceu o River Plate na Libertadores. A Salsa Jeans e a Wells uniram-se numa coleção de óculos.

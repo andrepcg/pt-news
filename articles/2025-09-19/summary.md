@@ -1,13 +1,15 @@
-No dia de hoje, destacam-se vários temas em Portugal e no mundo.
+## Resumo do Dia (2025-09-19)
 
-A nível nacional, o Governo enfrenta críticas devido à transferência forçada de obstetras do Barreiro para Almada, numa altura em que o Ministério Público continua a investigar o caso Spinumviva, solicitando mais documentos a Luís Montenegro. No parlamento, foi aprovada a descida do IRC até 17% em 2028, enquanto os líderes do Supremo e PGR defendem o fim da criminalização do enriquecimento ilícito. Há ainda preocupação com os incêndios, com cerca de 80 concelhos em risco máximo, e alerta da associação Zero para possíveis falhas nas metas do Plano Nacional de Energia e Clima. Em Lisboa, a linha Azul do Metro foi interrompida devido a avaria, mas foi anunciado que o Metro receberá o maior centro de testes de fibra ótica do mundo.
+Em destaque na política nacional, o Ministério Público solicitou mais documentos a Luís Montenegro no âmbito do caso Spinumviva, enquanto o antigo bastonário dos Veterinários integra o "governo-sombra" do Chega. Cavaco Silva alertou para os critérios de escolha do próximo Presidente da República, e o PSD recorreu a uma moto para levar uma petição a Bruxelas contra a diretiva da UE para motociclistas. O Parlamento aprovou a descida do IRC até 17% em 2028 e o Plano Floresta 2050.
 
-No panorama internacional, Trump discute o TikTok com a China, mas recusa ajuda militar a Taiwan, enquanto Xi Jinping pretende acordo sobre o tema. Nos EUA, o governo deixou de recomendar a vacina contra o sarampo. Registam-se ataques jihadistas a empresas chinesas no Mali e atentados no Paquistão. Já no Equador, o líder promete acusar de terrorismo quem instigar protestos. O Banco do Japão manteve as taxas de juro, mas iniciou a venda de ativos.
+No âmbito económico, houve acordo sobre a criação do Euro Digital pelos ministros das Finanças da Zona Euro. Os certificados de aforro atingiram um novo recorde de 38,6 mil milhões em agosto, e flexibilizou-se o incentivo à valorização salarial das empresas. Contudo, o Banco Europeu de Investimento levantou dúvidas sobre o financiamento do TGV. Os preços dos combustíveis vão aumentar na próxima semana, e a Netflix vai aumentar os preços em Portugal em outubro.
 
-Na área da tecnologia e economia, a Xiaomi chamou à revisão 117 mil veículos elétricos devido a falha na assistência à condução. A Microsoft anunciou um centro de dados de IA "mais potente do mundo" no Wisconsin, enquanto a Anacom foi designada como autoridade fiscalizadora para a IA em Portugal.
+No setor da saúde, o Governo forçou a transferência de obstetras do Barreiro para o Garcia de Orta, gerando polémica e críticas. Investigadoras portuguesas descobriram um medicamento que pode travar o Alzheimer, e a OMS defende o projeto de vigilância da malária em Cabo Verde.
 
-Na cultura e sociedade, a fotógrafa brasileira Helena Ramos venceu o Prémio Novo Banco Revelação e celebra-se o centenário de Mário Soares em Coimbra. Lamenta-se o falecimento do pintor Eduardo Batarda.
+A nível internacional, Trump recusou aprovar ajuda militar a Taiwan enquanto discute o TikTok com a China, cuja restrição de exportação de terras raras preocupa empresas europeias. Jihadistas atacaram empresas chinesas no Mali, e dois atentados à bomba mataram oito pessoas no Paquistão. Nos EUA, o governo deixou de recomendar a vacina contra o sarampo e na Albânia estreou-se uma ministra gerada por IA no parlamento. A Estónia denunciou a violação do seu espaço aéreo por caças russos, invocando o artigo 4 da NATO.
 
-No desporto, Pichardo sagrou-se bicampeão mundial no triplo salto nos Mundiais de Atletismo em Tóquio.
+No desporto, Pichardo sagrou-se bicampeão mundial do triplo salto em Tóquio, enquanto José Mourinho está de regresso a Portugal.
 
-Por fim, há um acordo para criação do Euro Digital e a União Europeia pretende eliminar a importação de gás russo até 2027.
+No crime, um homem foi detido em Vila Nova de Gaia por roubo, sequestro e posse de arma, e gerentes de uma empresa da Maia foram acusados de apropriação de fundos.
+
+Por fim, a Associação Zero alertou para possíveis falhas nas metas do Plano Nacional de Energia e Clima, e cerca de 80 concelhos em Portugal estão em perigo máximo de incêndio. A Semapa inaugurou ainda uma fábrica de reciclagem alimentar de 20 milhões em Coruche.

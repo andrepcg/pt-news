@@ -1,15 +1,13 @@
-## Resumo das Notícias de 19 de Setembro de 2025
+No dia de hoje, destacam-se vários temas em Portugal e no mundo.
 
-**Política Nacional:** O Ministério Público solicitou mais documentos a Luís Montenegro no âmbito do caso Spinumviva. O Governo aprovou medidas para habitação acessível e construção modular, dispensando o visto prévio do Tribunal de Contas, e facilita o incentivo à valorização salarial das empresas. O Parlamento aprovou a descida do IRC até 17% em 2028. O antigo bastonário dos Veterinários fará parte do "governo-sombra" do Chega. Cavaco Silva alertou para os critérios de escolha do próximo Presidente da República.
+A nível nacional, o Governo enfrenta críticas devido à transferência forçada de obstetras do Barreiro para Almada, numa altura em que o Ministério Público continua a investigar o caso Spinumviva, solicitando mais documentos a Luís Montenegro. No parlamento, foi aprovada a descida do IRC até 17% em 2028, enquanto os líderes do Supremo e PGR defendem o fim da criminalização do enriquecimento ilícito. Há ainda preocupação com os incêndios, com cerca de 80 concelhos em risco máximo, e alerta da associação Zero para possíveis falhas nas metas do Plano Nacional de Energia e Clima. Em Lisboa, a linha Azul do Metro foi interrompida devido a avaria, mas foi anunciado que o Metro receberá o maior centro de testes de fibra ótica do mundo.
 
-**Economia:** A Anacom foi designada como autoridade fiscalizadora para a regulamentação da Inteligência Artificial em Portugal. Os certificados de Aforro atingiram um novo recorde de 38,6 mil milhões de euros em agosto. A taxa de juro no crédito à habitação continua a descer. Os preços dos combustíveis vão subir na próxima semana.
+No panorama internacional, Trump discute o TikTok com a China, mas recusa ajuda militar a Taiwan, enquanto Xi Jinping pretende acordo sobre o tema. Nos EUA, o governo deixou de recomendar a vacina contra o sarampo. Registam-se ataques jihadistas a empresas chinesas no Mali e atentados no Paquistão. Já no Equador, o líder promete acusar de terrorismo quem instigar protestos. O Banco do Japão manteve as taxas de juro, mas iniciou a venda de ativos.
 
-**Saúde:** O Governo forçou a transferência de obstetras do Barreiro para o Garcia de Orta, gerando polémica, e está a ultimar o enquadramento jurídico para a urgência regional na Península de Setúbal. Investigadoras portuguesas descobriram um medicamento que pode travar o Alzheimer.
+Na área da tecnologia e economia, a Xiaomi chamou à revisão 117 mil veículos elétricos devido a falha na assistência à condução. A Microsoft anunciou um centro de dados de IA "mais potente do mundo" no Wisconsin, enquanto a Anacom foi designada como autoridade fiscalizadora para a IA em Portugal.
 
-**Mundo:** Trump recusou aprovar ajuda militar a Taiwan enquanto discute o TikTok com a China. O governo dos EUA deixou de recomendar a vacina contra o sarampo. Jihadistas atacaram empresas chinesas no Mali, e atentados no Paquistão causaram mortes.
+Na cultura e sociedade, a fotógrafa brasileira Helena Ramos venceu o Prémio Novo Banco Revelação e celebra-se o centenário de Mário Soares em Coimbra. Lamenta-se o falecimento do pintor Eduardo Batarda.
 
-**Tecnologia:** A Xiaomi chamou à revisão 117 mil veículos elétricos devido a uma falha na assistência à condução. A Microsoft anunciou um centro de dados de IA "mais potente do mundo" no Wisconsin. O Metro de Lisboa recebeu o maior centro de testes de fibra ótica do mundo.
+No desporto, Pichardo sagrou-se bicampeão mundial no triplo salto nos Mundiais de Atletismo em Tóquio.
 
-**Incêndios:** Cerca de 80 concelhos em Portugal estão em perigo máximo de incêndio, com fogos ativos em Viseu e Coimbra.
-
-**Crime:** Um homem foi detido em Vila Nova de Gaia por roubo, sequestro e posse de arma.
+Por fim, há um acordo para criação do Euro Digital e a União Europeia pretende eliminar a importação de gás russo até 2027.

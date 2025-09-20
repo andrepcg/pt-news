@@ -1,0 +1,7 @@
+No dia de hoje, um ataque informático atingiu o aeroporto de Bruxelas, levantando preocupações sobre cibersegurança. Em Portugal, a CGTP espera uma grande adesão na manifestação contra a revisão da lei laboral, enquanto Marcelo Rebelo de Sousa participa na sua última Assembleia Geral da ONU. O reconhecimento do Estado da Palestina por Portugal é considerado "tardio" pela esquerda.
+
+Na área da saúde, hospitais continuam a cobrar taxas moderadoras indevidamente. Internacionalmente, Trump cria um 'cartão dourado' para milionários e restringe vistos nos EUA, enquanto o Ministro do Turismo do Brasil abandona o governo. O Youtube suspendeu o canal de Nicolás Maduro, presidente da Venezuela.
+
+No âmbito da ciência, foram descobertos dezenas de novos lagos sob o gelo da Antártida e cientistas identificaram o 1º animal híbrido devido às alterações climáticas em Portugal. Relativamente a incidentes, um português armado barricou-se em casa em Ibiza, acabando por se render, e em Hong Kong, 6 mil pessoas foram retiradas após a descoberta de uma bomba da Segunda Guerra Mundial.
+
+Na área da cultura, a icónica Tapeçaria de Bayeux foi removida do museu para ser emprestada ao Reino Unido. Os incêndios em Castro Daire e Oliveira do Hospital foram dominados. No desporto, Amorim avisa que não mudará o sistema do United.

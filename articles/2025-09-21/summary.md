@@ -1,21 +1,9 @@
-Aqui estão os principais destaques das notícias de hoje, 21 de setembro de 2025:
+Em Portugal, o Governo está a retirar projetos não executáveis do PRR para maximizar o seu impacto e vai usar a totalidade do empréstimo SAFE para reequipar as Forças Armadas. A Comissão Europeia propôs 7,4 mil milhões para a PAC e 143 milhões para as pescas até 2034. A Anacom alertou para o desafio de conciliar o uso da IA com os direitos fundamentais. Os combustíveis vão ficar mais caros. O Governo reconheceu o Estado da Palestina, com o apoio do Presidente da República. Em Lisboa, o PS pediu uma reunião extraordinária da CML sobre o caso do Elevador da Glória e a IGAI alertou para a necessidade urgente de um centro para migrantes. Um incêndio em Montalegre "continua a arder com intensidade", mas entretanto já foi dado como dominado. Na A1 em Estarreja, um acidente provocou um morto e um ferido grave.
 
-**Política Nacional:** Portugal reconheceu formalmente o Estado da Palestina, decisão que conta com o apoio do Presidente da República, mas com críticas do CDS-PP. O PS solicitou uma reunião extraordinária da CML para esclarecer alegadas falsidades no caso do Elevador da Glória. O Governo retirou projetos não executáveis do PRR para otimizar o seu impacto.
+A nível internacional, a China apelou a um cessar-fogo abrangente na Faixa de Gaza. Milhares protestaram nas Filipinas contra a corrupção em projetos anti-cheias. Taiwan emitiu um alerta marítimo devido à aproximação do tufão Ragasa. A Guiné-Conacri votou numa nova Constituição. No Equador, a justiça suspendeu o referendo para convocar uma Assembleia Constituinte. Jovens também protestaram contra o governo e o parlamento no Peru. O Reino Unido e outros países preparam-se para reconhecer o Estado da Palestina, decisão criticada por Netanyahu. A Assembleia Geral da ONU está focada em Gaza e  foi reportado um ciberataque que causou perturbações nos aeroportos europeus, incluindo Bruxelas.
 
-**Economia:** O Governo português planeia usar a totalidade do empréstimo SAFE para reequipar as Forças Armadas. A Comissão Europeia propôs 7,4 mil milhões de euros para a PAC e 143 milhões para as pescas em Portugal até 2034. Os combustíveis vão ficar mais caros. A Anacom alertou para a necessidade de conciliar o uso e desenvolvimento da IA com direitos fundamentais.
+No desporto, Max Verstappen venceu o GP de Baku de Fórmula 1 e Sabastian Sawe venceu a Maratona de Berlim.
 
-**Mundo:** A China apelou a um cessar-fogo em Gaza, enquanto o Reino Unido e outros países se preparam para reconhecer o Estado da Palestina. A escalada da violência no Sudão levou Guterres a alertar para os riscos crescentes para a população civil. Taiwan emitiu um alerta marítimo devido à aproximação do tufão Ragasa. Milhares de pessoas protestaram nas Filipinas contra a corrupção.
+Na cultura, o Teatro do Bolhão apresentou um espetáculo com imigrantes em Vale de Cambra e um Sexteto de Jazz de Lisboa celebrou 40 anos.
 
-**Segurança e Defesa:** Caças britânicos foram enviados para a Polónia em missões de defesa aérea após incursões russas. A linha férrea nos Bálticos será reforçada para robustecer a frente Leste face à ameaça russa.Von der Leyen garantiu que UE defenderá cada centímetro do seu território.
-
-**Sociedade:** As primeiras autarcas portuguesas consideram que Portugal vive um "faz de conta" na paridade de género. A PSP apreendeu armas e droga numa habitação municipal ocupada na Amadora.
-
-**Incêndios:** O incêndio transfronteiriço em Montalegre "continua a arder com intensidade", enquanto um incêndio em Aljezur mobiliza quase 200 operacionais. Mais tarde, o incêndio em Montalegre foi dado como dominado, em fase de resolução.
-
-**Desporto:** Max Verstappen venceu o GP de Baku de Fórmula 1. O clássico francês entre Marselha e PSG foi adiado devido ao mau tempo.
-
-**Tecnologia:** Aeroportos europeus enfrentaram constrangimentos devido a um ciberataque, afetando também o aeroporto de Bruxelas.
-
-**Local:** A Avenida Marginal esteve fechada para atividades desportivas entre Cascais e Lisboa.
-
-**Justiça:** A IGAI pediu o encerramento de cinco zonas de detenção em esquadras e alertou para a necessidade urgente de um centro para migrantes em Lisboa.
+Por fim, Karlie Kloss foi mãe pela terceira vez.

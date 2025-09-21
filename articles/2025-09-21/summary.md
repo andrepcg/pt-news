@@ -1,7 +1,21 @@
-No dia de hoje, Portugal reconheceu oficialmente o Estado da Palestina, decisão que mereceu o apoio do Presidente da República, mas gerou discordância no CDS-PP. No âmbito da política nacional, o Governo anunciou a reformulação do PRR, retirando projetos considerados não executáveis, e vai utilizar a totalidade do empréstimo SAFE para reequipar as Forças Armadas. O PS solicitou uma reunião extraordinária da CML para esclarecer alegadas irregularidades no caso do Elevador da Glória, enquanto primeiras autarcas criticam a falta de paridade de género no país.
+Aqui estão os principais destaques das notícias de hoje, 21 de setembro de 2025:
 
-Internacionalmente, a China apelou a um cessar-fogo abrangente na Faixa de Gaza, e Guterres alertou para os riscos crescentes para civis no Sudão. O Reino Unido e outros países, incluindo Portugal, preparam-se para reconhecer o Estado da Palestina. Taiwan emitiu um alerta marítimo devido à aproximação do tufão Ragasa, enquanto milhares protestaram nas Filipinas contra a corrupção. A Guiné-Conacri votou numa nova Constituição. A Rússia, por sua vez, foi acusada de usar tecnologia ocidental em ataques na Ucrânia, levando a um encontro de emergência do Conselho de Segurança da ONU após uma incursão no espaço aéreo da Estónia e motivou caças britânicos a iniciarem missões na Polónia.
+**Política Nacional:** Portugal reconheceu formalmente o Estado da Palestina, decisão que conta com o apoio do Presidente da República, mas com críticas do CDS-PP. O PS solicitou uma reunião extraordinária da CML para esclarecer alegadas falsidades no caso do Elevador da Glória. O Governo retirou projetos não executáveis do PRR para otimizar o seu impacto.
 
-Na economia, os combustíveis vão ficar mais caros e a Comissão Europeia propôs 7,4 mil milhões de euros para a PAC e 143 milhões para as pescas em Portugal até 2034. A Anacom alertou para o desafio de conciliar o uso da Inteligência Artificial com os direitos fundamentais.
+**Economia:** O Governo português planeia usar a totalidade do empréstimo SAFE para reequipar as Forças Armadas. A Comissão Europeia propôs 7,4 mil milhões de euros para a PAC e 143 milhões para as pescas em Portugal até 2034. Os combustíveis vão ficar mais caros. A Anacom alertou para a necessidade de conciliar o uso e desenvolvimento da IA com direitos fundamentais.
 
-Outros destaques incluem o incêndio em Montalegre, já em fase de resolução, um acidente fatal na A1 em Estarreja, e constrangimentos no aeroporto de Bruxelas devido a um ciberataque. No desporto, Verstappen venceu o GP de Baku de Fórmula 1 e Portugal defronta a Bulgária no Mundial de Voleibol.
+**Mundo:** A China apelou a um cessar-fogo em Gaza, enquanto o Reino Unido e outros países se preparam para reconhecer o Estado da Palestina. A escalada da violência no Sudão levou Guterres a alertar para os riscos crescentes para a população civil. Taiwan emitiu um alerta marítimo devido à aproximação do tufão Ragasa. Milhares de pessoas protestaram nas Filipinas contra a corrupção.
+
+**Segurança e Defesa:** Caças britânicos foram enviados para a Polónia em missões de defesa aérea após incursões russas. A linha férrea nos Bálticos será reforçada para robustecer a frente Leste face à ameaça russa.Von der Leyen garantiu que UE defenderá cada centímetro do seu território.
+
+**Sociedade:** As primeiras autarcas portuguesas consideram que Portugal vive um "faz de conta" na paridade de género. A PSP apreendeu armas e droga numa habitação municipal ocupada na Amadora.
+
+**Incêndios:** O incêndio transfronteiriço em Montalegre "continua a arder com intensidade", enquanto um incêndio em Aljezur mobiliza quase 200 operacionais. Mais tarde, o incêndio em Montalegre foi dado como dominado, em fase de resolução.
+
+**Desporto:** Max Verstappen venceu o GP de Baku de Fórmula 1. O clássico francês entre Marselha e PSG foi adiado devido ao mau tempo.
+
+**Tecnologia:** Aeroportos europeus enfrentaram constrangimentos devido a um ciberataque, afetando também o aeroporto de Bruxelas.
+
+**Local:** A Avenida Marginal esteve fechada para atividades desportivas entre Cascais e Lisboa.
+
+**Justiça:** A IGAI pediu o encerramento de cinco zonas de detenção em esquadras e alertou para a necessidade urgente de um centro para migrantes em Lisboa.

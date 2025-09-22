@@ -1,28 +1,9 @@
-Aqui estão os principais destaques das notícias de hoje, 22 de setembro de 2025:
+Hoje, em Portugal, mais de 40 concelhos em 8 distritos enfrentam perigo máximo de incêndio, com um incêndio em Aljezur e Lagos a preocupar as autoridades, já 70% dominado mas com preocupações devido ao vento.
 
-**Portugal:**
+Na economia, a Deco venceu uma ação judicial contra a MEO, NOS e Nowo, resultando em 40 milhões de euros a serem devolvidos aos clientes, enquanto a APB alerta para o aumento da sofisticação das fraudes bancárias. O preço das casas continua a subir e o endividamento aumentou. A Teixeira Duarte regressou ao PSI e o Compete vai ser reprogramado até ao final do ano.
 
-*   **Incêndios:** Mais de 40 concelhos em vários distritos estão sob alerta máximo de incêndio, enquanto o incêndio em Aljezur e Lagos está 70% dominado, mas ainda causa preocupação.
-*   **Economia:** A DECO venceu uma ação judicial, com MEO, NOS e Nowo a terem de devolver 40 milhões de euros a clientes. A APB alerta para o aumento de fraudes bancárias sofisticadas. Marcelo Rebelo de Sousa elogiou a economia portuguesa em Nova Iorque. O CFP reviu em baixa o crescimento da economia portuguesa para 1,9% em 2025. O endividamento das famílias aumentou e os preços das casas continuam a subir.
-*   **Política:** Portugal reconheceu formalmente o Estado da Palestina. O PSD aposta em independentes para reconquistar câmaras nas autárquicas de 2025. Gabriel Mithá Ribeiro renunciou ao mandato de deputado do Chega.
-*   **Saúde:** Campanha de vacinação contra a gripe e Covid-19 arranca esta terça-feira.
-*   **Infraestruturas:** A eletrificação da Linha do Douro entre Marco de Canaveses e Régua vai avançar.
+Ainda no âmbito económico, Marcelo Rebelo de Sousa elogiou a economia portuguesa em Nova Iorque, onde participa na Conferência sobre a Palestina na ONU — entretanto, Portugal reconheceu o Estado da Palestina. O Governo reforçou a garantia pública para jovens na compra de habitação e estuda alternativas para litígios fiscais com empresas, ao mesmo tempo que ambiciona colocar Portugal no top 10 do turismo mundial.
 
-**Mundo:**
+No mundo, o aeroporto de Hong Kong prevê um encerramento recorde devido à aproximação do supertufão Ragasa, que também afeta as Filipinas. Um ciclone tropical aproxima-se dos Açores, e um ataque informático causou atrasos em aeroportos europeus, incluindo Lisboa. O Reino Unido, Canadá, Austrália e Portugal reconheceram o Estado da Palestina.
 
-*   **Tufão Ragasa:** O Aeroporto de Hong Kong prevê um encerramento recorde, enquanto as Filipinas já retiraram milhares de pessoas devido à aproximação do supertufão.
-*   **Palestina:** O Reino Unido, Canadá, Austrália e Portugal reconheceram o Estado da Palestina.
-*   **Economia Global:** A China manteve a taxa de juro de referência em 3%. Um estudo alerta para o aumento da produção de combustíveis fósseis.
-*   **Moçambique:** Desnutrição aguda matou 30 crianças na província de Nampula e terroristas voltaram a atacar perto de Mocímboa da Praia.
-*   **Conflito Leste Europeu:** A tensão entre a NATO e Moscovo aumentou com caças alemães e suecos a intercetarem um avião russo no Báltico. A Polónia está pronta para abater aviões russos com apoio da NATO.
-*   **ONU:** António Guterres propõe uma reforma da ONU com cortes e fusão de agências.
-
-**Outros:**
-
-*   **Tecnologia:** Ataque informático causou atrasos em aeroportos europeus, incluindo Lisboa.
-*   **Cultura:** O músico angolano Paulo Flores anunciou concertos em Lisboa e no Porto para 2026.
-*   **Desporto:** Portugal foi eliminado do Mundial de Voleibol após perder com a Bulgária.
-
-**Açores:**
-
-*   O ciclone tropical Gabrielle intensifica-se e aproxima-se dos Açores como furacão.
+Outras notícias incluem um estudo que alerta para o aumento da produção de combustíveis fósseis, a abertura de um campus da Universidade Europeia, e o adiamento da discussão da insolvência da Trust in News (Visão) para 1 de outubro. Gabriel Mithá Ribeiro renunciou ao mandato de deputado do Chega.

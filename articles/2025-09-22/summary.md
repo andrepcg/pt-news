@@ -1,9 +1,17 @@
-Hoje, em Portugal, mais de 40 concelhos em 8 distritos estão sob perigo máximo de incêndio. Um incêndio em Aljezur/Lagos mobiliza mais de 500 operacionais e já destruiu uma casa.
+Aqui fica um resumo das notícias do dia 22 de setembro de 2025:
 
-No âmbito económico, a Deco venceu uma ação judicial contra a MEO, NOS e Nowo, com 40 milhões de euros a serem devolvidos aos clientes. A APB alerta para a sofisticação crescente das fraudes bancárias. A Teixeira Duarte regressa ao PSI, enquanto a China mantém a taxa de juro de referência inalterada. Um estudo denuncia o aumento global da produção de combustíveis fósseis, e prevê-se um aumento dos combustíveis esta semana em Portugal. O Compete vai ser reprogramado até ao final do ano.
+Portugal continental enfrenta um elevado risco de incêndios, com mais de 40 concelhos em perigo máximo. No Algarve, um incêndio em Aljezur mobiliza mais de 500 operacionais e já destruiu uma casa, estando 70% do fogo dominado.
 
-Na política, Marcelo Rebelo de Sousa participa numa conferência sobre a Palestina na ONU, onde elogiou a economia portuguesa. O PSD aposta em independentes para reconquistar câmaras nas autárquicas de 2025. As obras do novo mercado de Viana do Castelo têm início previsto para 29 de setembro.
+Na economia, a Deco venceu uma ação judicial contra a MEO, NOS e Nowo, resultando na devolução de 40 milhões de euros aos clientes, e as operadoras foram condenadas por alteração unilateral de tarifários. A APB alerta para o aumento da sofisticação das fraudes bancárias, com campanhas a alertar para burlas no homebanking. O Compete vai reprogramar até ao final do ano, a Teixeira Duarte regressa ao PSI, e o Governo está a estudar uma resolução alternativa de litígios fiscais com empresas. Foi também anunciado o aumento dos combustíveis esta semana e um estudo alerta para o aumento da produção de combustíveis fósseis a nível global.
 
-No plano internacional, o aeroporto de Hong Kong deverá encerrar devido à aproximação do supertufão Ragasa, que também levou à retirada de milhares de pessoas nas Filipinas. Há crescente tensão entre a NATO e Moscovo com caças alemães e suecos a intercetarem um avião russo no Báltico. O Reino Unido, Canadá, Austrália e Portugal reconheceram o Estado da Palestina.
+Marcelo Rebelo de Sousa está em Nova Iorque, onde participa na Conferência sobre a Palestina na ONU e elogiou a economia portuguesa. Portugal, juntamente com o Reino Unido, Canadá e Austrália, reconheceu o Estado da Palestina, o que gerou críticas de Israel.
 
-Outras notícias incluem a abertura de um novo campus da Universidade Europeia para 7 mil alunos, um reforço da garantia pública para jovens na compra de habitação, e a investigação da PJ a uma casa de luxo de um Secretário de Estado da Agricultura. Foi ainda lançado um alerta sobre as condições precárias em esquadras da PSP e GNR num relatório da IGAI.
+No mundo, o supertufão Ragasa causa o encerramento recorde do aeroporto de Hong Kong e motivou a retirada de milhares de pessoas nas Filipinas. A China mantém a taxa de juro de referência inalterada.
+
+Em Lisboa, foi lançada uma petição para permitir a circulação de carros elétricos no centro da cidade.
+
+Em termos de justiça e segurança, um homem foi detido em Lousada por violência doméstica e ficou em prisão preventiva. Um relatório da IGAI expõe a falta de privacidade e condições precárias em esquadras da PSP e GNR. A PJ investiga ainda uma casa de luxo de um Secretário de Estado da Agricultura por suspeitas de corrupção.
+
+Na cultura, o músico angolano Paulo Flores anunciou concertos em Lisboa e Porto para 2026.
+
+Por fim, Portugal foi eliminado do Mundial de Voleibol ao perder com a Bulgária.

@@ -1,9 +1,21 @@
-Em Portugal, mais de 600 operacionais combatem um incêndio em Aljezur, com mais de 40 concelhos em perigo máximo de incêndio. O governo e os parceiros sociais estão a discutir o Orçamento do Estado para 2026, enquanto o INE reviu em baixa o excedente orçamental de 2024. A carga fiscal diminuiu ligeiramente para 35,2% do PIB. A vacinação contra a gripe e a Covid-19 arrancou, com foco nas crianças dos 6 aos 23 meses. Há buscas na TAP por causa da indemnização a Alexandra Reis, com investigação por crimes de administração danosa e abuso de poder. O excedente orçamental de Portugal subiu para 1,9% do PIB no segundo trimestre de 2025 e o rácio da dívida pública foi revisto em baixa para 90,2% este ano.
+Hoje, Marcelo Rebelo de Sousa discursou pela última vez na ONU. António Guterres defendeu o papel da ONU face às críticas. Lula da Silva criticou os EUA na ONU pela "agressão inaceitável contra o poder judiciário". Trump criticou a ONU durante discurso na Assembleia Geral.
 
-No mundo, Macau e Guangdong estão em alerta máximo devido à aproximação do supertufão Ragasa, que também afeta Taiwan e as Filipinas. A UE e a Indonésia assinaram um acordo de comércio livre em Bali. Lula da Silva está a negociar um megacentro de dados do TikTok no Brasil, enquanto o TikTok nos EUA será supervisionado pela Oracle. Um fabricante de paracetamol nos EUA negou ligação ao autismo, após alertas de Trump. A Amnistia Internacional denunciou a nova condenação da jornalista chinesa Zhang Zhan. Drones causaram o encerramento temporário dos aeroportos de Copenhaga e Oslo.
+Em Portugal, mais de 600 operacionais combatem um incêndio em Aljezur, com mais de 40 concelhos em perigo máximo de incêndio. Agricultores de Alfândega da Fé recebem apoio para recuperar terras ardidas. Uma idosa foi detida por atear fogos em Paredes. O novo diretor do SIED é Manuel António da Silva Vieira. Foi aprovado um novo regime de convenções para médicos de família e a ministra da Saúde nega mobilidade forçada de obstetras. Teve início a vacinação contra a gripe e Covid-19, com foco nas crianças. 
 
-A nível económico, a Nvidia integra um consórcio português para uma gigafábrica de IA em Sines. As previsões do CFP apontam para baixa execução nos empréstimos do PRR. EDPR disparou após decisão favorável à Orsted (energia renovável) nos EUA.
+A TAP está sob buscas devido à indemnização a Alexandra Reis. A PSP renovou as instalações no aeroporto de Lisboa e um funcionário de uma sociedade de advogados é o primeiro arguido no caso TAP.
 
-Na política internacional, Marcelo Rebelo de Sousa discursou pela última vez na ONU, com destaque para as críticas de Lula da Silva à postura dos EUA em relação ao poder judiciário brasileiro e as críticas de Trump à ONU. A ONU acusou a Rússia de tortura sistemática de civis em territórios ocupados da Ucrânia. A Dinamarca relacionou um incidente com drones a violações do espaço aéreo europeu e a NATO apelou à desescalada após acusações da Noruega à Rússia sobre violações do espaço aéreo.
+No Algarve, o fogo de Aljezur mantém-se ativo com pontos preocupantes, enquanto em Lagos mais de 600 operacionais combatem um incêndio.
 
-No desporto, o Benfica recebeu o Rio Ave com Mourinho na estreia como treinador (não confirmado), e o Aves anunciou João Pedro Sousa como treinador até 2027.
+O Governo e os parceiros sociais discutiram o Orçamento do Estado para 2026, avaliando também um possível aumento adicional ao salário mínimo. As contas públicas revelam um excedente de 1,9% do PIB no segundo trimestre de 2025. A carga fiscal em Portugal caiu para 35,2% do PIB em 2024 e o rácio da dívida pública foi revisto em baixa para 90,2% este ano. 
+
+A Europa enfrenta desafios com drones, levando ao encerramento temporário de aeroportos em Copenhaga e Oslo. Dinamarca relaciona incidente com drones a violações do espaço aéreo europeu. A Rússia nega envolvimento.
+
+A União Europeia e a Indonésia assinaram um acordo de comércio livre em Bali.
+
+Na China, Macau está em alerta devido à aproximação do supertufão Ragasa, levando Shenzhen a suspender transportes e aulas. Guangdong também está em alerta máximo. No Brasil, Lula da Silva negocia um megacentro de dados do TikTok.
+
+A Nvidia integra um consórcio português para uma gigafábrica de IA em Sines. O TikTok nos EUA será supervisionado pela Oracle.
+
+A Amnistia Internacional denunciou uma nova condenação da jornalista chinesa Zhang Zhan, exigindo a sua libertação.
+
+Em desporto, Fernando Santos investiu na Science4You,  e Villas-Boas comentou a possível ida de Mourinho para o Benfica.

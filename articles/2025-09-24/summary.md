@@ -1,13 +1,9 @@
-O dia ficou marcado pela devastação causada pelo supertufão Ragasa na Ásia, com dezenas de mortos e desaparecidos em Taiwan e Filipinas, que já enfrentam um novo ciclone tropical.
+Em Portugal, o incêndio em Lagos dominado após três dias de combate, mas reacendeu e a situação continua preocupante, com cerca de 30 concelhos em perigo máximo de incêndio. O Governo assinou protocolos com 89 municípios para recuperação de áreas protegidas e reforçou a garantia pública para jovens na compra de casa. O PRR vai ser revisto para reduzir burocracia. Em Lisboa, candidatos pedem esclarecimentos sobre o Elevador da Glória e trabalhadores do Metro de Lisboa fazem greve. A Mercadona vai expandir-se para o Algarve em 2026. O Conselho de Ministros aprovou um pacote legislativo com medidas para a habitação, incluindo alívio de IRS para rendas e senhorios.
 
-Em Portugal, mais de 600 operacionais combateram um incêndio em Lagos pelo terceiro dia, com cerca de 30 concelhos em perigo máximo de incêndio.
+No mundo, o balanço do supertufão Ragasa foi revisto, apontando para dezenas de mortos e desaparecidos em Taiwan e nas Filipinas, que agora enfrentam novo ciclone tropical. Zelensky agradeceu a Trump pela mudança de posição sobre a Ucrânia. Marcelo Rebelo de Sousa discursou na ONU sobre inteligência artificial e segurança internacional. A China abdicou do tratamento especial como país em desenvolvimento na OMC.
 
-No panorama político, Montenegro prepara-se para os debates quinzenais no Parlamento e a apresentação do Orçamento do Estado, enquanto Marcelo Rebelo de Sousa discursou na ONU sobre inteligência artificial e segurança internacional. O governo recuou nas restrições ao reagrupamento familiar de estrangeiros, após críticas. Nas autárquicas, candidatos em Lisboa exigem esclarecimentos sobre o Elevador da Glória, e em Almada, o PS procura um terceiro mandato.
+No Brasil, o governo do Rio de Janeiro restabeleceu bónus para polícias por mortes em serviço.
 
-Na economia, a China renunciou ao tratamento especial como país em desenvolvimento na OMC. A Mercadona expandir-se-á para o Algarve em 2026, criando 200 empregos; a Akuo planeia investir mil milhões de euros em energias renováveis em Portugal, e o PRR será revisto para reduzir burocracia. A Air France-KLM manifestou interesse na privatização da TAP.
+Na economia, as plataformas de TVDE negam salários abaixo do mínimo nacional para motoristas.  A Akuo planeia investir mil milhões de euros em energias renováveis em Portugal. O excedente orçamental de 2024 foi revisto em baixa e a Comissão de Orçamento propôs o debate do OE2026 para outubro. O caderno de encargos da TAP define 11 critérios para a escolha do comprador, com a Air France-KLM a manifestar interesse na privatização.
 
-No Brasil, o governo do Rio de Janeiro restabeleceu o bónus para polícias por mortes em serviço, enquanto na Ucrânia, Zelensky agradeceu a Trump pela mudança de posição sobre o conflito.
-
-A nível social, um protesto nacional alertou para os direitos de crianças com necessidades educativas especiais. Seis pessoas foram internadas com *legionella* no Hospital de São João, no Porto.
-
-No mundo desportivo, o Sporting de Braga estreou-se na Liga Europa.
+Outras notícias incluem o Sporting de Braga a estrear-se na Liga Europa, protestos pelos direitos de crianças com necessidades educativas especiais.

@@ -1,0 +1,7 @@
+Em destaque nas notícias de hoje, o balanço do supertufão Ragasa revela dezenas de mortos e desaparecidos em Taiwan e nas Filipinas, que já enfrentam um novo ciclone. No Algarve, mais de 600 operacionais combatem um incêndio em Lagos pelo terceiro dia, enquanto cerca de 30 concelhos em Portugal continental estão em perigo máximo de incêndio.
+
+No plano internacional, a China renunciou ao tratamento especial como país em desenvolvimento na OMC, Zelensky agradeceu a Trump pela mudança de posição sobre a Ucrânia, e Marcelo Rebelo de Sousa discursou na ONU sobre inteligência artificial e segurança internacional.
+
+A nível nacional, Montenegro prepara-se para os debates quinzenais no parlamento, antecedendo a apresentação do Orçamento do Estado. Em Lisboa, candidatos autárquicos exigem esclarecimentos sobre o Elevador da Glória, enquanto em Almada o PS procura um terceiro mandato após a queda do bastião comunista.
+
+Na economia, as plataformas de TVDE negam salários abaixo do mínimo nacional, a Mercadona expande-se para o Algarve em 2026, e Portugal está na corrida para uma gigafábrica de Inteligência Artificial. A Akuo planeia investir mil milhões de euros em energias renováveis, o caderno de encargos da TAP define 11 critérios para a escolha do comprador, e o excedente orçamental de 2024 foi revisto em baixa. A Nova SBE promove um programa de literacia financeira, e a oposição prepara uma lista para as eleições no Montepio em dezembro. No Brasil, o governo do Rio de Janeiro restabeleceu bónus para polícias por mortes em serviço.

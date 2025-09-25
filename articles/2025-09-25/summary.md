@@ -1,11 +1,11 @@
-Hoje, o supertufão Ragasa enfraqueceu após atingir a China, enquanto os Açores estão sob aviso vermelho devido ao ciclone tropical Gabrielle. Em Portugal continental, mais de 20 concelhos enfrentam perigo máximo de incêndio.
+Hoje, Portugal enfrenta desafios climáticos graves, com os Açores sob aviso vermelho devido ao ciclone tropical Gabrielle e mais de 20 concelhos em risco máximo de incêndio. No cenário internacional, o supertufão Ragasa enfraqueceu após atingir a China, enquanto as Filipinas se preparam para uma nova tempestade. A Venezuela sentiu um sismo de magnitude 6.1, sem causar danos.
 
-Na ONU, Marcelo Rebelo de Sousa defendeu um tratado contra armas autónomas letais e a candidatura de Portugal ao Conselho de Segurança. Já Li Qiang pediu à UE para evitar a "politização" económica. A Apple apelou à UE para revogar uma lei contra abusos de grandes tecnológicas.
+Na política, Marcelo Rebelo de Sousa discursou na ONU, defendendo um tratado contra armas autónomas letais e a candidatura de Portugal ao Conselho de Segurança. Em destaque também, o Governo aprovou novas medidas para a habitação, num contexto em que a taxa de habitação pública em Portugal revela um desinvestimento crónico. O PS debateu o Ensino Superior no seu Conselho Estratégico.
 
-No panorama nacional, o Governo prepara-se para aprovar novas medidas para a habitação, numa altura em que a taxa de habitação pública revela um desinvestimento crónico. A Revolut apostou na gestão de fortunas e adiou o IPO. O BFA atraiu forte procura no seu IPO, com o BPI perto de encaixar 100 milhões.
+No âmbito económico, Li Qiang pediu à UE para evitar a "politização" económica, enquanto a Apple apelou à revogação da lei contra abusos das gigantes tecnológicas. A Revolut aposta na gestão de fortunas e adia o IPO. O BPI está perto de encaixar 100 milhões com o IPO do BFA.
 
-Em Famalicão, a oposição procura quebrar o domínio de 24 anos do PSD/CDS nas próximas autárquicas. Moedas defendeu a gestão da Carris após um acidente e garantiu que não ficará na câmara se perder as eleições.
+Ainda hoje, quatro pessoas foram detidas entre Portugal e o Brasil numa investigação por fraude fiscal e branqueamento de capitais. A GNR deteve sete pessoas e apreendeu armas de guerra em Aljezur, e outras sete foram detidas em Lisboa por tráfico de droga. A Marinha Francesa apreendeu 10 toneladas de cocaína ao largo da costa da África Ocidental.
 
-No âmbito da justiça, foram detidas quatro pessoas entre Portugal e Brasil numa investigação por fraude fiscal. A GNR apreendeu armas de guerra em Aljezur e sete pessoas foram detidas por tráfico de droga em Lisboa. A Marinha Francesa apreendeu 10 toneladas de cocaína ao largo da costa da África Ocidental.
+Em Famalicão, a oposição procura quebrar o domínio de 24 anos do PSD/CDS nas próximas autárquicas, enquanto Carlos Moedas defende a gestão da Carris após um acidente e condiciona a sua permanência na câmara aos resultados eleitorais. Os trabalhadores da TAP não terão desconto na compra de ações para proteger o investimento público .
 
-Em outras notícias, um sismo de magnitude 6.1 abalou a Venezuela sem causar danos e o Vice-Presidente anunciou dez sismos em poucas horas.
+No desporto, foi realizado o sorteio da Taça de Portugal, já com as equipas da I Liga.

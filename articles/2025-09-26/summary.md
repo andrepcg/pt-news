@@ -1,9 +1,13 @@
-Hoje, os principais destaques noticiosos incluem o anúncio de Donald Trump de tarifas de 100% sobre produtos farmacêuticos importados, enquanto a União Europeia avalia como se proteger destas tarifas.
-Nos Açores, a tempestade Gabrielle causou estragos e desalojamentos, levando ao encerramento de aeroportos, mas os avisos meteorológicos foram entretanto atenuados. No continente, foi emitido um alerta para agitação marítima.
-No panorama político nacional, o Governo pretende estender o acordo de aumentos salariais na Função Pública até 2029, enquanto uma associação de empresários propõe o fim de cinco escalões de IRS e da derrama no IRC. A Frente Comum já ameaça com greve nacional a 24 de outubro devido aos aumentos salariais propostos. O PSD e o Chega estão a negociar alterações à lei de estrangeiros, gerando críticas do Livre. O Parlamento vai debater a publicidade ao jogo online.
-Na área da Justiça, o ex-diretor do FBI, James Comey, foi acusado de obstrução à justiça e perjúrio após pressões de Trump. O Tribunal Constitucional declarou inconstitucional o valor mínimo obrigatório cobrado a advogados pela CPAS e a Justiça exige validação em 48 horas para bloqueio de conteúdos terroristas na internet. A Igreja Católica iniciou o processo de compensação por abusos sexuais, após validar 77 pedidos.
-A nível internacional, a Coreia do Sul afirma que Pyongyang está na "fase final" de possuir míssil nuclear intercontinental. A China inaugurou a ponte suspensa mais alta do mundo e a Hungria declarou o movimento Antifa como organização terrorista. Erdogan e Trump fizeram "progressos significativos" em Washington.
-Na área da saúde, um estudo indica que a esperança de vida em Portugal aumentou para 81,49 anos. O Estádio da Luz apagou as luzes numa campanha de sensibilização para as doenças cardiovasculares.
-No desporto, Sérgio Busquets anunciou o "adeus" ao futebol e André Almeida renovou contrato com o Valência até 2029.
-Foi descoberto um objeto antigo feito de marfim de hipopótamo na Península Ibérica e um estudo revelou que espécies de mamutes se cruzaram na América do Norte há milhares de anos.
-No setor empresarial, a Teixeira Duarte está a incorporar quatro participadas e a Turkish Airlines encomendou 225 aviões à Boeing. A Xiaomi está a investir no mercado automóvel. A Volkswagen suspendeu a produção em fábricas na Alemanha devido à baixa procura por carros elétricos.
+Hoje, Trump anunciou tarifas de 100% sobre produtos farmacêuticos importados, enquanto a tempestade Gabrielle causou estragos nos Açores, com rajadas de vento de 123 km/h no Faial. O continente está em alerta devido à agitação marítima.
+
+Na política nacional, o Governo pretende estender o acordo de aumentos salariais na Função Pública até 2029, enquanto empresários propõem o fim de cinco escalões de IRS e da derrama no IRC. O antigo diretor do FBI, James Comey, foi acusado de obstrução à justiça e perjúrio após pressão de Trump. Mortágua suspendeu o mandato para participar numa flotilha para Gaza.
+
+No mundo, a Coreia do Sul diz que Pyongyang está na "fase final" de possuir míssil nuclear intercontinental. A China inaugurou a ponte suspensa mais alta do mundo. A Dinamarca relatou uma nova incursão de 'drone' em aeroporto, levando ao encerramento de alguns espaços aéreos.
+
+No campo da arqueologia, foi descoberto um objeto de marfim de hipopótamo na Península Ibérica, enquanto espécies de mamutes cruzaram-se na América do Norte.
+
+Na justiça,  o Tribunal Constitucional declarou inconstitucional o valor mínimo obrigatório cobrado a advogados pela CPAS, e a justiça federal dos EUA aprovou um acordo de direitos autorais de 1,2 mil milhões de euros com uma empresa de IA.
+
+No desporto, Sérgio Busquets anunciou o fim da sua carreira. O Estádio da Luz apagou as luzes numa campanha de alerta para doenças cardiovasculares.
+
+Outras notícias incluem a preocupação dos reitores com a extinção da FCT, a incorporação de participadas pela Teixeira Duarte, e um estudo que sugere um projeto-piloto de voto aos 16 anos. A economia espanhola cresceu 3,1% no segundo trimestre.

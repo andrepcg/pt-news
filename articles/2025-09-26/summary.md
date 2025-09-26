@@ -1,11 +1,9 @@
-O dia ficou marcado pelo anúncio de Donald Trump de tarifas de 100% sobre produtos farmacêuticos importados, medida que também se estende a mobiliário. Entretanto, a Coreia do Sul alertou que Pyongyang está na "fase final" de possuir um míssil nuclear intercontinental. James Comey, ex-diretor do FBI, foi acusado de obstrução à justiça e perjúrio, após pressão de Trump.
+Em destaque hoje: Trump anunciou tarifas de 100% sobre produtos farmacêuticos importados, enquanto a tempestade Gabrielle atingiu os Açores causando estragos e rajadas de vento até 123 km/h. O Governo português quer estender o acordo de aumentos salariais na Função Pública até 2029. No mundo, a Coreia do Sul alega que Pyongyang está na fase final de possuir um míssil nuclear intercontinental e o ex-diretor do FBI, James Comey, foi acusado de obstrução à justiça após pressão de Trump.
 
-No plano nacional, o Governo pretende prolongar o acordo de aumentos salariais na Função Pública até 2029, enquanto uma associação de empresários propõe o fim de cinco escalões de IRS e da derrama no IRC. O Tribunal Constitucional declarou inconstitucional o valor mínimo obrigatório cobrado a advogados pela CPAS.
+Na economia, uma associação de empresários propõe o fim de cinco escalões de IRS e da derrama no IRC. A China inaugurou a ponte suspensa mais alta do mundo e a Teixeira Duarte incorporou quatro participadas para criar sinergias. A justiça federal dos EUA aprovou um acordo de direitos autorais de 1,2 mil milhões de euros com uma empresa de IA.
 
-A tempestade Gabrielle atingiu os Açores, com rajadas de vento de até 123 km/h, causando estragos e desalojados, e gerando alerta para agitação marítima no continente. Mais de 50 concelhos estão em perigo máximo de incêndio rural.
+Na cultura e ciência, um objeto de marfim de hipopótamo foi descoberto na Península Ibérica e espécies de mamutes cruzaram-se na América do Norte.
 
-Na área da saúde, foi descoberto um composto promissor contra o vírus do herpes e o Estádio da Luz apagou as luzes numa campanha de alerta para doenças cardiovasculares. Um novo modelo de urgências obstétricas prevê a movimentação de equipas de 12 maternidades.
+Outros temas incluem a inconstitucionalidade do valor mínimo obrigatório cobrado a advogados pela CPAS, a aprovação do direito ao porte de armas de fogo em público na Flórida e a Dinamarca a relatar novas incursões de 'drones' em aeroportos. No desporto, Sérgio Busquets anunciou o "adeus" ao futebol.
 
-No mundo da tecnologia, a justiça federal dos EUA aprovou um acordo de direitos autorais de 1,2 mil milhões de euros com uma empresa de IA, enquanto a Dinamarca enfrentou novos alertas de drones em aeroportos. A China inaugurou a ponte suspensa mais alta do mundo.
-
-Na cultura, foi descoberto um antigo objeto feito de marfim de hipopótamo na Península Ibérica, e o ator Luís Alberto faleceu aos 91 anos. Sérgio Busquets anunciou o 'adeus' ao futebol.
+Em Portugal, mais de 50 concelhos estão em perigo máximo de incêndio rural, o Estádio da Luz apagou as luzes numa campanha de alerta para doenças cardiovasculares e a esperança de vida aumentou para 81,49 anos. A revisão dos prazos do aborto está a ser defendida por especialistas e a Igreja começou a fixar compensações por abusos sexuais após validar 77 pedidos.

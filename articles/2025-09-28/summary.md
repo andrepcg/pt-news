@@ -1,15 +1,15 @@
-Hoje, Portugal enfrentou os impactos da tempestade Gabrielle, com a Proteção Civil a registar centenas de ocorrências, principalmente quedas de árvores, e vários distritos sob alerta laranja. No combate aos incêndios, o Governo pondera equipas de intervenção permanentes nos concelhos e prepara uma nova lei orgânica para a Proteção Civil.
+Hoje, a Ucrânia foi alvo de um ataque aéreo massivo russo com mais de 500 drones e mísseis, causando pelo menos quatro mortos em Kiev, enquanto a Polónia se mantém em alerta. A Rússia também ameaça responder a qualquer agressão da NATO ou da UE, especialmente no setor de petróleo e gás.
 
-No plano internacional, a Ucrânia foi alvo de um ataque massivo russo com centenas de drones e mísseis, causando mortos. As sanções da ONU contra o Irão foram reativadas, levando a ameaças de resposta por parte de Teerão. A Moldova votou em eleições cruciais, dividida entre a influência europeia e russa. A Venezuela simulou uma resposta militar a uma invasão perto da costa.
+Portugal continental está sob aviso devido à tempestade Gabrielle, que já causou cerca de 300 ocorrências, incluindo inundações e quedas de árvores, com 12 distritos em alerta laranja e o Porto sob aviso vermelho. Acrescenta-se o alerta amarelo no grupo central dos Açores devido a chuva forte e em Valência, Espanha, devido a chuva intensa. Os bombeiros voluntários enfrentam despesas extra de 20 milhões de euros este ano, levando o governo a considerar equipas de intervenção permanentes 24 horas por dia. Uma nova lei orgânica para a Proteção Civil deverá ser publicada até ao final do ano. Em Pedrógão Grande, as memórias do desastre de Alcafache continuam presentes.
 
-Em Portugal, nas notícias políticas, Alexandra Leitão defende mais competências para as freguesias de Lisboa. A nível económico, o país ambiciona atrair um milhão de turistas argentinos até 2035 e contabilizam-se despesas extraordinárias de 20 milhões de euros com os bombeiros voluntários. A MEO defende prioridade energética para os operadores de telecomunicações.
+Na política internacional, as sanções da ONU contra o Irão foram reativadas, com o Irão a prometer uma resposta firme. A Moldova votou em eleições decisivas entre a influência europeia e russa, com resultados provisórios a apontar para uma liderança pró-europeia. Forças venezuelanas simularam uma resposta a uma invasão militar.
 
-No desporto, Marc Márquez conquistou o título de MotoGP, igualando Rossi, enquanto Gonçalo Inácio pondera a saída ou renovação com o Sporting, que foi embalado para a liderança da I Liga por Luis Suárez.
+Em Portugal, a urgência de obstetrícia de Vila Franca de Xira está em risco de encerramento por falta de médicos. Nas autárquicas, discute-se o financiamento de grupos de cidadãos e as competências de fiscalização das freguesias, enquanto Raimundo critica o PS pela estagnação em Montemor-o-Novo. Montenegro promove o aumento das pensões mais baixas e é acusado de eleitoralismo por Ventura.
 
-Na cultura, o Museu de Arte Antiga promove atividades gratuitas antes de obras.
+No desporto, Marc Márquez conquistou o título de MotoGP, igualando Rossi. Luís Suárez destacou-se no Sporting, que assim chegou à liderança da I Liga. A nível europeu, o Benfica defrontará o Chelsea na Champions, enquanto o Sporting tem um jogo difícil. No futebol nacional, o Estrela da Amadora anunciou João Nuno como treinador.
 
-A nível social, a urgência de obstetrícia de Vila Franca de Xira está em risco de encerramento e um bebé nasceu numa ambulância no IC21. Dalila Carmo revelou que tem epilepsia.
+Na economia, Portugal ambiciona receber 1 milhão de turistas argentinos até 2035, sendo que a taxa turística de Albufeira deverá atingir 8 milhões de euros em 2025 e na Madeira regista-se procura de casas por parte de estrangeiros.
 
-Apesar as eleições autárquicas serem em 2025, já se fazem sentir, seja pelo número de freguesias a serem repostas, como pelas dificuldades financeiras e burocráticas sentidas pelos grupos de cidadãos.
+No mundo da fama, Selena Gomez e Benny Blanco casaram-se na Califórnia e o Príncipe Harry negou notícias sobre um encontro com o Rei Carlos III. Dalila Carmo revelou que tem epilepsia.
 
-Por fim, Selena Gomez e Benny Blanco casaram-se na Califórnia.
+Outras notícias incluem a reabertura da Linha da Beira Alta e o Museu de Arte Antiga a promover atividades gratuitas antes de obras.

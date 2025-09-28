@@ -1,19 +1,15 @@
-## Resumo do Dia (2025-09-28)
+Hoje, Portugal enfrentou os impactos da tempestade Gabrielle, com a Proteção Civil a registar centenas de ocorrências, principalmente quedas de árvores, e vários distritos sob alerta laranja. No combate aos incêndios, o Governo pondera equipas de intervenção permanentes nos concelhos e prepara uma nova lei orgânica para a Proteção Civil.
 
-**Portugal:** Portugal continental enfrentou a depressão Gabrielle, com a Proteção Civil a registar centenas de ocorrências, maioritariamente quedas de árvores. O governo pondera criar Equipas de Intervenção Permanente 24h para combate a incêndios, face às despesas extraordinárias deste ano. A Linha da Beira Alta reabriu após obras. Na política, a pré-campanha autárquica aquece, com o PS a desafiar o Governo sobre o aumento das pensões e o PSD confiante em manter a liderança em Lisboa. Na saúde, a urgência de obstetrícia de Vila Franca de Xira está em risco de fechar por falta de médicos.
+No plano internacional, a Ucrânia foi alvo de um ataque massivo russo com centenas de drones e mísseis, causando mortos. As sanções da ONU contra o Irão foram reativadas, levando a ameaças de resposta por parte de Teerão. A Moldova votou em eleições cruciais, dividida entre a influência europeia e russa. A Venezuela simulou uma resposta militar a uma invasão perto da costa.
 
-**Mundo:** A Ucrânia reportou um ataque maciço russo com centenas de drones e mísseis. A Polónia fechou preventivamente parte do seu espaço aéreo. As eleições na Moldova colocaram o país numa encruzilhada entre a Europa e a influência russa, com os resultados provisórios a indicarem uma vitória pró-europeia. As sanções da ONU contra o Irão foram reativadas, levando a ameaças de resposta por parte de Teerão. Na Venezuela, foram simuladas respostas a uma invasão militar. Os talibãs anunciaram um convite da Rússia para aderir ao "Formato Moscovo". Houve ainda um tiroteio numa igreja no Michigan, com várias vítimas.
+Em Portugal, nas notícias políticas, Alexandra Leitão defende mais competências para as freguesias de Lisboa. A nível económico, o país ambiciona atrair um milhão de turistas argentinos até 2035 e contabilizam-se despesas extraordinárias de 20 milhões de euros com os bombeiros voluntários. A MEO defende prioridade energética para os operadores de telecomunicações.
 
-**Economia:** A MEO poderá ter de devolver 40 milhões de euros aos clientes. O CEO da MEO defende a prioridade energética para os operadores. Portugal ambiciona atrair um milhão de turistas argentinos até 2035.
+No desporto, Marc Márquez conquistou o título de MotoGP, igualando Rossi, enquanto Gonçalo Inácio pondera a saída ou renovação com o Sporting, que foi embalado para a liderança da I Liga por Luis Suárez.
 
-**Desporto:** Marc Márquez conquistou o título de MotoGP, igualando Rossi. O Sporting está embalado para a liderança da I Liga. Regresso de Mourinho à Champions e jogos difíceis para Benfica e Sporting. Portugal goleou a Itália no Europeu de Sub-19 de Futsal.
+Na cultura, o Museu de Arte Antiga promove atividades gratuitas antes de obras.
 
-**Fama:** Selena Gomez e Benny Blanco casaram-se na Califórnia. O Príncipe Harry negou notícias sobre um encontro com Carlos III. Dalila Carmo revelou ter epilepsia.
+A nível social, a urgência de obstetrícia de Vila Franca de Xira está em risco de encerramento e um bebé nasceu numa ambulância no IC21. Dalila Carmo revelou que tem epilepsia.
 
-**Tecnologia:** A IA será um "jogo do gato e do rato" na criação e deteção de *fake news*.
+Apesar as eleições autárquicas serem em 2025, já se fazem sentir, seja pelo número de freguesias a serem repostas, como pelas dificuldades financeiras e burocráticas sentidas pelos grupos de cidadãos.
 
-**Crime:** Homem foi detido em Almada por atear fogo a uma viatura. Em Vendas Novas, a GNR deteve dois homens por furto numa herdade.
-
-**Autárquicas 2025:** Em Lisboa, Alexandra Leitão defende mais competências de fiscalização para as freguesias.
-
-**Nota:** A tempestade Gabrielle causou inundações e quedas de árvores em Portugal.
+Por fim, Selena Gomez e Benny Blanco casaram-se na Califórnia.

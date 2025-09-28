@@ -1,19 +1,11 @@
-## Resumo das Notícias de 2025-09-28
+Hoje, Portugal enfrenta os impactos da tempestade Gabrielle, com vários distritos sob alerta laranja e vermelho devido a inundações e agitação marítima, registando-se já cerca de 200 ocorrências. O Governo pondera criar Equipas de Intervenção Permanente para o combate a incêndios, que este ano causaram despesas extra de 20 milhões de euros, e prepara uma nova lei orgânica para a Proteção Civil.
 
-**Portugal:** Portugal continental foi atingido pela tempestade Gabrielle, com cerca de 200 ocorrências registadas pela Proteção Civil, maioritariamente quedas de árvores, e vários distritos sob aviso. O Governo pondera criar Equipas de Intervenção Permanente 24h para combater incêndios, cuja despesa extraordinária já ultrapassa os 20 milhões de euros. A Proteção Civil terá uma nova lei orgânica até ao final do ano. A Linha da Beira Alta reabriu após três anos de obras. A urgência de obstetrícia de Vila Franca de Xira está em risco de fechar por falta de médicos. Nas autárquicas, grupos de cidadãos eleitores enfrentam dificuldades financeiras e burocráticas. Em Almada, um homem foi detido por atear fogo a uma viatura. A taxa turística de Albufeira deverá atingir os 8 milhões de euros em 2025.
+Na Ucrânia, um ataque massivo russo com mais de 500 drones e mísseis causou pelo menos quatro mortos em Kiev, levando a Polónia a alertar o seu espaço aéreo. A Rússia ameaça responder a qualquer agressão da NATO ou UE, enquanto Zelensky anuncia um possível acordo para compra de armas aos EUA.
 
-**Economia:** CEO da MEO defende prioridade energética para operadores de comunicações e consolidação no setor. Centrais sindicais propõem IVA a 6% para bens essenciais e aumento salarial no OE 2026. Portugal ambiciona atrair um milhão de turistas argentinos até 2035.
+A Moldova vota hoje numas eleições decisivas, dividida entre a influência europeia e russa, num dia marcado por acusações de manipulação. Sanções da ONU contra o Irão foram reativadas, com o Irão a prometer responder.
 
-**Política:** A Moldova votou em eleições decisivas entre a influência europeia e russa, marcadas por acusações de manipulação.
+Em Portugal, nas notícias locais, a urgência de obstetrícia de Vila Franca de Xira está em risco de fechar por falta de médicos. No desporto, Gonçalo Inácio poderá sair ou renovar contrato com o Sporting, enquanto Marc Márquez conquistou o título de MotoGP.
 
-**Mundo:** A Ucrânia reportou um ataque russo massivo com mais de 500 drones e mísseis, causando mortes em Kiev e levando a Polónia a alertar o seu espaço aéreo. As sanções da ONU contra o Irão foram reativadas, levando a ameaças de resposta. A Venezuela simulou uma resposta a uma invasão militar perto da costa. Dinamarca proibiu voos de drones civis durante cimeiras da UE. Israel comemorou o restabelecimento das sanções da ONU ao Irão.
+No panorama político nacional, o OE2026 é tema de debate, com sindicatos a proporem IVA a 6% para bens essenciais e Montenegro a prometer um suplemento para as pensões mais baixas. Cotrim de Figueiredo candidatou-se à Presidência da República, enquanto nas autárquicas de 2025 grupos de cidadãos enfrentam dificuldades financeiras.
 
-**Desporto:** Marc Márquez conquistou o título de MotoGP, igualando Rossi. Luís Suárez embalou o Sporting para a liderança da I Liga.
-
-**Fama:** Selena Gomez e Benny Blanco casaram-se na Califórnia. O Príncipe Harry negou notícias sobre um encontro com Carlos III. Dalila Carmo revelou que tem epilepsia.
-
-**Tecnologia:** IA será um "jogo do gato e do rato" na criação e deteção de "fake news".
-
-**Saúde:** Os tempos de espera nas urgências do Amadora-Sintra atingiram as 16 horas. Um bebé nasceu numa ambulância a caminho do Hospital de Almada devido ao encerramento da urgência do Barreiro.
-
-Além disso, foram noticiados vários crimes, incluindo a detenção de um homem por incêndio criminoso em Almada e de dois homens por furto numa herdade em Vendas Novas, bem como o sequestro de um empresário em Braga.
+Internacionalmente, a Venezuela simulou uma resposta militar a uma invasão perto da costa, e dinamarca baniu voos de drones civis durante cimeiras da UE e drones voltaram a sobrevoar instalações militares. Na área da cultura, o Museu de Arte Antiga promove atividades gratuitas antes de obras.

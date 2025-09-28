@@ -1,11 +1,13 @@
-Hoje, Portugal enfrenta os impactos da tempestade Gabrielle, com vários distritos sob alerta laranja e vermelho devido a inundações e agitação marítima, registando-se já cerca de 200 ocorrências. O Governo pondera criar Equipas de Intervenção Permanente para o combate a incêndios, que este ano causaram despesas extra de 20 milhões de euros, e prepara uma nova lei orgânica para a Proteção Civil.
+Hoje, Portugal enfrentou os efeitos da tempestade Gabrielle, com cerca de 200 ocorrências registadas pela Proteção Civil, enquanto 12 distritos permaneceram em alerta laranja. No Governo, pretende-se criar Equipas de Intervenção Permanente para combate a incêndios, e a Proteção Civil receberá uma nova lei orgânica até ao final do ano. As despesas com incêndios já ultrapassaram os 20 milhões de euros.
 
-Na Ucrânia, um ataque massivo russo com mais de 500 drones e mísseis causou pelo menos quatro mortos em Kiev, levando a Polónia a alertar o seu espaço aéreo. A Rússia ameaça responder a qualquer agressão da NATO ou UE, enquanto Zelensky anuncia um possível acordo para compra de armas aos EUA.
+A nível internacional, a Ucrânia reportou um ataque massivo russo. As sanções da ONU contra o Irão foram reativadas, levando a ameaças de resposta por parte de Teerão.  A Moldova votou, numa escolha entre a Europa e a influência russa, enquanto forças venezuelanas simularam uma resposta a uma invasão militar. Após falhas nas negociações, a UE volta a aplicar sanções ao Irão, com Israel a celebrar o restabelecimento destas sanções.
 
-A Moldova vota hoje numas eleições decisivas, dividida entre a influência europeia e russa, num dia marcado por acusações de manipulação. Sanções da ONU contra o Irão foram reativadas, com o Irão a prometer responder.
+Em Lisboa, Alexandra Leitão defendeu mais competências de fiscalização para as freguesias.  No Sporting, discute-se a possível saída ou renovação de Gonçalo Inácio. Luis Suárez destacou-se no campeonato, impulsionando o Sporting para a liderança da I Liga.
 
-Em Portugal, nas notícias locais, a urgência de obstetrícia de Vila Franca de Xira está em risco de fechar por falta de médicos. No desporto, Gonçalo Inácio poderá sair ou renovar contrato com o Sporting, enquanto Marc Márquez conquistou o título de MotoGP.
+Na área da tecnologia, debate-se o "jogo do gato e do rato" entre a IA e a desinformação.
 
-No panorama político nacional, o OE2026 é tema de debate, com sindicatos a proporem IVA a 6% para bens essenciais e Montenegro a prometer um suplemento para as pensões mais baixas. Cotrim de Figueiredo candidatou-se à Presidência da República, enquanto nas autárquicas de 2025 grupos de cidadãos enfrentam dificuldades financeiras.
+Na área da cultura, o Museu de Arte Antiga promoveu atividades gratuitas antes de obras.
 
-Internacionalmente, a Venezuela simulou uma resposta militar a uma invasão perto da costa, e dinamarca baniu voos de drones civis durante cimeiras da UE e drones voltaram a sobrevoar instalações militares. Na área da cultura, o Museu de Arte Antiga promove atividades gratuitas antes de obras.
+No mundo do entretenimento, Selena Gomez e Benny Blanco casaram-se na Califórnia.
+
+Por fim, Marc Márquez conquistou o título de MotoGP, igualando Rossi.

@@ -1,15 +1,50 @@
-No panorama internacional, a China enviou 2.000 trabalhadores para construir uma fábrica de baterias em Espanha, enquanto a Lufthansa anunciou a eliminação de 4.000 empregos até 2030. Na Moldova, os pró-europeus mantiveram a maioria absoluta nas eleições. Cuba lidou com mais de 18 mil deslocados devido à depressão Imelda. Um ex-ministro da agricultura chinês foi condenado à pena de morte suspensa por corrupção. Trump e Netanyahu reuniram-se para discutir um plano para Gaza, enquanto o Irão executou um alegado espião a favor de Israel. No México, houve protestos pela despenalização total do aborto. A Dinamarca proibiu voos de drones civis.
+Resumo das notícias de 29 de setembro de 2025:
 
-Na Europa, um estudo alertou para o consumo excessivo de energia para arrefecimento em Portugal, e a UNESCO reuniu ministros em Barcelona para definir a agenda global da cultura. A União Europeia debate a proposta 'Chat Control', suscitando preocupações sobre privacidade. Um estudo da Agência Europeia do Ambiente alertou para os danos ambientais que ameaçam o modo de vida europeu. A Europa conquistou a Ryder Cup de golfe aos EUA.
+**Política e Mundo:**
 
-Em Portugal, a PJ registou 711 casos de abuso sexual de crianças no primeiro semestre. Air France-KLM pondera investir na TAP, exigindo controlo de gestão, enquanto a Lufthansa mantém o interesse. O programa de apoio à compra de equipamentos eficientes exclui bombas de calor. Em Beja, as autárquicas estão marcadas por questões locais. A CMVM suspendeu e depois levantou a negociação das ações da Impresa. Há preocupações com a falta de água e a necessidade de políticas concretas. A avaliação bancária da habitação subiu em agosto. A farmacêutica Organon expandiu-se em Lisboa. Vários setores alcançaram aumentos salariais. Bruxelas quer mais verbas da UE para habitação acessível. A CASA Independente em Lisboa vai encerrar em 2026. Nos Açores, o governo autorizou mais empréstimos à SATA. A escassez de água em Moçambique reduziu a exportação de energia elétrica.
+*   Na Moldova, o partido pró-europeu manteve a maioria absoluta nas eleições, com Costa a destacar a escolha europeia. No entanto, observadores da OSCE criticaram interferências russas no processo eleitoral.
+*   Trump recebeu Netanyahu para discutir o plano de Gaza, enquanto ativistas palestinianos criticam Israel. Ataques a Gaza intensificaram-se, elevando o número de mortos.
+*   O Irão executou um alegado espião a favor de Israel, aumentando as tensões na região.
+*   A China condenou um ex-ministro da Agricultura à pena de morte suspensa por corrupção.
+*   Nos EUA, um atirador matou quatro pessoas numa igreja Mórmon no Michigan.
+*   Zelensky apelou ao Ocidente para cortar as receitas energéticas da Rússia. A Rússia, por sua vez, ordenou o recrutamento de 135.000 militares, negando o envio para a Ucrânia.
+*   A Dinamarca proibiu voos de drones civis antes da cimeira europeia e a Suécia acusou a Rússia de os usar.
+*   A União Europeia restabeleceu sanções contra o Irão devido ao programa nuclear e discute restrições à privacidade online com a proposta 'Chat Control'.
 
-No desporto, o FC Porto defendeu a liderança no futebol. Rui Costa defendeu a sua recandidatura ao Benfica. Ruben Amorim foi criticado no Manchester United.
+**Economia e Empresas:**
 
-Em relação a desastres naturais e saúde pública, Valência esteve em alerta vermelho devido a chuva intensa, e Cabo Verde enfrentou riscos de saúde pública após cheias. Nas Filipinas, o tufão Bualoi causou mortes e destruição.
+*   A Lufthansa anunciou o corte de 4.000 empregos até 2030. A Air France-KLM admitiu investir na TAP, mas exige controlo na gestão, enquanto isso o governo dos Açores autorizou mais empréstimos à SATA Air Açores.
+*   A CMVM suspendeu e depois levantou a negociação das ações da Impresa, após o interesse do grupo Berlusconi. Francisco Pinto Balsemão lucrou com a valorização das ações.
+*   A China está a enviar 2.000 trabalhadores para construir uma fábrica de baterias em Espanha.
+*  A EA (Electronic Arts) foi comprada por um consórcio liderado pelo genro de Trump por 55 mil milhões de dólares.
+*   Foi registado o Clima económico em Portugal atinge o valor mais alto desde a invasão da Ucrânia.
 
-Na política nacional, o Governo aposta num pacote "mais leve" para a imigração, com o Chega a condicionar o apoio à lei de estrangeiros. O PSD mostrou-se confiante num bom resultado nas autárquicas. António Costa defendeu que a paz sem defesa da UE é uma ilusão. A IL vai viabilizar comissões de inquérito aos incêndios.
+**Portugal:**
 
-Na cultura, a Festa do Livro em Belém bateu recordes de visitantes. Bad Bunny atuará no intervalo da Super Bowl 2026. A gala dos Globos de Ouro de 2025 teve os seus vencedores e destaques e os Gansos celebram dez anos de carreira com concerto no Coliseu de Lisboa.
+*   O Governo está a apostar num pacote "mais leve" para a imigração, com o Chega a condicionar o apoio à lei de estrangeiros. O PSD também não dá garantias de viabilização, com o governo a admitir alterações.
+*   Em Beja, a campanha autárquica é marcada por questões como as barracas e a autoestrada.
+*   A PJ registou 711 casos de abuso sexual de crianças no primeiro semestre do ano.
+*   A Casa Independente em Lisboa vai encerrar no final de 2026.
+*   Em Lisboa, moradores queixam-se do ruído de "discotecas flutuantes" no Tejo.
 
-Outros eventos incluem um tiroteio numa igreja Mórmon no Michigan, EUA, e alertas meteorológicos em Valência devido a chuva intensa.
+**Clima e Ambiente:**
+
+*   Portugal está entre os países que mais consumirão energia para arrefecer.
+*   Mais de 18 mil pessoas foram deslocadas em Cuba devido à depressão Imelda.
+*   Um estudo da Agência Europeia do Ambiente  alerta para danos ambientais que ameaçam o modo de vida europeu.
+*   Valência encontra-se em alerta vermelho devido a chuva intensa.
+*   A Associação Ambiental Zero alertou que Portugal falha a maioria dos objetivos europeus para o ambiente.
+
+**Desporto:**
+
+*   O FC Porto respondeu ao Sporting em Arouca para defender a liderança no campeonato.
+*   A Europa conquistou a Ryder Cup de golfe aos EUA pela segunda vez seguida.
+*   Danny Makkelie vai arbitrar o jogo Nápoles-Sporting na Liga dos Campeões.
+*   Ruben Amorim foi criticado por Rooney, perdendo a fé.
+*   Rui Costa defendeu a sua recandidatura ao Benfica.
+
+**Outros:**
+
+*   A UNESCO reuniu ministros em Barcelona para definir a agenda global da cultura.
+*   Bad Bunny atuará no intervalo da Super Bowl 2026.
+*   A Festa do Livro em Belém bateu recordes de visitantes.

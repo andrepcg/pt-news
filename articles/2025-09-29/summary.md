@@ -1,6 +1,13 @@
-*   A nível internacional, a China enviou 2.000 trabalhadores para construir uma fábrica de baterias em Espanha. Na Moldova, os pró-europeus venceram as eleições e mantêm a maioria absoluta. Trump recebeu Netanyahu em Washington para discutir o plano de Gaza, enquanto o Irão executou um alegado espião a favor de Israel. No México, centenas exigem a despenalização total do aborto. A UNESCO reuniu ministros em Barcelona para definir a agenda global da cultura. Mais de 18 mil pessoas foram deslocadas em Cuba devido à depressão Imelda. A China condenou um ex-ministro da Agricultura à pena de morte suspensa por corrupção. Voos de drones civis foram proibidos na Dinamarca. A Europa conquistou a Ryder Cup aos EUA pela segunda vez seguida.
-*   Na economia, a Lufthansa anunciou o corte de 4.000 empregos até 2030 e a Air France-KLM admitiu investir na TAP, mas exige controlo na gestão. Um programa de apoio à compra de equipamentos eficientes exclui bombas de calor.
-*   Em Portugal, a PJ registou 711 casos de abuso sexual de crianças no primeiro semestre do ano. O país está entre os que mais consumirão energia para arrefecer.
-*   No desporto, o FC Porto defendeu a liderança no jogo contra o Arouca.
-*   Na cultura, a Festa do Livro em Belém bateu recordes de visitantes e foram entregues os Globos de Ouro 2025.
-*   Na política autárquica, em Beja, as barracas e a autoestrada marcam a batalha.
+Aqui fica um resumo das notícias do dia 29 de setembro de 2025:
+
+Na política internacional, os partidos pró-europeus venceram as eleições na Moldova, mantendo a maioria absoluta, enquanto Trump e Netanyahu se reuniram para discutir um plano para Gaza. O Irão executou mais um alegado espião a favor de Israel. Macau anunciou uma nomeação inédita de um membro do Governo como deputado.
+
+Em termos económicos, a Lufthansa anunciou o corte de 4.000 empregos até 2030. A Air France-KLM admitiu a possibilidade de investir na TAP, mas exigindo controlo na gestão. O programa de apoio à compra de equipamentos eficientes exclui bombas de calor. A China enviou 2.000 trabalhadores para construir uma fábrica de baterias em Espanha.
+
+No âmbito social, a PJ registou 711 casos de abuso sexual de crianças no primeiro semestre do ano e a Festa do Livro em Belém bateu recordes de visitantes. Os Globos de Ouro 2025 também foram destaque.
+
+Nos desportos, a Europa conquistou a Ryder Cup de golfe e o FC Porto defendeu a liderança no futebol ao responder ao Sporting em Arouca.
+
+No clima, Portugal está entre os países que mais energia consumirão para arrefecer, Cuba enfrenta mais de 18 mil deslocados devido à depressão Imelda e Valência está em alerta vermelho devido a chuva intensa.
+
+Outros destaques incluem a condenação na China de um ex-ministro da Agricultura à pena de morte suspensa por corrupção, a proibição de voos de drones civis na Dinamarca e um tiroteio numa igreja Mórmon no Michigan, EUA, que resultou em quatro mortes.

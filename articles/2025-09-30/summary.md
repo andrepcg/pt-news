@@ -1,13 +1,9 @@
-Em Portugal, um estudo revela que os casos de epilepsia são o dobro do estimado, enquanto outro aponta para a eficácia da canábis no alívio da dor lombar crónica. A vacina contra o HPV é considerada "altamente eficaz" e uma petição pede a inclusão da vacina contra a zona no Programa Nacional de Vacinação. No âmbito da saúde infantil, um estudo alerta para os perigos do fumo passivo.
+Em Portugal, um novo estudo revela que os casos de epilepsia são o dobro do estimado e o Tribunal Constitucional confirmou indemnizações milionárias a tripulantes da TAP. A campanha para as eleições autárquicas arrancou oficialmente, com um recorde de candidatos independentes, enquanto o PSD e o Chega chegaram a acordo para aprovar a nova Lei dos Estrangeiros, gerando debate e oposição. A Comissão Europeia pressiona Portugal a acabar com o desconto no ISP. Foi ainda noticiado que o E-Lar está com candidaturas abertas para apoio na troca de eletrodomésticos com instabilidade no site devido ao elevado número de acessos.
 
-No panorama político nacional, a campanha para as eleições autárquicas arrancou oficialmente num ano com um número recorde de candidatos independentes. O Parlamento vota hoje a nova Lei de Estrangeiros, com PSD e Chega a chegarem a acordo sobre a mesma. Bruxelas está a pressionar Portugal para acabar com o desconto no ISP.
+No mundo, uma escola desabou na Indonésia, soterrando dezenas de estudantes, enquanto a ONU pede diálogo urgente no Equador após a morte de um manifestante. A China aumentou a pressão militar sobre Taiwan e restringiu gastos do fundador do grupo Wanda devido a dívidas. Nos EUA, o país está à beira de uma paralisação orçamental. A superfície global do oceano atingiu uma temperatura recorde em 2024. Miguel Oliveira confirmou a sua ida para a BMW no Mundial de Superbike em 2026.
 
-A nível internacional, a China aumentou a pressão militar sobre Taiwan. Nos EUA, um impasse orçamental ameaça uma paralisação do governo. A ONU apelou ao diálogo urgente no Equador após a morte de um manifestante. Na Indonésia, o desabamento de uma escola soterrou dezenas de estudantes. No Vietname, o número de mortos devido ao tufão Bualoi subiu para 19.
+Na área da saúde, um estudo conclui que a vacina contra o HPV é "altamente eficaz", enquanto outro estudo revelou que o extrato de canábis pode reduzir a dor lombar crónica. Um alerta foi dado sobre como o fumo passivo causa graves problemas de saúde nas crianças.
 
-Na área da tecnologia, uma atriz criada por IA está a gerar polémica em Hollywood.
+No âmbito tecnológico, uma atriz criada por IA gerou polémica em Hollywood, e o YouTube pagará milhões para encerrar um processo de Trump sobre a suspensão da sua conta. Cientistas descobriram evidências de tubos de lava em Vénus.
 
-No mundo desportivo, destaque para a saída de Miguel Oliveira do MotoGP para se juntar à BMW no Mundial de Superbikes, para a aprovação da venda do estádio San Siro, em Milão, ao AC Milan e Inter, e para o repúdio da AF Lisboa relativamente à violência nos jogos distritais.
-
-Na economia, a REN adquiriu ativos de transmissão elétrica no Chile, enquanto o Peru e o Brasil discutem a construção de um comboio interoceânico. A China restringiu os gastos do fundador do grupo Wanda devido a dívidas. A companhia aérea islandesa Play declarou falência, deixando passageiros retidos.
-
-Por fim, foram descobertas evidências de tubos de lava em Vénus e a superfície global do oceano atingiu uma temperatura recorde em 2024.
+Em economia, a REN comprou ativos de transmissão elétrica no Chile. A autarquia de Milão aprovou a venda do estádio de San Siro ao AC Milan e Inter.

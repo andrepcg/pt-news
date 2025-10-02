@@ -1,17 +1,13 @@
-Hoje, Portugal enfrenta críticas por liderar a discriminação contra ciganos na Europa, com quase todas as crianças ciganas em risco de pobreza. No Algarve, um sismo de magnitude 3,3 foi sentido perto de Olhão.
+Aqui ficam as principais notícias de 2 de outubro de 2025:
 
-No mundo, Israel deteve portugueses numa flotilha humanitária para Gaza, com Montenegro a garantir apoio consular. Os EUA acusaram um grupo pró-Israel de espionagem. Em Moçambique, cerca de 22 mil pessoas foram deslocadas devido a ataques terroristas, enquanto no Rio de Janeiro, um bónus para polícias que matam suspeitos gerou polémica. A câmara do Brasil aprovou isenção de IRS para quem ganha até 800 euros.
+**Política e Sociedade:** Portugal lidera na discriminação contra ciganos na Europa, com um inquérito a revelar que a maioria das crianças ciganas enfrenta risco de pobreza. Portugueses foram detidos por Israel numa flotilha humanitária para Gaza, com Montenegro a garantir apoio consular. Um ativista foi condenado por interromper um discurso de António Costa em 2019.
 
-Na ciência, uma descoberta aumentou a probabilidade de vida numa lua de Saturno e cientistas visualizaram as proteínas causadoras de Parkinson. A ideia de prolongar a vida humana até aos 150 anos, apoiada por Putin e Xi, ganhou suporte científico.
+**Economia:** A ex-TAP SGPS pode ser liquidada devido a dívidas. O salário mínimo acima de 920 euros enfrenta incertezas. O fim do desconto no ISP nos combustíveis eleva o imposto ao nível mais alto em 27 anos. A Comissão Europeia pressiona Portugal para acabar com o desconto no ISP. As bolsas de formação em contexto laboral passam a pagar IRS. Devido ao encerramento do Governo, o turismo nos EUA fica afetado.
 
-Um ataque a um posto policial em Marrocos resultou em duas mortes. Taiwan lidera a compra de nafta russa, apesar de apoiar a Ucrânia. Na Indonésia, equipas de resgate não encontraram sinais de vida numa escola após um desastre. O número de mortos devido ao sismo nas Filipinas subiu para 72.
+**Mundo:** Quase 22 mil deslocados em Cabo Delgado, Moçambique, devido a ataques terroristas. No Brasil, um bónus para polícias que matam suspeitos é criticado. A Câmara do Brasil aprovou isenção de IRS para quem ganha até 800 euros. A segurança aérea na Europa está ameaçada por cortes de custos. Taiwan lidera a compra de nafta russa, apesar de apoiar a Ucrânia. Nas Filipinas, o número de mortos devido ao sismo subiu para 72. A Europa pondera usar ativos russos congelados para apoiar a Ucrânia.
 
-Na economia, Espanha tornou-se mais dependente de gás natural após um apagão ibérico. Em Portugal, o governo garantiu "contas certas" com medidas para a habitação, enquanto a liquidação da ex-TAP SGPS foi proposta devido a dívidas elevadas. Um acordo plurianual para aumentar o salário mínimo acima de 920 euros enfrenta riscos, segundo a CIP. As agendas mobilizadoras do PRR receberam 50% de adiantamento nos pedidos de reembolso. O fim do desconto nos combustíveis elevou o imposto ao nível mais alto em 27 anos, levando a Comissão Europeia a pressionar Portugal para acabar com este desconto.
+**Ciência e Tecnologia:** Uma descoberta aumenta a probabilidade de vida numa lua de Saturno. Cientistas visualizaram as proteínas causadoras de Parkinson pela primeira vez. OpenAI, criadora do ChatGPT, foi avaliada em 500 mil milhões de dólares.
 
-Em Lisboa, um incêndio deflagrou num prédio próximo à Assembleia da República e a Fidelidade ainda não contactou todos os feridos do acidente do Elevador da Glória. A Trienal de Arquitetura de Lisboa teve início com um debate sobre o peso da cidade.
+**Portugal:** Um sismo de magnitude 3,3 foi sentido perto de Olhão. Um incêndio deflagrou num prédio próximo à Assembleia da República em Lisboa. A Fidelidade ainda não contactou todos os feridos do acidente do Elevador da Glória. Um professor foi suspenso por comentários sexistas a alunas.
 
-Na cultura, o Ballet Contemporâneo do Norte apresentou um espetáculo sobre desperdício têxtil na praia, e a Festa do Cinema Francês abriu em Lisboa e no Porto com uma homenagem a Godard.
-
-No desporto, o FC Porto e o Sp. Braga procuram um novo triunfo na Liga Europa.
-
-Outras notícias incluem a apreensão de 10 mil euros em tabaco na Moita, a organização de um evento online sobre bullying e cyberbullying em Portugal, e a suspensão de um professor por comentários sexistas a alunas.
+**Outros:** Um ataque a um posto policial em Marrocos fez dois mortos após protestos. Equipas de resgate não encontraram sinais de vida numa escola na Indonésia após um desastre natural.

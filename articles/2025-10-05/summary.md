@@ -1,7 +1,11 @@
-Em resumo das notícias de 5 de outubro de 2025, o conflito Israel-Hamas atinge dois anos, enquanto um ataque russo em Zaporijia causa uma vítima mortal e coloca a Polónia em alerta. No Brasil, uma intoxicação por metanol resulta em 13 mortes e cerca de 200 casos suspeitos. Trump envia tropas para Chicago, após bloqueio judicial em Portland. A Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul e Israel interceta um míssil vindo do Iémen. Macau alivia o alerta após a passagem do quarto tufão em cinco semanas e o aeroporto da Lituânia reabre após um alerta de balões suspeitos.
+Resumo das Notícias de 5 de Outubro de 2025:
 
-Em Portugal, ONG pedem alterações no projeto da Almirante Reis em Lisboa, enquanto trabalhadores de museus e monumentos nacionais fazem greve. As comemorações da implantação da República decorrem sem discursos oficiais devido às eleições autárquicas.
+No cenário internacional, a guerra Israel-Hamas completa dois anos, enquanto um ataque russo em Zaporijia causa um morto e a Polónia está em alerta máximo. A Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul e o exército israelita interceta um míssil vindo do Iémen. No Brasil, uma intoxicação por metanol já provocou 13 mortes e quase 200 casos suspeitos. Trump anuncia a retirada de tropas israelitas de Gaza. Um desabamento de uma escola na Indonésia eleva o número de mortos para 37, e Macau alivia o alerta após a passagem de um tufão. O aeroporto da Lituânia reabre após um alerta de balões suspeitos. Um filme português foi ainda distinguido num festival de cinema em Marrocos, e Nicolás Maduro pede apoio do Papa para a paz na Venezuela.
 
-No desporto, FC Porto e Benfica defrontam-se num jogo crucial e Sporting CP e SC Braga lutam por um lugar na Europa. Ruben Amorim critica a comunicação social após a vitória do United.
+Em Portugal, as comemorações da Implantação da República decorreram sem discursos oficiais devido às eleições autárquicas. Em Lisboa, ONGs pedem alterações no projeto da Almirante Reis, enquanto trabalhadores de museus e monumentos nacionais cumprem greve. Protestos pró-Palestina em Lisboa terminam com um jovem eletrocutado.
 
-Internacionalmente, um desabamento de uma escola na Indonésia eleva o número de mortos para 37, e uma flotilha acusa Israel de negar água e medicamentos a ativistas em Gaza. Nicolás Maduro solicita "apoio especial" do Papa para a paz na Venezuela. O filme "A Memória do Cheiro das Coisas" é premiado num festival no Marrocos e o novo filme de Teresa Villaverde, "Justa", estreia no Festival do Rio. Há ainda preocupações sobre a abertura do primeiro troço de alta velocidade ferroviária em Portugal sem comboios disponíveis.
+No desporto, o FC Porto e o Benfica defrontam-se num jogo crucial, enquanto o Sporting CP e o SC Braga se preparam para jogos com a Europa no horizonte. Miguel Oliveira garantiu o 11.º lugar no GP da Indonésia.
+
+Na economia, os preços dos combustíveis vão descer, enquanto levantam-se preocupações sobre a disponibilidade de comboios para o primeiro troço de alta velocidade.
+
+Na saúde, as farmácias terão de adaptar os horários às urgências privadas.

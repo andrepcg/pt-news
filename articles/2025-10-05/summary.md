@@ -1,19 +1,21 @@
-Hoje, assinalam-se dois anos de conflito Israel-Hamas, enquanto negociações de paz mediadas pelos EUA são retomadas no Cairo, após reaparecimento do principal negociador do Hamas. A tensão mantém-se com o exército israelita a intercetar um míssil vindo do Iémen e acusações de uma flotilha sobre a negação de água e medicamentos a ativistas em Gaza. Trump anuncia um plano de retirada de tropas israelitas de Gaza.
+Hoje, assinalam-se dois anos do conflito Israel-Hamas, num dia marcado por tensões internacionais e desenvolvimentos políticos e económicos.
 
-No leste europeu, um ataque russo em Zaporijia causa uma morte e coloca a Polónia em alerta máximo. O aeroporto da Lituânia reabriu após um alerta de balões suspeitos.
+No cenário internacional, um ataque russo em Zaporijia provocou um morto, levando a Polónia a elevar o nível de alerta. A Coreia do Norte mobilizou "meios especiais" contra a Coreia do Sul. Israel intercetou um míssil vindo do Iémen, enquanto negociações de paz com o Hamas prosseguem no Cairo, com mediação dos EUA, apesar dos relatos de bombardeamentos contínuos em Gaza. Trump anunciou um plano inicial de retirada de tropas israelitas de Gaza e enviou tropas para Chicago após bloqueio judicial em Portland.
 
-No Brasil, uma intoxicação por metanol já provocou 13 mortes e quase 200 casos suspeitos.
+No Brasil, uma intoxicação por metanol causou 13 mortes e quase 200 casos suspeitos. Na Ásia, Macau baixou o alerta após a passagem de um tufão, e na Indonésia, o número de mortos no desabamento de uma escola subiu para 37. O aeroporto da Lituânia reabriu após um alerta de balões suspeitos. Uma flotilha acusou Israel de negar água e medicamentos a ativistas em Gaza, com ativistas portugueses já libertados e a caminho de Portugal, enquanto o governo israelita nega as acusações de maus tratos.
 
-Na Ásia, a Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul, enquanto Macau enfrenta o quarto tufão em cinco semanas, levando ao encerramento de casinos satélite. Na Indonésia, o número de mortos no desabamento de uma escola subiu para 37.
+Nicolás Maduro solicitou "apoio especial" do Papa para a paz na Venezuela, e o Papa Francisco alertou contra a discriminação de imigrantes.
 
-Nos EUA, Trump envia a Guarda Nacional para Portland, Chicago e Oregon e anuncia um acordo de retirada de tropas israelitas.
+Em Portugal, as comemorações da Implantação da República decorreram sem discursos oficiais devido às eleições autárquicas. António José Seguro defendeu a República como um compromisso com uma vida digna. Trabalhadores de museus e monumentos nacionais cumpriram greve por falta de respostas do governo e retomaram a greve por compensação em feriados. No urbanismo, ONGs pedem alterações no projeto da Almirante Reis em Lisboa.
 
-Na Venezuela, Nicolás Maduro pede "apoio especial" do Papa para consolidar a paz.
+Na política nacional, Gouveia e Melo revelou ter recebido oferta para chefiar as Forças Armadas em troca de desistir da candidatura à Presidência. Rui Tavares (Livre) exigiu um pedido de desculpas da IL por acusações de vandalismo em protestos pró-Palestina. Marcelo Rebelo de Sousa apelou à renovação dos ideais republicanos. Vários líderes partidários prosseguiram as suas campanhas para as eleições autárquicas.
 
-Em Portugal, as comemorações da Implantação da República decorreram sem discursos oficiais e os trabalhadores de museus e monumentos nacionais cumprem greve, retomando-a devido a compensação em feriados. Em Lisboa, a requalificação da Almirante Reis gera controvérsia e protestos pró-Palestina terminaram com um jovem eletrocutado.
+Na economia, os preços dos combustíveis deverão descer. O setor automóvel reivindica revisão fiscal e incentivos ao abate no Orçamento do Estado para 2026. O Bitcoin ultrapassou os 125.000 dólares, atingindo um novo máximo.
 
-No desporto, destaque para o clássico entre FC Porto e Benfica, o jogo entre Sporting CP e SC Braga, a 11.ª posição de Miguel Oliveira no GP da Indonésia de MotoGP e as críticas de Ruben Amorim a jornalistas após a vitória do Manchester United.
+No desporto, destaque para o clássico entre FC Porto e Benfica, e para o jogo entre Sporting CP e SC Braga. Miguel Oliveira garantiu o 11.º lugar no GP da Indonésia de MotoGP. Yolanda Hopkins apurou-se para as meias-finais do EDP Ericeira Pro.
 
-Na cultura, "A Memória do Cheiro das Coisas" foi distinguido num festival de cinema em Marrocos e o novo filme de Teresa Villaverde, "Justa", estreia no Festival do Rio.
+Na cultura, "A Memória do Cheiro das Coisas" foi distinguido num festival de cinema no Marrocos, e o novo filme de Teresa Villaverde, "Justa", estreou no Festival do Rio. O MAAT celebrou o seu 9.º aniversário com programação gratuita.
 
-A nível económico, o Bitcoin ultrapassou os 125.000 dólares e os preços dos combustíveis vão descer. Há receios de que o primeiro troço de alta velocidade ferroviária seja inaugurado sem comboios disponíveis.
+No mundo da fama, Kate Winslet celebrou 50 anos, e Madalena Aragão marcou presença no desfile de Giambattista Valli na Semana da Moda de Paris. Ana Bola defendeu Sofia Aparício após detenção em flotilha para Gaza.
+
+Por fim, nos Açores, o nível de alerta permanece elevado devido à atividade vulcânica na Terceira.

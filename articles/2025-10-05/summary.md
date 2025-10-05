@@ -1,0 +1,7 @@
+Em resumo das notícias de 5 de outubro de 2025, o conflito Israel-Hamas atinge dois anos, enquanto um ataque russo em Zaporijia causa uma vítima mortal e coloca a Polónia em alerta. No Brasil, uma intoxicação por metanol resulta em 13 mortes e cerca de 200 casos suspeitos. Trump envia tropas para Chicago, após bloqueio judicial em Portland. A Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul e Israel interceta um míssil vindo do Iémen. Macau alivia o alerta após a passagem do quarto tufão em cinco semanas e o aeroporto da Lituânia reabre após um alerta de balões suspeitos.
+
+Em Portugal, ONG pedem alterações no projeto da Almirante Reis em Lisboa, enquanto trabalhadores de museus e monumentos nacionais fazem greve. As comemorações da implantação da República decorrem sem discursos oficiais devido às eleições autárquicas.
+
+No desporto, FC Porto e Benfica defrontam-se num jogo crucial e Sporting CP e SC Braga lutam por um lugar na Europa. Ruben Amorim critica a comunicação social após a vitória do United.
+
+Internacionalmente, um desabamento de uma escola na Indonésia eleva o número de mortos para 37, e uma flotilha acusa Israel de negar água e medicamentos a ativistas em Gaza. Nicolás Maduro solicita "apoio especial" do Papa para a paz na Venezuela. O filme "A Memória do Cheiro das Coisas" é premiado num festival no Marrocos e o novo filme de Teresa Villaverde, "Justa", estreia no Festival do Rio. Há ainda preocupações sobre a abertura do primeiro troço de alta velocidade ferroviária em Portugal sem comboios disponíveis.

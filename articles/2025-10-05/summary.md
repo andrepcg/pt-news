@@ -1,11 +1,19 @@
-Resumo das Notícias de 5 de Outubro de 2025:
+Hoje, assinalam-se dois anos de conflito Israel-Hamas, enquanto negociações de paz mediadas pelos EUA são retomadas no Cairo, após reaparecimento do principal negociador do Hamas. A tensão mantém-se com o exército israelita a intercetar um míssil vindo do Iémen e acusações de uma flotilha sobre a negação de água e medicamentos a ativistas em Gaza. Trump anuncia um plano de retirada de tropas israelitas de Gaza.
 
-No cenário internacional, a guerra Israel-Hamas completa dois anos, enquanto um ataque russo em Zaporijia causa um morto e a Polónia está em alerta máximo. A Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul e o exército israelita interceta um míssil vindo do Iémen. No Brasil, uma intoxicação por metanol já provocou 13 mortes e quase 200 casos suspeitos. Trump anuncia a retirada de tropas israelitas de Gaza. Um desabamento de uma escola na Indonésia eleva o número de mortos para 37, e Macau alivia o alerta após a passagem de um tufão. O aeroporto da Lituânia reabre após um alerta de balões suspeitos. Um filme português foi ainda distinguido num festival de cinema em Marrocos, e Nicolás Maduro pede apoio do Papa para a paz na Venezuela.
+No leste europeu, um ataque russo em Zaporijia causa uma morte e coloca a Polónia em alerta máximo. O aeroporto da Lituânia reabriu após um alerta de balões suspeitos.
 
-Em Portugal, as comemorações da Implantação da República decorreram sem discursos oficiais devido às eleições autárquicas. Em Lisboa, ONGs pedem alterações no projeto da Almirante Reis, enquanto trabalhadores de museus e monumentos nacionais cumprem greve. Protestos pró-Palestina em Lisboa terminam com um jovem eletrocutado.
+No Brasil, uma intoxicação por metanol já provocou 13 mortes e quase 200 casos suspeitos.
 
-No desporto, o FC Porto e o Benfica defrontam-se num jogo crucial, enquanto o Sporting CP e o SC Braga se preparam para jogos com a Europa no horizonte. Miguel Oliveira garantiu o 11.º lugar no GP da Indonésia.
+Na Ásia, a Coreia do Norte mobiliza "meios especiais" contra a Coreia do Sul, enquanto Macau enfrenta o quarto tufão em cinco semanas, levando ao encerramento de casinos satélite. Na Indonésia, o número de mortos no desabamento de uma escola subiu para 37.
 
-Na economia, os preços dos combustíveis vão descer, enquanto levantam-se preocupações sobre a disponibilidade de comboios para o primeiro troço de alta velocidade.
+Nos EUA, Trump envia a Guarda Nacional para Portland, Chicago e Oregon e anuncia um acordo de retirada de tropas israelitas.
 
-Na saúde, as farmácias terão de adaptar os horários às urgências privadas.
+Na Venezuela, Nicolás Maduro pede "apoio especial" do Papa para consolidar a paz.
+
+Em Portugal, as comemorações da Implantação da República decorreram sem discursos oficiais e os trabalhadores de museus e monumentos nacionais cumprem greve, retomando-a devido a compensação em feriados. Em Lisboa, a requalificação da Almirante Reis gera controvérsia e protestos pró-Palestina terminaram com um jovem eletrocutado.
+
+No desporto, destaque para o clássico entre FC Porto e Benfica, o jogo entre Sporting CP e SC Braga, a 11.ª posição de Miguel Oliveira no GP da Indonésia de MotoGP e as críticas de Ruben Amorim a jornalistas após a vitória do Manchester United.
+
+Na cultura, "A Memória do Cheiro das Coisas" foi distinguido num festival de cinema em Marrocos e o novo filme de Teresa Villaverde, "Justa", estreia no Festival do Rio.
+
+A nível económico, o Bitcoin ultrapassou os 125.000 dólares e os preços dos combustíveis vão descer. Há receios de que o primeiro troço de alta velocidade ferroviária seja inaugurado sem comboios disponíveis.

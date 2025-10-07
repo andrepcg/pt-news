@@ -1,7 +1,13 @@
-As negociações de cessar-fogo entre Israel e o Hamas continuam, dois anos após o ataque do Hamas, com o exército israelita a intercetar um projétil disparado do norte de Gaza.
+Hoje, as notícias focam-se nas tensões internacionais, com Israel a recordar o ataque do Hamas enquanto negoceia um cessar-fogo e interceta projéteis de Gaza. A Ucrânia também está em foco, com a AIEA a alertar para combates perto de Zaporíjia e a Rússia a afirmar ter intercetado drones ucranianos. A China surge com o primeiro-ministro a visitar a Coreia do Norte e Taiwan a alertar para uma possível invasão que ameaçaria os EUA.
 
-Na cena internacional, a AIEA alertou para combates perto da central nuclear de Zaporíjia, enquanto a Rússia alega ter intercetado 184 drones ucranianos. O primeiro-ministro chinês visitou a Coreia do Norte, e o presidente de Taiwan alertou que uma invasão chinesa ameaçaria os EUA. A Venezuela denunciou planos para atacar a embaixada dos EUA em Caracas, enquanto Maduro espera que o Vaticano auxilie na manutenção da paz no país.
+Na política nacional, Passos Coelho regressa à campanha autárquica, enquanto Mortágua apoia a campanha do BE. Marcelo Rebelo de Sousa acredita que o Orçamento do Estado para 2026 terá o apoio do PS. O Complemento Solidário para Idosos vai aumentar 40 euros em 2026.
 
-Em Portugal, Passos Coelho regressou à campanha autárquica, e Mortágua juntou-se à campanha do BE. Cascais manifestou interesse em comprar o Autódromo do Estoril para trazer a Fórmula 1 e o MotoGP de volta. No âmbito económico, o Complemento Solidário para Idosos vai aumentar 40€ em 2026, enquanto associações empresariais pedem menos impostos e mais investimento no Orçamento do Estado para 2026. Investidores aguardam medidas para estimular a poupança no mesmo orçamento. A Galp avança para arbitragem internacional devido a uma divergência fiscal com Moçambique, e o Banco Mundial reviu em baixa o crescimento de Angola.
+Na economia, as associações empresariais pedem menos impostos e mais investimento no OE2026, enquanto investidores aguardam medidas para estimular a poupança. A Galp avança para arbitragem internacional devido a divergências fiscais com Moçambique. O ouro atinge um novo máximo histórico, impulsionado por tensões políticas.
 
-Um relatório indica que as emissões de gases poluentes devem reduzir-se 85% até 2035 para cumprir as metas climáticas, com Portugal entre os 10 países com maior produção de eletricidade 'limpa'. Na educação, um em cada três professores queixa-se de indisciplina nas aulas. Cientistas "reduziram" a idade do templo egípcio de Karnak, e um estudo revelou causas genéticas em 9,5% das mortes súbitas. A GNR identificou cinco arguidos por incêndio florestal em Carrazeda de Ansiães.
+Em ambiente, um relatório aponta que as emissões de gases poluentes devem reduzir-se 85% até 2035 para cumprir as metas climáticas, e Portugal está entre os 10 países com maior produção de eletricidade 'limpa'.
+
+Na sociedade, um em cada três professores queixa-se de indisciplina nas aulas em Portugal, e um estudo revela causas genéticas em 9,5% das mortes súbitas.
+
+No desporto, Cascais quer comprar o Autódromo do Estoril para trazer a Fórmula 1 e o MotoGP de volta.
+
+Outras notícias incluem autoridades europeias a alertarem para os perigos do investimento em criptoativos, cientistas a 'reduzirem' a idade do templo egípcio de Karnak e a investigação que acusa o TikTok de sugerir conteúdo sexual a crianças.

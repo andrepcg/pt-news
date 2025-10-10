@@ -1,0 +1,9 @@
+*   **Política Nacional:** O Governo português apresentou uma proposta de Orçamento do Estado para 2026 com margem "próxima de zero", focada na sua viabilização. A campanha para as Eleições Autárquicas encerrou com os líderes partidários concentrados no Norte do país, e o domingo de eleições será marcado por sol e temperaturas elevadas.
+
+*   **Mundo:** Um sismo de magnitude 7,4 nas Filipinas causou pelo menos uma morte e gerou alerta de tsunami. Na Ucrânia, a Rússia atacou infraestruturas energéticas em Kyiv, Zaporizhzhia e Dnipro. O parlamento do Peru destituiu a Presidente Dina Boluarte. A China enfrenta tensões com Taiwan, que reforça a sua defesa aérea, e Kim Jong-un saudou a cooperação com a China durante celebrações em Pyongyang. Em Moçambique, um ataque perto de Palma causou pelo menos uma morte em Cabo Delgado. A Venezuela solicitou uma reunião urgente do Conselho de Segurança da ONU devido a alegadas agressões dos EUA.
+
+*   **Economia:** A BYD inaugurou a sua maior fábrica de veículos elétricos fora da Ásia no Brasil. As exportações da China para países lusófonos registaram uma queda até agosto. Trabalhadores dos transportes públicos municipais estão em greve.
+
+*   **Saúde:** Um homem na China sobreviveu quase seis meses com um transplante de fígado de porco. Um estudo aponta benefícios de uma bactéria intestinal materna para o desenvolvimento do bebé. O governo dos EUA alega uma ligação entre circuncisão e autismo, alegação essa contestada por especialistas. O SNS24 poderá deixar um milhão de chamadas sem resposta no Inverno. As Equipas de Saúde Mental reduziram internamentos e geram poupança para o SNS.
+
+*   **Prémios:** O Prémio Nobel da Paz será anunciado hoje em Oslo.

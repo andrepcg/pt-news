@@ -1,15 +1,9 @@
-Resumo das notícias de 11 de outubro de 2025:
+Hoje, Donald Trump declarou que o cessar-fogo em Gaza "se vai manter" e expressou confiança na libertação de reféns, reiterando ainda que goza de "saúde excecional" segundo um relatório médico. Nos EUA, a AstraZeneca anunciou a baixa de preços de alguns medicamentos.
 
-Em destaque internacional, Trump declara que o cessar-fogo em Gaza será mantido e demonstra confiança na libertação de reféns. A Coreia do Norte apresentou um novo míssil "mais poderoso" e a Venezuela pediu à ONU ações contra as "ameaças" dos EUA. No Médio Oriente, um ataque israelita no Líbano causou uma vítima mortal, e em Zaporiíjia, ataques russos resultaram em mortos e feridos.
+Em Portugal, mais de 133 mil processos da AIMA aguardam resolução no Tribunal Administrativo de Lisboa. O Governo está otimista quanto ao PIB de 2025 e 2026, enquanto 300 mil utentes poderão ter equipa de saúde familiar com novas USF. No desporto, o FC Porto ultrapassou o Sporting no andebol, e Rui Costa apelou ao diálogo no futebol. A seleção nacional prepara-se para o jogo contra a República da Irlanda, de qualificação para o Mundial. Adrien Silva anunciou o fim da sua carreira, com o Sporting a recordar os seus feitos. Já Ana Filipe sagrou-se campeã mundial no triplo salto paralímpico.
 
-Nos Estados Unidos, um relatório médico atesta a "saúde excecional" de Trump, enquanto a AstraZeneca anunciou que vai baixar o preço de alguns medicamentos. O Catar foi autorizado a construir uma instalação militar numa base dos EUA.
+A nível internacional, uma cidade no Japão aconselha a limitar o uso de smartphones a 2 horas por dia. A Coreia do Norte apresentou um míssil "mais poderoso", enquanto a Venezuela pede à ONU ações contra "ameaças" dos EUA. No México, as fortes chuvas causaram 23 mortos e 13 desaparecidos. Ataques russos em Zaporíjia fizeram pelo menos dois mortos. No conflito israelo-palestiniano, Israel iniciou a retirada de Gaza após o cessar-fogo e tropas dos EUA chegaram para monitorizar. No Líbano, um ataque israelita causou um morto.
 
-No panorama nacional, mais de 133 mil processos da AIMA estão pendentes no Tribunal Administrativo de Lisboa. O Governo prevê que 300 mil utentes poderão ter equipa de saúde familiar com a criação de novas USF. Foi noticiado que o chefe de gabinete da Agricultura foi denunciado por assédio sexual, gerando reação do Governo. Está em curso um projeto de limpeza e estudo do litoral, o Coastwatch 2025-26.
+Na cultura, Victor Hugo Pontes é o novo Diretor Artístico do Teatro Nacional São João.
 
-No desporto, o FC Porto ultrapassou o Sporting no andebol, enquanto Rui Costa apelou ao diálogo no futebol. Adrien Silva terminou a sua carreira, com o Sporting a recordar os seus feitos. A seleção nacional prepara-se para o jogo com a República da Irlanda, de olho na qualificação para o Mundial.
-
-Na tecnologia, uma cidade no Japão recomendou limitar o uso de smartphones a duas horas por dia. A Ferrari inaugurou uma nova pista de testes.
-
-Na cultura, Victor Hugo Pontes é o novo Diretor Artístico do Teatro Nacional São João, Rafael Toral abriu o Festival de Veneza e Samuel Úria venceu um Globo de Ouro. Ana Margarida de Carvalho lançou um novo romance.
-
-Outras notícias incluem o alerta das produtoras de tabaco sobre as ameaças da OMS ao setor, as disputas legais que travam projetos hoteleiros do Grupo Hoti, e o aumento do número de mortes sob custódia do ICE nos EUA.
+Outras notícias incluem o projeto Coastwatch para limpeza do litoral português, a expansão da cultura de pistácio no Nordeste Transmontano, uma quebra de 40% na produção de vinho no Douro devido ao míldio e um novo ataque de orcas em Peniche que afundou um veleiro, com os tripulantes a serem resgatados.

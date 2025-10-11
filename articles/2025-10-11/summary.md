@@ -1,9 +1,15 @@
-Em destaque, Trump manifesta confiança num cessar-fogo duradouro em Gaza, enquanto um relatório médico o considera com "saúde excecional". No entanto, Anne Applebaum alerta para o facto de Trump atrair pessoas que querem mudar radicalmente o sistema.
+Resumo das notícias de 11 de outubro de 2025:
 
-No panorama nacional, mais de 133 mil processos da AIMA aguardam resolução no Tribunal Administrativo de Lisboa. Em saúde, 300 mil utentes poderão ter acesso a equipas de saúde familiar através das novas USF. A nível desportivo, o FC Porto ultrapassou o Sporting no andebol, e Rui Costa apelou ao diálogo no futebol.
+Em destaque internacional, Trump declara que o cessar-fogo em Gaza será mantido e demonstra confiança na libertação de reféns. A Coreia do Norte apresentou um novo míssil "mais poderoso" e a Venezuela pediu à ONU ações contra as "ameaças" dos EUA. No Médio Oriente, um ataque israelita no Líbano causou uma vítima mortal, e em Zaporiíjia, ataques russos resultaram em mortos e feridos.
 
-No mundo, a AstraZeneca vai baixar o preço de alguns medicamentos nos EUA, uma cidade no Japão sugere limitar o uso de smartphones a duas horas por dia, e pessoas com doenças mentais graves enfrentam um risco de vida 15 anos inferior. A Venezuela pede à ONU ações contra "ameaças" dos EUA. Ataques russos em Zaporíjia causaram mortos, e a Coreia do Norte apresentou um novo míssil.
+Nos Estados Unidos, um relatório médico atesta a "saúde excecional" de Trump, enquanto a AstraZeneca anunciou que vai baixar o preço de alguns medicamentos. O Catar foi autorizado a construir uma instalação militar numa base dos EUA.
 
-Em Portugal, o projeto Coastwatch 2025-26 arranca com o objetivo de limpar o litoral, e uma campanha já salvou mais de 100 mil cagarros nos Açores desde 1995. No campo económico, as produtoras de tabaco alertam para ameaças da OMS, e o Grupo Hoti enfrenta disputas legais que travam projetos hoteleiros em Lisboa e Monte Gordo.
+No panorama nacional, mais de 133 mil processos da AIMA estão pendentes no Tribunal Administrativo de Lisboa. O Governo prevê que 300 mil utentes poderão ter equipa de saúde familiar com a criação de novas USF. Foi noticiado que o chefe de gabinete da Agricultura foi denunciado por assédio sexual, gerando reação do Governo. Está em curso um projeto de limpeza e estudo do litoral, o Coastwatch 2025-26.
 
-Na cultura, Victor Hugo Pontes assume a direção artística do Teatro Nacional São João, e Ana Margarida de Carvalho lança um romance que reflete sobre a exaustão. Samuel Úria venceu o Globo de Ouro de Melhor Canção.
+No desporto, o FC Porto ultrapassou o Sporting no andebol, enquanto Rui Costa apelou ao diálogo no futebol. Adrien Silva terminou a sua carreira, com o Sporting a recordar os seus feitos. A seleção nacional prepara-se para o jogo com a República da Irlanda, de olho na qualificação para o Mundial.
+
+Na tecnologia, uma cidade no Japão recomendou limitar o uso de smartphones a duas horas por dia. A Ferrari inaugurou uma nova pista de testes.
+
+Na cultura, Victor Hugo Pontes é o novo Diretor Artístico do Teatro Nacional São João, Rafael Toral abriu o Festival de Veneza e Samuel Úria venceu um Globo de Ouro. Ana Margarida de Carvalho lançou um novo romance.
+
+Outras notícias incluem o alerta das produtoras de tabaco sobre as ameaças da OMS ao setor, as disputas legais que travam projetos hoteleiros do Grupo Hoti, e o aumento do número de mortes sob custódia do ICE nos EUA.

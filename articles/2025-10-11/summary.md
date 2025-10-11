@@ -1,9 +1,9 @@
-Em destaque nas notícias de hoje: Donald Trump afirma que o cessar-fogo em Gaza "se vai manter" e alega que despedimentos devido à paralisação nos EUA afetarão sobretudo democratas, apesar de um relatório médico o considerar com "saúde excecional". Anne Applebaum adverte que Trump atrai "pessoas interessadas em mudar radicalmente o sistema."
+Hoje, as notícias destacam que Trump diz que o cessar-fogo em Gaza "se vai manter" e um relatório médico o considera com "saúde excecional". No entanto, Anne Applebaum adverte que Trump atrai "pessoas interessadas em mudar radicalmente o sistema".
 
-A nível nacional, mais de metade do país corre o risco de perder cobertura jornalística local, enquanto a AIMA enfrenta mais de 133 mil processos pendentes em Lisboa. No setor da saúde, 300 mil utentes poderão ter equipa de saúde familiar através das novas USF.
+A nível nacional, mais de metade do país pode ficar sem cobertura jornalística local, enquanto a AIMA enfrenta mais de 133 mil processos pendentes no tribunal administrativo de Lisboa. Na saúde, novas USF poderão abranger 300 mil utentes.
 
-No desporto, o FC Porto dominou o Avanca no andebol, ultrapassando o Sporting, e Rui Costa, do Benfica, apelou ao diálogo no futebol. A seleção nacional prepara-se para o jogo contra a República da Irlanda, de olho na qualificação para o Mundial.
+No desporto, o FC Porto destacou-se no andebol e Rui Costa apelou ao diálogo no futebol. A seleção nacional prepara-se para um jogo decisivo contra a República da Irlanda, visando a qualificação para o Mundial.
 
-No mundo, a AstraZeneca vai baixar o preço de alguns medicamentos nos EUA, enquanto uma cidade no Japão recomenda limitar o uso de smartphones a duas horas por dia. Um estudo revela que pessoas com doenças mentais graves podem morrer 15 anos mais cedo. A Ferrari inaugurou uma nova pista de testes, e a Venezuela solicitou à ONU ações contra "ameaças" dos EUA. No México, fortes chuvas causaram 23 mortos e 13 desaparecidos.
+No mundo, uma cidade no Japão aconselha limitar o uso de smartphones a 2 horas por dia. A AstraZeneca vai baixar o preço de alguns medicamentos nos EUA. Registaram-se ainda chuvas fortes no México, com um balanço trágico de mortos e desaparecidos, e ataques russos em Zaporíjia causaram vítimas. A Coreia do Norte apresentou um míssil "mais poderoso".
 
-No âmbito cultural, Victor Hugo Pontes é o novo Diretor Artístico do Teatro Nacional São João. O projeto Coastwatch 2025-26 iniciou a limpeza e estudo do litoral português. Por fim, verifica-se baixo engajamento político de brasileiros em Portugal.
+Outras notícias incluem a inauguração da pista de testes da Ferrari, o pedido da Venezuela à ONU contra "ameaças" dos EUA, a nomeação de Victor Hugo Pontes para o Teatro Nacional São João, e o início do projeto de limpeza costeira Coastwatch. Anuncia-se ainda que pessoas com doenças mentais graves arriscam morrer 15 anos mais cedo.

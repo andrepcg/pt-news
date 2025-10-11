@@ -1,9 +1,15 @@
-Hoje, as notícias destacam que Trump diz que o cessar-fogo em Gaza "se vai manter" e um relatório médico o considera com "saúde excecional". No entanto, Anne Applebaum adverte que Trump atrai "pessoas interessadas em mudar radicalmente o sistema".
+As manchetes do dia destacam diversos temas:
 
-A nível nacional, mais de metade do país pode ficar sem cobertura jornalística local, enquanto a AIMA enfrenta mais de 133 mil processos pendentes no tribunal administrativo de Lisboa. Na saúde, novas USF poderão abranger 300 mil utentes.
+**Política e Economia:** Trump afirma que o cessar-fogo em Gaza será mantido e prevê despedimentos com impacto nos democratas, enquanto um relatório médico o considera com "saúde excecional". Anne Applebaum alerta para o facto de Trump atrair pessoas interessadas em mudar radicalmente o sistema. No país, mais de metade enfrenta risco de perda de cobertura jornalística local, e a AIMA acumula mais de 133 mil processos pendentes no Tribunal de Lisboa. O Governo mostra-se otimista para o PIB de 2026, igualando as previsões do FMI para 2025. O chefe de gabinete da Agricultura foi denunciado por assédio sexual, gerando reação do Governo.
 
-No desporto, o FC Porto destacou-se no andebol e Rui Costa apelou ao diálogo no futebol. A seleção nacional prepara-se para um jogo decisivo contra a República da Irlanda, visando a qualificação para o Mundial.
+**Saúde:** Novas USF poderão dar acesso a equipa de saúde familiar a 300 mil utentes. A AstraZeneca reduzirá o preço de alguns medicamentos nos EUA. Um estudo revela que pessoas com doenças mentais graves arriscam-se a morrer 15 anos mais cedo.
 
-No mundo, uma cidade no Japão aconselha limitar o uso de smartphones a 2 horas por dia. A AstraZeneca vai baixar o preço de alguns medicamentos nos EUA. Registaram-se ainda chuvas fortes no México, com um balanço trágico de mortos e desaparecidos, e ataques russos em Zaporíjia causaram vítimas. A Coreia do Norte apresentou um míssil "mais poderoso".
+**Desporto:** No andebol, o FC Porto ultrapassa o Sporting. Rui Costa apela ao diálogo no futebol. A seleção nacional prepara-se para o jogo contra a República da Irlanda, de olho na qualificação para o Mundial. Adrien Silva termina a carreira, com o Sporting a recordar os seus feitos.
 
-Outras notícias incluem a inauguração da pista de testes da Ferrari, o pedido da Venezuela à ONU contra "ameaças" dos EUA, a nomeação de Victor Hugo Pontes para o Teatro Nacional São João, e o início do projeto de limpeza costeira Coastwatch. Anuncia-se ainda que pessoas com doenças mentais graves arriscam morrer 15 anos mais cedo.
+**Mundo:** Para além do cessar-fogo em Gaza, registam-se ataques russos em Zaporíjia e um ataque israelita no Líbano. A Coreia do Norte apresenta um novo míssil "mais poderoso". A Venezuela pede à ONU ações contra "ameaças" dos EUA. Fortes chuvas no México causaram 23 mortos.
+
+**Tecnologia e Sociedade:** Uma cidade no Japão aconselha limitar o uso de smartphones a duas horas por dia.
+
+**Cultura:** Victor Hugo Pontes é o novo Diretor Artístico do Teatro Nacional São João. Rafael Toral abre o Festival de Veneza. Samuel Úria venceu o Globo de Ouro de Melhor Canção.
+
+**Outros:** O projeto Coastwatch 2025-26 arranca com foco na limpeza do litoral. No Brasil, regista-se baixo engajamento político de brasileiros em Portugal. Nos Açores, uma campanha já salvou mais de 100 mil cagarros desde 1995.

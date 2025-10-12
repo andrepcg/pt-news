@@ -1,11 +1,15 @@
-Em Portugal, o dia foi marcado pelas eleições autárquicas, com mais de 9,3 milhões de eleitores chamados às urnas. Líderes partidários e o Presidente Marcelo Rebelo de Sousa votaram, apelando à participação. Uma missão brasileira observou as eleições.
+Em Portugal, o dia foi marcado pelas eleições autárquicas, com apelos à participação dos líderes partidários e do Presidente da República. A afluência às urnas registou um aumento em relação a 2021, e a normalidade da votação foi garantida pela CNE.
 
-No plano internacional, diplomatas do Qatar morreram num acidente a caminho da cimeira de Sharm el-Sheikh, onde António Costa representou a UE nas discussões de paz sobre o conflito israelo-palestiniano. Ajuda humanitária começou a entrar em Gaza a partir do Egito, e Israel ordenou a destruição dos túneis do Hamas. Ataques russos na Ucrânia fizeram vítimas, enquanto a Ucrânia atacou refinarias russas. A China acusou os EUA de "dois pesos e duas medidas" em relação a tarifas e defendeu o controlo de terras raras. O Secretário-geral da ONU e o PM britânico também marcaram presença na cimeira do Egito.
+No plano internacional, António Costa representou a UE na cimeira de paz no Egito sobre o conflito israelo-palestiniano, onde a ajuda humanitária começou a entrar em Gaza após um cessar-fogo. Trump visitou Israel antes da assinatura do acordo de paz no Egito. No entanto, nenhum responsável israelita estará presente na cimeira de paz no Egito. Diplomatas do Qatar morreram num acidente a caminho da cimeira.
 
-Em África, o líder da oposição venceu as eleições presidenciais nas Seychelles, enquanto em Cabo Verde, apagões paralisaram empresas e afetaram a assistência médica. No Madagáscar, o exército assumiu o controlo das Forças Armadas após denúncias de tentativa de tomada de poder.
+A China acusou os EUA de "dois pesos e duas medidas" face a tarifas e defendeu o controlo de terras raras, com impacto limitado. A Rússia e Ucrânia trocaram ataques a infraestruturas militares e energéticas. Os talibãs anunciaram o fim da operação contra o Paquistão, embora tensões persistam na fronteira. No Madagáscar, o exército assumiu o controlo das Forças Armadas devido a uma alegada tentativa de tomada de poder e o líder da oposição venceu as presidenciais nas Seychelles.
 
-Na área tecnológica, dados de clientes da Qantas foram expostos após um ciberataque.
+Um novo sistema europeu de controlo de fronteiras entrou em vigor em Portugal.
 
-No desporto, Abel Ferreira isolou o Palmeiras na liderança do Brasileirão. Roberto Martínez identificou "problemas" na seleção portuguesa após uma vitória difícil, que iniciou a preparação para o jogo contra a Hungria na qualificação para o Mundial 2026.
+Em Cabo Verde, apagões paralisaram empresas e afetaram pacientes.
 
-Outros destaques incluem a entrada em vigor em Portugal do novo sistema europeu de controlo de fronteiras, o início da última grande peregrinação do ano ao Santuário de Fátima e alterações nos preços dos combustíveis. Foi ainda noticiado um estudo que alerta para mortes de trabalhadores devido ao calor e um alerta de uma psicóloga para sinais de burnout académico em crianças.
+No Brasil, Abel Ferreira isolou o Palmeiras na liderança do Brasileirão. David Beckham acredita na presença de Messi no Mundial 2026. Portugal iniciou a preparação para o jogo com a Hungria, procurando a qualificação para o Mundial 2026, após vencer a Irlanda com golo de Rúben Neves.
+
+Na área da saúde, uma descoberta científica no Porto poderá atrasar o Alzheimer. Uma psicóloga alertou para os sinais de burnout académico em crianças.
+
+Foi detido um grupo que se preparava para roubar ovelhas em Reguengos. Milhares de fiéis são esperados em Fátima para a última grande peregrinação do ano.

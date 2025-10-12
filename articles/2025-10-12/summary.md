@@ -1,9 +1,13 @@
-Hoje, Portugal foi chamado às urnas para as Eleições Autárquicas, com mais de 9,3 milhões de eleitores, onde líderes partidários e o Presidente da República apelaram à participação. A afluência às urnas registou um aumento em comparação com 2021, e uma missão brasileira observou as eleições.
+Em Portugal, o dia foi marcado pelas Eleições Autárquicas 2025, com mais de 9,3 milhões de eleitores chamados às urnas. Líderes partidários, incluindo o Presidente Marcelo Rebelo de Sousa, votaram e apelaram à participação. A afluência às urnas registou um aumento em comparação com 2021.
 
-No plano internacional, diplomatas do Qatar faleceram num acidente a caminho da cimeira de Sharm el-Sheikh, onde António Costa representou a UE nas discussões de paz sobre o conflito israelo-palestiniano. A ajuda humanitária começou a chegar a Gaza a partir do Egito após um cessar-fogo. Aviões dos EUA fizeram escala nas Lajes a caminho de Israel, sem gerar questões diplomáticas segundo o Presidente. A China acusou os EUA de "dois pesos e duas medidas" face a tarifas e defendeu o controlo de terras raras com impacto limitado. Ataques russos na Ucrânia causaram várias vítimas, enquanto a Ucrânia atacou uma refinaria russa. O Irão suspendeu o acordo de cooperação com a Agência Nuclear da ONU.
+No plano internacional, diplomatas do Qatar faleceram num acidente a caminho da cimeira de Sharm el-Sheikh, onde António Costa representou a UE nas discussões de paz sobre o conflito israelo-palestiniano. Ajuda humanitária começou a entrar em Gaza a partir do Egito. A China acusou os EUA de "dois pesos e duas medidas" em relação às tarifas, enquanto defendia o controlo de terras raras. Ataques russos na Ucrânia resultaram em mortes e feridos, com troca de acusações entre Moscovo e Kiev.
 
-Em África registaram-se apagões que afetaram empresas e pacientes em Cabo Verde, o exército assumiu o controlo das Forças Armadas no Madagáscar, e a oposição venceu as eleições nas Seychelles.
+Outros eventos internacionais incluem a vitória da oposição nas presidenciais das Seychelles, uma tentativa de tomada de poder no Madagáscar, e protestos pró-Palestina na Austrália e Suíça. Talibãs anunciaram o fim de uma operação contra o Paquistão, enquanto este alegou ter matado centenas de combatentes talibãs afegãos.
 
-Em Portugal, entrou em vigor o novo controlo de fronteiras da UE. Fátima acolheu a última grande peregrinação do ano. No desporto, Abel Ferreira isolou o Palmeiras na liderança do Brasileirão, e Roberto Martínez identificou problemas na seleção portuguesa após uma vitória difícil. Portugal iniciou a preparação para o jogo com a Hungria, onde pode garantir a qualificação para o Mundial 2026 já na terça-feira.
+Em Cabo Verde, apagões paralisaram empresas e afetaram hospitais.
 
-Ainda entre outros assuntos, um ciberataque expôs dados de clientes da Qantas, e cientistas conseguiram reverter o Alzheimer em ratinhos com nanopartículas.
+No mundo do desporto, Abel Ferreira isolou o Palmeiras na liderança do Brasileirão, e Portugal venceu a Irlanda com um golo de Rúben Neves, qualificando-se para o Mundial 2026.
+
+Foi noticiado um ciberataque à Qantas, com divulgação de dados de clientes. Na área da saúde, cientistas reportaram ter revertido o Alzheimer em ratinhos com nanopartículas, e uma psicóloga alertou para sinais de burnout académico em crianças. Foi ainda anunciada uma descoberta científica no Porto que pode atrasar o tratamento da doença de Alzheimer.
+
+Em Fátima, milhares de fiéis são esperados para a última grande peregrinação do ano.

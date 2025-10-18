@@ -1,11 +1,11 @@
-Em Portugal, a Liga dos Bombeiros Portugueses pondera protestos face à situação do setor, enquanto três concelhos estão sob risco máximo de incêndio. A Avenida Marginal está com condicionamentos de trânsito. O governo de Portugal vai proibir o uso da burca em espaços públicos, medida criticada pela Amnistia Internacional. O atraso nas obras do Hospital Oriental de Lisboa aumentou os custos devido ao risco sísmico. Vitor Neves alerta que Portugal não tem rastreio para o cancro digestivo instalado.
+Em destaque nas notícias de hoje, Israel identificou o corpo de um refém libertado pelo Hamas, enquanto o Paquistão negoceia com os talibãs afegãos no Qatar. No Brasil, um juiz do Supremo votou pela despenalização do aborto antes da reforma.
 
-No plano político, Montenegro venceu as autárquicas, onde Ventura também se destacou. Gouveia e Melo, candidato às presidenciais de 2026, critica o PSD e recusa discursos anti-imigração, considerando Mário Soares o Presidente em que se revê.
+A nível internacional, a China pediu às Filipinas para abandonar "ilusões" sobre o Mar do Sul da China, enquanto a China e os EUA retomam as negociações comerciais. Trump comutou a pena de um ex-deputado republicano condenado por fraude e considera "interessante" a ideia russa de um túnel para o Alasca.
 
-A nível internacional, Israel identificou o corpo de um refém entregue pelo Hamas em Gaza, onde este último não garante o desarmamento. Paquistão e Talibãs afegãos negociam no Qatar. A China pediu às Filipinas para abandonar "ilusões" sobre o Mar do Sul da China, enquanto retoma negociações comerciais com os EUA na próxima semana. No Alasca, deslocados por um tufão só deverão regressar a casa em 2027. Trump comutou a pena de um ex-deputado republicano condenado por fraude e considera "interessante" a ideia russa de um túnel para o Alasca, enquanto o FBI investiga o movimento Antifa como grupo terrorista. No Brasil, um juiz do Supremo votou pela despenalização do aborto antes da reforma.
+Em Portugal, a Liga dos Bombeiros Portugueses ameaça com protestos devido à grave situação do setor, e três concelhos estão em risco máximo de incêndio. Vítor Neves alerta que Portugal não tem rastreio do cancro digestivo instalado, e o atraso na obra do Hospital Oriental de Lisboa aumenta os custos devido ao risco sísmico. Há também condicionamentos de trânsito na Avenida Marginal.
 
-No desporto, Pedro Bianchi Prata está de luto pela morte do piloto Jorge Brandão. Barcelona e Spotify renovaram o seu acordo até 2030. Sérgio Conceição alertou após o empate na estreia na Arábia.
+Nas autárquicas, Montenegro vence e Ventura também ganha. António Costa defende o rearmamento da Europa sem afetar o estado social. Gouveia e Melo critica o PSD e recusa discursos anti-imigração nas Presidenciais 2026.
 
-Na área da solidariedade, Taylor Swift doou 100 mil dólares a uma fã com cancro.
+No desporto, Pedro Bianchi Prata está de luto pela morte do piloto Jorge Brandão, o Barcelona e o Spotify renovam o seu acordo milionário.
 
-Chen Ning Yang, vencedor do Nobel da Física, faleceu aos 103 anos.
+A Amnistia Internacional criticou Portugal pela intenção de proibir o uso da burca em espaços públicos, considerando a medida discriminatória. Portugal propõe-se a construir um aeroporto, uma linha de alta velocidade e duas travessias no Tejo, defendendo o recurso à imigração para tal.

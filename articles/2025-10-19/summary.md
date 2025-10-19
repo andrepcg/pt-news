@@ -1,17 +1,15 @@
-## Resumo das Notícias de 19 de Outubro de 2025
+Hoje, o Paquistão e o Afeganistão concordaram com um cessar-fogo após mediação do Qatar. A Colômbia acusou os EUA de violarem as suas águas territoriais e matarem um pescador. Os EUA alertaram para uma "violação iminente" do cessar-fogo pelo Hamas, com Israel a realizar ataques em Gaza após relatos de violação do cessar-fogo.
 
-Em destaque internacional, o Paquistão e o Afeganistão firmaram um cessar-fogo mediado pelo Qatar, enquanto tensões persistem em Gaza com acusações mútuas de violação do cessar-fogo entre Israel e Hamas. Os EUA alertam para uma "violação iminente" do cessar-fogo pelo Hamas. A Colômbia acusou os EUA de violar águas territoriais e matar um pescador, com os EUA a devolverem os sobreviventes de um ataque a um submarino de narcotráfico ao Equador. No Japão, o partido no poder está próximo de um novo acordo de coligação e em Taiwan, o principal partido da oposição elegeu uma nova líder. Sete milhões de pessoas protestaram contra Trump nas maiores cidades dos EUA. O Museu do Louvre, em Paris, foi encerrado após um assalto e roubo de joias de Napoleão.
+Em Portugal, a PSP sinalizou um aumento do tráfico de seres humanos e estima que existam dezenas de milhares de imigrantes irregulares no país, rejeitando no entanto uma "caça" aos mesmos. As Ordens profissionais da área da saúde apelam ao reforço de médicos e enfermeiros no CODU. Catorze concelhos estão em risco máximo de incêndio.
 
-A nível nacional, a PSP sinaliza um aumento do tráfico de seres humanos em Portugal, estimando dezenas de milhares de imigrantes irregulares no país e apreendeu toneladas de droga e armas em Lisboa. Catorze concelhos estão em risco máximo de incêndio e mais de 40 operacionais combatem um incêndio em Viana do Castelo. Marcelo Rebelo de Sousa abordou a lei sobre o uso de burcas como um "confronto de valores". A irmã do apresentador Cláudio Ramos foi dada como desaparecida, mas foi entretanto encontrada com vida num hospital em Madrid.
+No panorama político, o partido no poder no Japão está próximo de um novo acordo de coligação, Taiwan elegeu uma nova líder da oposição e uma aliada do líder destituído foi eleita presidente interina dos sérvios bósnios. Na Bolívia, quem não votar nas eleições presidenciais será punido. Em Portugal, o PS debateu o apoio a Seguro e os resultados autárquicos, garantindo que as propostas para o OE2026 não afetarão o saldo orçamental. Marcelo Rebelo de Sousa comentou a lei sobre burcas como um "confronto de valores".
 
-Na política, o PS prepara-se para apoiar António José Seguro nas eleições presidenciais de 2026 e garante que as propostas para o OE2026 não afetarão o saldo orçamental. O Ministro das Infraestruturas percorreu a EN2 para avaliar necessidades de habitação.
+No mundo do desporto, Miguel Oliveira subiu no Mundial de MotoGP após o GP da Austrália, Vasco Vilaça conquistou o bronze no Mundial de Triatlo. O FC Porto e o Sporting qualificaram-se para a próxima fase da Taça de Portugal, enquanto o Fafe eliminou o Moreirense e o Rio Ave também foi eliminado. Ruben Amorim respondeu ao interesse do Manchester United.
 
-No desporto, Miguel Oliveira subiu no Mundial de MotoGP após o GP da Austrália, Vasco Vilaça conquistou o bronze no Mundial de Triatlo e o FC Porto e o Sporting qualificaram-se para a próxima fase da Taça de Portugal, com o Moreirense a ser eliminado pelo Fafe. Rúben Amorim respondeu ao interesse do Manchester United.
+Na sociedade portuguesa, a irmã de Cláudio Ramos esteve desaparecida, tendo sido encontrada com vida num hospital em Madrid.
 
-Na área da saúde, as Ordens profissionais querem um reforço de médicos e enfermeiros no CODU e há críticas às propostas das ordens por parte dos técnicos de emergência médica. O INEM enfrenta problemas com o pagamento de horas extras. As vacinas de mRNA da Covid-19 mostram potencial no combate ao cancro.
+A nível económico, o Banco de Portugal vai analisar reclamações contra empresas de crédito malparado.
 
-Na cultura e sociedade, Ana Paula Tavares apelou a um debate "sem medos" nos 50 anos da independência de Angola. Joana Marques e Ricardo Araújo Pereira marcaram presença no Fólio em Óbidos. Cáritas de Setúbal regista aumento de pessoas apoiadas.
+Em relação a crimes, o Museu do Louvre em Paris foi encerrado após o roubo de joias de Napoleão, e a PSP apreendeu toneladas de droga e armas em Lisboa, com vários detidos.
 
-Na economia, o Banco de Portugal vai analisar reclamações contra empresas de crédito malparado, e o preço dos combustíveis deverá ter uma ligeira alteração, com o gasóleo a descer e a gasolina a manter-se.
-
-Morreu Sam Rivers, baixista dos Limp Bizkit, aos 48 anos.
+No mundo da fama, Selena Gomez e Benny Blanco apareceram em público após o casamento, Agir e Catarina Gama anunciaram o sexo do bebé, e Morreu Sam Rivers, baixista dos Limp Bizkit, aos 48 anos.

@@ -1,11 +1,17 @@
-No panorama internacional, o Paquistão e o Afeganistão acordaram um cessar-fogo mediado pelo Qatar, enquanto Colômbia acusou os EUA de violar águas territoriais e matar um pescador, levando os EUA a devolver sobreviventes de um ataque a um submarino de narcotráfico. Milhões protestaram contra Trump nos EUA. Em Taiwan, o principal partido da oposição elegeu uma nova líder, e na Bósnia, uma aliada do líder destituído foi eleita presidente interina. A Bolívia implementou multas para quem não votar nas presidenciais e o partido no poder no Japão está próximo de um novo acordo de coligação. Adicionalmente, Israel atacou Gaza após alegações de violação do cessar-fogo pelo Hamas, que por sua vez negou as acusações e culpou os EUA por propaganda israelita.
+No panorama internacional, o Paquistão e o Afeganistão acordaram um cessar-fogo mediado pelo Qatar, enquanto a Colômbia acusou os EUA de violar águas territoriais e matar um pescador, levando os EUA a devolver sobreviventes de um ataque a um submarino de narcotráfico. No Médio Oriente, o cessar-fogo entre Israel e o Hamas foi comprometido com acusações mútuas de violação. Em Taiwan, o principal partido da oposição elegeu uma nova líder, e no Japão, o partido no poder está próximo de um novo acordo de coligação. A Bolívia implementou multas para quem não votar nas presidenciais.
 
-Em Portugal, a PSP sinalizou um aumento do tráfico de seres humanos, alertando também para dezenas de milhares de imigrantes irregulares no país. As ordens profissionais da área da saúde defendem o reforço de médicos e enfermeiros no CODU. Catorze concelhos estão sob risco máximo de incêndio, sobretudo na região Norte. Marcelo Rebelo de Sousa comentou sobre a lei sobre burcas, considerando-a um "confronto de valores".
+Em Portugal, a PSP sinalizou um aumento do tráfico de seres humanos e estima a existência de dezenas de milhares de imigrantes irregulares. A PSP, no entanto, rejeita a ideia de "caça ao imigrante". Foram apreendidas toneladas de droga e armas em Lisboa, com vários detidos. Catorze concelhos estão em risco máximo de incêndio, sobretudo na zona Norte.
 
-Na área desportiva, Miguel Oliveira subiu no Mundial de MotoGP após o Grande Prémio da Austrália, enquanto o FC Porto eliminou o Celoricense na Taça de Portugal e o Sporting qualificou-se após prolongamento contra o Paços de Ferreira. Vasco Vilaça conquistou o bronze no Mundial de Triatlo.
+No âmbito político nacional, o PS debateu o apoio a Seguro e os resultados das autárquicas, garantindo que as propostas para o OE2026 não afetarão o saldo orçamental. Marcelo Rebelo de Sousa comentou a lei sobre burcas como um "confronto de valores".
 
-No mundo do entretenimento, a irmã de Cláudio Ramos está desaparecida, Selena Gomez e Benny Blanco surgiram juntos após o casamento, Agir e Catarina Gama anunciaram o sexo do seu bebé e Sam Rivers, baixista dos Limp Bizkit, faleceu.
+Na área da saúde, as Ordens profissionais querem reforço de médicos e enfermeiros no CODU, enquanto técnicos de emergência médica criticam propostas das Ordens.
 
-Na economia, o PS garantiu que as propostas para o OE2026 não afetarão o saldo orçamental, e o Banco de Portugal analisará reclamações contra empresas de crédito malparado. Também foi noticiado que o preço do gasóleo deverá descer, enquanto o da gasolina se mantém.
+No desporto, Miguel Oliveira subiu no Mundial de MotoGP após o GP da Austrália. O FC Porto e o Sporting qualificaram-se para a próxima fase da Taça de Portugal.
 
-Na cultura, Ana Paula Tavares apelou a um debate "sem medos" nos 50 anos da independência de Angola, enquanto Joana Marques e Ricardo Araújo Pereira marcaram presença no Fólio em Óbidos.
+Na cultura, Ana Paula Tavares apelou a um debate "sem medos" nos 50 anos da independência de Angola, e Joana Marques e Ricardo Araújo Pereira marcaram presença no Fólio em Óbidos.
+
+Na área do ensino superior, enquanto as universidades celebram a saúde mental nas redes sociais, a precariedade dos docentes é ignorada.
+
+No mundo do entretenimento, Agir e Catarina Gama anunciaram o sexo do bebé, Selena Gomez e Benny Blanco apareceram em público após o casamento, e a irmã de Cláudio Ramos está desaparecida. O baixista dos Limp Bizkit, Sam Rivers, faleceu aos 48 anos.
+
+Na economia, o gasóleo deverá descer de preço, enquanto a gasolina se mantém. O Banco de Portugal vai analisar reclamações contra empresas de crédito malparado.

@@ -1,0 +1,7 @@
+No panorama internacional, o Paquistão e o Afeganistão chegaram a um acordo de cessar-fogo mediado pelo Qatar, enquanto a Colômbia acusa os EUA de violar águas territoriais e causar a morte de um pescador. O Japão poderá estar próximo de um novo acordo de coligação partidária e em Taiwan, o principal partido da oposição elegeu uma nova líder. Nos Balcãs, uma aliada do líder destituído foi eleita presidente interina dos sérvios bósnios e na Bolívia, serão aplicadas punições a quem não votar nas presidenciais. Paralelamente, os EUA alertam para uma possível violação do cessar-fogo pelo Hamas.
+
+Em Portugal, a PSP sinaliza um aumento do tráfico de seres humanos e estima que existam dezenas de milhares de imigrantes irregulares no país. As ordens profissionais da saúde apelam ao reforço de médicos e enfermeiros no CODU. No PS, a Comissão Nacional debateu o apoio a Seguro e os resultados das eleições autárquicas.
+
+No mundo do desporto, Miguel Oliveira ascendeu no Mundial de MotoGP após o GP da Austrália. Na Taça de Portugal, o FC Porto eliminou o Celoricense com um hat-trick de Samu, e o Sporting qualificou-se após prolongamento contra o Paços de Ferreira.
+
+Na sociedade, o apresentador Cláudio Ramos pede ajuda para encontrar a irmã desaparecida. Ana Paula Tavares apela a um debate "sem medos" nos 50 anos da independência de Angola. No ensino superior, as instituições privadas representam 20% dos estudantes, enquanto se discute a saúde mental nas redes sociais e a precariedade dos docentes.

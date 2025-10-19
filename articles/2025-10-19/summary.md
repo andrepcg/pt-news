@@ -1,17 +1,11 @@
-As notícias do dia 19 de Outubro de 2025 incluem desenvolvimentos em vários âmbitos:
+No panorama internacional, o Paquistão e o Afeganistão acordaram um cessar-fogo mediado pelo Qatar, enquanto Colômbia acusou os EUA de violar águas territoriais e matar um pescador, levando os EUA a devolver sobreviventes de um ataque a um submarino de narcotráfico. Milhões protestaram contra Trump nos EUA. Em Taiwan, o principal partido da oposição elegeu uma nova líder, e na Bósnia, uma aliada do líder destituído foi eleita presidente interina. A Bolívia implementou multas para quem não votar nas presidenciais e o partido no poder no Japão está próximo de um novo acordo de coligação. Adicionalmente, Israel atacou Gaza após alegações de violação do cessar-fogo pelo Hamas, que por sua vez negou as acusações e culpou os EUA por propaganda israelita.
 
-**Política e Mundo:** Paquistão e Afeganistão acordaram um cessar-fogo com mediação do Qatar,  enquanto os EUA alertam para uma possível violação do cessar-fogo pelo Hamas, que, por sua vez, nega a violação e acusa os EUA de propaganda. A Colômbia acusou os EUA de violar águas territoriais e matar um pescador, levando os EUA a devolverem sobreviventes de um ataque a um submarino de narcotráfico. Milhões protestaram contra Trump nas maiores cidades dos EUA. No Japão, o partido no poder está próximo de um novo acordo de coligação, e em Taiwan, o principal partido da oposição elegeu uma nova líder. Uma aliada do líder destituído foi eleita presidente interina dos sérvios bósnios, e a Bolívia implementará multas para quem não votar nas presidenciais.
+Em Portugal, a PSP sinalizou um aumento do tráfico de seres humanos, alertando também para dezenas de milhares de imigrantes irregulares no país. As ordens profissionais da área da saúde defendem o reforço de médicos e enfermeiros no CODU. Catorze concelhos estão sob risco máximo de incêndio, sobretudo na região Norte. Marcelo Rebelo de Sousa comentou sobre a lei sobre burcas, considerando-a um "confronto de valores".
 
-**Portugal:** A PSP sinalizou um aumento do tráfico de seres humanos e estimou dezenas de milhares de imigrantes irregulares no país, embora tenha rejeitado quaisquer acusações de "caça" aos mesmos. Marcelo Rebelo de Sousa comentou a lei sobre o uso de burcas, considerando-a um "confronto de valores". Pinto Luz percorreu a Estrada Nacional 2 para avaliar necessidades de habitação. A Comissão Nacional do PS debateu o apoio a Seguro e os resultados das autárquicas, enquanto o partido garantiu que as propostas para o OE2026 não afetarão o saldo orçamental. Catorze concelhos estão em risco máximo de incêndio em três distritos.
+Na área desportiva, Miguel Oliveira subiu no Mundial de MotoGP após o Grande Prémio da Austrália, enquanto o FC Porto eliminou o Celoricense na Taça de Portugal e o Sporting qualificou-se após prolongamento contra o Paços de Ferreira. Vasco Vilaça conquistou o bronze no Mundial de Triatlo.
 
-**Economia:** O preço do gasóleo deverá descer, enquanto a gasolina se mantém. O Banco de Portugal vai analisar reclamações contra empresas de crédito malparado.
+No mundo do entretenimento, a irmã de Cláudio Ramos está desaparecida, Selena Gomez e Benny Blanco surgiram juntos após o casamento, Agir e Catarina Gama anunciaram o sexo do seu bebé e Sam Rivers, baixista dos Limp Bizkit, faleceu.
 
-**Desporto:** Miguel Oliveira subiu no Mundial de MotoGP após o GP da Austrália, onde alcançou o 12º lugar. FC Porto e Sporting qualificaram-se para a próxima fase da Taça de Portugal.
+Na economia, o PS garantiu que as propostas para o OE2026 não afetarão o saldo orçamental, e o Banco de Portugal analisará reclamações contra empresas de crédito malparado. Também foi noticiado que o preço do gasóleo deverá descer, enquanto o da gasolina se mantém.
 
-**Sociedade:** A irmã de Cláudio Ramos está desaparecida, e o apresentador pediu ajuda. A Cáritas de Setúbal registou um aumento de pessoas apoiadas.
-
-**Saúde:** As ordens profissionais da área da saúde querem um reforço de médicos e enfermeiros no CODU.
-
-**Tecnologia:** A China acusou os EUA de ciberataque contra um centro de horário chinês.
-
-**Criminalidade:** A PSP apreendeu toneladas de droga e armas em Lisboa, detendo vários suspeitos.
+Na cultura, Ana Paula Tavares apelou a um debate "sem medos" nos 50 anos da independência de Angola, enquanto Joana Marques e Ricardo Araújo Pereira marcaram presença no Fólio em Óbidos.

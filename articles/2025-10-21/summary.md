@@ -1,9 +1,15 @@
-Em destaque nas notícias de hoje, Sanae Takaichi tornou-se a primeira mulher a liderar o governo do Japão. No plano internacional, as manifestações pós-eleitorais em Moçambique resultaram em centenas de mortos e milhares de detenções, enquanto Trump expressa dúvidas sobre a vitória da Ucrânia. A UE opõe-se à cedência de território ucraniano à Rússia.
+As notícias do dia 21 de outubro de 2025 em resumo:
 
-Em Portugal, o Sindicato da Polícia iniciou protestos em Lisboa por melhores condições de trabalho, e a Frente Comum prevê uma grande greve na função pública. No setor financeiro, o BPI está a abandonar o metaverso para investir em agentes de IA, e o Novobanco e Montepio registaram perdas no Parque Marconi. A nível de negócios, a EDP vendeu uma linha de transmissão no Brasil, enquanto a startup Bandora expande-se para o Qatar.
+**Política e Economia:** No plano nacional, destaque para a nomeação de Luís Ramos para a Unidade dos Grandes Contribuintes da AT, a discussão sobre o relatório do Elevador da Glória com exigências de demissões na Carris, e a proposta do PS de aumentar as pensões mais baixas utilizando o excedente da Segurança Social. O Governo admite rever o desconto no ISP sob pressão de Bruxelas e vários setores ameaçam com greves devido a questões laborais e salariais. Gouveia e Melo criticou o peso do Estado na economia e Vital Moreira questionou Marcelo Rebelo de Sousa sobre os limites constitucionais. Autarcas da Serra da Estrela denunciam falta de financiamento e há descontentamento em Gaia com a localização da estação de TGV.
 
-No desporto, o Benfica procura o seu primeiro triunfo na Liga dos Campeões contra o Newcastle, enquanto o FC Porto e o Sp. Braga querem manter o pleno na Liga Europa.
+No cenário internacional, Sanae Takaichi tornou-se a primeira mulher a liderar o Governo do Japão. Em Moçambique, as manifestações pós-eleitorais resultaram em centenas de mortes e detenções. A UE opõe-se à cedência de território ucraniano à Rússia, enquanto Trump duvida da vitória da Ucrânia. A Comissão Europeia procura deportações de migrantes mais eficazes e rápidas.
 
-Ainda em Portugal, um relatório sobre o Elevador da Glória aponta múltiplas falhas, levando o PS a exigir a demissão da administração da Carris. A produção de mel em Montesinho está a ser afetada pelas alterações climáticas.
+Na economia, a EDP vendeu uma linha de transmissão no Brasil, o BPI está a apostar em agentes de IA, e a startup Bandora expande-se para o Qatar. Adoção de IA por empresas de contabilidade quadruplicou. Helexia e NGEN investem em armazenamento de energia em Portugal. DFK Portugal adquiriu cinco empresas de auditoria.
 
-No mundo da cultura, um filme de Sebastião Varela foi premiado num festival no Azerbaijão e foi detida uma suspeita de roubo de ouro no Museu de História Natural de Paris.
+**Sociedade:** Um tornado no norte de Paris causou um morto e vários feridos. O Comité Anti-Tortura da Europa alertou para polícias com rosto tapado e um relatório europeu exige o fim dos maus-tratos policiais em Portugal. Um homem foi detido por incêndio florestal na Guarda e outro por incitamento ao ódio online. O Passe Ferroviário Verde da CP gerou 13 milhões de euros em receitas. Um homem esfaqueou oito pessoas num centro de tratamento em Santarém.
+
+**Justiça:** Nicolas Sarkozy começou a cumprir pena de prisão em Paris. Um homem foi condenado a 21 anos pelo atentado contra o primeiro-ministro eslovaco. A PJ deteve um suspeito de crimes sexuais contra menor em Castelo de Vide.
+
+**Desporto:** O Benfica procura o primeiro triunfo na Liga dos Campeões frente ao Newcastle, enquanto FC Porto e Sp. Braga tentam manter o pleno na Liga Europa. António Félix da Costa assinou pela Alpine para o Mundial de Resistência e Le Mans.
+
+**Outros:** Um filme de Sebastião Varela foi premiado num festival no Azerbaijão. Uma suspeita foi detida por roubo de ouro no Museu de História Natural de Paris. A Amazon reportou uma falha que afetou vários serviços online.

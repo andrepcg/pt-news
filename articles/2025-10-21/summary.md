@@ -1,11 +1,25 @@
-Em Moçambique, as manifestações pós-eleitorais resultaram em 411 mortos e 7.200 detenções. No Japão, Sanae Takaichi tornou-se a primeira mulher a liderar o Governo. Ex-presidentes da Colômbia questionam a relação de Petro com Nicolás Maduro.
+*   **Política Nacional:** Sindicato da Polícia protesta em Lisboa por melhores condições, enquanto o PSD define o seu calendário interno após a vitória nas autárquicas. Gouveia e Melo critica o excesso de peso do Estado na economia e Vital Moreira acusa Marcelo Rebelo de Sousa de exceder os limites constitucionais. Catarina Martins garantiu que o Chega nunca fará parte de um seu governo.
 
-Na guerra da Ucrânia, Trump duvida da vitória ucraniana antes de se encontrar com Putin, enquanto a UE se opõe à cedência de território ucraniano à Rússia. Taiwan aguarda a entrega de mísseis antinavio dos EUA. Um tornado no norte de Paris causou um morto e quatro feridos graves.
+*   **Economia:** O BPI abandona o metaverso, apostando em agentes de IA com Salesforce. A startup Bandora expande-se para o Qatar. Empresas portuguesas mostram-se despreparadas para a transparência salarial. A EDP vendeu uma linha de transmissão no Brasil, e o Novobanco e o Montepio registam perdas no Parque Marconi. O Governo admite o fim gradual do desconto no ISP sob pressão de Bruxelas. Adoção de IA por empresas de contabilidade quadruplica em um ano. O Banco de Portugal emitiu um alerta sobre entidades não autorizadas.
 
-Em Portugal, o Sindicato da Polícia iniciou protestos em Lisboa por valorização profissional, e os sindicatos reúnem-se com o Governo devido à perda de licenças da Menzies nos aeroportos. Gouveia e Melo criticou o excesso de peso do Estado na economia, enquanto as empresas portuguesas mostram-se despreparadas para a transparência salarial.
+*   **Mundo:** No Japão, Sanae Takaichi torna-se a primeira mulher a liderar o Governo. Ex-Presidentes da Colômbia questionam a relação de Petro com Nicolás Maduro. Trump duvida da vitória da Ucrânia antes de se encontrar com Putin. A UE opõe-se à cedência de território ucraniano à Rússia, enquanto Taiwan aguarda a entrega de mísseis antinavio dos EUA. Um tornado causou um morte e quatro feridos graves no norte de Paris e Nicolas Sarkozy começou a cumprir pena de prisão de cinco anos em Paris. Em Moçambique, as manifestações pós-eleitorais resultaram em centenas de mortos e milhares de detenções.
 
-No mundo dos negócios, a EDP vendeu uma linha de transmissão no Brasil por 81 milhões de euros, o BPI abandonou o metaverso e aposta em agentes de IA com Salesforce, e a startup Bandora expandiu-se para o Qatar após entrar nos EUA. O Novobanco e o Montepio perderam 65 milhões de euros no Parque Marconi e a adoção de IA por empresas de contabilidade quadruplicou em um ano.
+*   **Guerra na Ucrânia:** Trump questiona a possibilidade de vitória ucraniana antes de um possível encontro com Putin. A UE opõe-se à cedência de território ucraniano à Rússia. Um ataque russo afetou o abastecimento de energia no norte da Ucrânia.
 
-No desporto, o Benfica visita o Newcastle em busca do primeiro triunfo na Liga dos Campeões. Na cultura, um filme de Sebastião Varela foi premiado num festival no Azerbaijão.
+*   **Desporto:** O Benfica procura a sua primeira vitória na Liga dos Campeões contra o Newcastle.
 
-Outras notícias incluem alertas do Comité Anti-Tortura da Europa sobre polícias de rosto tapado e elogios de associações, com ressalvas à propostas para proibir a queima de madeira.
+*   **Cultura:** Filme de Sebastião Varela premiado em festival no Azerbaijão.
+
+*   **Sociedade:** O Comité Anti-Tortura da Europa alerta para polícias de rosto tapado. Associações elogiam propostas para proibir a queima de madeira, mas deixam alertas.
+
+*   **Infraestruturas:** Habitantes de Vila Nova de Gaia estão descontentes com a localização da estação de TGV e um relatório preliminar sobre o Elevador da Glória está em discussão na Assembleia Municipal de Lisboa.
+
+*   **Saúde:** Hospitais portugueses gastam mais de 727 mil euros por dia com tarefeiros.
+
+*   **Tecnologia:** Amazon diz que os serviços estão operacionais após falha que afetou centenas de sites e aplicações.
+
+*   **Ambiente:** Alterações climáticas afetam a produção de mel em Montesinho.
+
+*   **Justiça:** Autarcas e gestores públicos foram condenados por lesarem o Estado em milhões nos últimos cinco anos.
+
+*   **Outros:** Menzies perde licenças nos aeroportos, levando os sindicatos a reunir com o governo.

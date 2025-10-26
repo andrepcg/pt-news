@@ -1,43 +1,9 @@
-Aqui está o resumo das notícias de 26 de outubro de 2025:
+Hoje, as notícias destacam um encontro inesperado entre Trump e Lula na Malásia, à margem da cimeira da ASEAN, que também acolheu a adesão de Timor-Leste. Trump também anunciou um acordo entre a Tailândia e o Camboja. No entanto, a Rússia adverte Trump sobre as sanções, enquanto demonstra o seu poder com um teste bem-sucedido de um míssil de cruzeiro nuclear.
 
-**Política e Economia:**
+Em Portugal, o Governo avalia a criação de um Centro de Atendimento Consular em Toronto, enquanto a AIMA regista uma redução na entrada de migrantes. No âmbito político, o Parlamento debate o Orçamento do Estado, com o PAN a abster-se e o BE a votar contra, e três freguesias repetem eleições autárquicas devido a empates anteriores.
 
-*   O Orçamento do Estado para 2026 foi debatido no parlamento, com aprovação garantida, apesar das críticas do BE e do PCP. O PAN absteve-se como sinal de abertura ao diálogo.
-*   Realizaram-se eleições no Benfica, com Rui Costa a vencer a primeira volta, mas a precisar de uma segunda volta contra Noronha Lopes para ser eleito presidente.
-*   O Governo português avalia a criação de um Centro de Atendimento Consular em Toronto e moderniza as viaturas Pandur com recurso à indústria nacional.
-*   A AIMA registou uma redução na entrada de migrantes em Portugal, enquanto as autorizações de residência aumentaram 60% em 2025.
-*   Empresário português de Barcelos compra o recheio da redação da revista Visão.
-*   A Novartis comprou a farmacêutica Avidity Biosciences por 10 mil milhões de euros.
+No desporto, as eleições no Benfica viram Rui Costa a liderar na primeira volta, mas necessitará de uma segunda volta contra Noronha Lopes. O Sporting venceu o Tondela e igualou o FC Porto no topo da I Liga. Lá Fora, o Real Madrid venceu o Barcelona no El Clásico e Lando Norris venceu o GP do México na Fórmula 1.
 
-**Mundo:**
+Outros destaques incluem a retirada do PKK da Turquia após 40 anos de luta, a detenção de suspeitos do roubo no Louvre, a proposta da Zero para plantar uma árvore por cada bebé nascido, e a modernização das viaturas Pandur pelo governo português. A jovem Daniela Braga critica a falta de regulação da Inteligência Artificial na Europa.
 
-*   Donald Trump e Lula da Silva reuniram-se na Malásia à margem da cimeira da ASEAN. Trump anunciou um acordo entre a Tailândia e o Camboja após uma disputa fronteiriça, e Lula propôs mediação entre os EUA e a Venezuela.
-*   Timor-Leste concluiu a adesão à ASEAN. Marcelo Rebelo de Sousa saudou a adesão de Timor-Leste à ASEAN.
-*   A Rússia testou um míssil de cruzeiro com propulsão nuclear.
-*   O PKK anunciou a retirada completa da Turquia após 40 anos de luta armada.
-*   A apreensão de 6,5 toneladas de cocaína num navio nas Canárias estabeleceu um novo recorde.
-
-**Desporto:**
-
-*   O Benfica goleou o Arouca, mas no que toca às eleições, Rui Costa terá de disputar uma segunda volta com Noronha Lopes. Mourinho elogiou Ivan Lima após a estreia pelo Benfica.
-*   O Sporting venceu o Tondela e igualou o FC Porto no topo da I Liga.
-*   O Real Madrid venceu o Barcelona no El Clásico.
-
-**Sociedade e Ambiente:**
-
-*   A Zero convidou a plantar uma árvore por cada bebé nascido, e um projeto semelhante está em curso para reflorestar Portugal.
-*   A Climáximo interrompeu a Meia Maratona de Lisboa em protesto contra o 'greenwashing' da EDP.
-*   O Infarmed recolheu lotes de Duloxetina Bluepharma devido a impurezas.
-*   Um incêndio num lar de idosos em Lisboa foi provocado por um curto-circuito.
-
-**Fama:**
-
-*   Georgina Rodríguez mostrou o apoio de Bella ao irmão Cristianinho.
-*   Morreu June Lockhart, atriz da 'era dourada' de Hollywood, aos 100 anos.
-*   Katy Perry e Justin Trudeau foram vistos juntos em Paris.
-
-**Outros Tópicos:**
-
-*   Um português irá trabalhar no posto de correios mais remoto do mundo, na Antártida.
-*   A antiga prisão da PIDE em Maputo será transformada num museu-hotel.
-*   A maior refinaria de África vai duplicar a capacidade de produção de petróleo.
+No mundo da fama, Georgina Rodríguez mostrou apoio de Bella ao irmão Cristianinho e foram noticiados os falecimentos de June Lockhart, atriz da 'era dourada' de Hollywood e de Adolfo Gutkin, encenador. Houve ainda reações à separação de Nicole Kidman e casos de violência doméstica a envolver Jérôme Boateng e José Manuel Anes.

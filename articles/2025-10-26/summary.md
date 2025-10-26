@@ -1,9 +1,11 @@
-No panorama internacional, Trump e Lula reuniram-se na Malásia durante a cimeira da ASEAN, enquanto Timor-Leste celebrou a sua adesão à organização após 14 anos de espera. Em Kyiv, um ataque com drones russos provocou vítimas. Trump também anunciou um acordo entre a Tailândia e o Camboja. Taiwan reiterou a sua rejeição à unificação com a China. O Canadá voltou a exibir um anúncio televisivo que gerou controvérsia com Trump.
+Hoje, a política internacional destacou-se com o encontro entre Trump e Lula na Malásia, à margem da cimeira da ASEAN, e o anúncio de um acordo mediado por Trump entre a Tailândia e o Camboja. Timor-Leste concluiu a adesão à ASEAN após 14 anos de espera, um momento histórico para o país. Taiwan reafirmou a rejeição da unificação com a China, enquanto a Turquia saudou a retirada do PKK do seu território.
 
-Em Portugal, o Governo pondera a criação de um Centro de Atendimento Consular em Toronto. A associação Zero lançou um convite para que se plante uma árvore por cada bebé que nasça.
+Na Europa, um ataque de drones russos em Kyiv causou mortos e feridos, e a Rússia testou um míssil de cruzeiro com propulsão nuclear. Em Paris, foram detidos suspeitos de um roubo no Museu do Louvre.
 
-No desporto, o Benfica goleou o Arouca e Rui Costa lidera as eleições do clube. O Sporting prepara-se para visitar o Tondela com uma baixa importante no onze. Nuno Espírito Santo mantém a confiança no West Ham, apesar de nova derrota. Mourinho elogiou Ivan Lima após a sua estreia pelo Benfica.
+Em Portugal, o Governo avalia a criação de um Centro de Atendimento Consular em Toronto, e a AIMA registou uma tendência de redução na entrada de migrantes. A nível político, três freguesias vão repetir as eleições autárquicas.
 
-Na economia, analistas questionam se é mais vantajoso atestar hoje ou esperar por amanhã devido à flutuação dos preços dos combustíveis.
+No desporto, as eleições no Benfica tiveram Rui Costa na liderança da contagem parcial, e a equipa goleou o Arouca. No futebol internacional, o West Ham mantém a confiança em Nuno Espírito Santo. Miguel Oliveira terminou em 19º no Grande Prémio da Malásia.
 
-No mundo da fama, Georgina Rodríguez demonstrou apoio de Bella ao seu irmão Cristianinho. A Bentley homenageou modelos históricos com edições especiais.
+Na área económica, o Canadá voltou a exibir um anúncio televisivo que gerou conflitos com Trump. Daniela Braga defendeu uma maior presença feminina na Inteligência Artificial e criticou a falta de regulação na Europa.
+
+A Zero propôs a plantação de uma árvore por cada bebé nascido. Na cultura, faleceu June Lockhart, atriz da "era dourada" de Hollywood, aos 100 anos.

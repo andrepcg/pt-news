@@ -1,11 +1,7 @@
-Hoje, a política internacional destacou-se com o encontro entre Trump e Lula na Malásia, à margem da cimeira da ASEAN, e o anúncio de um acordo mediado por Trump entre a Tailândia e o Camboja. Timor-Leste concluiu a adesão à ASEAN após 14 anos de espera, um momento histórico para o país. Taiwan reafirmou a rejeição da unificação com a China, enquanto a Turquia saudou a retirada do PKK do seu território.
+Em destaque hoje, o encontro entre Trump e Lula à margem da cimeira da ASEAN, na Malásia, onde Trump também anunciou um acordo entre a Tailândia e o Camboja. Timor-Leste concluiu a sua adesão à ASEAN após 14 anos de espera.
 
-Na Europa, um ataque de drones russos em Kyiv causou mortos e feridos, e a Rússia testou um míssil de cruzeiro com propulsão nuclear. Em Paris, foram detidos suspeitos de um roubo no Museu do Louvre.
+Na Europa, um ataque com drones russos em Kyiv causou mortos e feridos, enquanto a Rússia testou um míssil de cruzeiro com propulsão nuclear. Em Paris, foram detidos suspeitos do roubo no Museu do Louvre. O PKK anunciou a sua retirada completa da Turquia.
 
-Em Portugal, o Governo avalia a criação de um Centro de Atendimento Consular em Toronto, e a AIMA registou uma tendência de redução na entrada de migrantes. A nível político, três freguesias vão repetir as eleições autárquicas.
+Em Portugal, o governo avalia a criação de um Centro de Atendimento Consular em Toronto. No desporto, eleições no Benfica com Rui Costa à frente, goleada do Benfica ao Arouca e Sporting visita Tondela. Georgina Rodríguez demonstrou apoio ao irmão de Cristiano Ronaldo. Noutro âmbito, a Zero convidou a plantar uma árvore por cada bebé nascido.
 
-No desporto, as eleições no Benfica tiveram Rui Costa na liderança da contagem parcial, e a equipa goleou o Arouca. No futebol internacional, o West Ham mantém a confiança em Nuno Espírito Santo. Miguel Oliveira terminou em 19º no Grande Prémio da Malásia.
-
-Na área económica, o Canadá voltou a exibir um anúncio televisivo que gerou conflitos com Trump. Daniela Braga defendeu uma maior presença feminina na Inteligência Artificial e criticou a falta de regulação na Europa.
-
-A Zero propôs a plantação de uma árvore por cada bebé nascido. Na cultura, faleceu June Lockhart, atriz da "era dourada" de Hollywood, aos 100 anos.
+No mundo automóvel, a Bentley homenageou modelos históricos com edições especiais, enquanto a Honda anunciou planos para a nova sede global.

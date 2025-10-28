@@ -1,15 +1,21 @@
-No dia 28 de Outubro de 2025, Portugal foi marcado por diversos acontecimentos. No âmbito político e económico, o Orçamento do Estado para 2026 foi aprovado na generalidade com a abstenção do PS, enquanto o Livre votará contra, e PSD e Chega chegaram a acordo sobre a Lei da Nacionalidade, com Ventura a defender os seus cartazes polémicos. As discussões sobre o orçamento prosseguem no Parlamento, com o Ministro das Finanças a alertar para a fragilidade da dívida pública.  O Presidente da República, Marcelo Rebelo de Sousa, promulgou o diploma sobre a identificação de lanchas rápidas e comentou sobre a imigração, enquanto António José Seguro manifestou a sua intenção de unir o país.
+Aqui está um resumo das principais notícias de 28 de outubro de 2025:
 
-Na economia, a CIP prevê um crescimento de 2,2% no terceiro trimestre, mas as exportações registaram uma ligeira queda. A Foxconn anunciou um investimento significativo em IA,  e a Primark expande-se nos EUA. A Gleba reestrutura a sua dívida, e a Autoeuropa assegura produção, investindo em sustentabilidade. O CEO do Goldman Sachs minimizou o risco de uma crise sistémica no mercado de crédito, enquanto a Iberdrola viu os seus lucros diminuírem. A produção de azeite em Portugal deverá sofrer uma quebra. A banca portuguesa manifesta preocupação com a possibilidade de aumento de impostos.
+**Política e Economia:** O Orçamento do Estado para 2026 foi aprovado no Parlamento, com a abstenção do PS a garantir a sua viabilização, apesar do voto contra do Chega. A Lei da Nacionalidade também foi aprovada com o apoio de PSD, Chega, IL e CDS. António José Seguro manifestou o desejo de unir o país. Foram ainda divulgadas críticas de várias entidades, incluindo a Federação Académica do Porto, sobre o aumento das propinas, e alertas sobre a dívida pública portuguesa.. O Livre votará contra a proposta orçamental. A CIP pressionou Bruxelas para rever os critérios das PMEs.
 
-Em termos sociais, um militar da GNR morreu numa operação de combate ao tráfico de droga no rio Guadiana, levando à detenção de suspeitos, e militares da GNR ficaram em estado grave após um acidente na Nazaré. A Proteção Civil emitiu alertas devido ao mau tempo, com inundações a afetarem principalmente Lisboa e com avisos de chuva forte para diversos distritos. O Programa Regressar para emigrantes portugueses está com candidaturas abertas.
+**Crime e Justiça:** Um militar da GNR morreu no Rio Guadiana durante uma operação de combate ao tráfico de droga, levando à detenção de suspeitos. Registou-se um aumento da criminalidade online, com o Ministério Público a alertar para esquemas de phishing. A GNR investiga sabotagem na estação de S. Martinho do Porto. Foi detido o último elemento da rede criminosa "Backbone". Assédio online a Brigitte Macron: Arguidos alegam "humor". Homem detido em Leiria por agredir filho com deficiência.
 
-No panorama internacional, Trump e Xi reuniram-se para discutir questões comerciais, e Zelensky apelou por apoio financeiro contínuo à Europa nos próximos anos. A China registou um número recorde de bilionários, e o Japão e os EUA assinaram um acordo sobre minerais críticos. Furacão Melissa avança para a Jamaica causando mortos.
+**Saúde:** Metade dos maiores de 85 anos já foram vacinados contra a gripe. O IPO Lisboa recorreu a exames externos para acelerar ressonâncias magnéticas da mama. BEI e UE apoiam vacinação contra cancro do colo do útero em Angola. Onze crianças com surdez conseguem ouvir graças a terapia genética.
 
-Na área da saúde, a vacinação contra a gripe está em curso, com destaque para a adesão dos mais idosos.
+**Mundo:** Trump e Xi reuniram-se para evitar escalada comercial, enquanto o Presidente de Taiwan rejeitou o "apaziguamento" face à China. A guerra na Ucrânia continua, com Zelensky a pedir apoio financeiro à Europa. Um furacão causou mortes e estragos na Jamaica. No Quénia, um acidente de avião provocou pelo menos 12 mortos. Um suspeito admitiu ter matado o ex-primeiro-ministro japonês Shinzo Abe. O Presidente angolano destacou o potencial energético de Angola. A União Africana denunciou atrocidades no Sudão.
 
-No desporto, destaque para a compra do edifício Alvaláxia pelo Sporting, para o lay-off na Bosch e para o lucro recorde da SAD do FC Porto. Neemias Queta destacou-se na NBA.
+**Tecnologia e Empresas:** A Foxconn anunciou um investimento significativo em centros de IA. A Amazon vai despedir até 30 mil funcionários. A Primark aposta na expansão nos EUA aproveitando o fim da isenção de impostos para pequenas encomendas.
 
-Na cultura, os Dias do Cinema Português em Berlim darão destaque ao papel da mulher e atriz britânica Prunella Scales faleceu.
+**Infraestruturas e Transportes:** A Linha do Douro será encerrada por cinco meses para obras. O Governo anunciou medidas de emergência para o Aeroporto de Lisboa devido ao caos.
 
-São ainda de destacar os protestos de estudantes contra o aumento das propinas e um alerta do MP para um esquema de phishing com o nome da plataforma judicial Citius.
+**Ambiente e Clima:** Guterres alertou para as "consequências devastadoras" de um aumento de 1.5ºC na temperatura global.
+
+**Desporto:** O Sporting adquiriu o edifício Alvaláxia e a Taça da Liga tem novo patrocínio. Neemias Queta destacou-se na NBA e o FC Porto SAD aprovou contas com lucros recorde.
+
+**Sociedade:** Foram reportados vários casos de mau tempo, com avisos para chuva forte e inundações em diversos distritos. Militares da GNR ficaram em estado grave após um acidente na Nazaré.
+
+**Cultura:** Dias do Cinema Português em Berlim destacaram o papel da Mulher. A atriz britânica Prunella Scales faleceu.

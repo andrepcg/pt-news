@@ -1,21 +1,11 @@
-Aqui fica um resumo das notícias de hoje, 28 de Outubro de 2025:
+Hoje, o país debateu o Orçamento do Estado para 2026, com o PS a viabilizar a proposta através da abstenção, apesar das críticas a "inconsistências" e cortes na Saúde. O Livre votará contra, enquanto o Chega chegou a acordo com o PSD para aprovar a Lei da Nacionalidade. António José Seguro também marcou a atualidade política ao afirmar que quer unir o país, numa altura em que a polémica em torno dos cartazes de André Ventura nas presidenciais continua a gerar debate.
 
-**Política e Economia:** O Parlamento aprovou na generalidade o Orçamento do Estado para 2026, com o PS a viabilizar a proposta apesar de criticar "inconsistências". PSD e Chega chegaram a acordo para rever a Lei da Nacionalidade. António José Seguro anunciou a sua candidatura às presidenciais, prometendo unir o país. A Federação Académica do Porto contestou o aumento de propinas, e os docentes exigem aumentos salariais no OE2026. A CIP pressiona Bruxelas para rever os critérios de PMEs. O Ministro das Finanças abordou a fragilidade da dívida pública portuguesa, enquanto o Ministro da Economia garantiu o uso total dos fundos do PRR.
+Na economia, a China registou um número recorde de bilionários, enquanto Portugal se destaca como paraíso para carros baratos, com marcas chinesas a ganhar terreno. A Foxconn vai investir em centros de IA, e a Gleba reestrutura dívida. O Japão e os EUA assinaram acordos sobre minerais críticos e terras raras. A CIP pressiona Bruxelas para rever os critérios de PMEs. A produção de azeite em Portugal deverá cair 20% este ano. A Iberdrola reportou uma queda nos lucros.
 
-**Mundo:** Trump e Xi reuniram-se para discutir questões comerciais. O Presidente de Taiwan rejeitou a pressão da China. Zelensky pediu apoio financeiro à Europa para os próximos anos. O Japão e os EUA assinaram um acordo sobre minerais críticos. A União Africana denunciou crimes de guerra em Al-Fashir. Alassane Ouattara foi reeleito na Costa do Marfim. Um avião caiu no Quénia, sem sobreviventes, e o suspeito do assassinato de Shinzo Abe admitiu o crime. O furacão Melissa causou mortes e estragos na Jamaica.
+No plano social, um militar da GNR morreu numa operação de combate ao tráfico de droga no Guadiana, o que levou à promulgação de um diploma sobre identificação de lanchas rápidas. Há ainda distritos sob aviso laranja devido à chuva forte, e a Proteção Civil alerta para riscos de inundações. No Aeroporto de Lisboa, o caos levou o Governo a anunciar medidas de emergência.
 
-**Economia e Empresas:** Foxconn vai investir em centros de IA. A Amazon anunciou cortes de postos de trabalho. A Primark aposta na expansão nos EUA. A Gleba reestrutura dívida após expansão. A produção de azeite em Portugal deverá ter uma quebra. A Iberdrola registou uma queda nos lucros.
+No mundo, Israel confirmou a morte de palestinianos na Cisjordânia, a Ucrânia admitiu combates dentro de Pokrovsk, e Guterres alertou para as "consequências devastadoras" de 1.5ºC no clima. Trump e Xi reuniram-se para evitar escalada comercial. O furacão Melissa avança para a Jamaica.
 
-**Crime e Segurança:** Um militar da GNR morreu numa operação de combate ao tráfico de droga no Guadiana. A GNR investiga sabotagem na linha do Oeste. Foram detidos vários elementos de redes criminosas por tráfico de droga e fraude com cartões bancários.
+Na cultura, os Dias do Cinema Português em Berlim destacam o papel da Mulher, e Alba Baptista e Chris Evans foram pais pela primeira vez. Morreu também a atriz britânica Prunella Scales, de 'Fawlty Towers'.
 
-**Saúde:** Metade dos maiores de 85 anos já foram vacinados contra a gripe. Um estudo revela os benefícios de caminhadas curtas para o coração. IPO Lisboa recorre a exames externos para atenuar atrasos. Onze crianças com surdez conseguiram ouvir graças a terapia genética.
-
-**Tecnologia:** Elon Musk lançou a Grokipedia, uma plataforma de IA competidora da Wikipedia. Lisboa será capital da inteligência artificial por uma semana.
-
-**Sociedade:** A Proteção Civil alertou para riscos de inundações devido ao mau tempo. Os trabalhadores da Base das Lajes exigem o pagamento de salários em atraso.
-
-**Desporto:** O Sporting vai comprar o edifício Alvaláxia. Neemias Queta destacou-se na NBA.
-
-**Acidentes:** Há registo de militares da GNR em estado grave após um acidente na Nazaré e um guarda-redes do Inter de Milão atropelou mortalmente um homem em Itália.
-
-**Ambiente:** Guterres alertou para as "consequências devastadoras" de 1.5ºC no clima.
+Foi ainda noticiado que a Amazon vai despedir milhares de funcionários e que milhões de utilizadores do ChatGPT mostram sinais de sofrimento psicológico.

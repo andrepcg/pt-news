@@ -1,0 +1,9 @@
+Resumo das notícias de 29 de outubro de 2025:
+
+No cenário internacional, os ataques israelitas em Gaza resultaram em pelo menos 60 mortos, incluindo crianças, enquanto Pequim reafirma a ameaça de uso de força sobre Taiwan, que apela à resistência. Trump alega que a sua relação com Putin facilitaria a resolução da guerra na Ucrânia e lamenta não poder candidatar-se a um terceiro mandato. O furacão Melissa, de categoria 3, aproxima-se de Cuba, enquanto em Moçambique, a barragem de Cahora Bassa investe em infraestruturas com uma nova parceria público-privada.
+
+Em Portugal, o sistema informático nos tribunais administrativos e fiscais enfrenta problemas graves, com processos perdidos e juízes errados. O julgamento de Rui Rangel e Luís Filipe Vieira no caso Operação Lex arrancou no Supremo Tribunal de Justiça. Quatro distritos estão sob aviso laranja devido ao mau tempo. Os hospitais do SNS deverão cortar despesa em 2026, com possível impacto na assistência, e as empresas de saúde convencionadas arriscam multas por priorizarem utentes com seguro.
+
+Na economia, a Beyond Vision, empresa portuguesa, fechou um contrato de drones nos EUA e está a construir uma fábrica de 50 milhões. A Anacom pondera renovar as licenças das operadoras até 2041, com novas obrigações. Os preços das casas caem em zonas 'premium' de Lisboa e Porto. O Grupo Santander anunciou um aumento de 11% nos lucros. Trump mostrou-se otimista quanto a um acordo comercial com Xi Jinping e Lídia Pereira defende a redução gradual dos apoios aos combustíveis em Portugal. Uma startup de Leiria prepara um programa de aceleração no setor da defesa.
+
+Outros destaques incluem um incêndio num lar de idosos na Guarda que causou um ferido ligeiro, a libertação dos suspeitos envolvidos na morte de um GNR no Guadiana, e o encerramento compulsivo de uma escola internacional em Aljezur.

@@ -36,5 +36,7 @@ export async function generateMetadata({ params }) {
 export async function generateStaticParams() {
   const tags = await getAllTagsWithFrequency();
   // Use URI-encoded tag names to create valid URL segments and avoid duplicates.
-  return tags.map((t) => ({ tag: encodeURIComponent(t.tag) }));
+  // return tags.map((t) => ({ tag: encodeURIComponent(t.tag) }));
+  return tags.map((t) => ({ tag: t.tag }));
+
 }

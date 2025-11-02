@@ -1,0 +1,9 @@
+ Em Portugal, o Ministro das Finanças, Miranda Sarmento, sublinhou a necessidade de escolhas sobre o Orçamento do Estado. Na área da Saúde, um estudo revelou que as famílias portuguesas gastam 20 milhões de euros por dia, e Ricardo de Sousa Antunes alertou para os perigos dos obstáculos no acesso ao SNS.
+
+No panorama internacional, os EUA marcam um ano da reeleição de Trump com um país dividido pela polarização política, com Barack Obama a criticar as políticas "caóticas" do atual presidente em campanha pelos democratas. A Coreia do Sul lançou o seu quinto e último satélite de rede de espionagem militar espacial, e os EUA abateram três "narcoterroristas" num ataque no Caribe. A nível de obituários, faleceu Emilio Rodríguez Menéndez, conhecido como o "advogado dos diabos".
+
+No Desporto, a I Liga prepara-se para o duelo crucial entre FC Porto e Sp. Braga. O Sporting resolveu a saída de Gyokeres com as contratações de Luis Suárez e Fotis Ioannidis, e o Benfica conquistou a terceira vitória seguida ao dominar o Vitória SC, num jogo que gerou resposta de José Mourinho às críticas do treinador adversário. Internacionalmente, um golo de Messi foi insuficiente para evitar a derrota do Inter Miami nos playoffs da MLS.
+
+A Cultura esteve em destaque com o Misty Fest a apresentar Gustavo Santaolalla e Joep Beving, enquanto a agenda cultural semanal realçou José Afonso, o Guimarães Jazz e o Cinanima.
+
+Finalmente, a secção de Opinião abordou temas como o desafio sistémico das alterações climáticas, o prazo de validade dos edifícios do século XXI e a economia da atenção. Em termos económicos, a empresária brasileira Fabi Barcellos investiu em Cascais com uma loja de milkshakes e açaí, e houve reflexões sobre o diálogo acerca das diferenças sistémicas entre Portugal e Brasil.

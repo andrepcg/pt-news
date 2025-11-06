@@ -16,7 +16,6 @@ function extractHost(url) {
     const urlObj = new URL(url)
     return urlObj.hostname.replace('www.', '')
   } catch (e) {
-    console.error(`Error extracting host from ${url}: ${e}`)
     return url
   }
 }

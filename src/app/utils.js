@@ -1,5 +1,10 @@
 import { promises as fs } from 'fs';
 
+// Build-time only cache - exists only during static generation
+// Will not be available in the final exported site
+let articlesCache = null;
+let tagsCacheMap = new Map();
+
 export async function listOfDates() {
   const path = `${process.cwd()}/articles`;
   let entries;
@@ -59,6 +64,11 @@ export async function loadArticles(date) {
 }
 
 export async function getAllArticles() {
+  // Return cached articles if available
+  if (articlesCache !== null) {
+    return articlesCache;
+  }
+
   const dates = await listOfDates();
   let allArticles = [];
   for (const date of dates) {
@@ -75,6 +85,10 @@ export async function getAllArticles() {
     seenTitles.add(article.title);
     return true;
   });
+  
+  // Cache the result for subsequent calls during build
+  articlesCache = uniqueArticles;
+  
   return uniqueArticles;
 }
 
@@ -96,8 +110,18 @@ export async function getAllTagsWithFrequency() {
 }
 
 export async function getArticlesByTag(tag) {
+  // Check if this tag's articles are already cached
+  if (tagsCacheMap.has(tag)) {
+    return tagsCacheMap.get(tag);
+  }
+
   const articles = await getAllArticles();
-  return articles
+  const filteredArticles = articles
     .filter(article => article.tags && article.tags.includes(tag))
     .sort((a, b) => new Date(b.date) - new Date(a.date)); // Sort by most recent first
+  
+  // Cache the filtered results for this tag
+  tagsCacheMap.set(tag, filteredArticles);
+  
+  return filteredArticles;
 }

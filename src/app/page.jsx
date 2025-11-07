@@ -1,4 +1,5 @@
 import { promises as fs } from 'fs';
+import Link from 'next/link';
 
 import { getSummary } from "./utils";
 
@@ -23,7 +24,8 @@ export default async function Home() {
 
       <nav aria-label="Navegação secundária">
         <ul className="links" style={{ marginBottom: '2rem' }}>
-          <li><a href="/date">Notícias por data</a></li>
+          <li><Link href="/date">Notícias por data</Link></li>
+          <li><Link href="/tags">Notícias por tag</Link></li>
         </ul>
       </nav>
 

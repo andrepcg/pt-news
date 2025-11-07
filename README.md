@@ -2,4 +2,4 @@
 
 Latest news from Portuguese sources
 
-https://andrepcg.github.io/pt-news/
+https://n.andrepcg.ovh

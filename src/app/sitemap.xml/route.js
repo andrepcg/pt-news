@@ -1,6 +1,6 @@
 import { getAllArticles, getAllTagsWithFrequency, listOfDates } from "../utils";
 
-const URL = "https://n.andrepcg.ovh";
+const URL = "https://noticias.wygo.pt";
 
 export const dynamic = "force-static"
 

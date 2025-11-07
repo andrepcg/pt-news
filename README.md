@@ -2,4 +2,4 @@
 
 Latest news from Portuguese sources
 
-https://n.andrepcg.ovh
+https://noticias.wygo.pt

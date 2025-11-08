@@ -2,4 +2,4 @@
 
 Latest news from Portuguese sources
 
-https://noticias.wygo.pt
+https://diurna.pt

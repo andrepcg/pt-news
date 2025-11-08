@@ -1,4 +1,6 @@
 // import { Geist, Geist_Mono } from "next/font/google";
+import Script from 'next/script'
+
 import "./globals.css";
 import NewsletterSubscribe from "./components/NewsletterSubscribe";
 
@@ -32,6 +34,7 @@ export default function RootLayout({ children }) {
           </a>
         </footer>
         <NewsletterSubscribe />
+        <Script src="https://cloud.umami.is/script.js" strategy="afterInteractive" data-website-id="90d47290-1591-4504-b584-20444b33daa6" />
       </body>
     </html>
   );

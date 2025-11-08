@@ -1,7 +1,7 @@
 
 const SEGMENTS = {
-  daily: "95367390-8134-4736-8d44-d457cde4b129",
-  weekly: "66b5c978-9d15-45e3-bc72-687c19728b4a",
+  daily: "9e00cfcc-cdce-42db-af81-02e815093ada",
+  weekly: "73154a15-5665-42b9-89a8-1f2afcc9e186",
 }
 
 function jsonResponse(data, status = 200) {

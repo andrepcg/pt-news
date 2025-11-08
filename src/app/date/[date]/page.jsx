@@ -54,7 +54,7 @@ export async function generateMetadata({ params }) {
   const { date } = await params
 
   return {
-    title: `Notícias do dia ${date}`,
+    title: `Diurna.pt - Notícias do dia ${date}`,
   }
 }
 

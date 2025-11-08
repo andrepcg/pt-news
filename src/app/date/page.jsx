@@ -5,7 +5,7 @@ import DateNavigationSidebar from "../components/DateNavigationSidebar";
 import { formatDate, getMonthName, groupDatesByYearMonth } from "../dateUtils";
 
 export const metadata = {
-  title: "Notícias por data",
+  title: "Diurna.pt - Notícias por data",
 };
 
 export default async function Page() {

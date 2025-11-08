@@ -7,6 +7,10 @@ import Article from "./components/Article";
 import UpdatedAt from "./components/UpdatedAt";
 import Summary from './components/Summary';
 
+export const metadata = {
+  title: "Diurna.pt - Últimas Notícias 🇵🇹"
+};
+
 function getDate() {
   const isoString = new Date().toISOString();
   return isoString.split("T")[0];

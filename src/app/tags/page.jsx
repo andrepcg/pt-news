@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getAllTagsWithFrequency } from "../utils";
 
 export const metadata = {
-  title: "Notícias por Tag",
+  title: "Diurna.pt - Notícias por Tag",
 };
 
 export default async function Page() {

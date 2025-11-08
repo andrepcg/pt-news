@@ -15,7 +15,7 @@ import NewsletterSubscribe from "./components/NewsletterSubscribe";
 // });
 
 export const metadata = {
-  title: "Últimas Notícias 🇵🇹 "
+  title: "Diurna.pt - Últimas Notícias 🇵🇹"
 };
 
 export const viewport = {
@@ -29,6 +29,7 @@ export default function RootLayout({ children }) {
       <body>
         {children}
         <footer className="footer">
+          <span>Diurna.pt - </span>
           <a href="https://github.com/andrepcg/pt-news" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>

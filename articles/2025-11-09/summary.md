@@ -1,33 +1,27 @@
  ### Destaques
-- **Rui Costa** foi reeleito Presidente do Benfica com **65,89%** dos votos.
-- O supertufão **Fung-wong** nas Filipinas forçou a retirada de cerca de **um milhão** de pessoas.
-- O **Ministério Público** arquivou o processo de contratação de **Morão** por **Fernando Medina**.
-- A **CGTP** e a **UGT** anunciaram uma greve geral conjunta em dezembro.
-- O Primeiro-Ministro **Luís Montenegro** participa na cimeira UE-CELAC na Colômbia.
+- **Rui Costa** foi reeleito Presidente do **Benfica** com **65,89%** dos votos na segunda volta eleitoral, apelando à união e ambição para os próximos quatro anos.
+- O Ministério Público arquivou a contratação de **Morão** por **Medina** por "insuficiência de indícios", contrariando a Polícia Judiciária.
+- Um supertufão, **Fung-wong**, atingiu as **Filipinas**, obrigando à retirada de quase um milhão de pessoas e causando pelo menos duas mortes.
+- A **CGTP** e a **UGT** uniram-se pela primeira vez desde a Troika para uma greve geral a **11 de dezembro** contra o pacote laboral do Governo.
+- O Primeiro-Ministro **Luís Montenegro** garantiu o regresso da Fórmula 1 a **Portugal**, embora o local e a data permaneçam por anunciar.
 
-### Portugal
-- O **Ministério Público** arquivou o processo de contratação de **Morão** por **Fernando Medina**, contrariando a **PJ**, por insuficiência de indícios.
-- A **CGTP** e a **UGT** uniram-se pela primeira vez desde a Troika para avançar com uma greve geral em dezembro contra o pacote laboral do Governo.
-- Os partidos entregaram um novo recorde de **2.176** propostas de alteração ao **Orçamento do Estado para 2026**.
-- O Primeiro-Ministro **Luís Montenegro** participa na cimeira UE-CELAC na Colômbia, defendendo a importância de Portugal "liderar pelo exemplo".
-- A **Agência Portuguesa do Ambiente (APA)** identificou **20** novas áreas de risco de cheias e inundações no país.
+### 🇵🇹 Portugal
+- O Primeiro-Ministro **Luís Montenegro** participou na cimeira **UE-CELAC** na **Colômbia**, e em Portugal, manifestou preocupação com os partos em ambulâncias.
+- Foi registado um novo recorde de **2.176** propostas de alteração ao Orçamento do Estado para 2026 (OE2026) pelos partidos.
+- A Agência Portuguesa do Ambiente (APA) identificou **20 novas áreas de risco** de cheias e inundações em **Portugal**, com prejuízos superiores a **6 milhões de euros** nos últimos dois anos.
 
-### Mundo
-- O supertufão **Fung-wong** atingiu as Filipinas com rajadas de vento até **230 km/h**, forçando a retirada de cerca de **um milhão** de pessoas e causando duas mortes.
-- No conflito israelo-palestiniano, **Israel** recebeu o corpo de mais um refém em Gaza, e o **Hamas** acredita ter encontrado os restos mortais de um soldado israelita morto em 2014.
-- Defesas russas abateram **44** drones ucranianos sobre duas regiões, com ataques a deixarem a produção elétrica ucraniana a zeros em algumas zonas.
-- Pelo menos um morto e sete corpos recuperados após o naufrágio de um barco com **90** migrantes na Malásia, num dia em que três pessoas morreram e **15** ficaram feridas em Tenerife arrastadas por ondas de quatro metros.
-- Um sismo de magnitude **6,7** ao largo da costa nordeste do Japão levou à emissão e posterior levantamento de um alerta de tsunami.
+### 🌍 Mundo
+- Pelo menos um morto foi registado após um barco com **90 migrantes** a bordo virar na **Malásia**.
+- O conflito em Gaza registou mais de **69 mil** mortos desde o cessar-fogo, com Israel a confirmar a receção dos restos mortais do soldado **Hadar Goldin**, enquanto o Papa **Leão XIV** apelou a um cessar-fogo imediato.
+- As defesas russas abateram **44 drones ucranianos** sobre duas regiões, com ataques russos a zerar a produção elétrica ucraniana, e a **China** suspendeu a proibição de exportação de metais raros para os **EUA**.
 
-### Economia
-- Os preços dos combustíveis registarão na próxima semana um aumento para o gasóleo e uma descida para a gasolina.
-- A hotelaria de Lisboa prevê preços altos e procura concentrada nos dias da **Web Summit 2025**, que espera receber mais de **70 mil** pessoas e **2.500 startups**.
-- A **TAP** transferirá os voos de Luanda para o novo Aeroporto Internacional a partir de 1 de dezembro.
-- A insurtech portuguesa **Indie** expande a operação para Espanha em parceria com a seguradora Hiscox.
+### 💶 Economia
+- Os preços dos combustíveis registarão alterações na próxima semana, com o gasóleo a ficar mais caro e a gasolina mais barata.
+- A hotelaria de Lisboa registou preços altos e procura concentrada nos dias do evento **Web Summit**, que espera receber mais de **70 mil pessoas** em **2025**.
+- O **Banco de Portugal** recomendou manter dinheiro vivo em casa como contingência, face a situações como o apagão ibérico.
 
-### Desporto
-- **Rui Costa** foi reeleito Presidente do Benfica com **65,89%** dos votos, prometendo exigência e ambição renovadas.
-- O **FC Porto** defronta o Famalicão para tentar manter a liderança isolada da I Liga, após o Benfica ter criticado a arbitragem do Santa Clara-Sporting e anunciado um pedido de responsabilidades.
-- O tenista português **Henrique Rocha** venceu o japonês Shimabukuro e conquistou o 'challenger' de Matsuyama, o segundo da carreira.
-- **Miguel Oliveira** despediu-se do público português no Grande Prémio de Portugal de MotoGP com um 14.º lugar e pontos, enquanto **Diogo Moreira** venceu em Moto2 e ficou a um ponto de conquistar o título mundial.
-- **Montenegro** garantiu o regresso da **Fórmula 1** a Portugal, mas o local e a data permanecem por anunciar.
+### ⚽ Desporto
+- O **FC Porto** defrontou o **Famalicão** para tentar manter a liderança isolada da I Liga, enquanto o **Benfica** recebe o **Casa Pia**.
+- O português **Henrique Rocha** venceu o 'challenger' de ténis de Matsuyama, conquistando o seu segundo título na carreira.
+- No MotoGP, **Miguel Oliveira** despediu-se do público português no Grande Prémio de Portugal, e **Diogo Moreira** venceu em Moto2, ficando a um ponto do título mundial.
+- A polémica na arbitragem do jogo **Santa Clara-Sporting** levou ao afastamento do árbitro e auxiliar, com o **Benfica** a pedir responsabilidades.

@@ -27,7 +27,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/og.png",
+        url: "https://diurna.pt/og.png",
         width: 1200,
         height: 630,
         alt: "Diurna.pt - Últimas Notícias de Portugal",
@@ -38,7 +38,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Diurna.pt - Últimas Notícias 🇵🇹",
     description: "Acompanhe as últimas notícias de Portugal em tempo real. O Diurna.pt agrega as principais notícias dos maiores meios de comunicação portugueses num único local.",
-    images: ["/og.png"],
+    images: ["https://diurna.pt/og.png"],
   }
 };
 

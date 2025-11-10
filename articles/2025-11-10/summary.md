@@ -1,34 +1,30 @@
  ### Destaques
-- Os **Estados Unidos da América** alcançaram um acordo preliminar no Senado para pôr fim à histórica paralisação do Governo.
-- A **COP30** teve início hoje em Belém, Brasil, com a **ONU** a alertar para metas climáticas insuficientes e o Presidente **Lula da Silva** a apelar à "derrota dos negacionistas".
-- A **Web Summit** arrancou em Lisboa, focada na **Inteligência Artificial**, embora a organização tenha criticado o "abuso" nos preços da hotelaria.
-- Em Portugal, o Presidente **Marcelo Rebelo de Sousa** chegou a Luanda para as celebrações dos **50 anos da independência de Angola**, enquanto a próxima **Greve Geral** gerou debate, com o Primeiro-Ministro **Luís Montenegro** a considerá-la "incompreensível".
-- Registaram-se mais de **30 mortos** numa prisão do **Equador** e cerca de **200 mortos** em confrontos entre grupos extremistas no nordeste da **Nigéria**.
+- O Senado dos **EUA** chegou a um acordo preliminar para pôr fim à histórica paralisação do Governo.
+- A **COP30** arrancou hoje em **Belém, no Brasil**, com a **ONU** a alertar para metas climáticas insuficientes.
+- A **Web Summit** começou em **Lisboa**, focando na Inteligência Artificial e criticando o aumento dos preços hoteleiros.
+- Uma **greve geral** foi convocada para 11 de dezembro, gerando divisões entre o Primeiro-Ministro e o Presidente.
+- O Presidente **Marcelo Rebelo de Sousa** chegou a **Luanda** para as comemorações da independência angolana.
 
 ### 🇵🇹 Portugal
-- O Presidente **Marcelo Rebelo de Sousa** chegou a Luanda para participar nas comemorações dos **50 anos de independência de Angola**.
-- A **Web Summit 2025** iniciou-se em Lisboa com a **Inteligência Artificial** a dominar os debates e o Governo a ambicionar posicionar Portugal como um "hub europeu líder" para gigafábricas de IA.
-- A próxima **Greve Geral**, convocada para 11 de dezembro, gerou reações diversas, com **Luís Montenegro** a considerá-la "incompreensível" e **Marcelo Rebelo de Sousa** a pedir contenção.
-- O vice-presidente do **Chega**, **Pedro Frazão**, assumiu-se "aliado" de um grupo supremacista, e **Aguiar-Branco** solicitou um inquérito a um deputado do partido por alegados insultos racistas na Assembleia da República.
-- As operadoras de telecomunicações foram proibidas pela **ANACOM** de cobrar pela portabilidade de números de telemóvel.
+- O Vice-Presidente do **Chega**, **Pedro Frazão**, apoiou um grupo supremacista, motivando um inquérito e ação judicial.
+- As **Presidenciais 2026** viram **Gouveia e Melo** negar ser travado por **Marcelo Rebelo de Sousa**, gerando críticas de **Marques Mendes**.
+- A **PJ** realizou buscas na Câmara da **Nazaré** e na **Agência Portuguesa do Ambiente** por suspeitas de corrupção.
+- Apenas **490 Vistos Startup** foram concedidos em cinco anos, evidenciando baixa adesão ao programa.
 
 ### 🌍 Mundo
-- O Senado dos **Estados Unidos da América** alcançou um acordo preliminar para pôr fim à histórica paralisação do Governo federal.
-- A **COP30** começou no **Brasil**, com a **ONU** a alertar para a insuficiência das metas climáticas e a sublinhar a necessidade de países ricos financiarem a transição energética no Sul Global.
-- Mais de **30 mortos** foram reportados numa prisão do **Equador** após um dia de violência, e cerca de **200 mortes** resultaram de confrontos entre grupos extremistas no nordeste da **Nigéria**.
-- O **Exército israelita** lançou ataques no sul do **Líbano** contra alvos do **Hezbollah**, enquanto o **Hamas** confirmou ter recebido restos mortais de 15 prisioneiros.
-- A **Rússia** voltou a atacar a **Ucrânia** com mísseis hipersónicos e drones, e a inteligência russa foi apontada como uma ameaça crescente aos satélites europeus.
+- Mais de **30 mortos** ocorreram numa prisão no **Equador** após um dia de violência e confrontos.
+- O **Japão** indicou que uma ação militar contra **Taiwan** justificaria intervenção das suas forças.
+- A **Rússia** destruiu **71 drones ucranianos** e atacou a **Ucrânia** com mísseis e drones hipersónicos.
+- **Donald Trump** perdoou **77 pessoas**, incluindo **Rudy Giuliani**, ligadas à tentativa de reverter as eleições de 2020.
 
 ### 💶 Economia
-- A empresa portuguesa **Frulact** foi vendida ao grupo italiano **Nexture** num negócio avaliado em **600 milhões de euros**.
-- Os juros da dívida de **Portugal** subiram a dois, cinco e 10 anos, embora a **Euribor** tenha descido nas taxas a três, seis e 12 meses.
-- A **CMVM** e o **Banco de Portugal** alertaram investidores contra uma empresa que exige **10 mil milhões de euros** ao **Novo Banco**.
-- As exportações portuguesas de bens dispararam **14,3%** em setembro, e o setor hoteleiro mostra-se otimista para o Natal e Ano Novo, com ocupações a atingir **95%** e preços em alta.
-- A Justiça brasileira declarou a falência da operadora **Oi**, afetando a subsidiária **Portugal Telecom International Finance** e credores portugueses.
+- A empresa portuguesa **Frulact** foi vendida ao grupo italiano **Nexture** por **600 milhões de euros**.
+- As operadoras de telecomunicações foram proibidas de cobrar pela portabilidade de números de telemóvel a partir de hoje.
+- Os juros da dívida de **Portugal** subiram a dois, cinco e dez anos, e as exportações de bens dispararam **14,3%** em setembro.
+- O setor hoteleiro prevê taxas de ocupação de **95%** para o Natal e Ano Novo, com preços elevados.
 
 ### ⚽ Desporto
-- O **FC Porto** venceu o Famalicão e consolidou a liderança da **I Liga**, enquanto o **Benfica** empatou com o Casa Pia, levando o Presidente **Rui Costa** a criticar a arbitragem.
-- A **Seleção Nacional** de futebol iniciou o estágio de preparação para o jogo contra a **Irlanda**, que poderá selar o apuramento para o **Mundial'2026**.
-- O basquetebolista português **Neemias Queta** foi titular e contribuiu com oito pontos para a vitória dos **Boston Celtics** em Orlando.
-- No ténis, **Carlos Alcaraz** recuperou a liderança do ranking mundial antes das **ATP Finals**.
-- A **Federação Portuguesa de Ciclismo** antecipou o fim da concessão da **Volta a Portugal** devido a incumprimento da Podium Events.
+- O **FC Porto** lidera a **I Liga** após vencer o **Famalicão**, e o **Benfica** empatou, com o Presidente **Rui Costa** a criticar a arbitragem.
+- A **Seleção Nacional** iniciou a preparação para o jogo com a **Irlanda**, decisivo para o apuramento para o **Mundial'2026**.
+- **Neemias Queta** foi titular e contribuiu para a vitória dos **Boston Celtics** na **NBA**.
+- **Carlos Alcaraz** recuperou a liderança do ranking mundial de ténis antes das **ATP Finals**.

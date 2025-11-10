@@ -1,26 +1,30 @@
  ### Destaques
-- O Senado dos **EUA** alcançou um acordo preliminar para pôr fim ao **"shutdown"** do Governo, o maior da história norte-americana.
-- A **COP30** iniciou-se em **Belém**, no **Brasil**, com a **ONU** a alertar para a insuficiência das metas climáticas.
-- A **Web Summit** arrancou em **Lisboa**, focada em Inteligência Artificial, marcada por críticas aos preços de hotéis e filas no aeroporto.
-- O Presidente **Marcelo Rebelo de Sousa** chegou a **Luanda** para celebrar os **50 anos** da independência de **Angola**.
-- O vice-presidente do **Chega**, **Pedro Frazão**, gerou polémica ao apoiar um grupo supremacista, levando **Aguiar-Branco** a pedir um inquérito.
+- Um acordo preliminar no Senado dos **Estados Unidos** põe fim à paralisação do governo.
+- A **COP30** arranca no **Brasil**, focada em metas climáticas e financiamento do Sul Global.
+- A **Web Summit** iniciou-se em **Lisboa**, destacando a Inteligência Artificial e gerando críticas aos preços hoteleiros.
+- O Presidente **Marcelo Rebelo de Sousa** chegou a **Luanda** para celebrar a independência angolana.
 
 ### 🇵🇹 Portugal
-- A **Greve Geral** foi criticada por **Luís Montenegro**, com **Marcelo Rebelo de Sousa** a apelar à contenção.
-- A **PJ** realizou buscas por corrupção na **Câmara da Nazaré** e tráfico de imigrantes no Alentejo; **José Sócrates** pediu o fim da defesa oficiosa na **Operação Marquês**.
-- O Governo anunciou **52 milhões de euros** em investimento para prevenção de incêndios, e as operadoras foram proibidas de cobrar a portabilidade de números de telemóvel.
+- A **Web Summit** abriu em **Lisboa**, com foco na Inteligência Artificial e controvérsia sobre os aumentos de preços na hotelaria.
+- A **Greve Geral** de 11 de dezembro foi criticada por **Luís Montenegro** e pela Confederação do Turismo, com **Marcelo Rebelo de Sousa** a apelar à contenção.
+- A Justiça investiga casos de corrupção na **Nazaré** e de tráfico de imigrantes no **Alentejo**.
+- O Vice-Presidente do **Chega**, **Pedro Frazão**, assumiu ser "aliado" de um grupo supremacista, levando a inquérito e ações judiciais contra **André Ventura**.
 
 ### 🌍 Mundo
-- Conflitos e violência: mais de **30 mortos** em prisão no **Equador**, ataques russos na **Ucrânia**, ações israelitas contra o **Hezbollah** no **Líbano**, e condenação de ataques terroristas em **Moçambique** e no **Mali**.
-- O **Japão** indicou que agressão a **Taiwan** justificaria intervenção militar e emitiu alerta de tsunami após um sismo de magnitude **6,2**.
-- **Donald Trump** perdoou **77 pessoas** ligadas a tentativas de reverter as eleições de 2020, e a direção da **BBC** demitiu-se por polémica na edição de um discurso seu.
+- O Senado dos **Estados Unidos** alcançou um acordo para terminar o "shutdown" governamental.
+- A **COP30** começou no **Brasil**, com a **ONU** e **Lula da Silva** a pedirem metas climáticas ambiciosas e financiamento para o Sul Global.
+- **Conflitos e Segurança:** Registaram-se mais de **30 mortos** em prisão do **Equador**, **200 mortos** em confrontos na **Nigéria**, e a **Rússia** atacou a Ucrânia, enquanto **Israel** visou o **Hezbollah** no **Líbano**.
+- O **Japão** admitiu intervir em caso de ataque a **Taiwan**, após um sismo de magnitude **6,2** na sua costa nordeste ter gerado um alerta de tsunami.
+- A **BBC** registou demissões na direção após polémica com a edição de um discurso de **Donald Trump** e a cobertura de Gaza.
 
 ### 💶 Economia
-- A portuguesa **Frulact** foi vendida ao grupo italiano **Nexture** por **600 milhões de euros**, e as exportações portuguesas de bens dispararam **14,3%** em setembro.
-- Os juros da dívida de Portugal subiram a dois, cinco e dez anos, e a **Euribor** desceu nas taxas a três, seis e doze meses.
-- A **CMVM** e o **Banco de Portugal** alertaram para a empresa **FNBC/Seven Bank**, que exige **10 mil milhões de euros** ao **Novo Banco**.
+- A empresa portuguesa **Frulact** foi vendida ao grupo italiano **Nexture** por **600 milhões de euros**.
+- As operadoras de telecomunicações foram proibidas de cobrar pela portabilidade de números de telemóvel a partir de hoje.
+- Os juros da dívida de **Portugal** subiram a dois, cinco e 10 anos, enquanto a Euribor desceu a três, seis e 12 meses.
+- As exportações portuguesas de bens dispararam **14,3%** em setembro.
+- A **CMVM** e o **Banco de Portugal** alertaram sobre uma empresa que exige **10 mil milhões de euros** ao **Novo Banco** sem habilitação legal.
 
 ### ⚽ Desporto
-- Na I Liga, o **FC Porto** venceu o **Famalicão**, liderando, e o **Benfica** empatou com o **Casa Pia**, com **Rui Costa** a criticar a arbitragem.
-- A **Seleção Nacional** iniciou a preparação para o jogo com a Irlanda, que pode selar o apuramento para o **Mundial 2026**.
-- **Neemias Queta** foi titular pelos **Boston Celtics** na NBA, e **Carlos Alcaraz** recuperou a liderança do ranking mundial de ténis.
+- O **FC Porto** consolidou a liderança da **I Liga** com uma vitória; o **Benfica** empatou, com **Rui Costa** a criticar a arbitragem.
+- A **Seleção Nacional** de futebol iniciou a preparação para o jogo contra a Irlanda, crucial para o apuramento ao **Mundial 2026**.
+- **Neemias Queta** contribuiu para a vitória dos **Boston Celtics**, e **Carlos Alcaraz** recuperou a liderança mundial no ténis.

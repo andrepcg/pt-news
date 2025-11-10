@@ -1,34 +1,32 @@
  ### Destaques
-- A **Web Summit** arrancou hoje em **Lisboa**, com a **Inteligência Artificial** a dominar os debates tecnológicos.
-- Nos **Estados Unidos da América**, o Senado chegou a um acordo preliminar para pôr fim à paralisação do Governo.
-- A **COP30** teve início no **Brasil**, com a **ONU** a alertar para a insuficiência das metas climáticas.
-- O Presidente da República, **Marcelo Rebelo de Sousa**, chegou a **Luanda** para participar nas celebrações da independência angolana.
-- Em **Portugal**, a **Greve Geral** gerou reações, com o Primeiro-Ministro **Montenegro** a considerá-la incompreensível e o Presidente a pedir contenção.
+- O Senado dos **EUA** alcançou um acordo preliminar para pôr fim à paralisação do Governo, descrita como a maior da história.
+- A **COP30** arrancou no **Brasil**, em Belém, com a **ONU** a alertar para a insuficiência das metas climáticas.
+- A **Web Summit 2025** começou hoje em **Lisboa**, focada na Inteligência Artificial.
+- Mais de **30 pessoas** morreram numa prisão no **Equador** após um dia de violência e confrontos.
 
 ### 🇵🇹 Portugal
-- A **ANACOM** proibiu as operadoras de cobrar pela portabilidade de números de telemóvel a partir de hoje.
-- O programa **Vistos Startup** concedeu apenas **490 autorizações** em cinco anos.
-- O Vice-Presidente do **Chega** enviou um vídeo de apoio a um congresso de um grupo supremacista.
-- **Portugal** recebeu mais dois aviões **Super Tucano** da **Embraer** para reforçar a defesa aérea.
-- A semana começou com previsão de chuva persistente e forte em várias regiões do país.
+- O Presidente da República, **Marcelo Rebelo de Sousa**, chegou a **Luanda** para participar nas comemorações da independência angolana.
+- O vice-presidente do **Chega**, **Pedro Frazão**, enviou um vídeo de apoio a um congresso do grupo supremacista **'Reconquista'**.
+- O **Primeiro-Ministro Luís Montenegro** considerou a **Greve Geral** "incompreensível", enquanto **Marcelo Rebelo de Sousa** pediu contenção.
+- As operadoras de telecomunicações estão proibidas, a partir de hoje, de cobrar pela portabilidade de números de telemóvel, por decisão da **ANACOM**.
+- A empresa **Frulact** foi vendida ao grupo italiano **Nexture** num negócio avaliado em **600 milhões de euros**.
 
 ### 🌍 Mundo
-- A **COP30** arrancou em **Belém**, no **Brasil**, com uma maratona negocial sobre a crise climática.
-- Mais de **30 pessoas** morreram numa prisão no **Equador** após um dia de violência e confrontos.
-- **Tóquio** indicou que um ataque militar a **Taiwan** justificaria uma intervenção das forças japonesas.
-- O Exército israelita lançou um ataque no sul do **Líbano** contra alvos do **Hezbollah**.
-- A **Rússia** destruiu **71 drones ucranianos** em 10 regiões e na **Crimeia**.
-- O primeiro-ministro **António Costa** anunciou o reforço da cooperação **UE-CELAC** no combate ao narcotráfico e crime organizado.
-- A União Africana condenou ataques terroristas e raptos de crianças em **Moçambique**.
-- Uma colisão de comboios fez mais de **70 feridos** na **Eslováquia**.
+- O **Japão** afirmou que um ataque militar a **Taiwan** justificaria a intervenção das forças japonesas.
+- A **Rússia** destruiu **71 drones** ucranianos e lançou novos ataques com mísseis hipersónicos Kinzhal e drones contra a **Ucrânia**.
+- O exército israelita lançou um ataque no sul do **Líbano** contra alvos do **Hezbollah**.
+- A **União Africana** condenou ataques terroristas e o rapto de **duas crianças** em Mocímboa da Praia, **Moçambique**.
+- Uma colisão de comboios fez mais de **70 feridos** na **Eslováquia**, e o **Japão** emitiu um alerta de tsunami após um sismo de magnitude **6,2**.
 
 ### 💶 Economia
-- A empresa portuguesa **Frulact** foi vendida ao grupo italiano **Nexture** num negócio avaliado em **600 milhões de euros**.
-- O CEO da **EDP** comprou **117 mil euros** em ações após o "Capital Markets Day" ter provocado a queda da cotação.
-- Os juros da dívida de **Portugal** subiram a dois, cinco e dez anos.
-- O setor hoteleiro manifesta otimismo para o Natal e Ano Novo, com projeções de ocupação a atingir **95%** e preços em alta.
+- Os juros da dívida de **Portugal** registaram subidas a dois, cinco e 10 anos.
+- O setor hoteleiro mostra otimismo para o Natal e Ano Novo, com projeções de ocupação a atingir **95%** e preços em alta.
+- O ministro **Castro Almeida** informou **Miranda Sarmento** sobre uma folga de **300 milhões de euros** do **PRR** antes do Orçamento do Estado 2026.
+- O CEO da **EDP** comprou **117 mil euros** em ações após um 'Capital Markets Day' que fez cair a cotação.
+- A **China** exigirá licenças para exportação de químicos precursores de fentanil para os **EUA**, **México** e **Canadá**.
 
 ### ⚽ Desporto
-- O **FC Porto** venceu o **Famalicão** e consolidou a sua posição na liderança da **I Liga**.
-- O **Benfica** empatou com o **Casa Pia**, e o Presidente **Rui Costa** criticou a arbitragem do fim de semana.
-- A **Seleção Nacional** de futebol iniciou o estágio para o jogo contra a **Irlanda**, que pode selar o apuramento para o **Mundial'2026**.
+- O **FC Porto** venceu o **Famalicão**, consolidando a liderança na **I Liga**, enquanto o **Benfica** empatou com o **Casa Pia**.
+- O Presidente do **Benfica**, **Rui Costa**, criticou a arbitragem do fim de semana.
+- A seleção nacional de futebol de **Portugal** iniciou o estágio para o jogo com a **Irlanda**, que pode selar o apuramento para o **Mundial 2026**.
+- **Neemias Queta** foi titular e ajudou os **Boston Celtics** a vencer em **Orlando**, na **NBA**.

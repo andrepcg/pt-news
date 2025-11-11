@@ -1,26 +1,31 @@
  ### Destaques
-- As celebrações dos 50 anos da independência de **Angola** contaram com presença internacional e a saudação de **António Costa**, com o Presidente **João Lourenço** a apelar à reforma ética do país.
-- A **Microsoft** anunciou um investimento de **8,6 mil milhões de euros** em Sines para uma "gigafábrica" de IA, um dos pontos altos da **Web Summit**, que registou um recorde de **71.386 participantes**.
-- O setor da Saúde em **Portugal** debate-se com **1,5 milhões** de utentes sem médico de família e irregularidades no **Hospital de Santa Maria**, onde um dermatologista faturou **700 mil euros** indevidamente.
-- Na política nacional, destacaram-se a tomada de posse de **Carlos Moedas** em **Lisboa**, a polémica entre **Marcelo Rebelo de Sousa** e o Almirante **Gouveia e Melo**, e a abertura de inquérito do MP aos cartazes do **Chega**.
+- O gasto do Estado em análises clínicas atingiu **244 milhões de euros** em 2024, com a **IGAS** a revelar irregularidades e a enviar para o Ministério Público o caso de um dermatologista do Hospital Santa Maria que terá faturado indevidamente mais de **700 mil euros**.
+- A **Microsoft** anunciou um investimento de **8,6 mil milhões de euros** para o seu centro de dados em Sines, visando uma "gigafábrica" de IA.
+- Angola celebrou **50 anos de independência** com grandes festividades em Luanda e a presença de delegações internacionais.
+- O Senado dos **EUA** aprovou um acordo provisório para reabrir o Governo federal após **41 dias** de paralisação.
 
 ### 🇵🇹 Portugal
-- O novo executivo de **Carlos Moedas** tomou posse na Câmara Municipal de **Lisboa**, com o autarca a focar a sua ação na segurança e habitação.
-- O Ministério Público abriu um inquérito aos cartazes do **Chega** sobre Bangladesh e ciganos, na sequência de várias denúncias; os crimes de corrupção de **José Sócrates** na **Operação Marquês** arriscam prescrever em 2026.
-- O **SNS** regista **1,5 milhões** de utentes sem médico de família, e a **IGAS** confirmou irregularidades no **Hospital de Santa Maria** relativas a **700 mil euros** em faturas indevidas de um dermatologista, enquanto a **Federação Portuguesa do Sangue** apelou urgentemente à doação devido à diminuição das reservas críticas, em particular de O+.
+- Na política interna, **Carlos Moedas** e o novo executivo tomaram posse na Câmara Municipal de Lisboa.
+- A "guerra fria" entre o Presidente **Marcelo Rebelo de Sousa** e o Almirante **Gouveia e Melo** continuou, com este a condenar insultos racistas.
+- O Ministério Público abriu um inquérito aos cartazes do **Chega** sobre Bangladesh e ciganos.
+- O julgamento da **Operação Marquês** foi suspenso, e crimes de corrupção imputados a **José Sócrates** arriscam prescrição em **2026**.
+- O número de utentes sem médico de família aumentou para **1,5 milhões** em outubro.
+- A **ANAC** proibiu a **Ryanair** de impedir embarques com cartões físicos e de cobrar taxa.
 
 ### 🌍 Mundo
-- **Angola** celebrou os seus 50 anos de independência, com o Presidente **João Lourenço** a criticar o "colonialismo" e a defender uma reforma ética.
-- A **ONU** alertou para a insuficiente ajuda humanitária em **Gaza**, onde **1.500 crianças** amputadas necessitam de apoio urgente, enquanto os **Hutis** sinalizaram o fim dos ataques, com um aviso sobre novas agressões.
-- Nos **Estados Unidos**, o Senado aprovou um acordo provisório para reabrir o Governo federal; a **Rússia** alegou ter impedido um plano da **Ucrânia** e do **Reino Unido** para roubar um caça MiG-31, e atacou infraestruturas em Odessa.
-- O supertufão **Fung-wong** causou pelo menos **18 mortos** nas Filipinas, levando **Taiwan** a retirar milhares de pessoas.
+- A Síria aderiu à Coligação Global para Derrotar o Estado Islâmico.
+- Os serviços secretos russos afirmaram ter impedido um plano da Ucrânia e do Reino Unido para roubar um caça **MiG-31**.
+- A ONU alertou para menos de metade da ajuda humanitária prevista a entrar em Gaza, onde cerca de **1.500** crianças amputadas necessitam de apoio urgente.
+- O supertufão Fung-wong causou pelo menos **18** mortos nas Filipinas e a retirada de **três mil** pessoas em Taiwan.
+- O Canadá perdeu o estatuto de país livre de sarampo após **27 anos**, devido a um movimento antivacinas.
 
 ### 💶 Economia
-- A **Microsoft** anunciou um investimento de **8,6 mil milhões de euros** em Sines para uma "gigafábrica" de Inteligência Artificial, destacando a "energia barata" de Portugal como fator decisivo.
-- A **Web Summit** em Lisboa registou um recorde de **71.386 participantes**, com a **Inteligência Artificial** no centro dos debates sobre infraestruturas energéticas e concorrência global.
-- Um fundo de pensões do Canadá vendeu **5,2%** do capital da **EDP**, gerando um encaixe de **814,7 milhões de euros**, e o Ministro das Finanças defendeu que a economia portuguesa pode crescer **3%** com menos burocracia.
+- O Fundo de Pensões do Canadá vendeu **5,2%** do capital da **EDP** por **814,7 milhões de euros**.
+- A **SoftBank** vendeu a sua posição na **Nvidia Corp.** por **5,83 mil milhões de dólares** para investir na **OpenAI**.
+- A **Google** anunciou um investimento de **5,5 mil milhões de euros** na Alemanha para infraestruturas de IA.
+- A indústria química e farmacêutica alemã alertou para um nível de produção mínimo em **30 anos**.
+- O Novo Banco notificou a Autoridade da Concorrência da aquisição do controlo exclusivo da unidade **Unibanco** da **Unicre**.
 
 ### ⚽ Desporto
-- **Cristiano Ronaldo** confirmou que o Mundial de 2026 será "definitivamente" o último da sua carreira.
-- A **Seleção Nacional** voltou a treinar para o apuramento do Mundial 2026, com **Roberto Martínez** a um passo de qualificar Portugal, enquanto o **Conselho de Disciplina da FPF** abriu um processo ao **FC Porto** por incidentes no clássico.
-- Um jogador do **Benfica** arrisca proibição de entrar na Dinamarca após a partilha de conteúdo sexual de menores.
+- A **Seleção Nacional** voltou a treinar para o apuramento do **Mundial 2026**, e **Cristiano Ronaldo** confirmou que este será o último da sua carreira.
+- O **Conselho de Disciplina da FPF** abriu um processo ao **FC Porto** por incidentes em clássico contra o **Sporting**.

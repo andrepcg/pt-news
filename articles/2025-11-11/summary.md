@@ -1,31 +1,34 @@
  ### Destaques
-- **Angola** celebrou os **50 anos de independência** com ampla presença internacional, incluindo **António Costa** e **Donald Trump**, e com o Presidente **João Lourenço** a apelar ao desenvolvimento.
-- A **Microsoft** anunciou um investimento de **8,6 mil milhões de euros** para um centro de dados de **IA** em **Sines**, Portugal.
-- A **Câmara Municipal de Lisboa** viu a tomada de posse do executivo de **Carlos Moedas**, num dia marcado também pela polémica dos **700 mil euros** faturados indevidamente por um dermatologista do **Hospital Santa Maria**.
-- A **Web Summit 2025** em Lisboa alcançou um recorde de **71.386 participantes**, e **Cristiano Ronaldo** confirmou que o **Mundial 2026** será o último da sua carreira.
+-   Angola celebrou 50 anos de independência com presença de dezenas de delegações internacionais, incluindo **António Costa** e **Donald Trump**, e o Presidente **João Lourenço** destacou desafios económicos.
+-   A **Microsoft** anunciou um investimento de **8,6 mil milhões de euros** para uma "gigafábrica" de Inteligência Artificial em Sines, considerada a primeira da Europa.
+-   O Serviço Nacional de Saúde (**SNS**) enfrenta rutura, com **1,5 milhões** de utentes sem médico de família e gastos do Estado em análises clínicas a atingir **244 milhões de euros** em 2024.
+-   O **Almirante Gouveia e Melo** gerou polémica com declarações sobre uma eventual candidatura presidencial, suscitando reações de adversários políticos.
+-   Na esfera desportiva, **Cristiano Ronaldo** confirmou que o Mundial 2026 será o último da sua carreira.
 
 ### 🇵🇹 Portugal
-- **Carlos Moedas** e o novo executivo tomaram posse na **Câmara Municipal de Lisboa**, com o **PS** a criticar a oposição por tentar presidir à Assembleia Municipal.
-- O setor da saúde enfrenta urgência na doação de sangue (**O+**) e **1,5 milhões** de utentes sem médico de família; a **IGAS** enviou para o Ministério Público o caso dos **700 mil euros** faturados indevidamente por um dermatologista do **Hospital Santa Maria**.
-- O Governo encara as alterações climáticas como questão de segurança nacional, e o ministro das Finanças defende que a economia pode crescer **3%** com menos burocracia.
-- O Ministério Público abriu inquérito aos cartazes do **Chega** sobre Bangladesh e ciganos; o líder do **PS**, **José Luís Carneiro**, considerou "ofensiva" a reação de **Luís Montenegro** à greve geral.
-- A **PJ** recuperou cerca de **400 peças** de ouro desaparecidas de um santuário em **Viana do Alentejo**, e um ex-inspetor confirmou um circuito de dinheiro na "Operação Lex".
+-   O novo executivo de **Carlos Moedas** tomou posse na Câmara Municipal de Lisboa, no mesmo dia em que a **CGTP** e o **PS** criticaram o Primeiro-Ministro **Luís Montenegro** sobre a greve geral.
+-   O Ministério Público abriu um inquérito aos cartazes do **Chega** sobre Bangladesh e ciganos, na sequência de várias denúncias.
+-   A **Federação Portuguesa de Dadores de Sangue** fez um apelo urgente à doação face à diminuição das reservas críticas, especialmente de sangue tipo O+.
+-   A Inspeção-Geral das Atividades em Saúde (**IGAS**) enviou para o Ministério Público o caso da dermatologista do Hospital Santa Maria que recebeu indevidamente mais de **700 mil euros** por cirurgias adicionais.
+-   Os crimes de corrupção imputados a **José Sócrates** na **Operação Marquês** arriscam prescrever no início de 2026, com o julgamento suspenso até 4 de dezembro.
 
 ### 🌍 Mundo
-- As celebrações dos **50 anos de independência de Angola** contaram com discursos do Presidente **João Lourenço** e saudações de figuras internacionais.
-- O **Senado dos EUA** aprovou um acordo provisório para reabrir o Governo federal após **41 dias** de paralisação.
-- No Médio Oriente, os **Hutis** sinalizaram o fim dos ataques a Israel e no Mar Vermelho, condicionados a novas agressões a Gaza; a **ONU** alertou para obstáculos persistentes na ajuda humanitária.
-- O supertufão **Fung-wong** causou **18 mortos** nas Filipinas e retirou **três mil pessoas** em Taiwan; um avião militar turco despenhou-se na Geórgia com **20 pessoas** a bordo.
-- Serviços secretos russos alegaram impedir plano da Ucrânia e do Reino Unido para roubar um caça **MiG-31**; a Ucrânia admitiu a entrada de **300 soldados russos** em **Pokrovsk**.
+-   A Organização das Nações Unidas (**ONU**) alertou para obstáculos persistentes na ajuda humanitária a Gaza e a necessidade urgente de apoio para cerca de **1.500 crianças** amputadas.
+-   A **Rússia** afirmou ter impedido um plano da Ucrânia e Reino Unido para roubar um caça MiG-31 com míssil hipersónico, enquanto prosseguem os ataques russos que danificaram infraestruturas em Odessa, Ucrânia.
+-   O Senado dos EUA aprovou um acordo provisório que visa reabrir o Governo federal após **41 dias** de paralisação.
+-   Um supertufão, o **Fung-wong**, causou pelo menos **18 mortos** nas Filipinas e levou à retirada de **3 mil pessoas** em Taiwan.
+-   Pelo menos **21 migrantes rohingyas** morreram num naufrágio ao largo da Malásia e Tailândia.
 
 ### 💶 Economia
-- A **Microsoft** investirá **8,6 mil milhões de euros** num centro de dados de **IA** em **Sines**, atraída pela "energia barata".
-- O fundo de pensões do **Canadá** vendeu **5,2%** da **EDP** por **814,7 milhões de euros**; a **SoftBank** alienou a **Nvidia** por **5,83 mil milhões de dólares** para investir na **OpenAI**.
-- A **Web Summit 2025** em Lisboa registou recorde de **71.386 participantes**, apesar da polémica com o Governo sobre a capacidade aeroportuária.
-- O gasto do Estado em análises clínicas atingiu **244 milhões de euros** em 2024.
-- O **Tribunal de Justiça da UE** confirmou a validade da diretiva sobre o salário mínimo.
+-   A **Web Summit** registou um recorde de **71.386 participantes**, com o Ministro das Finanças a defender que Portugal pode crescer **3%** ao ano e criticar a "linguagem excessiva" da organização.
+-   Um fundo de pensões do Canadá vendeu **5,2%** do capital da **EDP**, gerando um encaixe de **814,7 milhões de euros**.
+-   O Tribunal de Justiça da UE confirmou a validade da diretiva comunitária sobre o salário mínimo.
+-   A **MEO** e a **NOS** travam uma batalha judicial por milhões de euros devido à portabilidade de números, com novas regras a proibir encargos diretos aos utilizadores finais.
+-   A **SoftBank** vendeu toda a sua posição na **Nvidia Corp.** por **5,83 mil milhões de dólares** para financiar um investimento na **OpenAI**.
 
 ### ⚽ Desporto
-- A Seleção Nacional prepara-se para o apuramento do **Mundial 2026**, com **Cristiano Ronaldo** a confirmar que o torneio será o último da sua carreira.
-- O **Conselho de Disciplina da FPF** abriu processo ao **FC Porto** por incidentes no clássico; **Frederico Varandas** foi absolvido de um castigo.
-- Um jogador do **Benfica** arrisca proibição de entrada na Dinamarca após partilha de conteúdo sexual de menores.
+-   A Seleção Nacional de futebol voltou a treinar para o apuramento do Mundial 2026, com **Roberto Martínez** a um passo de se tornar no oitavo técnico a qualificar Portugal.
+-   Um jogador do Benfica arrisca proibição de entrar na Dinamarca após a partilha de conteúdo sexual de menores.
+-   O Conselho de Disciplina da FPF abriu um processo ao **FC Porto** por incidentes nas bancadas no clássico frente ao Sporting.
+-   O vice-campeão mundial dos **100 metros, Marvin Bracy-Williams**, foi suspenso por **45 meses** devido a doping.
+-   O **TAD** absolveu **Frederico Varandas** de um castigo por críticas a um árbitro.

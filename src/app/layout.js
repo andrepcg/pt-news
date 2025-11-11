@@ -1,18 +1,14 @@
-// import { Geist, Geist_Mono } from "next/font/google";
+import { Inter } from "next/font/google";
 import Script from 'next/script'
 
 import "./globals.css";
 import NewsletterSubscribe from "./components/NewsletterSubscribe";
 
-// const geistSans = Geist({
-//   variable: "--font-geist-sans",
-//   subsets: ["latin"],
-// });
-
-// const geistMono = Geist_Mono({
-//   variable: "--font-geist-mono",
-//   subsets: ["latin"],
-// });
+const inter = Inter({
+  subsets: ["latin"],
+  display: "swap",
+  style: ["normal", "italic"],
+});
 
 export const metadata = {
   title: "Diurna.pt - Últimas Notícias 🇵🇹",
@@ -50,7 +46,7 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="pt">
-      <body>
+      <body className={inter.className}>
         {children}
         <footer className="footer">
           <span>Diurna.pt - </span>

@@ -1,32 +1,31 @@
  ### Destaques
-- **Angola** celebrou os **50 anos de independência** com grandes festividades em Luanda e a presença de dezenas de delegações internacionais, incluindo uma saudação de António Costa.
-- A **Microsoft** anunciou um investimento de **10 mil milhões de dólares** em Sines para uma 'gigafábrica' de inteligência artificial, impulsionado pela oferta de "energia barata" em Portugal.
-- A Federação Portuguesa de Dadores de Sangue apelou urgentemente à doação de sangue face à diminuição das reservas críticas, especialmente do tipo **O+**.
-- Em Portugal, **Carlos Moedas** e o novo executivo tomaram posse na Câmara Municipal de Lisboa.
-- No plano financeiro, o fundo de pensões do **Canadá** vendeu **5,2%** do capital da **EDP**, num encaixe de **814,7 milhões de euros**.
+- A **Microsoft** anunciou um investimento de **10 mil milhões de dólares** em Sines para uma "gigafábrica" de Inteligência Artificial, impulsionado pela "energia barata" de Portugal.
+- O **Senado dos EUA** aprovou um acordo provisório que permite a reabertura do Governo federal após **41 dias** de paralisação.
+- Angola celebra os **50 anos da sua independência** com festividades em Luanda e a presença de dezenas de delegações internacionais, incluindo **António Costa**, que saudou o marco histórico e defendeu uma parceria forte com a UE.
+- A **Federação Portuguesa de Dadores Benévolos de Sangue** fez um apelo urgente à doação, face à diminuição das reservas críticas, especialmente do tipo **O+**.
 
 ### 🇵🇹 Portugal
-- **Carlos Moedas** e o novo executivo tomaram posse na Câmara Municipal de Lisboa, enquanto o Fisco recordava a importância de validar e classificar faturas para o **IRS**.
-- A "guerra fria" entre o Presidente **Marcelo Rebelo de Sousa** e o Almirante **Gouveia e Melo** continuou, gerando reações às declarações sobre uma candidatura presidencial.
-- O gasto do Estado em análises clínicas atingiu **244 milhões de euros** em 2024, num cenário em que **1,5 milhões** de utentes estão sem médico de família.
-- Os serviços públicos enfrentam rutura, com a criação de uma 'Empresa na Hora' a demorar até dez meses devido à falta de pessoal no **IRN**.
-- Portugal encarou a luta contra as alterações climáticas como uma questão de segurança nacional, enquanto a **Greenpeace** alertava que o abandono rural e a falta de gestão florestal agravam os incêndios.
+- O novo executivo de **Carlos Moedas** tomou posse hoje na Câmara Municipal de Lisboa.
+- O gasto do Estado em análises clínicas atingiu **244 milhões de euros** em 2024, impulsionado pela região Norte.
+- Portugal encara a luta contra as alterações climáticas como uma questão de segurança nacional.
+- A GNR e a PSP detetaram **642 casos** de condução sob efeito de álcool durante sete dias da campanha "Taxa Zero ao Volante".
+- A polémica entre o Presidente **Marcelo Rebelo de Sousa** e o **Almirante Gouveia e Melo**, pelas declarações sobre uma eventual candidatura presidencial, continua a gerar reações.
 
 ### 🌍 Mundo
-- **Angola** celebrou os **50 anos de independência** com grandes festividades em Luanda e a presença de dezenas de delegações internacionais.
-- Os rebeldes **Hutis** do **Iémen** sinalizaram o fim dos ataques a **Israel** e no Mar Vermelho, alertando contudo para um regresso em caso de nova agressão a Gaza, onde a **ONU** reportou progressos na ajuda humanitária apesar de obstáculos.
-- O Senado dos **EUA** aprovou um acordo provisório para reabrir o Governo federal, enquanto a **Síria** aderiu à Coligação Global para Derrotar o Estado Islâmico.
-- A **Rússia** afirmou ter impedido um plano da **Ucrânia** e do **Reino Unido** para roubar um caça **MiG-31** com míssil hipersónico, tendo um ataque russo com drones danificado infraestruturas em Odessa.
-- O **Canadá** perdeu o estatuto de país livre de sarampo após **27 anos** devido ao movimento antivacinas, e um naufrágio de migrantes rohingyas causou pelo menos **21 mortos** ao largo da **Malásia** e **Tailândia**.
+- Pelo menos **21 pessoas** morreram num naufrágio de migrantes rohingyas ao largo da Malásia e Tailândia.
+- A **Síria** aderiu à Coligação Global para Derrotar o Estado Islâmico após uma reunião na Casa Branca.
+- O Canadá perdeu o estatuto de país livre de sarampo após **27 anos**, devido ao crescente movimento antivacinas.
+- Os **Hutis do Iémen** sinalizaram o fim dos ataques a Israel e no Mar Vermelho, com um alerta de retoma em caso de nova agressão a Gaza.
+- O supertufão **Fung-wong** causou pelo menos **18 mortos** nas Filipinas, levando Taiwan a retirar **três mil pessoas**.
 
 ### 💶 Economia
-- A **Microsoft** anunciou um investimento de **10 mil milhões de dólares** em Sines para a criação de uma 'gigafábrica' de inteligência artificial, destacando a oferta de "energia barata" em Portugal.
-- O fundo de pensões do **Canadá** vendeu **5,2%** do capital da **EDP**, gerando um encaixe de **814,7 milhões de euros**.
-- A dívida pública de **Moçambique** recuou para **14,5 mil milhões de euros** em setembro.
-- **Warren Buffett** deixou a direção da **Berkshire Hathaway**, embora mantendo o controlo através de ações significativas.
-- Os juros da dívida de Portugal registaram uma descida na taxa a 2 anos, mas um aumento nas taxas a 5 e a 10 anos.
+- Um fundo de pensões do Canadá vendeu **5,2%** do capital da **EDP**, gerando um encaixe de **814,7 milhões de euros**.
+- As empresas de telecomunicações estão proibidas de cobrar encargos diretos pela portabilidade de números aos utilizadores finais, conforme novas regras.
+- A dívida pública de Moçambique recuou para **14,5 mil milhões de euros** em setembro.
+- Os juros da dívida de Portugal registaram uma descida na taxa a **2 anos**, mas subiram nas taxas a **5 e 10 anos**.
+- As novas regras do IUC (Imposto Único de Circulação) podem ter "o efeito oposto" e prejudicar os contribuintes em fevereiro.
 
 ### ⚽ Desporto
-- A **Seleção Nacional** retomou os treinos para o apuramento do Mundial 2026, com o técnico **Roberto Martínez** a um passo de garantir a qualificação de Portugal.
-- O Conselho de Disciplina da **FPF** abriu um processo ao **FC Porto** na sequência de incidentes nas bancadas ocorridos no clássico contra o **Sporting**.
-- Um jogador do **Benfica** enfrenta a possibilidade de ser proibido de entrar na Dinamarca devido à partilha de conteúdo sexual de menores.
+- A **Seleção Nacional** voltou a treinar para o apuramento do Mundial 2026, com **Roberto Martínez** perto de se tornar o oitavo técnico a qualificar Portugal.
+- O Conselho de Disciplina da FPF abriu um processo ao **FC Porto** por incidentes nas bancadas no clássico frente ao **Sporting**.
+- Um jogador do **Benfica** arrisca proibição de entrar na Dinamarca após a partilha de conteúdo sexual de menores.

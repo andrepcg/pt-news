@@ -74,6 +74,10 @@ h2 a {
   margin: 1rem 0;
 }
 
+.summary a {
+  color: #757575;
+}
+
 .summary blockquote {
   font-style: italic;
   color: #666;

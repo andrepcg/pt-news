@@ -3,6 +3,7 @@ import Script from 'next/script'
 
 import "./globals.css";
 import NewsletterSubscribe from "./components/NewsletterSubscribe";
+import Search from "./components/Search";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -47,6 +48,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt">
       <body className={inter.className}>
+        <Search />
         {children}
         <footer className="footer">
           <span>Diurna.pt - </span>

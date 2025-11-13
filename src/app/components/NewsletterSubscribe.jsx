@@ -32,6 +32,15 @@ export default function NewsletterSubscribe() {
       }
 
       setStatus('success');
+
+      if (window.umami) {
+        window.umami.track('newsletter-subscribe', {
+          email,
+          frequency,
+        });
+        window.umami.identify({ email });
+      }
+
       setEmail('');
 
       // Auto-close after 2 seconds

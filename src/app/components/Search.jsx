@@ -53,6 +53,20 @@ function SearchContent() {
   const { query, refine } = useSearchBox();
   const { hits, isLastPage, showMore, results } = useInfiniteHits();
 
+  // Track search queries after 2 seconds of inactivity
+  useEffect(() => {
+    if (!query || query.trim() === '') return;
+
+    const timer = setTimeout(() => {
+      // Emit umami tracking event
+      if (window.umami) {
+        window.umami.track('search', { query: query });
+      }
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, [query]);
+
   const formatDate = (timestamp) => {
     // Handle Unix timestamp (in seconds or milliseconds)
     const date = typeof timestamp === 'number'

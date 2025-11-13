@@ -1,28 +1,29 @@
  ### 🗞️ Destaques
-- A Depressão **Cláudia** causou **dois mortos** em Fernão Ferro (Seixal), um casal de idosos que faleceu em casa inundada, e provocou mais de **1.800 ocorrências** em Portugal [link][link][link].
-- A **UGT** aprovou por unanimidade a adesão à **Greve Geral** marcada para **11 de dezembro**, juntando-se à CGTP contra as alterações à legislação laboral [link][link].
-- O Governo Federal dos EUA retomou o funcionamento após o Presidente **Donald Trump** assinar um acordo orçamental, pondo fim ao maior *shutdown* na história do país [link][link].
-- A *startup* portuguesa **Granter.ai** foi a vencedora do Pitch da **Web Summit 2025**, evento que atingiu um recorde de quase **72 mil** participantes [link][link].
+- A Depressão Cláudia fustigou o país, causando **dois mortos** (um casal de idosos em Fernão Ferro, Seixal) e mais de **1.800 ocorrências**, com os distritos de Setúbal e Santarém sob aviso vermelho. [[link]] [[link]]
+- A **UGT** aprovou por unanimidade a adesão à Greve Geral marcada pela CGTP para **11 de dezembro**, visando a reforma da legislação laboral, apesar de uma nova proposta do Governo considerada insuficiente. [[link]] [[link]]
+- O Governo Federal dos **EUA** regressou ao funcionamento, após o Presidente **Donald Trump** ter assinado um acordo orçamental, pondo termo ao maior *shutdown* da história do país. [[link]] [[link]]
+- Portugal manifestou apoio ao uso de ativos russos congelados para financiar a Ucrânia, alocando **2,5 mil milhões de euros** em garantias. [[link]]
 
 ### 🇵🇹 Portugal
-- O mau tempo da Depressão **Cláudia** levou Setúbal e Santarém a Aviso Vermelho, com cerca de **7 mil** clientes da E-Redes a ficarem sem eletricidade e registo de um "tornado" que afetou dez casas em Nisa [link][link][link].
-- O Presidente do Tribunal Constitucional revelou que tentou contactar o Primeiro-Ministro **Luís Montenegro** desde agosto, mas só obteve resposta esta semana sobre o pedido de reforço orçamental de **1,6 milhões de euros** para o OE2026 [link][link].
-- Em Gaia, o ex-autarca **Luís Filipe Menezes** foi condenado por difamação agravada contra o seu sucessor, **Eduardo Vítor Rodrigues** [link][link].
-- O PS vai pedir a fiscalização preventiva da nova Lei da Nacionalidade ao Tribunal Constitucional [link].
-- O regulador alertou o Hospital do Barreiro (ULSAR) para não dificultar o acesso de utentes, após a recusa de atendimento a uma grávida em 2024 [link][link].
+- A Depressão Cláudia resultou em **duas vítimas mortais** em Fernão Ferro e deixou cerca de **7 mil clientes** da E-Redes sem eletricidade, afetando Lisboa, Santarém e Setúbal. [[link]] [[link]]
+- A bancada do **PS** decidiu avançar com o pedido de fiscalização preventiva da nova Lei da Nacionalidade junto do Tribunal Constitucional (TC). [[link]]
+- O Presidente do TC revelou que escreveu ao Primeiro-Ministro em agosto sobre a necessidade de reforço orçamental, tendo obtido resposta apenas esta semana, com a oposição a concordar com o reforço de **1,6 milhões de euros** solicitado. [[link]] [[link]]
+- O autarca **Luís Filipe Menezes** (Vila Nova de Gaia) foi condenado por difamação agravada contra o seu antecessor, Eduardo Vítor Rodrigues. [[link]]
+- A Direção Nacional da **PSP** estabeleceu **1,60 metros** como altura mínima para concorrer a agente, após o Governo ter revogado o critério. [[link]]
 
 ### 🌍 Mundo
-- Portugal apoia o empréstimo à Ucrânia financiado por ativos russos congelados, alocando **2,5 mil milhões** de euros em garantias financeiras [link][link].
-- Cerimónias e homenagens marcaram o **10º aniversário** dos ataques terroristas de 13 de novembro de 2015 em Paris [link][link].
-- O Conselho da UE acordou taxar todas as encomendas importadas *online* (incluindo de plataformas como Shein e Temu) abaixo de **150 euros**, eliminando a isenção de direitos aduaneiros [link][link].
-- A Comissão Europeia abriu investigações contra a **Google** por suspeita de penalização de conteúdos jornalísticos e contra a **Red Bull** por alegada limitação ilegal da concorrência na UE [link][link].
+- A Europa assinalou o **10.º aniversário dos atentados de Paris** de 2015, com o Presidente francês **Emmanuel Macron** a prometer uma "resposta intransigente" ao terrorismo. [[link]]
+- A Comissão Europeia abriu uma investigação à **Google** por suspeita de estar a "esconder" conteúdos jornalísticos nos resultados de pesquisa, violando o *Digital Markets Act*. [[link]]
+- A UE e os EUA afirmaram ter atingido o limite máximo na imposição de novas sanções à **Rússia**, enquanto a UE estuda utilizar ativos russos congelados para financiar a reparação da Ucrânia. [[link]] [[link]]
+- Israel confirmou ter atacado um depósito de armas do **Hezbollah** no sul do Líbano. [[link]]
 
 ### 💵 Economia
-- O Estado acumula uma dívida de **60 milhões de euros** às empresas de transportes, devido aos atrasos nos pagamentos dos passes gratuitos [link][link].
-- O Governo aprovou o fim do SIFIDE II indireto (benefício fiscal via fundos) para mobilizar capital parado para o investimento direto em inovação e alargou o regime geral do SIFIDE até **2026** [link][link].
-- Os lucros da **REN** subiram **23,4%** para **103,9 milhões de euros** nos primeiros nove meses do ano [link][link].
-- Os hospitais do SNS gastaram mais de **627 milhões de euros** em cirurgias adicionais para reduzir as listas de espera [link][link].
+- O Estado acumula uma dívida de **60 milhões de euros** a empresas de transportes devido a atrasos nos pagamentos relacionados com os passes gratuitos. [[link]]
+- O Governo aprovou o fim do benefício fiscal **SIFIDE II indireto** (via fundos) para mobilizar capital para a economia, mantendo o regime geral do SIFIDE direto até 2026. [[link]]
+- A startup portuguesa **Granter.ai** venceu o concurso Pitch da Web Summit 2025, evento que registou um recorde de quase **72 mil participantes**. [[link]] [[link]]
+- O grupo francês **BPCE** notificou Bruxelas sobre a compra do **Novo Banco** por **6,4 mil milhões de euros**, enquanto sindicatos alertam que só **50%** dos trabalhadores da Unicre serão integrados. [[link]]
+- Os Ministros das Finanças da UE acordaram em taxar as encomendas importadas **abaixo de 150 euros**, eliminando a isenção de direitos aduaneiros. [[link]]
 
 ### ⚽ Desporto
-- A **Seleção Nacional** defronta hoje a **Irlanda** em Dublin, procurando garantir o apuramento direto para a fase final do **Mundial 2026** [link][link].
-- O português **Kevin Rodrigues** (Kasimpasa) foi nomeado para o Prémio Puskas da FIFA, que distingue o melhor golo do ano [link].
+- A **Seleção Nacional** defronta hoje a **Irlanda** em Dublin, necessitando de uma vitória para garantir o apuramento direto para o **Mundial 2026**. [[link]] [[link]]
+- A **APAF** (Árbitros) defendeu o agravamento das punições a clubes e agentes desportivos devido a pressões exercidas sobre os árbitros. [[link]]

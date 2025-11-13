@@ -49,24 +49,7 @@ function SearchModal({ isOpen, onClose }) {
   );
 }
 
-function SearchContent() {
-  const { query, refine } = useSearchBox();
-  const { hits, isLastPage, showMore, results } = useInfiniteHits();
-
-  // Track search queries after 2 seconds of inactivity
-  useEffect(() => {
-    if (!query || query.trim() === '') return;
-
-    const timer = setTimeout(() => {
-      // Emit umami tracking event
-      if (window.umami) {
-        window.umami.track('search', { query: query });
-      }
-    }, 2000);
-
-    return () => clearTimeout(timer);
-  }, [query]);
-
+function SearchResultItem({ hit, index }) {
   const formatDate = (timestamp) => {
     // Handle Unix timestamp (in seconds or milliseconds)
     const date = typeof timestamp === 'number'
@@ -83,11 +66,60 @@ function SearchContent() {
     });
   };
 
-  const handleResultClick = (url) => {
-    if (url) {
-      window.open(url, '_blank', 'noopener,noreferrer');
-    }
-  };
+  return (
+    <a
+      href={hit.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="search-result-item"
+      data-umami-event="outbound-link-click"
+      data-umami-event-url={hit.url}
+    >
+      <h3 className="search-result-title">
+        <Highlight attribute="title" hit={hit} />
+      </h3>
+      {hit.tags && hit.tags.length > 0 && (
+        <div className="search-result-tags">
+          {Array.isArray(hit.tags) ? hit.tags.map((tag, i) => (
+            <span key={i} className="search-tag">{tag}</span>
+          )) : hit.tags}
+        </div>
+      )}
+      {hit.lead && (
+        <p className="search-result-lead">
+          <Highlight attribute="lead" hit={hit} />
+        </p>
+      )}
+      <div className="search-result-meta">
+        {hit.newspaper && (
+          <>
+            <span className="search-result-newspaper">{hit.newspaper}</span>
+            <span className="meta-separator">·</span>
+          </>
+        )}
+        <time>{formatDate(hit.date)}</time>
+      </div>
+    </a>
+  );
+}
+
+function SearchContent() {
+  const { query, refine } = useSearchBox();
+  const { items, isLastPage, showMore, results } = useInfiniteHits();
+
+  // Track search queries after 2 seconds of inactivity
+  useEffect(() => {
+    if (!query || query.trim() === '') return;
+
+    const timer = setTimeout(() => {
+      // Emit umami tracking event
+      if (window.umami) {
+        window.umami.track('search', { query: query });
+      }
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, [query]);
 
   const totalResults = results?.nbHits || 0;
 
@@ -111,59 +143,24 @@ function SearchContent() {
           </div>
         )}
 
-        {query && hits.length === 0 && (
+        {query && items.length === 0 && (
           <div className="search-empty-state">
             Nenhum resultado encontrado para "{query}"
           </div>
         )}
 
-        {query && hits.length > 0 && (
+        {query && items.length > 0 && (
           <>
             <div className="search-results-count">
               {totalResults} resultado{totalResults !== 1 ? 's' : ''} encontrado{totalResults !== 1 ? 's' : ''}
             </div>
-            {hits.map((hit, index) => {
-              return (
-                <div
-                  key={`${hit.id || hit.objectID || hit.title}-${index}`}
-                  className="search-result-item"
-                  onClick={() => handleResultClick(hit.url)}
-                  role="button"
-                  tabIndex={0}
-                  onKeyDown={(e) => {
-                    if (e.key === 'Enter' || e.key === ' ') {
-                      e.preventDefault();
-                      handleResultClick(hit.url);
-                    }
-                  }}
-                >
-                  <h3 className="search-result-title">
-                    <Highlight attribute="title" hit={hit} />
-                  </h3>
-                  {hit.tags && hit.tags.length > 0 && (
-                    <div className="search-result-tags">
-                      {Array.isArray(hit.tags) ? hit.tags.map((tag, i) => (
-                        <span key={i} className="search-tag">{tag}</span>
-                      )) : hit.tags}
-                    </div>
-                  )}
-                  {hit.lead && (
-                    <p className="search-result-lead">
-                      <Highlight attribute="lead" hit={hit} />
-                    </p>
-                  )}
-                  <div className="search-result-meta">
-                    {hit.newspaper && (
-                      <>
-                        <span className="search-result-newspaper">{hit.newspaper}</span>
-                        <span className="meta-separator">·</span>
-                      </>
-                    )}
-                    <time>{formatDate(hit.date)}</time>
-                  </div>
-                </div>
-              );
-            })}
+            {items.map((hit, index) => (
+              <SearchResultItem
+                key={`${hit.id || hit.objectID || hit.title}-${index}`}
+                hit={hit}
+                index={index}
+              />
+            ))}
 
             {!isLastPage && (
               <button

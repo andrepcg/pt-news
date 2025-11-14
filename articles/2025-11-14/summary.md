@@ -1,32 +1,29 @@
  ### 🗞️ Destaques
-- O Presidente **Marcelo Rebelo de Sousa** apelou ao "máximo consenso" sobre a lei laboral, num dia em que o setor da Saúde em Portugal foi alvo de alertas sobre o "esvaimento" dos centros de saúde e a garantia de que medicamentos essenciais não terão aumentos em **2026** [[link]][[link]].
-- Um ataque russo de grande escala a **Kiev**, capital ucraniana, provocou a morte de **4 pessoas** e deixou dezenas de feridos [[link]].
-- A Seleção Nacional de futebol adiou o apuramento para o Mundial'2026 após a derrota na Irlanda, com **Cristiano Ronaldo** a ser expulso da partida [[link]][[link]].
-- No plano geopolítico, os **Estados Unidos** aprovaram a construção de submarinos nucleares pela **Coreia do Sul** e realizaram a primeira venda de armamento a **Taiwan** no segundo mandato de Trump [[link]][[link]].
+- O anúncio de uma **greve geral** para **11 de dezembro**, avançada pela CGTP e UGTP, levou o Presidente da República, **Marcelo Rebelo de Sousa**, a apelar ao "máximo consenso" sobre a lei laboral [[link]].
+- Um ataque russo maciço contra a capital ucraniana, **Kyiv**, resultou em pelo menos **quatro mortos** e dezenas de feridos [[link]][[link]][[link]][[link]].
+- A agência Moody's avalia hoje o *rating* de Portugal (**A3**), numa altura em que os juros da dívida pública nacional sobem nos principais prazos [[link]][[link]].
+- A qualificação de Portugal para o Mundial 2026 foi adiada após uma derrota na Irlanda, num jogo que ficou marcado pela expulsão de **Cristiano Ronaldo** [[link]][[link]].
 
 ### 🇵🇹 Portugal
-- **Marcelo Rebelo de Sousa** pediu que fosse alcançado um "máximo consenso" sobre a lei laboral no âmbito da Concertação Social, após o anúncio de uma greve geral [[link]].
-- Foi garantido que os medicamentos essenciais e os fármacos com preço até **30 euros** não sofrerão aumentos em **2026** [[link]][[link]][[link]].
-- Um manifesto assinado por **30 profissionais** alertou para o "esvaimento" dos centros de saúde, que afeta o acesso dos utentes aos cuidados primários [[link]].
-- A Depressão **Cláudia** levou à colocação de **três distritos** sob aviso laranja devido à previsão de chuva forte, sendo registadas **duas vítimas mortais** associadas ao mau tempo [[link]][[link]][[link]].
-- Utilizadores do Passe Ferroviário Verde relatam problemas graves, indicando que os comboios se encontram "esgotados" rapidamente, obrigando à compra de bilhetes à parte [[link]].
+- As centrais sindicais CGTP e UGTP convocaram uma **greve geral** para **11 de dezembro**, num protesto que levou o Presidente **Marcelo Rebelo de Sousa** a pedir "máximo consenso" sobre a lei laboral [[link]][[link]].
+- O Infarmed garantiu que os **medicamentos essenciais** e os fármacos com preço até **30 euros** ficarão isentos de aumentos em 2026 [[link]][[link]][[link]][[link]].
+- Um manifesto assinado por **30 profissionais** de saúde alertou para o "esvaimento" dos centros de saúde e para a degradação do acesso aos cuidados primários [[link]][[link]][[link]].
+- A circulação na Linha da Beira Baixa foi retomada após um descarrilamento, enquanto os distritos de **Setúbal** e **Faro** se mantiveram sob aviso laranja devido à **Depressão Cláudia**, que já registou duas vítimas mortais [[link]][[link]][[link]][[link]][[link]].
+- O Presidente da República, **Marcelo Rebelo de Sousa**, será professor convidado nos **EUA** após deixar o cargo [[link]].
 
 ### 🌍 Mundo
-- Um ataque em grande escala com mísseis e 
-*drones* russos contra **Kiev** resultou em **4 mortos** e dezenas de feridos na capital ucraniana [[link]][[link]][[link]][[link]].
-- A NATO considerou "extremamente importante" o apoio fornecido pelos países bálticos e nórdicos a Kyiv, para auxiliar a Ucrânia a resistir durante o inverno [[link]][[link]].
-- Os **Estados Unidos** aprovaram a construção de submarinos nucleares pela **Coreia do Sul** e designaram grupos de extrema-esquerda **Antifa** na Alemanha, Itália e Grécia como organizações terroristas [[link]][[link]][[link]][[link]].
-- Uma proposta revisada dos EUA na ONU sobre o conflito israelo-palestiniano inclui, pela primeira vez, a criação de um **Estado palestiniano** [[link]].
-- Na Venezuela, o Fórum Penal reportou a existência de **882 presos políticos**, dos quais **cinco** têm dupla nacionalidade portuguesa [[link]][[link]][[link]].
+- O ataque russo em grande escala contra **Kyiv** provocou a morte a pelo menos **quatro pessoas**, tendo a NATO considerado "extremamente importante" o novo apoio dos países bálticos e nórdicos à capital ucraniana [[link]][[link]][[link]][[link]][[link]].
+- Os **Estados Unidos** aprovaram a construção de submarinos nucleares pela **Coreia do Sul** e a primeira venda de armamento a **Taiwan** no segundo mandato do Presidente Trump [[link]][[link]][[link]][[link]].
+- Washington também designou grupos de extrema-esquerda **Antifa** na Alemanha, Itália e Grécia como organizações terroristas [[link]][[link]][[link]].
+- A Venezuela tem **882 presos políticos**, incluindo **cinco cidadãos** com dupla nacionalidade portuguesa [[link]][[link]][[link]][[link]].
+- Os EUA incluíram pela primeira vez no seu plano de paz para Gaza a criação de um **Estado palestiniano** [[link]].
 
 ### 💵 Economia
-- A possibilidade de a nova lei laboral agravar a desigualdade salarial foi levantada, sendo notado que as mulheres trabalham, em média, o equivalente a **64 dias de graça** por ano [[link]][[link]].
-- Na **China**, a produção industrial abrandou para **4,9%** em outubro, e os preços das casas novas caíram pelo 29.º mês consecutivo [[link]][[link]].
-- A agenda económica do dia previa a atualização do *rating* de Portugal pela Moody’s e a divulgação de dados do salário médio e do PIB pelo INE e Eurostat [[link]].
-- A líder da MetLife Ibéria afirmou que o mercado de seguros em Portugal possui um "potencial enorme" para crescer [[link]].
+- A agência **Moody's** avalia hoje o *rating* de Portugal, estando os analistas divididos sobre uma possível subida da classificação **A3** [[link]][[link]].
+- A **Google** apresentou a Bruxelas um plano de "mudanças imediatas" no seu negócio de publicidade, procurando evitar que a Comissão Europeia obrigue ao desmembramento da empresa [[link]][[link]][[link]].
+- Os juros da dívida portuguesa subiram nos prazos de dois, cinco e 10 anos, e a inflação em Espanha aumentou para **3,1%** em outubro [[link]][[link]].
+- Na China, a produção industrial abrandou para **4,9%** em outubro e os preços das casas caíram pelo **29.º mês consecutivo** [[link]][[link]].
+- O Turismo de Portugal manifestou interesse em readquirir **49%** da Enatur, visando a estatização das Pousadas de Portugal [[link]].
 
 ### ⚽ Desporto
-- A Seleção Portuguesa de futebol perdeu frente à Irlanda, adiando o apuramento para o Mundial'2026, numa partida em que o capitão **Cristiano Ronaldo** foi expulso [[link]][[link]].
-
-### 🎶 Cultura
-- O artista **Bad Bunny** venceu **cinco galardões** na cerimónia dos Grammy Latinos, que decorreu sem que os representantes portugueses tenham arrecadado prémios [[link]][[link]][[link]].
+- Portugal adiou o apuramento para o Mundial 2026, após ser derrotado na Irlanda num jogo onde o capitão **Cristiano Ronaldo** foi expulso [[link]][[link]].

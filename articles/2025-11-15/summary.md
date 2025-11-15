@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- A despesa dos hospitais do Serviço Nacional de Saúde (SNS) com medicamentos registou um aumento de **15%**, atingindo um valor próximo dos **dois mil milhões de euros** até setembro [(link)](https://www.publico.pt/2025/11/15/sociedade/noticia/despesa-hospitais-medicamentos-sobe-15-chega-quase-dois-mil-milhoes-setembro-2154709).
+- Nos **Estados Unidos**, o ex-Presidente **Donald Trump** discutiu com o Pentágono opções para uma possível ação militar na **Venezuela** [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/trump-discute-com-pentagono-varias-opcoes-para-possivel-acao-militar-na-venezuela).
+- Uma operação policial no **Brasil** que resultou em mais de **120 mortos** foi descrita como tendo ocorrido num "cenário de guerra" [(link)](https://www.noticiasaominuto.com/mundo/2888881/brasil-operacao-com-mais-de-120-mortos-deu-se-num-cenario-de-guerra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+
+### 🇵🇹 Portugal
+- A Liga dos Bombeiros Portugueses manifestou-se, queixando-se de um "subfinanciamento crónico" que afeta as suas operações e capacidade de resposta [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-liga-dos-bombeiros-queixa-se-de-um-subfinanciamento-cronico_a1_1698377).
+- Um acidente rodoviário perto de **Évora**, que envolveu uma colisão com um autocarro, resultou na morte de um bebé de **um ano** e de um jovem de **22 anos** [(link)](https://www.noticiasaominuto.com/pais/2888885/bebe-e-jovem-morreram-em-colisao-com-autocarro-em-evora-que-aconteceu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+
+### 🌍 Mundo
+- Arquitetos ligados ao **Projeto 2025**, associado a Donald Trump, expressaram uma visão de um mundo cristão, na qual a Europa assume uma importância central [(link)](https://cnnportugal.iol.pt/donald-trump/projeto-2025/a-biblia-de-trump-os-arquitetos-do-projeto-2025-tem-uma-visao-de-um-mundo-cristao-e-a-europa-e-realmente-importante-para-isso/20251115/69149596d34e2bd5c6d3ebeb).
+- Nove guerrilheiros foram mortos pelo exército colombiano numa operação perto da fronteira com a Venezuela [(link)](https://www.noticiasaominuto.com/mundo/2888882/nove-guerrilheiros-mortos-por-exercito-colombiano-perto-da-fronteira-com-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- Pelo menos nove pessoas morreram numa explosão ocorrida numa esquadra da polícia na região da **Caxemira indiana** [(link)](https://www.cmjornal.pt/mundo/detalhe/pelo-menos-nove-mortos-em-explosao-numa-esquadra-da-policia-na-caxemira-indiana).
+- Foi extraído de uma cria de **mamute-lanoso** o RNA mais antigo do mundo, com uma idade estimada de **40 mil anos** [(link)](https://www.cmjornal.pt/mundo/detalhe/rna-mais-antigo-do-mundo-extraido-de-mamute-lanoso-com-40-mil-anos).
+- A polémica envolvendo o **Príncipe André** contribuiu para agravar a crise na monarquia britânica [(link)](https://www.noticiasaominuto.com/fama/2888884/polemica-com-andre-agrava-crise-da-monarquia-britanica-mentiu-mas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+
+### 💵 Economia
+- A oposição interna do **Montepio** defendeu a implementação de cortes nos salários dos administradores da instituição [(link)](https://www.noticiasaominuto.com/economia/2888868/oposicao-no-montepio-defende-cortes-nos-salarios-dos-administradores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+
+### ⚽ Desporto
+- O treinador português **Ruben Amorim** ajustou os treinos no **Manchester United** após relatos de revolta dos jogadores devido ao excesso de intensidade das sessões de trabalho [(link)](https://www.noticiasaominuto.com/desporto/2888879/ruben-amorim-ajusta-treinos-para-calar-revolta-no-manchester-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- Foi analisada a dependência de **Portugal** em relação a **Cristiano Ronaldo** para o Mundial, na sequência da primeira expulsão do jogador na Seleção Nacional [(link)](https://www.noticiasaominuto.com/desporto/2888384/portugal-depende-de-cristiano-ronaldo-para-a-festa-mundial-sim-e-nao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.noticiasaominuto.com/desporto/2888883/piers-morgan-apos-expulsao-de-cristiano-ronaldo-quando-messi-fez-isto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- O clube brasileiro **Mirassol**, que recentemente celebrou **100 anos**, foi destacado como a grande sensação do futebol no país, ambicionando a conquista da Taça Libertadores [(link)](https://www.publico.pt/2025/11/15/desporto/noticia/mirassol-clube-fez-100-anos-deixou-2154679).

@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- A Seleção Nacional defronta hoje a **Arménia** em jogo decisivo para o apuramento do **Mundial 2026**, procurando o treinador **Roberto Martínez** a melhor alternativa para a ausência de **Cristiano Ronaldo**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-mundial-2026-selecao-portuguesa-recebe-hoje-a-armenia_a1_1698571), [(link)](https://www.noticiasaominuto.com/desporto/2888936/quem-rende-cristiano-ronaldo-o-onze-provavel-de-portugal-rumo-ao-mundial), [(link)](https://www.cmjornal.pt/desporto/detalhe/portugal-com-nova-oportunidade-de-apuramento-frente-a-armenia)
+- A **UGT** ameaçou o Governo com a possibilidade de avançar com "dois dias de greve" caso não sejam implementadas as alterações prometidas no panorama laboral. [(link)](https://www.cmjornal.pt/politica/detalhe/ugt-admite-responder-a-ausencia-de-mudancas-do-governo-com-dois-dias-de-greve)
+- Os preços do gasóleo e da gasolina deverão registar uma nova subida durante esta semana, afetando o custo dos combustíveis a nível nacional. [(link)](https://www.noticiasaominuto.com/economia/2888577/nova-semana-traz-novos-precos-para-gasoleo-e-gasolina-deve-atestar-hoje)
+
+### 🇵🇹 Portugal
+- A **UGT** pondera avançar com uma paralisação de dois dias caso o Governo não cumpra as promessas de implementação de mudanças no panorama laboral. [(link)](https://www.cmjornal.pt/politica/detalhe/ugt-admite-responder-a-ausencia-de-mudancas-do-governo-com-dois-dias-de-greve)
+
+### 🌍 Mundo
+- O ex-ministro dos Direitos Humanos brasileiro, **Silvio Almeida**, foi formalmente acusado de importunação sexual. [(link)](https://www.noticiasaominuto.com/mundo/2889139/ex-ministro-dos-direitos-humanos-brasileiro-acusado-de-importunacao-sexual)
+- A **Air Macau** anunciou o reembolso de bilhetes para o Japão devido à tensão sino-nipónica, aconselhando os residentes de Macau a adotarem precaução. [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/air-macau-anuncia-reembolso-de-bilhetes-para-japao-em-momento-de-tensao-sino-niponica), [(link)](https://www.cmjornal.pt/mundo/detalhe/residentes-de-macau-no-japao-aconselhados-a-terem-mais-cuidado-com-seguranca)
+- Assinalam-se hoje os 80 anos da efeméride do Julgamento de Nuremberga, o tribunal que julgou os crimes nazis. [(link)](https://www.publico.pt/2025/11/16/mundo/noticia/nuremberga-julgamento-julgamentos-2154670)
+- Morreu **Kim Yong-nam**, o diplomata norte-coreano considerado uma figura de destaque e sobrevivente da dinastia Kim. [(link)](https://www.publico.pt/2025/11/16/mundo/noticia/kim-yongnam-19282025-sobrevivente-2154078)
+- O **Papa Leão XIV** recebeu em audiência no Vaticano várias estrelas de cinema, incluindo **Cate Blanchett** e **Spike Lee**. [(link)](https://www.noticiasaominuto.com/mundo/2889137/de-hollywood-ao-vaticano-papa-recebe-estrelas-de-cinema-e-ha-imagens)
+
+### 💵 Economia
+- Os preços do gasóleo e da gasolina estão previstos subir novamente durante esta semana, segundo a análise dos mercados. [(link)](https://www.noticiasaominuto.com/economia/2888577/nova-semana-traz-novos-precos-para-gasoleo-e-gasolina-deve-atestar-hoje)
+- A economista **Laura Carvalho** defendeu que o Brasil caminha para abandonar o petróleo e que o financiamento climático justifica uma "revolução das patentes". [(link)](https://www.publico.pt/2025/11/16/azul/entrevista/brasil-caminha-abandonar-petroleo-depende-pressao-sociedade-2154732), [(link)](https://www.publico.pt/2025/11/16/azul/entrevista/laura-carvalho-sida-forcou-revolucao-patentes-clima-tambem-justifica-2154727)
+
+### ⚽ Desporto
+- O **Sporting** está a ser novamente afetado por uma vaga significativa de lesões, que ameaça ser mais grave do que a registada na época anterior. [(link)](https://www.noticiasaominuto.com/desporto/2889001/pandemia-de-lesoes-volta-ao-sporting-e-pode-ser-pior-que-em-202425)
+- O treinador do **FC Porto**, Farioli, deverá utilizar jogadores menos regulares na próxima partida da Taça de Portugal. [(link)](https://www.noticiasaominuto.com/desporto/2888911/de-karamoh-a-de-jong-farioli-organiza-feira-de-chances-no-fc-porto)
+- **Sir Alex Ferguson** manifestou-se "rendido" ao trabalho do treinador português **Rúben Amorim** no **Manchester United**. [(link)](https://www.noticiasaominuto.com/desporto/2889138/ferguson-rendido-ao-trabalho-de-amorim-no-manchester-united-ha-sinais)
+- **Miguel Oliveira** participa hoje na sua última corrida do Mundial de **MotoGP** em Valência, antes de transitar para o Mundial de Superbikes. [(link)](https://www.cmjornal.pt/desporto/detalhe/miguel-oliveira-despede-se-hoje-do-mundial-de-motogp-em-valencia)

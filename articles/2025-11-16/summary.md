@@ -1,31 +1,32 @@
  ### 🗞️ Destaques
-*   A Seleção Nacional de futebol goleou a Arménia por **9-1** no Dragão, com *hat-tricks* de **João Neves** e **Bruno Fernandes**, garantindo o apuramento direto para o Mundial 2026 [(link)](https://) [(link)](https://) [(link)](https://).
-*   A União Geral de Trabalhadores (**UGT**) ameaçou avançar com "dois dias de greve geral" contra o Governo, com a **FNAM** (médicos) a confirmar a adesão em protesto contra o pacote laboral [(link)](https://) [(link)](https://) [(link)](https://).
-*   A Depressão Cláudia causou **3** vítimas mortais e mais de **4.000** ocorrências em Portugal, sendo que o Hospital de Faro recebeu **6** feridos, um deles grave, na sequência do fenómeno extremo de vento em Albufeira [(link)](https://) [(link)](https://) [(link)](https://).
-*   O Ministro da Defesa israelita rejeitou a criação de um Estado palestiniano, e o Primeiro-Ministro **Benjamin Netanyahu** anunciou "medidas enérgicas" contra colonos violentos na Cisjordânia [(link)](https://) [(link)](https://) [(link)](https://).
+- A Seleção Nacional de futebol goleou a **Arménia** por **9-1** no Porto, garantindo o apuramento direto para o **Mundial 2026**; **João Neves** e **Bruno Fernandes** assinaram *hat-tricks*. [(link)], [(link)], [(link)]
+- A **UGT** e a **FNAM** (médicos) ameaçaram avançar para uma greve geral de dois dias em protesto contra o pacote laboral do Governo, acusando o Executivo de falta de propostas significativas. [(link)], [(link)], [(link)]
+- A passagem da Depressão Cláudia resultou em mais de **4.000 ocorrências** em Portugal, causando **três vítimas mortais** e um fenómeno de vento extremo em Albufeira que deixou seis feridos no Hospital de Faro. [(link)], [(link)], [(link)]
+- O Ministro da Defesa israelita reiterou que a política de Israel rejeita a criação de um **Estado Palestiniano** e o Exército permanecerá em Gaza; no Líbano, forças israelitas alvejaram soldados da ONU, alegando "más condições meteorológicas". [(link)], [(link)], [(link)]
 
 ### 🇵🇹 Portugal
-*   A sinistralidade rodoviária registou este ano mais de **125 mil** acidentes, que resultaram em **379** mortos e **2.451** feridos graves nas estradas portuguesas [(link)](https://) [(link)](https://) [(link)](https://).
-*   A Liga dos Bombeiros Portugueses adiou os protestos de rua anunciados, devido a promessas governamentais sobre a valorização das carreiras, exigindo medidas concretas até janeiro [(link)](https://) [(link)](https://) [(link)](https://).
-*   A Polícia Judiciária (PJ) deteve em Cascais **Ygor 'Hulk'**, um dos maiores narcotraficantes do Brasil e alegado membro do Primeiro Comando da Capital (PCC) [(link)](https://) [(link)](https://).
-*   O candidato presidencial **António José Seguro** anunciou a cientista **Maria do Carmo Fonseca** como sua mandatária nacional, enquanto o candidato **António Filipe** ameaça levar a reforma laboral do Governo ao Tribunal Constitucional [(link)](https://) [(link)](https://) [(link)](https://).
-*   Nove museus e a **Torre de Belém** encontram-se encerrados para obras de requalificação financiadas pelo PRR, a sete meses do fim do programa [(link)](https://) [(link)](https://) [(link)](https://).
+- A Polícia Judiciária (PJ) deteve em Cascais **Ygor 'Hulk'**, um dos maiores narcotraficantes do Brasil ligado ao Primeiro Comando da Capital (**PCC**). [(link)], [(link)]
+- A **Liga dos Bombeiros Portugueses**, que reconduziu **António Nunes** na direção, adiou os protestos planeados após promessas do Governo, exigindo medidas concretas sobre a valorização das carreiras até janeiro. [(link)], [(link)]
+- O ano de 2025 registou mais de **125 mil acidentes** nas estradas nacionais, resultando em **379 mortos** e **2.451 feridos graves**. [(link)], [(link)]
+- Nove museus e a **Torre de Belém** estão encerrados para obras financiadas pelo PRR, estando a sete meses do fim do programa. [(link)], [(link)]
+- O corpo de uma mulher em avançado estado de decomposição deu à costa na praia da Leirosa, Figueira da Foz, estando a PJ a investigar o caso. [(link)], [(link)]
 
 ### 🌍 Mundo
-*   A tensão geopolítica escalou nas Caraíbas, com o porta-aviões mais avançado dos EUA a chegar à região, enquanto a líder da oposição venezuelana, **María Corina Machado**, apelou ao regime para "baixar as armas" [(link)](https://) [(link)](https://) [(link)](https://).
-*   O Chile pode eleger o primeiro presidente a reivindicar abertamente o legado do ditador Pinochet nas eleições em curso [(link)](https://) [(link)](https://).
-*   A China avisou os seus cidadãos no Japão e a Air Macau anunciou o reembolso de bilhetes para o país, na sequência das tensões sino-japónicas motivadas por declarações nipónicas sobre Taiwan [(link)](https://) [(link)](https://).
-*   Na Ucrânia, o Presidente **Volodymyr Zelensky** anunciou um acordo para importar gás da Grécia, numa altura em que a Rússia reivindicou novos avanços militares no sul do país [(link)](https://) [(link)](https://).
-*   Pelo menos **32** mineiros ilegais morreram num desabamento de terras numa mina de cobalto na República Democrática do Congo [(link)](https://) [(link)](https://).
+- A tensão entre os EUA e a Venezuela escalou com a chegada do porta-aviões mais avançado dos EUA às Caraíbas, no contexto de cenários militares analisados por Donald Trump. [(link)], [(link)]
+- Na Ucrânia, o Presidente **Volodymyr Zelensky** anunciou um acordo de fornecimento de gás da Grécia para colmatar as necessidades do inverno, enquanto a Rússia reivindicou novos avanços militares no sul. [(link)], [(link)]
+- As eleições presidenciais no **Chile** colocam o país perante a possibilidade de eleger o primeiro presidente a reivindicar abertamente o legado do ditador **Pinochet**. [(link)], [(link)]
+- A China e a Air Macau emitiram avisos e reembolsos para voos para o Japão, devido ao aumento da tensão sino-nipónica motivado por declarações japonesas sobre possível apoio militar a Taiwan. [(link)], [(link)]
+- Pelo menos **32 mineiros ilegais** morreram na República Democrática do Congo após um desabamento numa mina de cobalto. [(link)], [(link)]
 
 ### 💵 Economia
-*   A Mutualista **Montepio** prevê investir **50 milhões de euros** anuais na compra de habitação para arrendar aos seus associados [(link)](https://).
-*   O Governo eliminou a proibição de acumular a reforma antecipada com o salário, no âmbito da reforma da lei laboral [(link)](https://).
-*   Prevê-se que o preço do gasóleo e da gasolina sofra uma nova subida esta semana [(link)](https://).
-*   A extrema-direita francesa ameaça bloquear o orçamento da União Europeia (UE) para impedir o acordo comercial com o Mercosul [(link)](https://) [(link)](https://).
+- O Governo eliminou a proibição de acumular **reforma antecipada** com a perceção de salário no âmbito da nova lei laboral. [(link)]
+- O **Mutualista Montepio** prevê um investimento de **50 milhões de euros** anuais na aquisição de habitação para arrendar aos seus associados. [(link)]
+- Os preços dos combustíveis, nomeadamente o gasóleo e a gasolina, deverão sofrer uma **nova subida** durante a próxima semana. [(link)]
+- O Fisco divulgou os benefícios e o funcionamento do regime do **IRS Jovem**. [(link)]
 
 ### ⚽ Desporto
-*   A Seleção Nacional goleou a Arménia por **9-1**, garantindo o apuramento para o Mundial 2026, com **Carlos Forbs** a estrear-se com a camisola **7** e o selecionador **Roberto Martínez** a ser defendido pelo Presidente da FPF [(link)](https://) [(link)](https://) [(link)](https://).
-*   O piloto português **Miguel Oliveira** despediu-se do Mundial de MotoGP no GP de Valência com um 11º lugar, antes de se mudar para o Mundial de Superbikes [(link)](https://) [(link)](https://).
-*   A judoca portuguesa **Joana Santos** revalidou a medalha de ouro na categoria -57 kg nos Jogos Surdolímpicos em Tóquio, sendo felicitada por **Marcelo Rebelo de Sousa** [(link)](https://) [(link)](https://).
-*   O italiano **Jannik Sinner** revalidou o título do ATP Finals ao vencer o espanhol **Carlos Alcaraz** em dois *sets* [(link)](https://) [(link)](https://).
+- Portugal qualificou-se para o Mundial 2026 com uma goleada de **9-1** à Arménia, num jogo em que **Carlos Forbs** se estreou na Seleção A, envergando a camisola **7**. [(link)], [(link)]
+- O técnico **Roberto Martínez** defendeu a decisão de dispensar **Cristiano Ronaldo**, referindo que "uma coisa é o debate popular, outra é a competitividade da equipa". [(link)]
+- O piloto **Miguel Oliveira** despediu-se do Mundial de MotoGP com um 11º lugar no GP de Valência. [(link)], [(link)]
+- A judoca portuguesa **Joana Santos** conquistou a medalha de ouro na categoria -57 kg nos **Jogos Surdolímpicos** em Tóquio, revalidando o título. [(link)], [(link)]
+- No ténis, o italiano **Jannik Sinner** revalidou o título nas **ATP Finals** ao vencer o espanhol **Carlos Alcaraz** em dois *sets*. [(link)]

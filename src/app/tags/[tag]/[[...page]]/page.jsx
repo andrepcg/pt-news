@@ -4,7 +4,7 @@ import DateNavigationSidebar from "../../../components/DateNavigationSidebar";
 import { getArticlesByTag, getAllTagsWithFrequency } from "../../../utils";
 import { getMonthName, groupArticlesByYearMonth } from "../../../dateUtils";
 
-const ARTICLES_PER_PAGE = 2000;
+const ARTICLES_PER_PAGE = 3000;
 
 export default async function Page({ params }) {
   const { tag, page } = await params;

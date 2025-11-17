@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O arranque dos debates televisivos para as **Presidenciais 2026** marcou o dia em Portugal, com o primeiro confronto entre **Ventura** e **Seguro**. [(link)](https://eco.sapo.pt/2025/11/17/debates-para-as-presidenciais-arrancam-esta-segunda-feira-veja-o-calendario/), [(link)](https://eco.sapo.pt/2025/11/17/5-coisas-que-vao-marcar-o-dia-1891/)
+- A **CGTP** entregou um pré-aviso de greve geral em protesto contra a reforma da legislação laboral, conhecida como "Trabalho XXI", coincidindo com o início da greve dos **Bombeiros Sapadores de Lisboa**. [(link)](https://www.rtp.pt/noticias/economia/normalizacao-da-precariedade-pre-aviso-de-greve-geral-da-cgtp-a-caminho-do-ministerio-do-trabalho_n1698705), [(link)](https://observador.pt/2025/11/17/lisboa-bombeiros-sapadores-em-greve-a-partir-desta-segunda-feira-por-melhores-condicoes/)
+- A Comissão Europeia divulga hoje as suas projeções económicas de outono num contexto de incerteza global. [(link)](https://observador.pt/2025/11/17/bruxelas-atualiza-esta-segunda-feira-projecoes-de-crescimento-afetadas-por-incerteza/), [(link)](https://eco.sapo.pt/2025/11/17/5-coisas-que-vao-marcar-o-dia-1891/)
+- A Seleção Nacional de Futebol garantiu a sua nona presença no **Mundial 2026** ao golear a Arménia por **9-1**. [(link)](https://www.rtp.pt/noticias/desporto/portugal-vence-a-armenia-por-9-1-e-garante-presenca-no-mundial_v1698708)
+
+### 🇵🇹 Portugal
+- Mais de **290 mediadores culturais** foram contratados pelas escolas para apoiar alunos estrangeiros, embora várias vagas permaneçam por preencher. [(link)](https://observador.pt/2025/11/17/escolas-ja-contrataram-mais-de-290-mediadores-culturais-mas-ainda-ha-lugares-por-ocupar/), [(link)](https://www.rtp.pt/noticias/pais/escolas-ja-contrataram-mais-de-290-mediadores-culturais-mas-ainda-ha-lugares-por-ocupar_n1698703)
+- A **GNR** iniciou uma operação de fiscalização de **pesados de mercadorias e passageiros**, que se estenderá até domingo, no âmbito da segurança rodoviária. [(link)](https://observador.pt/2025/11/17/gnr-fiscaliza-pesados-de-mercadorias-e-passageiros-entre-esta-segunda-feira-e-domingo/)
+- A Ministra da Saúde começou hoje um ciclo de visitas a hospitais em todo o país. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-ministra-da-saude-comeca-a-visitar-hospitais_a1_1698709)
+- O Presidente da **ANACOM** afirmou que não vê necessidade de intervir no mercado de telecomunicações e planeia reforçar a equipa para regular a Inteligência Artificial e plataformas digitais. [(link)](https://eco.sapo.pt/entrevista/estamos-num-momento-diferente-nao-vemos-necessidade-de-intervir-no-mercado-de-telecom/)
+
+### 🌍 Mundo
+- No **Chile**, a vitória da esquerda não evitou a realização de uma segunda volta nas presidenciais, que irá opor **Jara** à extrema-direita (**Kast**). [(link)](https://observador.pt/2025/11/17/vitoria-da-esquerda-nao-evita-segunda-volta-das-presidenciais-no-chile/)
+- O Presidente do **Equador** aceitou a derrota no referendo constitucional que visava restaurar a possibilidade de reinstalar bases militares no país. [(link)](https://observador.pt/2025/11/17/presidente-do-equador-aceita-derrota-no-referendo-que-procurava-mudar-constituicao/)
+- A antiga prisão da **PIDE** em **Maputo**, Moçambique, será convertida num museu-hotel, com o objetivo de preservar a memória histórica. [(link)](https://observador.pt/2025/11/17/antiga-prisao-da-pide-em-maputo-vai-ser-museu-hotel-para-imortalizar-historia-do-povo/)
+
+### 💵 Economia
+- Um grupo de investidores espanhóis está a ser investigado devido a alegadas vendas imobiliárias ruinosas do **Novo Banco**. [(link)](https://cnnportugal.iol.pt/haircut/lone-star/grupo-de-investidores-espanhois-sob-investigacao-por-negocios-imobiliarios-do-novo-banco/20251117/691ace4ed34e3caad84b5c5d)
+- Sete câmaras municipais mantêm um prazo de pagamento a fornecedores superior a **100 dias**, apesar de se registarem melhorias nos prazos médios gerais. [(link)](https://eco.sapo.pt/2025/11/17/ainda-ha-sete-camaras-que-pagam-a-mais-de-100-dias-aos-fornecedores-prazos-estao-a-diminuir/)
+- O plano de recuperação da **Valentim de Carvalho** foi aprovado pelos credores e prevê a venda de terrenos como forma de pagar as dívidas. [(link)](https://eco.sapo.pt/2025/11/17/credores-dao-nova-vida-a-valentim-de-carvalho/)
+
+### ⚽ Desporto
+- Portugal venceu a **Arménia** por **9-1** na última jornada da qualificação, assegurando a presença no **Mundial 2026** de Futebol. [(link)](https://www.rtp.pt/noticias/desporto/portugal-vence-a-armenia-por-9-1-e-garante-presenca-no-mundial_v1698708)

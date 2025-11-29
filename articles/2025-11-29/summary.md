@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- Um incêndio num prédio na Amora, Seixal, resultou numa vítima mortal e um ferido ligeiro [(link)](https://www.noticiasaominuto.com/pais/2896728/um-morto-em-incendio-em-predio-de-quatro-andares-na-amora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.cmjornal.pt/portugal/detalhe/incendio-em-predio-na-amora-causa-vitima-mortal).
+- A **Peste Suína Africana** foi detetada na Península Ibérica, elevando o alerta sanitário para a agro-pecuária nacional e regional [(link)](https://www.publico.pt/2025/11/29/ciencia/noticia/peste-suina-africana-chegou-peninsula-iberica-2156483).
+- Falhas técnicas no avião **Airbus A320** estão a provocar caos e perturbações em vários aeroportos internacionais [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-caos-em-aeroportos-por-causa-de-falhas-do-airbus-a320_a1_1701484).
+- Na Ucrânia, um ataque russo com drones em Kiev resultou em um morto e sete feridos [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/um-morto-e-sete-feridos-em-ataque-terrorista-russo-com-drones-em-kiev).
+
+### 🇵🇹 Portugal
+- A campanha de vacinação contra a gripe atingiu quase **75%** de cobertura nas pessoas com mais de **80 anos** [(link)](https://www.noticiasaominuto.com/pais/2896722/quase-75-das-pessoas-com-mais-de-80-anos-vacinadas-contra-a-gripe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.cmjornal.pt/sociedade/detalhe/quase-75-das-pessoas-com-mais-de-80-anos-vacinadas-contra-a-gripe).
+- A modelo **Maria Borges** denunciou publicamente o seu ex-marido por violência doméstica e abuso [(link)](https://www.noticiasaominuto.com/fama/2896725/modelo-maria-borges-denuncia-marido-por-violencia-domestica-e-abuso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- O **Bloco de Esquerda (BE)** está a debater internamente estratégias para inovar a comunicação e voltar a atrair os jovens eleitores [(link)](https://www.publico.pt/2025/11/29/politica/noticia/inovar-comunicacao-maior-abertura-bloco-voltar-jovens-2156258).
+- Uma rede de fraude organizada que se mudou para Portugal, cujos cabecilhas eram designados de "pai", é destaque nas notícias de crime [(link)](https://www.noticiasaominuto.com/pais/2896726/hoje-e-noticia-fraude-muda-se-para-portugal-chamavam-pai-a-cabecilhas).
+
+### 🌍 Mundo
+- A **ONU** defende que a educação desempenha um papel fundamental para travar a perseguição de pessoas com albinismo no continente africano [(link)](https://www.noticiasaominuto.com/mundo/2896727/onu-educacao-pode-travar-perseguicao-a-pessoas-com-albinismo-em-africa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- Foram assinalados progressos significativos na melhoria da qualidade do ar na Europa ao longo da última década [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/detetados-progressos-significativos-na-qualidade-do-ar-na-ultima-decada-na-europa).
+
+### ⚽ Desporto
+- O **Palmeiras** de **Abel Ferreira** irá defrontar o **Flamengo** na final da Taça Libertadores, procurando alcançar um registo inédito na competição sul-americana [(link)](https://www.noticiasaominuto.com/desporto/2896715/palmeiras-e-flamengo-procuram-chegar-a-registo-inedito-na-libertadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- O **Benfica** prepara o jogo contra o **Nacional**, procurando compensar desilusões recentes e definindo quem irá substituir Richard Ríos no onze [(link)](https://www.noticiasaominuto.com/desporto/2896418/quem-faz-de-richard-rios-o-onze-provavel-do-benfica-com-o-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.noticiasaominuto.com/desporto/2896442/nacional-benfica-aguias-moralizadas-para-apagar-ultima-desilusao-na-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- O jogador **Pote** está na fase final de recuperação e estará em condições para participar no dérbi da Luz, opondo-se ao seu rival [(link)](https://www.noticiasaominuto.com/desporto/2896227/pote-em-ponto-de-rebucado-no-derbi-da-luz-rui-borges-prepara-exame-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+- **João Félix** e as declarações de **AVB** sobre "santas alianças" marcam os destaques noticiosos do futebol nacional [(link)](https://www.noticiasaominuto.com/desporto/2896723/por-ca-joao-felix-abre-ferida-e-avb-volta-a-falar-de-santas-aliancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).
+
+### Cultura
+- O Museu do Neo-Realismo inaugurou uma nova exposição que traça o percurso de décadas do teatro português [(link)](https://www.noticiasaominuto.com/cultura/2896724/museu-do-neo-realismo-traca-percurso-por-decadas-do-teatro-portugues#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed).

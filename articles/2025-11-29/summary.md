@@ -1,28 +1,34 @@
  ### 🗞️ Destaques
-- O incêndio ocorrido num prédio na Amora, Seixal, resultou numa vítima mortal, um ferido ligeiro, e levou à retirada de **24** pessoas. [(link)](https://www.noticiasaominuto.com/pais/2896728/um-morto-em-incendio-em-predio-de-quatro-andares-na-amora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://observador.pt/2025/11/29/incendio-em-predio-na-amora-causa-vitima-mortal/)
-- A **Peste Suína Africana** (PSA), doença viral altamente contagiosa, foi detetada na Península Ibérica. [(link)](https://www.publico.pt/2025/11/29/ciencia/noticia/peste-suina-africana-chegou-peninsula-iberica-2156483)
-- Companhias aéreas por todo o mundo foram afetadas por falhas técnicas nos aviões **Airbus A320**, levando a caos nos aeroportos e exigindo a atualização urgente de software. [(link)](https://www.rtp.pt/noticias/economia/companhias-aereas-por-todo-o-mundo-afetadas-por-falha-em-avioes-da-airbus_n1701488), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-caos-em-aeroportos-por-causa-de-falhas-do-airbus-a320_a1_1701484)
-- A União Africana suspendeu de imediato a **Guiné-Bissau** na sequência do golpe militar, até que a ordem constitucional seja restabelecida. [(link)](https://www.noticiasaominuto.com/mundo/2896737/uniao-africana-suspende-de-imediato-guine-bissau-devido-a-golpe-militar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- A falha técnica de *software* na frota de aviões **Airbus A320** causou disrupções em companhias aéreas globais, embora a **TAP** tenha assegurado que o impacto foi reduzido e sem cancelamentos. [(link)], [(link)], [(link)], [(link)], [(link)]
+- Três pessoas morreram e 29 ficaram feridas, incluindo uma criança, após um ataque noturno com *drones* russos em **Kiev**, Ucrânia. [(link)], [(link)]
+- A Convenção do **Bloco de Esquerda** (BE) arranca hoje, marcando a intervenção de despedida de **Mariana Mortágua** enquanto coordenadora do partido. [(link)], [(link)], [(link)], [(link)], [(link)]
+- A **União Africana** suspendeu de imediato a **Guiné-Bissau** devido ao golpe militar, exigindo o restabelecimento da ordem constitucional. [(link)], [(link)], [(link)], [(link)], [(link)]
 
 ### 🇵🇹 Portugal
-- A Convenção do Bloco de Esquerda arranca este sábado, marcando a despedida de **Mariana Mortágua** da coordenação do partido. [(link)](https://observador.pt/liveblogs/convencao-do-bloco-de-esquerda-marca-despedida-de-mariana-mortagua-da-coordenacao-do-partido/), [(link)](https://www.publico.pt/2025/11/29/politica/noticia/inovar-comunicacao-maior-abertura-bloco-voltar-jovens-2156258)
-- Quase **75%** das pessoas com mais de 80 anos já receberam a vacina contra a gripe no país, segundo dados da campanha de vacinação. [(link)](https://www.noticiasaominuto.com/pais/2896722/quase-75-das-pessoas-com-mais-de-80-anos-vacinadas-contra-a-gripe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- O Ministro da Defesa, **Nuno Melo**, anunciou a compra de quatro helicópteros cuja garantia de financiamento através do PRR ainda não está assegurada em Bruxelas. [(link)](https://www.publico.pt/2025/11/29/sociedade/noticia/ministro-nuno-melo-anuncia-compra-quatro-helis-financiamento-estar-garantido-2156476)
-- Foi detetada exploração organizada de imigrantes, incluindo timorenses, na localidade de Cabeça Gorda. [(link)](https://www.publico.pt/2025/11/29/sociedade/reportagem/ashpak-nao-sabe-sair-cabeca-gorda-aldeia-entrou-mapa-imigrantes-explorados-2156463)
-- O Banco Alimentar Contra a Fome iniciou uma nova campanha de recolha de alimentos, mobilizando mais de **41 mil** voluntários. [(link)](https://www.publico.pt/2025/11/29/sociedade/noticia/banco-alimentar-comeca-nova-campanha-recolha-alimentos-2156490)
+- Um incêndio num prédio de quatro andares na **Amora** (Seixal) provocou uma vítima mortal e um ferido ligeiro, levando à retirada de 24 pessoas do local. [(link)], [(link)], [(link)], [(link)], [(link)], [(link)]
+- Um naufrágio de um barco de pesca ao largo de **Sines** resultou no resgate de sete pescadores com vida, os quais foram hospitalizados com hipotermia. [(link)], [(link)], [(link)], [(link)]
+- Uma colisão rodoviária perto de **Chaves** causou a morte de um casal, de 52 e 60 anos, e feriu quatro pessoas. [(link)]
+- A nova campanha de recolha de alimentos do **Banco Alimentar Contra a Fome** arrancou, contando com o apoio de mais de **41 mil voluntários** em 2 mil lojas. [(link)], [(link)], [(link)]
+- O Ministro da Defesa, **Nuno Melo**, anunciou a compra de quatro helicópteros sem que o financiamento do Plano de Recuperação e Resiliência (PRR) esteja garantido em Bruxelas. [(link)]
 
 ### 🌍 Mundo
-- Ataque russo com drones em Kiev provocou a morte de uma pessoa e feriu outras sete. [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/um-morto-e-sete-feridos-em-ataque-terrorista-russo-com-drones-em-kiev)
-- Inundações causadas por chuvas torrenciais no sudeste asiático resultaram em cerca de **350** mortes. [(link)](https://www.noticiasaominuto.com/mundo/2896741/inundações-causam-cerca-de-350-mortes-no-sudeste-asiatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- Hong Kong iniciou três dias de luto após um incêndio que resultou em mais de **120** vítimas mortais e **83** feridos. [(link)](https://cnnportugal.iol.pt/hong-kong/incendio/hong-kong-inicia-tres-dias-de-luto-a-medida-que-avanca-investigacao-do-incendio/20251129/692aadf0d34e2bd5c6d4910b)
-- Cabo Verde aprovou o Orçamento do Estado para 2026 e manifestou confiança na eliminação do VIH/Sida até 2030. [(link)](https://www.rtp.pt/noticias/mundo/cabo-verde-acredita-estar-no-caminho-certo-para-eliminar-vihsida-ate-2030_n1701486), [(link)](https://www.rtp.pt/noticias/economia/parlamento-cabo-verdiano-aprova-oe-2026-na-especialidade-e-votacao-final-global_n1701473)
+- As inundações provocadas por chuvas torrenciais no Sudeste Asiático, em países como Indonésia, Tailândia e Sri Lanka, já causaram mais de **500 vítimas mortais**. [(link)], [(link)]
+- **Hong Kong** iniciou três dias de luto após um incêndio que vitimou mais de **128 pessoas**, enquanto a investigação sobre as causas avança. [(link)], [(link)], [(link)]
+- O **Tribunal Penal Internacional** (TPI) confirmou que mantém a investigação a alegados crimes contra a humanidade cometidos na **Venezuela** desde 2014. [(link)], [(link)]
+- O Peru declarou estado de emergência e enviou militares para a fronteira com o Chile, devido a receios de uma vaga de migrantes. [(link)], [(link)]
+- Um projeto-piloto na Península de Setúbal e Amadora-Sintra prevê a vigilância da gravidez de baixo risco por um enfermeiro por cada **75 grávidas**, na ausência de médico de família. [(link)]
 
 ### 💵 Economia
-- O Banco de Portugal (BdP) definiu os requisitos de reserva de fundos próprios que os principais bancos deverão cumprir em 2026. [(link)](https://eco.sapo.pt/2025/11/29/bdp-define-reserva-de-fundos-dos-bancos-para-2026/)
-- A Casa da Moeda de Portugal irá apoiar Timor-Leste na implementação do Jornal da República Digital, no âmbito da cooperação bilateral. [(link)](https://www.rtp.pt/noticias/economia/casa-da-moeda-vai-apoiar-timor-leste-a-implementar-jornal-da-republica-digital_n1701474)
+- O **Banco de Portugal** (BdP) definiu os requisitos de reserva de fundos próprios que os principais bancos deverão cumprir em 2026. [(link)]
+- Um economista alertou que a situação atual do país está a levar **73%** dos jovens portugueses a ponderarem emigrar. [(link)]
+- O Orçamento do Estado para 2026 deverá incluir reduções de IVA em novos produtos e a extensão de isenções fiscais. [(link)]
+- Foi detetada a chegada da **Peste Suína Africana** à Península Ibérica. [(link)]
 
 ### ⚽ Desporto
-- O Palmeiras, treinado por **Abel Ferreira**, defronta o Flamengo na final da Taça Libertadores, procurando um registo inédito. [(link)](https://www.noticiasaominuto.com/desporto/2896715/palmeiras-e-flamengo-procuram-chegar-a-registo-inedito-na-libertadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- O jogador **Pote** encontra-se na fase final de recuperação e é esperado em "ponto de rebuçado" para o dérbi da Luz. [(link)](https://www.noticiasaominuto.com/desporto/2896227/pote-em-ponto-de-rebucado-no-derbi-da-luz-rui-borges-prepara-exame-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- O Benfica, moralizado, procura apagar a última desilusão frente ao Nacional. [(link)](https://www.noticiasaominuto.com/desporto/2896442/nacional-benfica-aguias-moralizadas-para-apagar-ultima-desilusao-na-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- O piloto **Lando Norris** fará as contas para tentar sair campeão mundial de Fórmula 1 na corrida do Qatar. [(link)](https://www.publico.pt/2025/11/29/desporto/noticia/formula-1-contas-lando-norris-sair-campeao-mundial-qatar-2156466)
+- O **Palmeiras** de **Abel Ferreira** defronta o **Flamengo** na final da Taça Libertadores, procurando um registo inédito para o clube. [(link)], [(link)]
+- O médio **Pote** (Sporting) está na fase final de recuperação e deverá estar disponível para o dérbi da Luz. [(link)]
+- O **Benfica** prepara-se para o encontro com o Nacional, procurando apagar a última desilusão e decidir quem irá substituir Richard Ríos. [(link)], [(link)]
+- O piloto **Lando Norris** (Fórmula 1) enfrenta as contas finais para tentar sagrar-se campeão mundial no Grande Prémio do Qatar. [(link)]
+
+### 🖼️ Cultura
+- A cantora **Cindy Lauper** anunciou a sua digressão de despedida, a *Girls Just Wanna Have Fun Farewell Tour*, com atuação confirmada em junho no Rock in Rio Lisboa. [(link)]

@@ -1,32 +1,31 @@
  ### 🗞️ Destaques
-- **José Manuel Pureza** foi eleito o novo coordenador do **Bloco de Esquerda (BE)**, assumindo a liderança do partido. [(link)](https://www.noticiasaominuto.com/politica/2897484/pureza-eleito-coordenador-do-be-o-que-mudou-e-se-disse-na-convencao)
-- Mais de **1000 mortos** foram registados nas cheias que atingiram a Indonésia e o Sudeste Asiático, incluindo Tailândia, Malásia e Sri Lanka. [(link)](https://www.noticiasaominuto.com/mundo/2897481/novo-balanco-apos-cheias-na-indonesia-500-mortos-e-500-desaparecidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.cmjornal.pt/mundo/detalhe/mais-de-mil-mortos-nas-cheias-na-indonesia-tailandia-malasia-e-sri-lanka), [(link)](https://www.publico.pt/2025/12/01/mundo/noticia/mil-mortos-centenas-desaparecidos-apos-cheias-indonesia-tailandia-malasia-sri-lanka-2156622)
-- As famílias portuguesas pouparam **345 milhões de euros** em IMI (Imposto Municipal sobre Imóveis). [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-familias-pouparam-345-milhoes-de-euros-no-imi_a1_1701796), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/08h-familias-pouparam-345-milhoes-de-euros-em-imi_a1_1701799)
+- As cheias que atingiram a Indonésia e o Sudeste Asiático (Tailândia, Malásia e Sri Lanka) provocaram mais de **1000 mortos** e centenas de desaparecidos. [(link)], [(link)], [(link)], [(link)], [(link)]
+- As vendas mundiais dos fabricantes de armas atingiram **589 mil milhões de euros**, impulsionadas pelas guerras na Ucrânia e em Gaza. [(link)]
+- Em Portugal, **José Manuel Pureza** foi eleito o novo coordenador da Comissão Política do **Bloco de Esquerda (BE)**. [(link)], [(link)]
+- A campanha do Banco Alimentar Contra a Fome registou uma queda de **2,8%** na recolha de alimentos, totalizando cerca de **2150 toneladas**. [(link)], [(link)], [(link)], [(link)]
 
 ### 🇵🇹 Portugal
-- A campanha de recolha de alimentos do **Banco Alimentar Contra a Fome** registou uma queda de **2,8%** face ao ano anterior, totalizando **2150 toneladas**. [(link)](https://www.publico.pt/2025/12/01/sociedade/noticia/queda-28-recolha-alimentos-campanha-banco-alimentar-2156620), [(link)](https://observador.pt/2025/12/01/queda-de-28-na-recolha-de-alimentos-em-campanha-do-banco-alimentar/)
-- Portugal falha a meta de eliminação da transmissão do **VIH** até 2030, devido à elevada taxa de diagnósticos tardios, assinalada no Dia Mundial da SIDA. [(link)](https://www.publico.pt/2025/12/01/opiniao/opiniao/eliminar-vih-ate-2030-portugal-sim-dados-nao-2156513), [(link)](https://www.noticiasaominuto.com/lifestyle/2897352/dia-mundial-da-sida-em-portugal-continuamos-com-diagnosticos-tardios)
-- Um tribunal obrigou uma filha, que aufere o salário mínimo, a pagar pensão de alimentos à sua mãe, justificando que "ajudar os pais não é uma opção, é uma obrigação". [(link)](https://cnnportugal.iol.pt/idosos/filhos/ajudar-os-pais-nao-e-uma-opcao-e-e-uma-obrigacao-tribunal-obrigou-filha-com-salario-minimo-a-pagar-pensao-de-alimentos-a-mae/20251201/690a12eed34e3caad84ae482)
-- Dois jovens, de **20 e 22 anos**, morreram num acidente trágico em Pedrógão Grande. [(link)](https://www.noticiasaominuto.com/pais/2897488/jovens-de-20-e-22-anos-morreram-em-acidente-tragico-em-pedrogao-grande)
+- As famílias portuguesas pouparam **345 milhões de euros** no Imposto Municipal sobre Imóveis (**IMI**) devido a alterações na legislação. [(link)], [(link)], [(link)]
+- O Barómetro CIP/ISEG reviu em alta a previsão de crescimento do Produto Interno Bruto (**PIB**) para um intervalo entre **1,8%** e **1,9%** em 2025. [(link)], [(link)], [(link)]
+- A descida do IVA para **6%** na construção pode estar em risco por alegadamente violar diretivas europeias. [(link)]
+- No Dia Mundial da SIDA, foi reportado que Portugal falha a meta de eliminação do **VIH** até 2030, sobretudo devido a diagnósticos tardios. [(link)], [(link)]
+- O ex-líder da UGT, **João Proença**, criticou a reforma laboral por assumir o "pressuposto de que os trabalhadores não fazem parte da empresa". [(link)]
 
 ### 🌍 Mundo
-- Ministros da Defesa analisaram um novo plano de paz para a Ucrânia, criticado pela União Europeia por esta ter sido excluída das negociações. [(link)](https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/ministros-da-defesa-olham-para-plano-que-paz-que-exclui-uniao-europeia-e-apoio-para-o-inverno), [(link)](https://observador.pt/liveblogs/ministros-da-defesa-da-uniao-europeia-analisam-plano-de-paz-para-ucrania/)
-- O Presidente dos EUA afirmou ter selecionado quem irá liderar a **Reserva Federal**. [(link)](https://www.cmjornal.pt/mundo/detalhe/presidente-dos-estados-unidos-diz-ja-saber-quem-vai-liderar-reserva-federal)
-- O Governo de **Macau** demonstrou cautela quanto à viabilidade comercial da implementação de um voo direto para Lisboa. [(link)](https://www.noticiasaominuto.com/mundo/2897485/voo-direto-entre-macau-e-lisboa-governo-do-territorio-cauteloso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- A **China** endureceu a disciplina militar e aprovou uma revisão normativa interna, após purgas e suspeitas de corrupção nas suas forças armadas. [(link)](https://observador.pt/2025/12/01/china-endurece-disciplina-militar-apos-purgas-e-casos-de-corrupcao-no-exercito/)
-- Timor-Leste irá presidir, entre 2026 e 2028, o grupo dos Países Menos Desenvolvidos nas negociações internacionais sobre as alterações climáticas. [(link)](https://www.rtp.pt/noticias/mundo/timor-leste-lidera-paises-menos-desenvolvidos-no-combate-a-alteracoes-climaticas_n1701779)
+- A União Europeia considera que esta pode ser uma "semana crucial" para a paz na Ucrânia, embora os ministros da Defesa tenham analisado um plano de paz que exclui a participação da UE nas negociações. [(link)], [(link)], [(link)], [(link)]
+- A China endureceu a disciplina militar e aprovou uma revisão normativa para punir a corrupção e a desobediência a ordens estratégicas no Exército. [(link)], [(link)]
+- Nas eleições presidenciais das Honduras, o candidato conservador **Nasry Asfura**, apoiado por **Donald Trump**, lidera a contagem inicial. [(link)], [(link)], [(link)]
+- Em Hong Kong, o número de mortos no incêndio recente subiu para **151**, e a polícia deteve **13 suspeitos**, além de ter efetuado detenções por insurreição sob a nova lei de segurança nacional. [(link)], [(link)]
+- A Justiça do Bangladesh condenou a ex-primeira-ministra **Sheikh Hasina** a cinco anos de prisão por corrupção. [(link)], [(link)]
 
 ### 💵 Economia
-- As vendas mundiais dos fabricantes de armas atingiram **589 mil milhões de euros**, impulsionadas pelas guerras na Ucrânia e em Gaza. [(link)](https://www.cmjornal.pt/mais-cm/especiais/guerra-israel-hamas/detalhe/guerras-na-ucrania-e-gaza-impulsionam-vendas-de-fabricantes-de-armas)
-- O ex-líder da UGT, **João Proença**, criticou a reforma laboral por esta assentar no pressuposto de que "os trabalhadores não fazem parte da empresa". [(link)](https://www.publico.pt/2025/12/01/economia/entrevista/joao-proenca-reforma-laboral-assenta-pressuposto-trabalhadores-nao-fazem-parte-empresa-2156500)
-- Os preços dos combustíveis registam uma descida esta segunda-feira. [(link)](https://www.noticiasaominuto.com/economia/2896455/combustiveis-ficam-mais-baratos-hoje-e-nestes-postos-ainda-poupa)
-- Menos de **100 aviões A320** permanecem imobilizados globalmente, aguardando uma atualização urgente de software, indicou a **Airbus**. [(link)](https://observador.pt/2025/12/01/airbus-indica-que-menos-de-100-avioes-da-familia-a320-estao-parados-para-reparacao-de-software/), [(link)](https://www.publico.pt/2025/12/01/economia/noticia/menos-100-airbus-a320-estao-imobilizados-devido-problema-software-2156623)
-- As receitas dos casinos de Macau em novembro quase igualaram o total acumulado durante todo o ano de 2024. [(link)](https://www.rtp.pt/noticias/economia/receitas-dos-casinos-de-macau-quase-atingem-em-novembro-total-acumulado-em-2024_n1701791)
+- As receitas dos casinos de Macau em novembro quase igualaram o total acumulado em todo o ano de 2024, apesar do Governo se manter cauteloso quanto à viabilidade comercial de um voo direto para Lisboa. [(link)], [(link)]
+- Menos de **100 aviões A320** da Airbus permanecem imobilizados devido à necessidade urgente de uma atualização de *software*. [(link)], [(link)], [(link)], [(link)]
+- Moçambique registou um agravamento do surto de cólera, com mais de **60 casos** em duas semanas (totalizando **560**), ao mesmo tempo que o crédito à economia aproxima-se de um novo máximo histórico. [(link)], [(link)]
+- O Presidente dos Estados Unidos afirmou já ter escolhido quem vai liderar a Reserva Federal. [(link)]
 
 ### ⚽ Desporto
-- O **Sporting** enfrenta dificuldades com vários jogadores lesionados ou indisponíveis antes do dérbi contra o Benfica. [(link)](https://www.noticiasaominuto.com/desporto/2897476/de-geny-a-ioannidis-todas-as-dores-de-cabeca-do-sporting-ante-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- Os jogadores **Prestianni** e **Schjelderup**, considerados suplentes, saíram do banco para garantir a vitória do Benfica. [(link)](https://www.noticiasaominuto.com/desporto/2897139/afinal-ha-vida-no-banco-como-mal-amados-de-mourinho-safaram-o-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- O treinador **Abel Braga** foi obrigado a pedir desculpas após comentários homofóbicos feitos na sua apresentação como novo treinador do Internacional. [(link)](https://www.noticiasaominuto.com/desporto/2897496/nao-quero-a-minha-equipa-a-jogar-de-rosa-parece-uma-equipa-de-veados)
-
-### 🎼 Cultura
-- O músico **João Paulo Esteves da Silva** regressa a gravações em quarteto com o seu novo álbum de jazz, *País Distante*, **30 anos** depois. [(link)](https://www.publico.pt/2025/12/01/culturaipsilon/noticia/joao-paulo-esteves-silva-volta-gravar-quarteto-30-anos-pais-distante-2156394)
+- O **Benfica** garantiu a vitória no último jogo com golos de **Prestianni** e **Schjelderup**, que entraram no decorrer da partida. [(link)]
+- O **Sporting** enfrenta dificuldades com lesões e indisponíveis antes do dérbi contra o Benfica. [(link)]
+- O treinador **Rúben Amorim** admitiu que procura "roubar" ideias táticas a adversários, citando os livres de **Bruno Fernandes**. [(link)]
+- O basquetebolista português **Neemias Queta** falhou a vitória dos Boston Celtics devido a uma entorse no tornozelo. [(link)]

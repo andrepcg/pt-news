@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- A **Comissão Europeia** propôs o uso de ativos russos congelados para financiar um empréstimo à **Ucrânia**, embora a **Bélgica** tenha manifestado oposição. [(link)](https://eco.sapo.pt/especiais/guerra-na-ucrania-os-ativos-russos-a-solucao-de-von-der-leyen-e-a-oposicao-belga/)
+- Em Portugal, uma mãe retirou e desapareceu com o seu bebé do Hospital de **Gaia/Espinho**, sendo procurada pelas autoridades. [(link)](https://cnnportugal.iol.pt/hospital-de-gaia/espinho/mae-retira-bebe-do-hospital-de-gaia-espinho-e-desaparece-com-a-crianca/20251204/69312fe8d34e3caad84c0085), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-desapareceu-um-bebe-no-hospital-de-gaia_a1_1702405)
+- As mortes na estrada dispararam em **2024**, com o consumo de álcool e drogas presente em **36,5%** dos casos. [(link)](https://cnnportugal.iol.pt/acidentes/ansr/mortes-na-estrada-disparam-com-alcool-e-drogas-em-2024/20251204/69313cf9d34e2bd5c6d4b90e)
+
+### 🇵🇹 Portugal
+- Os técnicos do **INEM** ameaçam aderir à greve geral por considerarem que o Governo não cumpriu o acordo estabelecido. [(link)](https://cnnportugal.iol.pt/greve-geral/inem/tecnicos-do-inem-ameacam-aderir-a-greve/20251204/69308e91d34e3caad84bfd82)
+- Uma nova lei urbanística foi anunciada, prevendo alterações no setor da habitação, como o fim do alvará de licença. [(link)](https://eco.sapo.pt/descodificador/o-que-muda-na-habitacao-com-a-nova-lei-urbanistica/)
+
+### 🌍 Mundo
+- A **Turquia** alertou para uma ameaça à segurança do transporte de petróleo e gás no **Mar Negro** após ataques recentes a petroleiros russos. [(link)](https://www.rtp.pt/noticias/mundo/turquia-alerta-para-ameaca-ao-transporte-de-petroleo-e-gas-no-mar-negro_n1702404), [(link)](https://www.noticiasaominuto.com/mundo/2899142/turquia-alerta-para-ameaca-ao-transporte-de-petroleo-e-gas-no-mar-negro)
+- O Presidente venezuelano, **Nicolás Maduro**, confirmou ter tido uma conversa "cordial" com **Donald Trump** num contexto de tensões diplomáticas com os **Estados Unidos**. [(link)](https://observador.pt/2025/12/04/maduro-confirma-que-teve-conversa-cordial-com-donald-trump/), [(link)](https://www.rtp.pt/noticias/mundo/presidente-da-venezuela-confirma-que-teve-conversa-cordial-com-homologo-dos-eua_n1702393)
+- Os temas da guerra na **Ucrânia** e os desequilíbrios comerciais dominaram a agenda do encontro entre o Presidente francês **Emmanuel Macron** e o líder chinês **Xi Jinping**. [(link)](https://observador.pt/2025/12/04/ucrania-e-desequilibrios-comerciais-dominam-encontro-entre-macron-e-xi-jinping/), [(link)](https://www.rtp.pt/noticias/mundo/ucrania-e-desequilibrios-comerciais-dominam-encontro-entre-macron-e-xi-jinping_n1702399)
+- Israel identificou o corpo de um refém de nacionalidade **tailandesa** entregue pelo Hamas, indicando que apenas o corpo de um refém permanece em Gaza. [(link)](https://observador.pt/liveblogs/corpo-de-refem-entregue-pelo-hamas-a-israel-identificado-como-cidadao-tailandes-ja-so-esta-o-corpo-de-um-refem-em-gaza/), [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-anuncia-ter-identificado-restos-mortais-do-penultimo-refem-ainda-detido-em-gaza_n1702400)
+- O Governo sul-coreano prometeu esforços para repatriar seis cidadãos que se encontram detidos na **Coreia do Norte**. [(link)](https://www.rtp.pt/noticias/mundo/seul-promete-esforcos-para-repatriar-seis-cidadaos-detidos-na-coreia-do-norte/)
+
+### 💵 Economia
+- O rendimento dos títulos da dívida do **Japão** atingiu o nível mais alto desde **2007**, refletindo a situação dos mercados. [(link)](https://observador.pt/2025/12/04/rendimento-dos-titulos-da-divida-do-japao-sobe-para-nivel-mais-alto-desde-2007/), [(link)](https://www.rtp.pt/noticias/economia/rendimento-dos-titulos-da-divida-do-japao-sobe-para-nivel-mais-alto-desde-2007_n1702394)
+- Uma nova proposta fiscal permite que senhorios com rendas até **2300 euros** aufiram um ganho líquido maior, podendo os inquilinos poupar. [(link)](https://cnnportugal.iol.pt/arrendamento/impostos/senhorios-podem-ganhar-ate-345-euros-limpos-por-mes-sem-fazer-nada-simule-aqui-o-seu-caso/)
+- Estima-se que as heranças impulsionem o número de multimilionários, com a transferência prevista de **5,9 biliões de dólares** até **2040**. [(link)](https://eco.sapo.pt/2025/12/04/herdeiros-tomam-conta-do-clube-dos-multimilionarios/)
+
+### ⚽ Desporto
+- **FC Porto** e **Vitória de Guimarães** defrontam-se hoje para disputar um lugar na final four da **Taça da Liga**. [(link)](https://observador.pt/2025/12/04/fc-porto-e-vitoria-de-guimaraes-lutam-por-lugar-na-final-four-da-taca-da-liga/)
+
+### 🎭 Cultura
+- O filme "**Playback**" estreou, revelando o legado menos conhecido e música inédita do cantor e compositor **Carlos Paião**. [(link)](https://observador.pt/2025/12/04/playback-da-nova-vida-a-carlos-paiao-e-revela-legado-menos-conhecido-do-musico/), [(link)](https://cnnportugal.iol.pt/filme/sergio-graciano/playback-da-nova-vida-a-carlos-paiao-e-revela-legado-menos-conhecido-do-musico/20251204/69313752d34e2bd5c6d4b90c)

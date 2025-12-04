@@ -85,14 +85,14 @@ export async function getAllArticles() {
     seenTitles.add(article.title);
     return true;
   });
-  
+
   // Cache the result for subsequent calls during build
   articlesCache = uniqueArticles;
-  
+
   return uniqueArticles;
 }
 
-export async function getAllTagsWithFrequency() {
+export async function getAllTagsWithFrequency(frequencyThreshold = 1) {
   const articles = await getAllArticles();
   const tagFrequency = {};
 
@@ -106,7 +106,8 @@ export async function getAllTagsWithFrequency() {
 
   return Object.entries(tagFrequency)
     .map(([tag, frequency]) => ({ tag, frequency }))
-    .sort((a, b) => b.frequency - a.frequency);
+    .sort((a, b) => b.frequency - a.frequency)
+    .filter(tag => tag.frequency >= frequencyThreshold);
 }
 
 export async function getArticlesByTag(tag) {
@@ -119,9 +120,9 @@ export async function getArticlesByTag(tag) {
   const filteredArticles = articles
     .filter(article => article.tags && article.tags.includes(tag))
     .sort((a, b) => new Date(b.date) - new Date(a.date)); // Sort by most recent first
-  
+
   // Cache the filtered results for this tag
   tagsCacheMap.set(tag, filteredArticles);
-  
+
   return filteredArticles;
 }

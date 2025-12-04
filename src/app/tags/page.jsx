@@ -6,7 +6,7 @@ export const metadata = {
 };
 
 export default async function Page() {
-  const tags = await getAllTagsWithFrequency();
+  const tags = await getAllTagsWithFrequency(10);
 
   return (
     <div>

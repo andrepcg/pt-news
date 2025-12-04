@@ -165,6 +165,11 @@ export async function generateStaticParams() {
   const params = [];
 
   for (const { tag, frequency } of tags) {
+    // Skip tags with less than 10 frequency
+    if (frequency < 10) {
+      continue;
+    }
+
     const totalPages = Math.ceil(frequency / ARTICLES_PER_PAGE);
 
     // Generate page 1 (no page segment)

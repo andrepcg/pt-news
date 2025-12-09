@@ -1,28 +1,30 @@
  ### 🗞️ Destaques
-- **Portugal continental** e a **Madeira** estão sob aviso meteorológico devido à depressão **Bram**, que traz chuva forte, vento e agitação marítima. [(link)](https://observador.pt/2025/12/09/continente-e-madeira-sob-avisos-devido-a-chuva-vento-e-agitacao-maritima/), [(link)](https://www.rtp.pt/noticias/pais/continente-e-madeira-sob-avisos-devido-a-chuva-vento-e-agitacao-maritima_n1703323)
-- Os serviços mínimos para a **greve geral de quinta-feira** foram definidos, abrangendo transportes (CP, TAP, Metro) e setores essenciais como a saúde e lares. [(link)](https://eco.sapo.pt/2025/12/09/dos-aeroportos-aos-lares-sao-estes-os-servicos-minimos-ja-fixados-para-a-greve-geral/)
-- Numa sondagem para as **Presidenciais 2026**, **André Ventura** surge na liderança, em empate técnico, pela primeira vez. [(link)](https://cnnportugal.iol.pt/presidenciais/presidente-da-republica/andre-ventura-lidera-intencoes-de-voto-presidencial-com-queda-de-gouveia-e-melo/)
+- A depressão **Bram** traz chuva forte, vento e agitação marítima a **Portugal Continental** e **Madeira**, com avisos **laranja** e **amarelo** de acordo com o **IPMA**. (link)
+- A **Google** está sob investigação da **Comissão Europeia** por alegada violação da lei da **UE** com conteúdos de **Inteligência Artificial**, enfrentando críticas por poder sufocar a inovação. (link), (link), (link), (link), (link), (link)
+- A **Galp** cedeu **40%** da sua participação na fase de exploração do bloco de petróleo de **Mopane**, na **Namíbia**, à **TotalEnergies**, motivando uma queda de **11,85%** das suas ações em bolsa. (link), (link), (link), (link)
+- A arte dos **Barcos Moliceiros de Aveiro** foi inscrita na Lista de Salvaguarda Urgente do Património Cultural Imaterial da **UNESCO**. (link), (link), (link), (link), (link)
 
 ### 🇵🇹 Portugal
-- Mais de **78% dos médicos especialistas** com menos de **50 anos** não fazem urgências no SNS, incluindo **seis em cada dez obstetras**. [(link)](https://cnnportugal.iol.pt/obstetras/pediatras/em-cada-dez-seis-obstetras-e-sete-radiologistas-estao-fora-do-sns/)
-- O Governo deverá marcar esta semana as eleições para as **Comissões de Coordenação e Desenvolvimento Regional (CCDR)**, com os atuais presidentes do Algarve e Lisboa a manifestar disponibilidade para recandidatura. [(link)](https://eco.sapo.pt/2025/12/09/governo-deve-marcar-esta-semana-eleicoes-para-as-ccdr/)
-- As Forças Armadas admitem que Portugal precisa de mais **8 mil militares** e está vulnerável nas defesas antiaéreas. [(link)](https://cnnportugal.iol.pt/cemgfa/jose-nunes-da-fonseca/portugal-precisa-de-mais-oito-mil-militares-e-esta-vulneravel-nas-defesas-antiaereas/)
-- A **Arte dos Barcos Moliceiros de Aveiro** foi inscrita na Lista de Salvaguarda Urgente do Património Imaterial da UNESCO. [(link)](https://www.rtp.pt/noticias/cultura/arte-dos-barcos-moliceiros-de-aveiro-inscrita-em-lista-de-salvaguarda-urgente-da-unesco/)
-- As **urgências do Hospital Amadora-Sintra** são reconhecidas pela Direção Executiva do SNS como o "principal problema" do serviço, com esperas superiores a **10 horas**. [(link)](https://observador.pt/2025/12/09/urgencias-do-amadora-sintra-sao-o-principal-problema-do-sns-diz-direcao-executiva/)
+- A greve geral de quinta-feira terá serviços mínimos definidos para setores como transportes, TAP, Metro, saúde e lares. (link), (link), (link), (link), (link), (link), (link)
+- Mais de **78%** dos médicos especialistas com menos de **50 anos** não fazem urgências no **SNS**; **seis em cada dez obstetras** estão fora do serviço público. (link), (link)
+- A **PGR** espera concluir a averiguação à **Spinumviva** até às férias de Natal e mostra insatisfação com a fuga de escutas da Operação Influencer. (link), (link), (link), (link), (link)
+- Uma sondagem para as **Presidenciais 2026** coloca **André Ventura** na liderança, em empate técnico, registando a queda de **Gouveia e Melo**. (link), (link), (link), (link), (link)
+- As **Forças Armadas** alertam que **Portugal** precisa de mais **8 mil militares** e está vulnerável nas defesas antiaéreas. (link), (link), (link)
 
 ### 🌍 Mundo
-- O líder cambojano prometeu resposta militar à Tailândia após a morte de **oito civis** em confrontos. [(link)](https://www.rtp.pt/noticias/mundo/lider-cambojano-promete-empenho-na-resposta-militar-contra-a-tailandia_n1703322)
-- O presidente da Ucrânia, **Volodymyr Zelensky**, reúne-se em Roma com o **Papa Francisco** em busca de apoio para evitar um acordo "desvantajoso" com a Rússia, enquanto Siversk está a cair nas mãos dos russos. [(link)](https://observador.pt/liveblogs/zelensky-assume-que-nao-ha-acordo-sobre-o-donbass-cidade-de-siversk-esta-a-cair-nas-maos-dos-russos/), [(link)](https://www.noticiasaominuto.com/mundo/2901528/zelensky-quer-apoio-para-evitar-acordo-desvantajoso-com-russia)
-- O Exército israelita lançou ataques contra instalações do Hezbollah no sul do Líbano. [(link)](https://observador.pt/liveblogs/exercito-israelita-lanca-vagas-de-ataques-no-sul-do-libano-israel-afirma-ter-atingido-instalacoes-do-hezbollah/)
-- A Lituânia declarou **Estado de Emergência Nacional** após a deteção de balões bielorrussos no seu espaço aéreo. [(link)](https://cnnportugal.iol.pt/guerra-na-ucrania/bielorrussia/pais-da-nato-na-fronteira-com-a-russia-declara-estado-de-emergencia-apos-sucessivas-ameacas-de-baloes/)
-- Um forte sismo no Japão causou pelo menos **30 feridos** e desencadeou um alerta de tsunami. [(link)](https://www.publico.pt/2025/12/09/mundo/noticia/sismo-japao-faz-menos-30-feridos-2157452)
+- A **Lituânia** declarou **Estado de Emergência Nacional** após a deteção de balões bielorrussos no seu espaço aéreo. (link), (link), (link), (link)
+- O ano de **2025** está a caminho de ser o segundo mais quente a nível mundial desde que há registos, e especialistas defendem que o mundo estaria muito pior sem o Acordo de Paris. (link), (link), (link)
+- Um **forte sismo** no **Japão** fez pelo menos **30 feridos** e desencadeou um alerta de tsunami. (link), (link)
+- Pelo menos **20 pessoas** morreram num incêndio num edifício comercial em **Jacarta**, na **Indonésia**. (link), (link)
+- A **China** registou um aumento nas suas exportações para o Sudeste Asiático devido às tarifas impostas pelos **EUA**. (link)
 
 ### 💵 Economia
-- Os custos dos seguros de saúde em Portugal deverão aumentar **10% em 2026**, impulsionados pela subida de preços no setor privado. [(link)](https://eco.sapo.pt/2025/12/09/custo-dos-seguros-de-saude-vai-subir-10-em-2026-muito-acima-da-inflacao/)
-- Quase **metade dos alojamentos locais** em Portugal não apresentou o seguro obrigatório dentro do prazo. [(link)](https://rr.pt/noticia/pais/2025/12/09/quase-metade-dos-alojamentos-locais-em-portugal-nao-apresentou-seguro-obrigatorio-dentro-do-prazo/450959/?utm_medium=rss)
-- Uma em cada seis empresas portuguesas prevê aumentar o investimento este ano, sobretudo em inovação e IA. [(link)](https://observador.pt/2025/12/09/uma-em-cada-seis-empresas-portuguesas-preve-mais-investimento-este-ano/)
-- A **Google** está a ser investigada pela Comissão Europeia por alegada violação da lei da UE com o uso de conteúdos de Inteligência Artificial. [(link)](https://www.rtp.pt/noticias/economia/bruxelas-abre-investigacao-a-google-por-alegada-violacao-da-lei-da-ue-com-conteudos-ia_n1703329)
-- A **Galp** escolheu a **TotalEnergies** como parceira na exploração de petróleo na Namíbia, o que levou as ações da empresa a cair mais de **11%** na bolsa. [(link)](https://eco.sapo.pt/2025/12/09/galp-escolhe-total-para-parceira-na-exploracao-de-petroleo-na-namibia/)
+- O custo dos seguros de saúde em **Portugal** deverá subir **10%** em **2026**, impulsionado pelo aumento de preços no privado. (link)
+- O **Governo** prepara uma nova fase de apoios à compra de veículos elétricos, com uma verba reforçada para **20 milhões de euros**. (link), (link)
+- Os custos de construção de habitação nova subiram **4,5%** em outubro, impulsionados pela subida da mão-de-obra em **8,3%**. (link), (link), (link), (link)
+- A criação de empresas atingiu **49.512** até novembro, o que representa um recorde dos últimos **20 anos** em **Portugal**. (link), (link)
+- Ex-clientes do **Eurobic** enfrentam problemas como pensões por receber e pagamentos cancelados após a migração para o **Abanca**. (link)
 
 ### ⚽ Desporto
-- O **Sporting** defronta o **Bayern Munique** na Liga dos Campeões com desfalques importantes. [(link)](https://www.publico.pt/2025/12/09/desporto/noticia/sporting-bayern-anedota-joaozinho-bicicleta-2157436)
+- O **Sporting** defronta o **Bayern Munique** em **Munique** para a **Liga dos Campeões** com desfalques importantes. (link), (link), (link), (link), (link)
+- Mais **onze jogadores** foram detidos no escândalo de apostas na **Turquia**, incluindo futebolistas do **Galatasaray** e **Fenerbahçe**. (link)

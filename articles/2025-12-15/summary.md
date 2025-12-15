@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- O realizador norte-americano **Rob Reiner** e a sua mulher, a fotógrafa **Michele Singer**, foram encontrados mortos na sua residência nos EUA, com a polícia a investigar um possível esfaqueamento por um familiar. [(link)](https://observador.pt/2025/12/15/realizador-rob-reiner-e-fotografa-michele-singer-encontrados-mortos-em-casa-nos-eua/), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-realizador-rob-reiner-e-a-mulher-encontrados-mortos-em-casa_a1_1704310)
+- A condenação do magnata pró-democracia de Hong Kong, **Jimmy Lai**, provocou condenação internacional, com acusações de desprezo pela liberdade de imprensa. [(link)](https://www.rtp.pt/noticias/mundo/condenacao-de-lai-prova-desprezo-pela-liberdade-de-imprensa-em-hong-kong-acusa-ong_n1704297), [(link)](https://www.noticiasaominuto.com/mundo/2904250/condenacao-de-lai-prova-desprezo-pela-liberdade-de-imprensa)
+- **José Kast**, da extrema-direita, venceu as eleições presidenciais no Chile, com o reconhecimento do Presidente brasileiro **Lula** e a saudação dos EUA. [(link)](https://eco.sapo.pt/2025/12/15/candidato-da-extrema-direita-vence-eleicoes-presidenciais-no-chile/)
+- O Governo português declarou indisponibilidade para reiniciar do zero as negociações do pacote laboral, enquanto o salário mínimo nacional subirá para **920€** em janeiro. [(link)](https://www.rtp.pt/noticias/politica/pacote-laboral-governo-indisponivel-para-comecar-negociacoes-do-zero_v1704314)
+
+### 🇵🇹 Portugal
+- Seis distritos de Portugal continental encontram-se sob aviso laranja devido à agitação marítima. [(link)](https://observador.pt/2025/12/15/seis-distritos-de-portugal-continental-sob-aviso-laranja-devido-a-agitacao-maritima/)
+- Um Livro Branco sobre a IA no Jornalismo revelou que mais de **80%** dos jornalistas em Portugal não possuem formação na área, recomendando um reforço da literacia digital. [(link)](https://www.rtp.pt/noticias/pais/mais-de-80-dos-jornalistas-em-portugal-sem-formacao-em-inteligencia-artificial_n1703818)
+- A **GNR** deteve mais de **12.500** condutores por álcool e **76** por drogas até novembro de 2025. [(link)](https://www.noticiasaominuto.com/pais/2904284/gnr-deteve-ate-novembro-mais-de-12500-condutores-sob-efeito-do-alcool)
+- A autarquia de Setúbal perdeu milhões com terrenos doados ao **Vitória FC**, cujos projetos não avançaram, enquanto a **Comunidade Intermunicipal da Península de Setúbal** foi criada para aceder a fundos europeus. [(link)](https://cnnportugal.iol.pt/importantaltura/vitoria-fc/autarquia-de-setubal-perde-milhoes-com-terrenos-doados-ao-vitoria-fc/20251215/693fbd1ed34e3caad84c6128), [(link)](https://www.publico.pt/2025/12/15/local/noticia/cim-peninsula-setubal-nasce-hoje-sera-presidida-autarca-barreiro-2157911)
+- Especialistas criticaram novas propostas de migração em Portugal, que preveem mais detenção e menos garantias para estrangeiros. [(link)](https://www.publico.pt/2025/12/15/sociedade/noticia/detencao-menos-garantias-especialistas-criticam-novas-propostas-migracao-2157820)
+
+### 🌍 Mundo
+- Ministros da União Europeia estão a tentar desbloquear o apoio à Ucrânia para 2026-2027, enquanto o Presidente ucraniano **Volodymyr Zelensky** se reuniu em Berlim para negociações de paz. [(link)](https://observador.pt/2025/12/15/ministros-dos-negocios-estrangeiros-da-ue-tentam-desbloquear-apoio-a-ucrania-para-2026-e-2027-a-tempo-da-cimeira-de-lideres/), [(link)](https://observador.pt/liveblogs/merz-recebe-zelensky-em-berlim-para-discutir-o-estado-das-negociacoes-de-paz/)
+- A Austrália está a ponderar endurecer as leis de posse de armas após um massacre em Sydney. [(link)](https://www.publico.pt/2025/12/15/mundo/noticia/australia-considera-endurecer-leis-posse-armas-apos-massacre-sydney-2158072)
+- O número de mortos subiu para **21** após cheias repentinas em Marrocos. [(link)](https://www.cmjornal.pt/mundo/detalhe/sobe-para-21-o-numero-de-mortos-apos-cheias-repentinas-em-marrocos)
+- Colonos israelitas invadiram locais religiosos islâmicos perto de Nablus, na Cisjordânia, forçando comerciantes a fechar as lojas. [(link)](https://observador.pt/liveblogs/colonos-israelitas-invadem-locais-religiosos-islamicos-perto-de-nablus-na-cisjordania/)
+- O ex-Presidente brasileiro **Jair Bolsonaro** deverá ser submetido a cirurgia devido a duas hérnias inguinais. [(link)](https://observador.pt/2025/12/15/bolsonaro-sofre-de-duas-hernias-inguinais-e-deve-ser-operado-segundo-a-sua-defesa/)
+
+### 💵 Economia
+- Os Planos Poupança-Reforma (**PPR**) continuaram a apresentar um baixo rendimento em 2025, falhando em superar a inflação. [(link)](https://eco.sapo.pt/especiais/os-ppr-continuam-a-prometer-muito-e-a-render-muito-pouco-foi-tambem-assim-em-2025/)
+- O Governo reuniu-se com a autoridade de seguros para discutir a supervisão do **Montepio**. [(link)](https://www.publico.pt/2025/12/15/economia/noticia/governo-reunese-autoridade-seguros-discutir-supervisao-montepio-2157674)
+
+### ⚽ Desporto
+- O **FC Porto** recebeu o **Estrela da Amadora** sob pressão para aumentar a vantagem sobre o Sporting na I Liga. [(link)](https://www.noticiasaominuto.com/desporto/2904095/fc-porto-estrela-da-amadora-dragao-pressionado-para-afastar-sporting)

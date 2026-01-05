@@ -1,0 +1,30 @@
+ ### 🗞️ Destaques
+- O ex-Presidente da **Venezuela**, **Nicolás Maduro**, foi detido numa operação dos **EUA**, levando a uma reunião de emergência do Conselho de Segurança da **ONU** e à busca por cooperação por parte da presidente interina **Delcy Rodríguez**. [(link)](https://observador.pt/2026/01/05/analistas-alertam-que-ofensiva-dos-eua-e-teste-a-presenca-da-china-na-america-latina/), [(link)](https://observador.pt/2026/01/05/delcy-rodriguez-convida-eua-a-trabalharem-numa-agenda-de-cooperacao/), [(link)](https://observador.pt/liveblogs/conselho-de-seguranca-da-onu-faz-reuniao-de-emergencia-para-discutir-situacao-na-venezuela/)
+- Em **Portugal**, os candidatos às **Presidenciais 2026** cumpriram o segundo dia de campanha eleitoral, com atividades em várias regiões do país. [(link)](https://observador.pt/liveblogs/presidenciais-marques-mendes-e-catarina-martins-encontram-se-em-espinho-gouveia-e-melo-visita-viseu-e-ventura-vai-ao-alentejo/), [(link)](https://www.noticiasaominuto.com/politica/2913757/ao-minuto-2-dia-de-campanha-para-as-presidenciais-santarem-e-espelho)
+- Ativistas reivindicaram a autoria da sabotagem da rede elétrica de **Berlim**, deixando **45 mil** casas sem eletricidade na capital alemã. [(link)](https://observador.pt/2026/01/05/ativistas-reivindicam-autoria-de-sabotagem-de-rede-eletrica-de-berlim/), [(link)](https://www.cmjornal.pt/cm-ao-minuto/detalhe/ativistas-reivindicam-autoria-de-sabotagem-de-rede-eletrica-de-berlim-45-mil-casas-ficaram-sem-eletricidade)
+
+### 🇵🇹 Portugal
+- Arrancou a conversão de certificados de aforro em papel para formato digital. [(link)](https://www.noticiasaominuto.com/economia/2913738/conversao-de-certificados-de-aforro-em-papel-para-digital-arranca-hoje/), [(link)](https://www.cmjornal.pt/economia/detalhe/conversao-de-certificados-de-aforro-em-papel-para-digital-arranca-hoje)
+- A quantidade de água armazenada nas bacias hidrográficas do país é superior à média, com exceção da região Sul. [(link)](https://www.noticiasaominuto.com/pais/2913748/quantidade-de-agua-armazenada-nas-bacias-e-superior-a-media-exceto-no-sul/), [(link)](https://www.cmjornal.pt/sociedade/detalhe/20260105-072946-quantidade-de-agua-armazenada-nas-bacias-e-superior-a-media-exceto-no-sul)
+- A "droga do riso" vendida a **50 cêntimos** por balão tem levado ao aumento do consumo na rua. [(link)](https://cnnportugal.iol.pt/oxido-nitroso/balao/droga-do-riso-a-50-centimos-por-balao-empurra-consumo-para-a-rua/20260105/695b667dd34e3caad84d1760)
+- Um em cada quatro condutores que morrem nas estradas portuguesas apresenta taxas crime de álcool no sangue. [(link)](https://www.publico.pt/2026/01/05/sociedade/noticia/quatro-condutores-morrem-estradas-taxas-crime-alcool-sangue-2159303)
+- O concurso para a obra do novo Hospital Central do Algarve foi novamente adiado para janeiro. [(link)](https://www.publico.pt/2026/01/05/sociedade/noticia/concurso-obra-novo-hospital-central-algarve-voltou-derrapar-janeiro-2159947)
+
+### 🌍 Mundo
+- A detenção de **Nicolás Maduro** gerou reações internacionais, com a **China** a rejeitar o papel dos **EUA** como "juiz do mundo" e o Presidente da **Colômbia**, **Petro**, a criticar a operação. [(link)](https://www.rtp.pt/noticias/mundo/china-rejeita-papel-dos-eua-como-juiz-do-mundo-apos-captura-de-maduro_n1707860/), [(link)](https://www.rtp.pt/noticias/mundo/petro-critica-eua-por-ser-primeiro-pais-a-bombardear-uma-capital-sul-americana_n1707859/)
+- Um ataque russo a **Kiev** causou a morte de duas pessoas. [(link)](https://observador.pt/liveblogs/ataque-russo-a-kiev-causa-dois-mortos/)
+- Mais de **150** pessoas foram retiradas de um bairro social em **Hong Kong** após um incêndio. [(link)](https://observador.pt/2026/01/05/mais-de-150-pessoas-retiradas-de-bairro-social-em-hong-kong-apos-novo-incendio/)
+- O Primeiro-Ministro irlandês defendeu o "livre comércio" num encontro com o Presidente chinês **Xi Jinping** em Pequim. [(link)](https://www.rtp.pt/noticias/economia/primeiro-ministro-irlandes-defende-livre-comercio-em-encontro-com-xi-jinping-em-pequim_n1707866/), [(link)](https://www.noticiasaominuto.com/mundo/2913743/primeiro-ministro-irlandes-defende-livre-comercio-em-encontro-com-xi)
+- **Moçambique** criou um centro de controlo de contravenções para combater a sinistralidade rodoviária. [(link)](https://www.rtp.pt/noticias/mundo/mocambique-com-centro-de-controlo-de-contravencoes-para-reduzir-sinistralidade_n1707864/)
+
+### 💵 Economia
+- Os preços do petróleo cederam após a intervenção dos **EUA** na **Venezuela**. [(link)](https://eco.sapo.pt/2026/01/05/precos-do-petroleo-cedem-apos-intervencao-dos-eua-na-venezuela-acompanhe-aqui/)
+
+### ⚽ Desporto
+- O tenista **Nuno Borges** iniciou a nova temporada com uma vitória na 1.ª ronda do Open de Hong Kong. [(link)](https://www.noticiasaominuto.com/desporto/2913754/nuno-borges-comeca-nova-epoca-com-vitoria-na-1-ronda-em-hong-kong/), [(link)](https://www.cmjornal.pt/desporto/modalidades/detalhe/nuno-borges-comeca-nova-temporada-com-vitoria-na-primeira-ronda-em-hong-kong)
+- O **FC Porto** registou a sua melhor primeira volta de sempre na I Liga de futebol. [(link)](https://www.noticiasaominuto.com/desporto/2913651/fc-porto-historico-na-i-liga-a-boleia-de-samu-e-anjo-gabriel-batista)
+- **Rúben Dias** sofreu uma nova lesão, aumentando os problemas de **Pep Guardiola** no Manchester City. [(link)](https://www.noticiasaominuto.com/desporto/2913751/ruben-dias-aumenta-problemas-de-guardiola-olhem-para-o-banco)
+
+### 🔬 Ciência e Saúde
+- Cientistas identificaram um composto que pode atrasar os sintomas da doença de Machado-Joseph. [(link)](https://www.publico.pt/2026/01/05/ciencia/noticia/cientistas-identificam-composto-atrasar-sintomas-doenca-machadojoseph-2159536)
+- Médicos alertam para os sintomas mais comuns da **Covid-19**. [(link)](https://www.noticiasaominuto.com/lifestyle/2913758/covid-19-medicos-deixam-alerta-sobre-sintomas-mais-comuns)

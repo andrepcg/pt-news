@@ -1,0 +1,22 @@
+ ### 🗞️ Destaques
+- O **Conselho de Segurança da ONU** reuniu-se a pedido de Kiev na sequência de ataques russos e da alegada utilização do míssil Oreshnik. [(link)](https://www.publico.pt/2026/01/10/mundo/noticia/conselho-seguranca-onu-reunese-pedido-kiev-apos-ataques-russos-2160715)
+- O Presidente da República, **Marcelo Rebelo de Sousa**, anunciou que os médicos que integrem o novo sistema SINACC terão de apresentar uma declaração pública de interesses. [(link)](https://www.publico.pt/2026/01/10/sociedade/noticia/medicos-facam-sinacc-terao-apresentar-declaracao-publica-interesses-2160697)
+- **Manuel João Vieira** oficializou a sua candidatura à Presidência da República. [(link)](https://www.cmjornal.pt/mais-cm/especiais/eleicoes-presidenciais-2026/detalhe/manuel-joao-vieira-candidata-se-contra-politica-que-se-apalhacou)
+
+### 🇵🇹 Portugal
+- Assinalam-se **40 anos da adesão de Portugal à CEE**, com um ex-embaixador a defender que o país precisa de um "salto qualitativo" após ter sido "refundado" por esta integração. [(link)](https://www.noticiasaominuto.com/pais/2916945/antigo-embaixador-defende-que-falta-a-portugal-salto-qualitativo), [(link)](https://www.noticiasaominuto.com/pais/2916944/adesao-completou-25-de-abril-e-transformou-pais-invulgarmente-atrasado)
+- A família de uma **babá brasileira morta em Portugal** não possui recursos para o repatriamento do corpo, que poderá ser sepultado como indigente. [(link)](https://www.publico.pt/2026/01/10/publico-brasil/noticia/baba-morta-patroa-portugal-enterrada-indigente-2160666)
+- O **PS/Madeira** elegeu **Célia Pessegueiro** como sua nova presidente durante o congresso regional. [(link)](https://www.noticiasaominuto.com/politica/2916938/congresso-do-psmadeira-decorre-hoje-e-no-domingo-no-funchal)
+- Registos meteorológicos históricos revelaram que um **furacão atingiu Lisboa há três séculos**. [(link)](https://www.publico.pt/2026/01/10/ciencia/noticia/ha-tres-seculos-furacao-atingia-lisboa-sim-leu-bem-2160571)
+
+### 🌍 Mundo
+- Seul negou as acusações de Pyongyang sobre uma incursão de drones espiões, aumentando a tensão na **Península Coreana**. [(link)](https://www.cmjornal.pt/mundo/detalhe/seul-nega-ter-lancado-drones-espioes-para-a-coreia-do-norte), [(link)](https://www.cmjornal.pt/mundo/detalhe/pyongyang-denuncia-incursao-de-drone-e-diz-que-seul-vai-pagar-um-preco-alto)
+- Quatro pessoas morreram no **desabamento de um aterro sanitário nas Filipinas**. [(link)](https://www.noticiasaominuto.com/mundo/2916946/quatro-mortos-em-desabamento-em-aterro-sanitario-nas-filipinas)
+- Caracas anunciou o regresso de um petroleiro ao país após uma operação conjunta com os **Estados Unidos**. [(link)](https://www.cmjornal.pt/mundo/detalhe/caracas-anuncia-regresso-a-pais-de-petroleiro-em-operacao-conjunta-com-eua)
+
+### ⚽ Desporto
+- O **Manchester United** procura estabilidade no pós-Ferguson, com **Rúben Amorim** a ser mencionado na sucessão de treinadores. [(link)](https://www.publico.pt/2026/01/10/desporto/noticia/damned-united-historia-repete-manchester-2160624), [(link)](https://www.noticiasaominuto.com/desporto/2916947/despedimento-de-amorim-no-united-da-que-falar-nao-consigo-entender)
+- O **Sporting** registou um investimento recorde e a recuperação do plantel para o resto da temporada. [(link)](https://www.noticiasaominuto.com/desporto/2916950/por-ca-minho-reina-em-leiria-e-investimento-recorde-no-sporting), [(link)](https://www.noticiasaominuto.com/desporto/2916419/rui-borges-recupera-tridente-e-sporting-ja-ve-a-luz-ao-fundo-do-tunel)
+- O **Benfica** de **José Mourinho** enfrenta cinco "finais" em **14 dias** após a derrota na Taça da Liga. [(link)](https://www.noticiasaominuto.com/desporto/2916490/mourinho-levado-ao-limite-benfica-joga-cinco-finais-em-14-dias)
+- A possível renovação de **Farioli** no **FC Porto** está em análise, com o exemplo de **Roger Schmidt** a ser referido. [(link)](https://www.noticiasaominuto.com/desporto/2916644/exemplo-de-schmidt-pode-ser-aviso-para-farioli-no-fc-porto-no-benfica)
+- **Neemias Queta** contribuiu para o regresso dos **Boston Celtics** às vitórias na **NBA**. [(link)](https://www.noticiasaominuto.com/desporto/2916941/boston-celtics-regressam-as-vitorias-na-nba-com-ajuda-de-neemias-queta)

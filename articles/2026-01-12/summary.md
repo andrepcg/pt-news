@@ -1,0 +1,27 @@
+ ### 🗞️ Destaques
+- **Donald Trump** pressiona a Reserva Federal dos EUA sobre as taxas de juro, enfrentando um processo-crime, enquanto o ouro e a prata atingiram máximos. [(link)](https://observador.pt/2026/01/12/governo-dos-eua-ameaca-banco-central-com-tribunais-por-nao-cortar-taxa-de-juro/), [(link)](https://www.publico.pt/2026/01/12/economia/noticia/aberto-processocrime-jerome-powell-chairman-fed-acusa-trump-retaliacao-2160850)
+- O **Irão** bloqueou a internet por **84 horas** em meio a protestos violentos, com o governo a alegar interferência de **Trump**. [(link)](https://www.rtp.pt/noticias/mundo/irao-sem-internet-ha-84-horas-devido-aos-protestos_n1709518), [(link)](https://www.rtp.pt/noticias/mundo/protestos-tornaram-se-violentos-para-dar-uma-desculpa-a-trump-para-intervir-diz-irao_n1709514)
+- A campanha para as **Eleições Presidenciais de 2026** em Portugal entrou na reta final, com os candidatos a focar-se no interior do país. [(link)](https://observador.pt/liveblogs/candidatos-arrancam-segunda-semana-de-campanha-para-as-presidenciais-no-interior-do-pais/), [(link)](https://www.rtp.pt/noticias/politica/campanha-para-as-eleicoes-presidenciais-entra-na-reta-final_n1709513)
+- O **Banco de Portugal** venceu uma batalha legal contra fundos internacionais relacionada com a resolução do **BES**. [(link)](https://eco.sapo.pt/2026/01/12/banco-de-portugal-ganha-batalha-contra-fundos-internacionais-devido-a-resolucao-do-bes/)
+
+### 🇵🇹 Portugal
+- Mais de **10.700 autarcas** votaram hoje em eleições indiretas para as Comissões de Coordenação e Desenvolvimento Regional (**CCDR**). [(link)](https://www.noticiasaominuto.com/pais/2917611/mais-de-10700-autarcas-votam-hoje-em-eleicoes-indiretas-para-as-ccdr)
+- Registaram-se nove mortos nas estradas portuguesas entre sexta-feira e domingo. [(link)](https://www.noticiasaominuto.com/pais/2917616/nove-mortos-nas-estradas-entre-sexta-feira-e-domingo-os-dados-da-gnr)
+- O projeto do **TGV Porto-Lisboa** enfrenta atrasos após o chumbo da **APA** ao seu primeiro troço. [(link)](https://eco.sapo.pt/2026/01/12/atrasos-emperram-os-dois-primeiros-trocos-do-tgv-entre-porto-e-lisboa/)
+- A **PSP** apreendeu cerca de **19 mil armas** nos últimos seis anos, revelando uma tendência crescente. [(link)](https://observador.pt/2026/01/12/psp-apreendeu-19-mil-armas-nos-ultimos-seis-anos-ha-uma-tendencia-crescente-no-numero-de-armas-apreendidas/)
+- O primeiro helicóptero **Black Hawk** para o Exército Português será entregue no último trimestre de **2026**, no âmbito da preparação das Forças Armadas para cenários de alta intensidade. [(link)](https://eco.sapo.pt/2026/01/12/primeiro-helicoptero-para-o-exercito-chega-no-ultimo-trimestre-de-2026/)
+
+### 🌍 Mundo
+- **Donald Trump** autodenominou-se Presidente Interino da Venezuela e demonstrou abertura para um encontro com a líder interina. [(link)](https://observador.pt/liveblogs/donald-trump-diz-se-aberto-a-encontro-com-lider-interina-da-venezuela/)
+- O **Reino Unido** desenvolverá um novo míssil balístico de longo alcance para a **Ucrânia**, capaz de atingir alvos na Rússia. [(link)](https://observador.pt/liveblogs/reino-unido-vai-desenvolver-novo-missil-balistico-para-a-ucrania-capaz-de-atingir-alvos-na-russia/)
+- O tribunal de **Hong Kong** analisa um pedido de pena mais leve no caso de **Jimmy Lai**, num cenário de crescente autocensura na imprensa local. [(link)](https://observador.pt/2026/01/12/tribunal-de-hong-kong-analisa-pedido-de-pena-mais-leve-no-caso-de-jimmy-lai/)
+
+### 💵 Economia
+- **Investidores internacionais** arrestaram **mil milhões de euros** da **Venezuela** em contas do **Novobanco** em Portugal. [(link)](https://eco.sapo.pt/2026/01/12/investidores-arrestam-mil-milhoes-da-venezuela-no-novobanco/)
+- O **Compete 2030** enfrenta dificuldades na execução de fundos europeus, preparando uma "operação limpeza" de projetos parados e o lançamento de novos concursos. [(link)](https://eco.sapo.pt/entrevista/compete-tem-muitas-dificuldades-em-cumprir-prazos-fazer-omeletes-sem-ovos-e-muito-dificil/), [(link)](https://eco.sapo.pt/entrevista/compete-vai-lancar-concursos-equivalentes-a-um-terco-da-sua-dotacao/)
+- O Governo aprovou um plano para a **Economia Circular** que inclui incentivos financeiros e fiscais para empresas. [(link)](https://eco.sapo.pt/2026/01/12/linhas-vouchers-incentivos-fiscais-plano-para-a-economia-circular-traz-ajudas-para-as-empresas/)
+- O mercado de Fusões e Aquisições (**M&A**) em Portugal registou um abrandamento em **2025**. [(link)](https://eco.sapo.pt/entrevista/2025-foi-um-ano-de-abrandamento-do-mercado-de-ma-em-portugal/)
+- O **Japão** iniciou uma missão inédita para extrair terras raras de águas profundas, visando reduzir a dependência da **China**. [(link)](https://www.rtp.pt/noticias/economia/japao-inicia-missao-em-aguas-profundas-para-extrair-terras-raras_n1709515)
+
+### 🎭 Cultura
+- Os **Globos de Ouro 2026** destacaram "Batalha Atrás de Batalha" e "O Agente Secreto" entre os vencedores da noite. [(link)](https://observador.pt/2026/01/12/globos-de-ouro-batalha-atras-de-batalha-conquista-a-noite-chalamet-vence-dicaprio-the-pitt-e-adolescencia-dominam-na-televisao/), [(link)](https://www.publico.pt/2026/01/12/culturaipsilon/noticia/paul-thomas-anderson-agente-secreto-adolescencia-globo-atras-globo-2160842)

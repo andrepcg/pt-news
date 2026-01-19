@@ -1,0 +1,27 @@
+ ### 🗞️ Destaques
+-   **António José Seguro** e **André Ventura** avançaram para a segunda volta das Eleições Presidenciais 2026, com a esquerda a manifestar apoio a Seguro e a direita a mostrar-se dividida. [(link)](https://observador.pt/liveblogs/pedro-duarte-judice-e-francisco-rodrigues-dos-santos-apoiam-seguro-na-segunda-volta/), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-presidenciais-seguro-e-ventura-seguem-para-segunda-volta_a1_1711321), [(link)](https://www.publico.pt/2026/01/19/politica/noticia/seguro-ventura-passam-segunda-volta-presidenciais-rescaldo-eleicoes-2161625)
+-   Uma colisão de comboios de alta velocidade em **Espanha** resultou em **39 mortos** e dezenas de feridos. [(link)](https://www.publico.pt/2026/01/19/newsletter/despertador), [(link)](https://www.noticiasaominuto.com/mundo/2921913/aumenta-para-39-o-numero-de-mortos-apos-colisao-de-comboios-em-espanha)
+-   **Moçambique** enfrenta cheias que submeteram **40%** da província de **Gaza** e um surto de cólera com **2.343 casos**. [(link)](https://www.rtp.pt/noticias/mundo/cheias-em-mocambique-deixam-40-de-gaza-submersa-e-ja-destruiram-152-km-de-estradas_n1711323), [(link)](https://www.rtp.pt/noticias/mundo/surto-de-colera-em-mocambique-ja-soma-2343-casos-em-quatro-meses_n1711320)
+
+### 🇵🇹 Portugal
+-   Dez distritos de **Portugal continental** estão sob aviso amarelo devido à agitação marítima. [(link)](https://observador.pt/2026/01/19/dez-distritos-do-continente-sob-aviso-amarelo-devido-a-agitacao-maritima-9/), [(link)](https://rr.pt/noticia/pais/2026/01/19/dez-distritos-do-continente-sob-aviso-amarelo-devido-a-agitacao-maritima/455867/?utm_medium=rss)
+-   Os impostos sobre a cerveja em Portugal correspondem a um terço da média europeia, com a **OMS** a apontar lacunas na tributação do álcool. [(link)](https://www.publico.pt/2026/01/19/sociedade/noticia/impostos-cerveja-portugal-sao-terco-media-europeia-oms-aponta-lacunas-2161066)
+-   O embaixador do **Brasil** em Portugal realçou o fluxo de pessoas entre os dois países e a necessidade de cooperação em educação. [(link)](https://www.publico.pt/2026/01/19/publico-brasil/entrevista/fluxo-pessoas-brasil-portugal-incontornavel-embaixador-2161562)
+
+### 🌍 Mundo
+-   O Presidente da **Guatemala** decretou "estado de emergência" para combater gangues após motins prisionais. [(link)](https://observador.pt/2026/01/19/presidente-da-guatemala-decreta-estado-de-emergencia-para-combater-gangues/)
+-   As autoridades detiveram os responsáveis pela explosão mortal numa fábrica de aço na **China**. [(link)](https://www.rtp.pt/noticias/mundo/responsaveis-de-fabrica-de-aco-chinesa-detidos-apos-explosao-que-deixou-dois-mortos_n1711319)
+-   A **China** registou uma perda de **3,4 milhões** de habitantes em 2025, impulsionada por um recorde negativo de natalidade. [(link)](https://www.cmjornal.pt/mundo/detalhe/china-perde-3-4-milhoes-de-habitantes-em-2025-devido-a-recorde-negativo-de-natalidade)
+-   As **Filipinas** anunciaram a primeira descoberta de gás natural em mais de uma década. [(link)](https://www.noticiasaominuto.com/mundo/2921908/filipinas-anunciam-primeira-descoberta-de-gas-natural-em-mais-de-uma-decada)
+-   Milhares de famílias no sudeste de **Inglaterra** estão sem acesso a água potável devido a um "apagão" da água. [(link)](https://eco.sapo.pt/opiniao/o-apagao-da-agua-que-sobressaltou-inglaterra/)
+
+### 💵 Economia
+-   A inflação na **Zona Euro** e a sucessão no **BCE** foram temas em destaque, enquanto o **FMI** atualizou as suas perspetivas económicas e os combustíveis subiram. [(link)](https://eco.sapo.pt/2026/01/19/o-dia-em-direto-nos-mercados-e-na-economia-19-de-janeiro-3/), [(link)](https://eco.sapo.pt/2026/01/19/5-coisas-que-vao-marcar-o-dia-1928/)
+-   O **Fórum Económico Mundial** em Davos reúne líderes mundiais, incluindo o Presidente timorense. [(link)](https://eco.sapo.pt/2026/01/19/5-coisas-que-vao-marcar-o-dia-1928/), [(link)](https://www.noticiasaominuto.com/mundo/2921903/pr-timorense-viaja-para-a-suica-para-participar-no-forum-economico-mundial)
+-   As ações da **PSMC** subiram quase **10%** após a aquisição de uma fábrica pela **Micron** por **1.550 milhões de euros**. [(link)](https://www.rtp.pt/noticias/economia/acoes-da-psmc-sobem-quase-10-apos-a-aquisicao-de-uma-fabrica-pela-micron_n1711322)
+-   A retalhista de luxo **Saks Global** poderá ter de alargar a sua base de consumidores para sobreviver após um período de insolvência. [(link)](https://eco.sapo.pt/2026/01/19/saks-devera-ter-de-alargar-base-de-consumidores-para-sobreviver/)
+-   A **Inteligência Artificial** em 2026 foca-se na soberania, colaboração humano-IA, transparência e agilidade empresarial. [(link)](https://eco.sapo.pt/opiniao/ia-em-2026-da-simples-adocao-a-vantagem-decisiva/)
+
+### ⚽ Desporto
+-   O mercado de transferências de inverno está em alta, com rumores e negócios a agitar os clubes de futebol. [(link)](https://www.noticiasaominuto.com/desporto/2921453/aposta-de-mourinho-na-formacao-e-bla-bla-bla-rafa-e-so-a-confirmacao), [(link)](https://www.noticiasaominuto.com/desporto/2921948/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-transferencias)
+-   A tenista **Coco Gauff** avançou para a segunda ronda do **Open da Austrália**. [(link)](https://observador.pt/2026/01/19/coco-gauff-na-segunda-ronda-do-open-da-australia-apos-derrotar-kamilla-rakhimova/)

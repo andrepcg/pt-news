@@ -1,0 +1,19 @@
+ ### 🗞️ Destaques
+- **Portugal** enfrenta as consequências das depressões Kristin e Leonardo, que causaram uma morte e milhões em prejuízos.
+- Projetos-piloto para o rastreio do cancro do pulmão e da próstata foram anunciados no país.
+- A **União Europeia** considera um plano de **800 mil milhões de euros** para a defesa, visando criar até **1,2 milhões de empregos**.
+- A **Lei do Lobbying** foi publicada em Portugal, estabelecendo um registo de transparência.
+
+### 🇵🇹 Portugal
+- As depressões Kristin e Leonardo causaram a morte de uma cidadã moçambicana e milhões em prejuízos (100 milhões de euros reportados no Oeste e 40 milhões de euros de apoio a agricultores). O mau tempo resultou em desalojados em **Penafiel** e na reabertura da **Linha do Norte**, enquanto projetos-piloto de rastreio de cancro do pulmão e da próstata (previsto para **2027**) avançam, e a campanha para as Presidenciais **2026** registou visitas dos candidatos a zonas afetadas. [(link)](https://www.rtp.pt/noticias/mundo/cidada-de-nacionalidade-mocambicana-morre-em-portugal-durante-tempestade_n1715520), [(link)](https://eco.sapo.pt/2026/02/03/empresas-ja-tem-formulario-para-indicar-prejuizos-da-depressao-kristin-100-milhoes-ja-reportados-no-oeste/), [(link)](https://www.rtp.pt/noticias/pais/pos-depressao-kristin-e-a-evolucao-do-estado-do-tempo_e1715519), [(link)](https://www.rtp.pt/noticias/pais/uls-santa-maria-pronta-para-arrancar-com-projeto-piloto-de-rastreio-do-cancro-do-pulmao_n1715514), [(link)](https://www.rtp.pt/noticias/pais/projetos-piloto-de-rastreio-ao-cancro-da-prostata-em-2027-serao-teste-para-programa-nacional_n1715513), [(link)](https://www.publico.pt/2026/02/03/sociedade/noticia/portugueses-ciganos-estao-mobilizados-extremadireita-motivounos-votar-2163199)
+
+### 🌍 Mundo
+- Três pessoas ficaram feridas num ataque russo a **Kiev**, na **Ucrânia**, antes de negociações de paz, enquanto na **Venezuela**, **Corina Machado** manifestou disponibilidade para discutir uma transição. [(link)](https://observador.pt/liveblogs/tres-feridos-em-novo-ataque-russo-a-kiev-nas-vesperas-de-negociacoes-de-paz-palestinianos-autorizados-a-entrar-em-gaza-apos-reabertura-de-rafah/), [(link)](https://observador.pt/2026/02/03/corina-machado-pronta-para-discutir-transicao-com-lider-interina-da-venezuela/)
+- O **Partido Comunista Chinês** e a oposição taiwanesa defenderam uma "nação comum", enquanto **Elon Musk** anunciou a fusão da **SpaceX** com a **xAI** para lançar data centers no espaço e impulsionar a IA. [(link)](https://www.rtp.pt/noticias/mundo/pc-chinês-e-oposicao-taiwanesa-defendem-nacao-comum-e-rejeitam-confronto_n1715516), [(link)](https://www.noticiasaominuto.com/tech/2931571/elon-musk-funde-spacex-com-a-xai-para-lancar-data-centers-para-o-espaco)
+
+### 💵 Economia
+- A **União Europeia** está a considerar um plano de **800 mil milhões de euros** para investimento na defesa, que poderá criar até **1,2 milhões de empregos** na Europa até **2030**. [(link)](https://eco.sapo.pt/2026/02/03/investimento-na-defesa-podera-criar-ate-12-milhoes-de-empregos-na-europa/)
+- O mercado de luxo na **China** regista recuperação, mas enfrenta desafios da concorrência local, e os preços da gasolina e do gasóleo registaram subidas. [(link)](https://eco.sapo.pt/2026/02/03/luxo-recupera-na-china-mas-produtos-europeus-estao-a-perder-terreno/), [(link)](https://www.noticiasaominuto.com/economia/2931149/ja-viu-o-que-aconteceu-aos-combustiveis-estes-sao-os-novos-precos)
+
+### ⚽ Desporto
+- A I Liga de futebol foi relançada após a derrota do **FC Porto**, com o mercado de transferências dos grandes clubes ativo. [(link)](https://www.publico.pt/2026/02/03/desporto/noticia/fofana-chegar-alisson-sair-ajustes-mercado-ultima-hora-2163433), [(link)](https://www.noticiasaominuto.com/desporto/2931545/no-batatal-de-rio-maior-fc-porto-parou-no-vermelho-e-ve-verde-a-perna)

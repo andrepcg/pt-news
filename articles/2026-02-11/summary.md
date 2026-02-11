@@ -1,0 +1,22 @@
+ ### 🗞️ Destaques
+-   O mau tempo em **Portugal** gerou mais de **1.500** ocorrências, resultando em inundações no rio Mondego e evacuações de cerca de **3.000** pessoas em **Coimbra** e **31** na **Costa da Caparica**. [(link)](https://observador.pt/2026/02/11/mau-tempo-em-portugal-milhares-de-ocorrencias-inundacoes-no-mondego-e-evacuacoes-em-coimbra-e-costa-da-caparica/), [(link)](https://www.rtp.pt/noticias/pais/tres-mil-pessoas-deslocadas-em-coimbra-esperada-chuva-persistente-nas-regioes-norte-e-centro_e1718083/), [(link)](https://www.noticiasaominuto.com/pais/2937177/deslizamento-obrigou-a-retirada-de-31-pessoas-na-costa-da-caparica/)
+-   A Ministra da Administração Interna, **Margarida Blasco**, demitiu-se, com o Primeiro-Ministro **Luís Montenegro** a assumir interinamente a pasta e a preparar-se para o debate quinzenal. [(link)](https://www.rtp.pt/noticias/politica/ministra-da-administracao-interna-demite-se-montenegro-assume-pasta-e-enfrenta-debate-quinzenal/)
+-   Dez pessoas morreram num ataque a tiro numa escola secundária no **Canadá**, o que levou o primeiro-ministro canadiano a cancelar uma viagem à Europa. [(link)](https://www.rtp.pt/noticias/mundo/dez-mortos-em-ataque-a-tiro-numa-escola-secundaria-no-canada-primeiro-ministro-chocado/)
+
+### 🇵🇹 Portugal
+-   A mortalidade por doenças cardiovasculares em **Portugal** atingiu em **2023** o valor mais baixo em **30** anos, apesar de a despesa do **SNS** com medicamentos para estas condições ter aumentado **41%** em nove anos. [(link)](https://www.rtp.pt/noticias/pais/mortalidade-por-doencas-cardiovasculares-em-portugal-atinge-minimo-de-30-anos-despesa-do-sns-aumenta-41/)
+-   Em **Lisboa**, **Carlos Moedas** assegurou a maioria na **Câmara Municipal** ao delegar pelouros a um ex-vereador do Chega. [(link)](https://observador.pt/2026/02/11/moedas-entrega-vereacao-a-ex-chega-e-consegue-maioria-em-lisboa/)
+-   Uma operação antidroga na região do **Porto** resultou na detenção de **15** pessoas e na apreensão de **10 mil** doses de estupefacientes. [(link)](https://rr.pt/noticia/pais/2026/02/11/quinze-pessoas-detidas-e-10-mil-doses-de-droga-aprendida-na-regiao-do-porto/459024/?utm_medium=rss)
+-   **Portugal** e o **Brasil** formalizaram um acordo para o reconhecimento mútuo da carteira de motorista. [(link)](https://www.publico.pt/2026/02/11/publico-brasil/noticia/portugal-brasil-aprovam-acordo-reconhecimento-mutuo-carteira-motorista-2164269/)
+
+### 🌍 Mundo
+-   Drones ucranianos atacaram uma refinaria da **Lukoil** em **Volgogrado**, e o **Kremlin** defende restrições impostas ao **Telegram** por incumprimento da lei russa. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/drones-ucranianos-atacam-refinaria-russa-kremlin-defende-restricoes-ao-telegram/)
+-   Peritos de defesa sugerem que a **Europa** procure autonomia estratégica face a uma potencial "nova ordem" de **Donald Trump**, enquanto **Benjamin Netanyahu** se encontra nos **EUA** para debater a paz no Médio Oriente. [(link)](https://www.noticiasaominuto.com/mundo/2937185/peritos-de-defesa-recomendam-autonomia-a-europa-face-a-nova-ordem-de-trump/), [(link)](https://observador.pt/liveblogs/netanyahu-esta-nos-eua-para-apresentar-a-trump-as-ideias-de-israel-para-as-negociacoes-de-paz-no-medio-oriente/)
+-   Republicanos nos **EUA** manifestaram intenção de prender o artista **Bad Bunny** devido à sua atuação no **Super Bowl**. [(link)](https://eco.sapo.pt/2026/02/11/republicanos-querem-prender-bad-bunny-pelo-espetaculo-no-super-bowl/)
+
+### 💵 Economia
+-   Idosos europeus, incluindo cidadãos portugueses, consideram os impostos sobre heranças "demasiado elevados". [(link)](https://cnnportugal.iol.pt/europa/observatorio/idosos-europeus-consideram-impostos-a-herancas-demasiado-elevados/20260211/698c25cbd34e0ec52ec36a97/)
+
+### 🌐 Tecnologia e Sociedade
+-   **Google** e **Meta** refutam em tribunal as alegações de que as suas redes sociais viciam os jovens. [(link)](https://www.noticiasaominuto.com/tech/2937129/google-e-meta-contestam-alegacoes-de-vicio-em-redes-sociais/)
+-   Há relatos de que jogos online estão a ser usados para radicalizar crianças. [(link)](https://www.publico.pt/2026/02/11/newsletter/despertador/)

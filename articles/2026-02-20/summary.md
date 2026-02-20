@@ -1,0 +1,27 @@
+ ### 🗞️ Destaques
+- A **Tempestade Kristin** provocou prejuízos de **5 a 6 mil milhões de euros** na região Centro, enquanto barragens do sul asseguram água para **2 a 3 anos**, com o país a iniciar esforços de recuperação. [(link)](https://observador.pt/liveblogs/tempestades-podem-custar-cinco-ou-seis-mil-milhoes-de-euros-afirma-lider-da-estrutura-de-missao/), [(link)](https://www.rtp.pt/noticias/pais/sul-do-pais-com-agua-para-dois-ou-tres-anos_n1720343), [(link)](https://eco.sapo.pt/2026/02/20/empresas-dao-a-mao-produtos-e-milhoes-aos-afetados-pelas-tempestades/)
+- Os aumentos salariais na **Função Pública** iniciaram-se, as contribuições de estrangeiros para a Segurança Social atingiram **4,1 mil milhões de euros** em **2025**, e o Governo aprovou as linhas gerais do **Plano de Transformação e Resiliência (PTRR)**. [(link)](https://eco.sapo.pt/2026/02/20/aumentos-salariais-na-funcao-publica-comecam-a-ser-pagos-a-partir-de-hoje/), [(link)](https://eco.sapo.pt/2026/02/20/14-das-contribuicoes-ja-vem-de-estrangeiros-descontaram-mais-de-41-mil-milhoes-para-a-seguranca-social-em-2025/), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-conselho-de-ministros-aprova-hoje-ptrr_a1_1720350)
+
+### 🇵🇹 Portugal
+- A **GNR** intercetou uma lancha suspeita de tráfico de droga, e um jovem português é investigado por espionagem. [(link)](https://www.rtp.pt/noticias/pais/gnr-captura-lancha-suspeita-de-ligacao-a-trafico-internacional-de-droga_n1720352), [(link)](https://cnnportugal.iol.pt/jovem-espiao/espiao-russo/inventou-uma-organizacao-criminosa-atuou-como-agente-duplo-como-um-jovem-portugues-acusado-de-espionagem-enganou-as-autoridades-durante-um-ano/20260220/6997a0b7d34e28842c80d791)
+- O Governo destinou **33,5 milhões de euros** (2% do imposto do tabaco) para a prevenção e controlo do tabagismo. [(link)](https://observador.pt/2026/02/20/governo-destina-2-do-imposto-do-tabaco-para-a-prevencao-e-controlo-do-tabagismo/)
+- A qualidade no acolhimento de crianças é afetada por baixos salários em instituições. [(link)](https://www.rtp.pt/noticias/pais/baixos-salarios-em-instituicoes-afetam-qualidade-do-acolhimento-de-criancas_n1720345)
+
+### 🌍 Mundo
+- **Donald Trump** prolongou sanções à **Rússia**, e o **Irão** advertiu **António Guterres** sobre uma resposta decisiva a ataques. [(link)](https://observador.pt/liveblogs/ameaca-extraordinaria-trump-prolonga-sancoes-aplicadas-a-russia/), [(link)](https://www.cmjornal.pt/mundo/detalhe/irao-adverte-guterres-de-que-respondera-de-forma-decisiva-em-caso-de-ataque)
+- **António Guterres** anunciou uma comissão da **ONU** para examinar o controlo humano da Inteligência Artificial. [(link)](https://www.noticiasaominuto.com/tech/2942327/guterres-onu-vai-lancar-comissao-sobre-o-controlo-humano-da-ia)
+- **Moçambique** registou **103 novos casos de cólera** em 24 horas, e a pobreza na **Guiné-Bissau** foi alegadamente usada para fabricar provas anti-vacinas. [(link)](https://www.rtp.pt/noticias/mundo/epidemia-de-colera-em-mocambique-com-mais-103-novos-casos-em-24-horas_n1720349), [(link)](https://www.publico.pt/2026/02/20/ciencia/noticia/usar-pobreza-guinebissau-inventar-provas-vacinas-2165387)
+
+### 💵 Economia
+- A espanhola **Cortizo** investirá **100 milhões de euros** numa fábrica em **Chaves**, criando **100 empregos**, e a **Navalrocha** obteve um contrato de **16,3 milhões de euros**. [(link)](https://eco.sapo.pt/2026/02/20/espanhola-cortizo-constroi-fabrica-de-100-milhoes-em-chaves-e-cria-100-empregos/), [(link)](https://eco.sapo.pt/2026/02/20/navalrocha-ganha-contrato-de-163-milhoes-para-modernizar-duas-fragatas-da-marinha/)
+- Empresas mobilizam apoio aos afetados pela **Tempestade Kristin**, e o Fórum Económico defendeu a urgência de um fundo de catástrofes. [(link)](https://eco.sapo.pt/2026/02/20/empresas-dao-a-mao-produtos-e-milhoes-aos-afetados-pelas-tempestades/), [(link)](https://eco.sapo.pt/2026/02/20/forum-economico-seguros-se-o-fundo-de-catastrofes-nao-for-criado-desta-vez-nunca-sera/)
+
+### ⚽ Desporto
+- **Cristiano Ronaldo** alcançou o recorde de **1300 jogos** na carreira. [(link)](https://www.noticiasaominuto.com/desporto/2922467/cristiano-ronaldo-bate-recorde-que-ja-nao-era-assunto-desde-o-seculo-xx)
+- **Neemias Queta** participou na vitória dos **Celtics** na **NBA**, e o futebol nacional registou diversos destaques. [(link)](https://www.noticiasaominuto.com/desporto/2942345/18-minutos-de-neemias-queta-e-show-de-jaylen-brown-catapultam-celtics), [(link)](https://www.noticiasaominuto.com/desporto/2942254/benfica-real-madrid-nao-foi-so-prestianni-cenario-muito-bem-montado), [(link)](https://www.noticiasaominuto.com/desporto/2941889/para-farioli-resolver-os-numeros-que-explicam-crise-ofensiva-do-fc-porto)
+
+### 🎭 Cultura
+- O ator **Eric Dane (53 anos)**, conhecido por "Anatomia de Grey", faleceu devido a Esclerose Lateral Amiotrófica (ELA). [(link)](https://observador.pt/2026/02/20/morreu-o-ator-eric-dane-o-dr-mark-sloan-de-anatomia-de-grey-tinha-53-anos-e-sofria-de-esclerose-lateral-amiotrofica/)
+
+### 🔬 Ciência e Ambiente
+- Poluição atmosférica foi detetada após a reentrada de um foguetão **Falcon 9**. [(link)](https://www.noticiasaominuto.com/tech/2942289/detetada-pela-primeira-vez-poluicao-atmosferica-provocada-por-foguetao)

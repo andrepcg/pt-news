@@ -1,8 +1,6 @@
 name: Deploy to Firebase Hosting
 
 on:
-  push:
-    branches: ["master"]
   workflow_dispatch:
 
 jobs:
@@ -24,8 +22,8 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          NEXT_PUBLIC_MEILISEARCH_URL: ${{ secrets.NEXT_PUBLIC_MEILISEARCH_URL }}
-          NEXT_PUBLIC_MEILISEARCH_KEY: ${{ secrets.NEXT_PUBLIC_MEILISEARCH_KEY }}
+          NEXT_PUBLIC_MEILISEARCH_URL: ${{ vars.NEXT_PUBLIC_MEILISEARCH_URL }}
+          NEXT_PUBLIC_MEILISEARCH_KEY: ${{ vars.NEXT_PUBLIC_MEILISEARCH_KEY }}
 
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
@@ -33,4 +31,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           channelId: live
-          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          projectId: ${{ vars.FIREBASE_PROJECT_ID }}

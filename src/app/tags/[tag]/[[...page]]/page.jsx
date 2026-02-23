@@ -161,7 +161,7 @@ export async function generateMetadata({ params }) {
 }
 
 export async function generateStaticParams() {
-  const tags = await getAllTagsWithFrequency(10);
+  const tags = await getAllTagsWithFrequency();
   const params = [];
 
   for (const { tag, frequency } of tags) {

@@ -22,6 +22,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
+          ARTICLES_PER_TAG_PAGE: 1000
           NEXT_PUBLIC_MEILISEARCH_URL: ${{ vars.NEXT_PUBLIC_MEILISEARCH_URL }}
           NEXT_PUBLIC_MEILISEARCH_KEY: ${{ vars.NEXT_PUBLIC_MEILISEARCH_KEY }}
 

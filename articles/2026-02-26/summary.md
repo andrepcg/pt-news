@@ -1,0 +1,28 @@
+ ### 🗞️ Destaques
+- O governo dos **EUA** reexamina documentos do caso **Jeffrey Epstein**, incluindo potenciais ligações a **Donald Trump**, após acusações de ocultação de ficheiros. [(link)](https://observador.pt/2026/02/26/governo-dos-eua-reexamina-documentos-de-caso-epstein-apos-acusacoes-de-ocultacao-de-ficheiros/), [(link)](https://www.rtp.pt/noticias/mundo/governo-dos-eua-reexamina-documentos-de-caso-epstein-apos-acusacoes-de-ocultacao-de-ficheiros_n1721663)
+- Um piloto de caça norte-americano foi detido nos **EUA** por alegadamente ter treinado a Força Aérea chinesa. [(link)](https://www.rtp.pt/noticias/mundo/piloto-de-caca-norte-americano-detido-nos-eua-por-alegado-treino-da-forca-aerea-chinesa_n1721665), [(link)](https://cnnportugal.iol.pt/china/estados-unidos/piloto-de-caca-norte-americano-detido-nos-eua-por-alegado-treino-da-forca-aerea-chinesa/20260226/699fee02d34e28842c81187e)
+- O **Governo** português e o **Banco Europeu de Investimento (BEI)** reforçam os apoios para a reconstrução das zonas afetadas pelas recentes tempestades, através de novas linhas de crédito. [(link)](https://www.rtp.pt/noticias/politica/conselho-de-ministros-aprova-alargamento-territorial-de-apoios-a-reconstrucao_n1721668), [(link)](https://eco.sapo.pt/2026/02/26/bei-vai-lancar-duas-linhas-de-credito-para-investimento-nas-zonas-afetadas-pelas-tempestades/)
+- Ataques russos na **Ucrânia** causaram 15 feridos em **Kiev**, **Krivi Rig**, **Zaporijia** e **Kharkiv**. [(link)](https://www.rtp.pt/noticias/mundo/quinze-feridos-em-ataque-russo-a-kiev-krivi-rig-zaporizhia-e-kharkiv_n1721666), [(link)](https://www.noticiasaominuto.com/mundo/2945610/quinze-feridos-em-ataque-russo-a-kyiv-krivi-rig-zaporijia-e-kharkiv)
+
+### 🇵🇹 Portugal
+- Profissionais de saúde do **Hospital de Braga** agendaram uma greve para 13 de março em protesto contra o pagamento do estacionamento. [(link)](https://observador.pt/2026/02/26/greve-a-13-de-marco-no-hospital-de-braga-contra-pagamento-do-estacionamento/), [(link)](https://www.rtp.pt/noticias/pais/greve-a-13-de-marco-no-hospital-de-braga-contra-pagamento-do-estacionamento_n1721669)
+- Vereadores eleitos pelo **Chega** já asseguram governação em quatro das cinco maiores câmaras municipais do país. [(link)](https://eco.sapo.pt/2026/02/26/vereadores-eleitos-pelo-chega-ja-governam-em-quatro-das-cinco-maiores-camaras/)
+- Cientistas alertam para falhas estruturais em Portugal que agravam os efeitos das tempestades. [(link)](https://www.publico.pt/2026/02/26/azul/noticia/cientistas-apontam-portugal-falhas-estruturais-agravam-efeitos-tempestades-2166017)
+- Terminou hoje o prazo para a apresentação de candidaturas à liderança do **Partido Socialista**. [(link)](https://eco.sapo.pt/2026/02/26/5-coisas-que-vao-marcar-o-dia-1955/)
+
+### 🌍 Mundo
+- O senador **Marco Rubio** destacou a "estabilidade estratégica" nas relações entre **EUA** e **China**, apesar de tensões. [(link)](https://observador.pt/2026/02/26/marco-rubio-destaca-estabilidade-estrategica-nas-relacoes-entre-eua-e-china/), [(link)](https://www.rtp.pt/noticias/mundo/marco-rubio-destaca-estabilidade-estrategica-nas-relacoes-entre-eua-e-china_n1721656)
+- **Irão** e **EUA** iniciaram negociações decisivas em Genebra sobre o programa nuclear e de mísseis. [(link)](https://observador.pt/liveblogs/irao-e-eua-partem-para-negociacao-decisiva-rubio-avisa-que-recusa-de-teerao-em-discutir-misseis-e-problema-muito-grande/)
+- O ex-magnata pró-democracia **Jimmy Lai** venceu um recurso contra a sua condenação em Hong Kong. [(link)](https://observador.pt/2026/02/26/ex-magnata-pro-democracia-jimmy-lai-vence-recurso-contra-condenacao-em-hong-kong/)
+- A **Organização para os Direitos Humanos (ODH)** denunciou o paradeiro desconhecido de uigures deportados da Tailândia para a China. [(link)](https://www.rtp.pt/noticias/mundo/uigures-deportados-da-tailandia-para-a-china-estao-em-paradeiro-desconhecido_n1721662)
+- A **União Europeia** e **Angola** reuniram-se hoje para debater questões de segurança e cooperação. [(link)](https://eco.sapo.pt/2026/02/26/5-coisas-que-vao-marcar-o-dia-1955/)
+
+### 💵 Economia
+- A **OCDE** recomenda que as nomeações para o **Conselho de Finanças Públicas** sejam blindadas de influências políticas. [(link)](https://eco.sapo.pt/entrevista/ocde-recomenda-blindar-nomeacoes-para-o-cfp-de-influencias-politicas/)
+- O investimento brasileiro em Portugal foca-se nos setores da tecnologia, aeronáutica e vinhos. [(link)](https://eco.sapo.pt/2026/02/26/tecnologia-aeronautica-e-vinhos-seduzem-investidores-brasileiros-em-portugal/)
+- A **Fábrica de Unicórnios** lançou o **Engineers Hub** com 10 *startups*, visando a criação de 200 empregos. [(link)](https://eco.sapo.pt/2026/02/26/fabrica-de-unicornios-arranca-engineers-hub-com-10-startups-que-querem-criar-200-empregos/)
+- A **Segurança Social** implementou a autenticação de dois fatores no portal para empresas, visando reforçar a segurança digital. [(link)](https://www.noticiasaominuto.com/economia/2945604/autenticacao-de-dois-fatores-no-portal-da-seguranca-social-para-empresas)
+- São divulgados hoje os resultados anuais da **Caixa Geral de Depósitos** e do **Banco Central Europeu**, assim como os inquéritos de conjuntura do **INE** a empresas e consumidores. [(link)](https://eco.sapo.pt/2026/02/26/5-coisas-que-vao-marcar-o-dia-1955/)
+
+### 🔬 Ciência & Tecnologia
+- Um novo método que utiliza inteligência artificial (**IA**) e tecnologia 3D melhora significativamente a deteção do cancro do colo do útero. [(link)](https://observador.pt/2026/02/26/novo-metodo-usa-ia-e-3d-para-melhorar-detecao-de-celulas-cancerigenas/), [(link)](https://www.noticiasaominuto.com/tech/2945614/novo-metodo-usa-ia-e-3d-para-melhorar-detecao-de-celulas-cancerigenas)

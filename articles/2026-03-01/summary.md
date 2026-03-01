@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- O **Irão** confirmou a morte do Líder Supremo **Ali Khamenei**, decretando **40 dias de luto** e sete feriados nacionais enquanto inicia o processo imediato de transição de poder. [(link)](https://www.rtp.pt/noticias/mundo/regime-iraniano-decreta-40-dias-de-luto-pela-morte-of-ali-khamenei_e1722449), [(link)](https://www.rtp.pt/noticias/mundo/a-televisao-estatal-confirma-a-morte-de-ali-khamenei_n1722438), [(link)](https://www.cmjornal.pt/mundo/detalhe/irao-decreta-40-dias-de-luto-e-sete-feriados-pela-morte-de-khamenei-processo-de-transicao-de-poder-comeca-imediatamente)
+- A liderança militar de **Teerão** foi decapitada após ataques coordenados de **Israel** e dos **EUA**, que resultaram na morte do Ministro da Defesa e do Chefe das Forças Armadas. [(link)](https://www.publico.pt/2026/03/01/mundo/noticia/irao-confirma-morte-ministro-defesa-chefe-forcas-armadas-teerao-faz-novos-ataques-2166436), [(link)](https://www.noticiasaominuto.com/mundo/2947433/ataques-matam-chefe-do-exercito-iraniano-e-decapitam-lideranca-militar)
+- **Donald Trump** ameaçou o regime iraniano com o uso de uma "força nunca antes vista" caso o país opte por retaliar contra os interesses norte-americanos. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-trump-avisa-se-irao-retaliar-usara-forca-nunca-antes-vista_a1_1722448)
+
+### 🇵🇹 Portugal
+- Médicos alertam que a concentração de urgências de ortopedia e cirurgia pode aumentar os riscos clínicos e levar à desclassificação de serviços hospitalares. [(link)](https://www.publico.pt/2026/03/01/sociedade/noticia/concentrar-urgencias-ortopedia-cirurgia-aumenta-riscos-implicar-desclassificacao-servicos-2166353)
+- A **Cáritas Portuguesa** iniciou hoje um novo peditório nacional para apoiar as suas atividades de assistência social em todo o país. [(link)](https://www.noticiasaominuto.com/pais/2947430/caritas-inicia-hoje-novo-peditorio-nacional)
+- Jovens portugueses continuam a adiar a saída de casa dos pais devido à crise na habitação e à insuficiência dos apoios em vigor. [(link)](https://www.publico.pt/2026/03/01/p3/noticia/apoios-jovens-nao-conseguem-morar-sozinhos-dificil-sonho-casa-2165389)
+
+### 🌍 Mundo
+- Centenas de manifestantes tentaram invadir a embaixada dos **EUA** em Bagdade, no **Iraque**, no seguimento da instabilidade regional. [(link)](https://www.noticiasaominuto.com/mundo/2947425/centenas-de-manifestantes-tentam-invadir-embaixada-dos-eua-no-iraque)
+- O **Afeganistão** acusou formalmente o **Paquistão** de realizar bombardeamentos contra campos de refugiados situados na zona fronteiriça. [(link)](https://www.noticiasaominuto.com/mundo/2947431/afeganistao-acusa-paquistao-de-bombardear-campos-de-refugiados)
+- Faleceu aos **95 anos** a matemática federal **Gladys West**, conhecida como uma das figuras pioneiras no desenvolvimento da tecnologia **GPS**. [(link)](https://www.publico.pt/2026/03/01/mundo/cronica/gladys-west-19302026-senhora-gps-2165707)
+
+### ⚽ Desporto
+- O avançado **Suárez** estabeleceu um novo recorde de golos na **I Liga**, superando as marcas anteriores de outros jogadores uruguaios no campeonato. [(link)](https://www.noticiasaominuto.com/desporto/2947443/goleador-como-nunca-suarez-bate-recorde-e-supera-compatriotas-na-i-liga)
+- O **FC Porto** atingiu um número recorde de novos aderentes através das inscrições efetuadas no seu novo Portal do Sócio. [(link)](https://www.noticiasaominuto.com/desporto/2947438/portal-do-socio-da-frutos-fc-porto-regista-recorde-de-novos-associados)
+- Surgiram relatos de descontentamento no balneário do **Manchester United** relativamente aos métodos de treino aplicados pelo técnico **Rúben Amorim**. [(link)](https://www.noticiasaominuto.com/desporto/2947432/balneario-do-united-estava-farto-de-amorim-era-como-jogar-xadrez)
+
+### 🎨 Cultura
+- O filme **"Batalha Atrás de Batalha"** consolidou o favoritismo para os **Óscares** após vencer o prémio principal nos **PGA Awards**. [(link)](https://www.noticiasaominuto.com/cultura/2947434/batalha-atras-de-batalha-e-favorito-aos-oscares), [(link)](https://www.cmjornal.pt/cultura/detalhe/batalha-atras-de-batalha-e-favorito-aos-oscares-apos-vitoria-nos-premios-pga)
+- As obras **"Os Domingos"** e **"Sirat"** foram as grandes vencedoras da **40.ª edição** dos prémios **Goya**, em Espanha. [(link)](https://www.noticiasaominuto.com/cultura/2947399/filmes-os-domingos-e-sirat-vencem-40-edicao-dos-goya-espanhois)

@@ -1,0 +1,25 @@
+ ### 🗞️ Destaques
+- **António José Seguro** toma hoje posse como o **22.º Presidente da República** de Portugal, sucedendo a Marcelo Rebelo de Sousa. [(link)](https://observador.pt/liveblogs/antonio-jose-seguro-toma-hoje-posse-como-presidente-da-republica/), [(link)](https://www.rtp.pt/noticias/politica/antonio-jose-seguro-toma-posse-como-presidente-da-republica_e1724492)
+- O preço do petróleo disparou **27%**, ultrapassando os **102 euros** por barril, na sequência de uma nova vaga de ataques de **Israel** contra **Beirute** e **Teerão**. [(link)](https://eco.sapo.pt/2026/03/09/petroleo-comeca-o-dia-com-aumento-historico-de-27-barril-chegou-aos-11765-dolares/), [(link)](https://www.publico.pt/2026/03/09/mundo/noticia/guerra-medio-oriente-preco-petroleo-dispara-25-irao-novo-ayatollah-2167249)
+- **Mojtaba Khamenei** foi confirmado como o novo **Líder Supremo do Irão**, assumindo o poder num contexto de elevada tensão militar na região. [(link)](https://www.rtp.pt/noticias/mundo/filho-de-khamenei-e-o-novo-lider-supremo-do-irao_v1724594), [(link)](https://www.publico.pt/2026/03/09/mundo/noticia/guerra-medio-oriente-preco-petroleo-dispara-25-irao-novo-ayatollah-2167249)
+
+### 🇵🇹 Portugal
+- Um terceiro voo da **Força Aérea** aterrou em Lisboa com **61 passageiros**, concluindo a operação de repatriamento de portugueses provenientes do Médio Oriente. [(link)](https://www.noticiasaominuto.com/pais/2952159/aterrou-em-lisboa-o-terceiro-e-ultimo-voo-militar-de-repatriamento), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/voo-militar-de-repatrimanto-com-61passageiros-incluindo-54-portugueses-ja-chegou-a-lisboa)
+- O **IEFP** anulou o subsídio de desemprego a mais de **6.000 pessoas** durante o ano de 2025. [(link)](https://eco.sapo.pt/2026/03/09/iefp-anula-subsidio-de-desemprego-a-mais-de-seis-mil-pessoas-em-2025/)
+- A **IGAS** instaurou um inquérito à **ULS Lisboa Ocidental** para investigar irregularidades em contratações e na gestão de recursos humanos. [(link)](https://cnnportugal.iol.pt/hospital-de-sao-francisco-xavier/hospital-egas-moniz/igas-investiga-contratacoes-e-gestao-de-recursos-humanos-na-uls-lisboa-ocidental/20260309/69ae72c9d34e28842c8186fb)
+- Empresários da região de Leiria denunciam atrasos na chegada de apoios financeiros após os estragos causados pela tempestade **Kristin**. [(link)](https://eco.sapo.pt/2026/03/09/mau-tempo-apoios-tardam-a-chegar-ao-terreno-nerlei-vai-fazer-levantamento-das-linhas-de-credito-e-seguros/)
+
+### 🌍 Mundo
+- O **Japão** recebeu o Primeiro-Ministro de **Taiwan** pela primeira vez em **54 anos** e instalou o seu primeiro míssil de longo alcance de fabrico nacional. [(link)](https://observador.pt/2026/03/09/japao-recebe-primeiro-ministro-taiwanes-pela-primeira-vez-desde-1972/), [(link)](https://observador.pt/2026/03/09/japao-instala-primeiro-missil-de-longo-alcance-desenvolvido-no-pais/)
+- Os **EUA** ordenaram a retirada imediata do pessoal diplomático não essencial da **Arábia Saudita** por motivos de segurança. [(link)](https://observador.pt/2026/03/09/eua-ordenam-saida-de-pessoal-diplomatico-nao-essencial-da-arabia-saudita/)
+- A **China** investigou **40 mil pessoas** por corrupção em 2025, um aumento de **22,4%** face ao ano anterior. [(link)](https://www.publico.pt/2026/03/09/mundo/noticia/china-investigou-40-mil-pessoas-corrupcao-2025-224-2024-2167251)
+
+### 💵 Economia
+- O prémio de risco da dívida portuguesa duplicou no curto prazo devido à instabilidade no Médio Oriente. [(link)](https://eco.sapo.pt/2026/03/09/guerra-no-medio-oriente-duplica-premio-de-risco-da-divida-de-portugal-no-curto-prazo/)
+- Os preços dos combustíveis registam uma subida acentuada hoje, combinando a alta do petróleo com o fim do alívio fiscal do Governo. [(link)](https://eco.sapo.pt/2026/03/09/5-coisas-que-vao-marcar-o-dia-1962/), [(link)](https://www.noticiasaominuto.com/economia/2951316/precos-dos-combustiveis-disparam-hoje-siga-esta-dica-para-poupar)
+- A falta de atualização dos escalões de **IMT** permitiu às autarquias arrecadar um excedente de mil milhões de euros. [(link)](https://eco.sapo.pt/2026/03/09/atualizacao-insuficiente-do-imt-engorda-cofres-das-autarquias-em-mil-milhoes/)
+- O **BCE** prevê o lançamento do **Euro digital** para 2029, apresentando-o como uma nova infraestrutura financeira pública. [(link)](https://eco.sapo.pt/2026/03/09/a-europa-tem-uma-nova-arma-financeira-e-chama-se-euro-digital/)
+
+### ⚽ Desporto
+- **Benfica** e **FC Porto** empataram **2-2** no Estádio da Luz em jogo a contar para a **I Liga**. [(link)](https://www.rtp.pt/noticias/desporto/i-liga-benfica-e-fc-porto-empatam-a-odis-golos_v1724598)
+- O treinador português **Abel Ferreira** tornou-se o mais titulado de sempre na história do **Palmeiras**. [(link)](https://www.cmjornal.pt/desporto/futebol/detalhe/abel-ferreira-isola-se-como-treinador-mais-titulado-da-historia-do-palmeiras)

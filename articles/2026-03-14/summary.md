@@ -1,0 +1,25 @@
+ ### 🗞️ Destaques
+- O conflito entre os **EUA** e o **Irão** escalou drasticamente com um ataque à **Ilha de Kharg**, provocando a subida imediata dos preços do petróleo e combustíveis. [(link)](https://observador.pt/2026/03/14/o-que-e-a-ilha-de-kharg-a-joia-da-coroa-do-irao-com-milhares-de-anos-de-historia-por-onde-passa-90-do-petroleo-do-regime/), [(link)](https://www.rtp.pt/noticias/economia/guerra-no-irao-faz-disparar-precos-dos-combustiveis_v1726289)
+- Teerão respondeu às operações norte-americanas com disparos de mísseis contra **Israel** e um ataque à embaixada dos **EUA** em **Bagdade**. [(link)](https://www.rtp.pt/noticias/mundo/israel-foi-atingido-por-vaga-de-misseis-iranianos_v1726294), [(link)](https://www.rtp.pt/noticias/mundo/embaixada-dos-estados-unidos-na-capital-do-iraque-atingida-por-missil_e1726251)
+- O cientista português **Gonçalo Castelo-Branco** foi selecionado para integrar o Comité do **Prémio Nobel da Medicina**, um marco histórico para a ciência nacional. [(link)](https://observador.pt/2026/03/14/portugues-goncalo-castelo-branco-escolhido-para-comite-de-medicina-do-nobel/), [(link)](https://www.rtp.pt/noticias/pais/portugues-goncalo-castelo-branco-escolhido-para-comite-de-medicina-do-nobel_n1726279)
+
+### 🇵🇹 Portugal
+- Oito estrangeiros ficaram em prisão preventiva nos **Açores** após a apreensão de **1,8 toneladas** de cocaína. [(link)](https://cnnportugal.iol.pt/prisao-preventiva/cocaina/prisao-preventiva-para-oito-estrangeiros-detidos-com-1-800-quilos-de-cocaina-ao-largo-dos-acores/20260314/69b55888d34edcee7c61deb1)
+- A justiça aplicou a medida de coação máxima a oito mulheres suspeitas de branquearem **30 milhões de euros**. [(link)](https://www.cmjornal.pt/portugal/detalhe/cadeia-para-oito-mulheres-que-branquearam-30-milhoes-de-euros)
+- O **Instituto de Apoio à Criança** revelou ter recebido cerca de **3.500 pedidos** de auxílio durante o ano de 2025. [(link)](https://www.noticiasaominuto.com/pais/2955647/instituto-de-apoio-a-crianca-regista-em-2025-quase-3500-pedidos-de-apoio)
+- **Pedro Duarte** prometeu o reforço operacional da Polícia Municipal do **Porto** em contexto de pré-campanha autárquica. [(link)](https://www.rtp.pt/noticias/pais/pedro-duarte-promete-reforco-da-policia-municipal-no-porto_v1726293)
+- Uma militar relatou agressões graves perpetradas por um colega e ex-companheiro dentro do contexto do **Exército**. [(link)](https://www.noticiasaominuto.com/pais/2955627/dentes-partidos-estrangulada-militar-acusa-ex-tambem-do-exercito)
+
+### 🌍 Mundo
+- O ex-Presidente brasileiro **Jair Bolsonaro** encontra-se em estado grave, permanecendo nos cuidados intensivos há mais de **24 horas**. [(link)](https://www.cmjornal.pt/mundo/detalhe/bolsonaro-completa-24-horas-em-estado-grave-nos-cuidados-intensivos)
+- As autoridades de **Moçambique** confirmaram que o balanço de vítimas mortais devido às chuvas intensas subiu para **276 pessoas**. [(link)](https://www.noticiasaominuto.com/mundo/2955630/sobe-para-276-total-de-mortos-na-atual-epoca-das-chuvas-em-mocambique)
+- A **Índia** mobilizou meios para garantir a passagem de navios de gás pelo **Estreito de Ormuz** face às ameaças de bloqueio de **Donald Trump**. [(link)](https://www.noticiasaominuto.com/mundo/2955646/india-garantiu-a-passagem-de-dois-navios-tanque-com-gpl-por-ormuz)
+- **Israel** solicitou ao governo dos **Países Baixos** medidas urgentes para travar o que designa como uma "epidemia de antissemitismo". [(link)](https://www.rtp.pt/noticias/mundo/israel-pede-medidas-ao-governo-neerlandes-para-conter-epidemia-de-antissemitismo_n1726275)
+
+### 💵 Economia
+- A **Mota-Engil** contestou formalmente a ação judicial da **Muddy Waters**, assegurando o cumprimento de todos os requisitos de governança. [(link)](https://eco.sapo.pt/2026/03/14/mota-engil-assegura-escrupuloso-respecto-de-todos-os-requisitos-legais-e-de-boa-governanca/)
+- A **Deco** aconselhou as famílias portuguesas a adotarem uma gestão orçamental estratégica perante o cenário de incerteza internacional. [(link)](https://eco.sapo.pt/2026/03/14/deco-familias-devem-adotar-abordagem-mais-estrategica-na-gestao-dos-orcamentos/)
+
+### ⚽ Desporto
+- Decorrem as eleições no **Sporting CP**, com os candidatos **Frederico Varandas** e **Bruno Sá** a apelarem à participação massiva dos sócios. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/13h-eleicoes-sporting-frederico-varandas-e-bruno-sa-ja-votaram_a1_1726292), [(link)](https://www.cmjornal.pt/cmtv/videos/detalhe/a-principal-missao-do-socio-e-cuidar-do-sporting-varandas-apela-ao-voto-e-prepara-se-para-ir-as-urnas)
+- O **Académico de Viseu** venceu o seu compromisso na **Segunda Liga**, pondo fim a uma sequência de resultados negativos. [(link)](https://www.noticiasaominuto.com/desporto/2955616/academico-de-viseu-teve-cabeca-para-dar-a-volta-e-regressar-as-vitorias)

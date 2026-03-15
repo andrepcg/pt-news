@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- **Frederico Varandas** é reeleito presidente do **Sporting CP** com **89%** dos votos, num ato eleitoral onde a estabilidade do clube foi destacada pelos sócios. [(link)](https://www.cmjornal.pt/desporto/futebol/detalhe/frederico-varandas-ve-reeleicao-como-prova-da-felicidade-dos-socios), [(link)](https://www.cmjornal.pt/desporto/futebol/detalhe/bruno-sorreluz-felicita-frederico-varandas-pela-reeleicao)
+- O **Irão** emite ameaças diretas contra o Primeiro-Ministro israelita, **Benjamin Netanyahu**, enquanto drones ucranianos atingem uma das maiores refinarias da **Rússia**. [(link)](https://www.noticiasaominuto.com/mundo/2955871/ao-minuto-irao-jura-cacar-e-matar-netanyahu-khamenei-um-rumor), [(link)](https://www.noticiasaominuto.com/mundo/2955872/drones-ucranianos-voltam-a-atacar-uma-das-maiores-refinarias-da-russia)
+- **Luís Montenegro** prepara uma moção estratégica dentro do **PSD** para retificar o programa do Governo e alinhar o partido com o novo calendário político. [(link)](https://www.publico.pt/2026/03/15/politica/noticia/novo-calendario-psd-montenegro-tera-mocao-rectificar-programa-governo-2167918)
+- Especialistas em saúde defendem a urgência do reconhecimento oficial da **Covid Longa** em Portugal, seis anos após o início da pandemia. [(link)](https://www.publico.pt/2026/03/15/ciencia/noticia/seis-anos-apos-inicio-pandemia-portugal-urgente-reconhecer-covid-longa-2167888)
+
+### 🇵🇹 Portugal
+- A **Associação de Crianças Sobredotadas** exige ao Governo a criação de equipas de intervenção especializadas para apoiar alunos com altas capacidades. [(link)](https://www.cmjornal.pt/sociedade/detalhe/associacao-de-criancas-sobredotadas-desafia-governo-a-criar-equipas-de-intervencao), [(link)](https://www.cmjornal.pt/sociedade/detalhe/associacao-de-criancas-sobredotadas-e-escola-da-maia-ajudam-alunos-com-altas-capacidades)
+- O **Cardeal Américo Aguiar** defende que a disciplina de Educação Moral e Religiosa deve ser encarada como um espaço de diálogo plural e ético. [(link)](https://www.cmjornal.pt/sociedade/detalhe/cardeal-americo-aguiar-considera-que-educacao-moral-e-religiosa-catolica-e-espaco-de-dialogo-plural)
+
+### 🌍 Mundo
+- A ativista iraquiana **Yanar Mohammed** foi assassinada em **Bagdad**, num crime que associa a defesa dos direitos humanos a riscos extremos na região. [(link)](https://www.publico.pt/2026/03/15/mundo/cronica/yanar-mohammed-19602026-morte-ja-esperada-2167618)
+- **Cuba** libertou **14 presos políticos** após um processo de mediação conduzido pelo **Vaticano**. [(link)](https://www.cmjornal.pt/mundo/detalhe/ong-diz-que-governo-de-cuba-libertou-14-presos-politicos)
+- **Colômbia** e **Venezuela** solicitaram formalmente a adesão plena ao **Mercosul**, visando o reforço da integração económica na América Latina. [(link)](https://www.cmjornal.pt/mundo/detalhe/colombia-e-venezuela-pedem-admissao-como-membros-de-pleno-direito-do-mercosul)
+- O **Vietname** realiza eleições parlamentares com a participação de cerca de **79 milhões** de eleitores registados. [(link)](https://www.cmjornal.pt/mundo/detalhe/quase-79-milhoes-vao-a-votos-no-vietname-para-eleger-um-novo-parlamento)
+- **Andrew Tate** provocou indignação em **Hong Kong** devido à publicação de mensagens de teor racista durante a sua visita ao território. [(link)](https://www.cmjornal.pt/mundo/detalhe/andrew-tate-publica-mensagens-racistas-e-anti-ocidentais-em-visita-a-hong-kong)
+
+### 💵 Economia
+- Os preços dos **combustíveis** registam uma nova subida em Portugal a partir desta segunda-feira, **16 de março de 2026**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-combustiveis-voltam-a-subir-amanha_a1_1726444)
+- A **Quinta da Aveleda** estabelece como meta duplicar as vendas do vinho **Casal Garcia** no mercado brasileiro até ao ano de 2028. [(link)](https://www.publico.pt/2026/03/15/publico-brasil/noticia/quinta-aveleda-quer-duplicar-venda-vinhos-casal-garcia-brasil-ate-2028-2167877)
+
+### ⚽ Desporto
+- O **FC Porto** defronta hoje o **Moreirense**, procurando aumentar a vantagem na liderança da **I Liga** aproveitando a folga do Sporting. [(link)](https://www.noticiasaominuto.com/desporto/2955688/fc-porto-moreirense-dragao-a-espera-de-evitar-oposicao-rumo-ao-titulo), [(link)](https://www.cmjornal.pt/desporto/futebol/detalhe/fc-porto-tenta-aproveitar-folga-do-sporting-para-fugir-na-lideranca-do-campeonato)
+- No Brasil, o treinador **Leonardo Jardim** somou a terceira vitória consecutiva ao comando do **Flamengo**. [(link)](https://www.noticiasaominuto.com/desporto/2955870/leonardo-jardim-despacha-anselmi-e-flamengo-mete-a-terceira)

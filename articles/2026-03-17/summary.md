@@ -1,0 +1,25 @@
+ ### 🗞️ Destaques
+- O Presidente do Conselho Europeu, **António Costa**, expressou dúvidas sobre os objetivos militares dos **EUA** e de **Israel** contra o **Irão**, alertando para a falta de clareza na estratégia atual. [(link)](https://observador.pt/2026/03/17/objetivo-de-estados-unidos-e-israel-com-guerra-contra-irao-nao-e-claro-diz-antonio-costa/), [(link)](https://eco.sapo.pt/2026/03/17/objetivo-de-estados-unidos-e-israel-com-guerra-contra-irao-nao-e-claro-diz-antonio-costa/)
+- A tensão no Médio Oriente intensificou-se com o bombardeamento da embaixada norte-americana no **Iraque** por forças iranianas, impulsionando o preço do petróleo para os **105 dólares**. [(link)](https://observador.pt/liveblogs/embaixada-norte-americana-no-iraque-atingida-por-rockets-e-drones-iranianos/), [(link)](https://www.rtp.pt/noticias/mundo/trump-afasta-possibilidade-de-guerra-terminar-esta-semana-petroleo-volta-aos-105-dolares_e1726945)
+- **Mário Centeno** acordou com o **Banco de Portugal** uma reforma antecipada em vários meses, viabilizando um acordo para a sua saída da instituição. [(link)](https://eco.sapo.pt/2026/03/17/banco-de-portugal-ante-cipa-em-varios-meses-reforma-de-centeno-para-fechar-acordo-de-saida/)
+
+### 🇵🇹 Portugal
+- A **Polícia Judiciária** registou cerca de **1400 inquéritos** por extorsão sexual nos últimos dois anos, com a maioria das vítimas a serem homens. [(link)](https://www.publico.pt/2026/03/17/sociedade/noticia/pj-abriu-quase-1400-inqueritos-extorsao-sexual-dois-anos-maioria-vitimas-sao-homens-2167828), [(link)](https://cnnportugal.iol.pt/extorsao/crimes-sexuais/pj-abriu-quase-1400-inqueritos-por-extorsao-sexual-em-dois-anos/20260317/69b90007d34e28842c81d46e)
+- A **Entidade para a Transparência** impôs que cinco ministros revelem a lista de clientes das empresas em que detêm participações. [(link)](https://cnnportugal.iol.pt/ministros/transparencia/cinco-ministros-obrigados-a-revelar-lista-de-clientes-de-empresas/20260317/69b8fc87d34e28842c81d469)
+- O **Exército Português** está a desenvolver "gémeos digitais" apoiados em **IA** para otimizar a gestão de campos de batalha e resposta a catástrofes. [(link)](https://eco.sapo.pt/2026/03/17/exercito-cria-gemeos-digitais-para-acelerar-decisao-no-terreno-e-no-apoio-a-calamidades/)
+- **João Duque** anunciou que não se recandidatará à presidência do **ISEG**, cessando as suas funções na instituição. [(link)](https://eco.sapo.pt/2026/03/17/iseg-vai-ter-novo-presidente-joao-duque-nao-se-vai-recandidatar/)
+
+### 🌍 Mundo
+- Washington está a pressionar o **Japão** e a **Coreia do Sul** para prestarem apoio militar no **Estreito de Ormuz** face à crescente instabilidade. [(link)](https://observador.pt/2026/03/17/washington-pressiona-toquio-e-seul-para-ajuda-militar-no-estreito-de-ormuz/)
+- A **xAI**, empresa de **Elon Musk**, enfrenta um processo judicial por alegadamente utilizar fotografias reais de três adolescentes para gerar pornografia. [(link)](https://observador.pt/2026/03/17/tres-adolescentes-processam-xai-de-elon-musk-por-gerar-imagens-pornograficas-com-fotos-reais/)
+- O **Brasil** atualizou o seu plano climático, estabelecendo como meta prioritária a erradicação total da desflorestação até **2030**. [(link)](https://observador.pt/2026/03/17/luta-contra-a-desflorestacao-no-centro-do-novo-plano-climatico-brasileiro/)
+- Uma greve nos transportes paralisou a capital da **Venezuela**, **Caracas**, e as regiões limítrofes de Miranda e La Guaira. [(link)](https://www.cmjornal.pt/mais-cm/especiais/crise-na-venezuela/detalhe/greve-nos-transportes-paralisa-caracas-e-os-estados-venezuelanos-de-miranda-e-la-guaira)
+
+### 💵 Economia
+- A execução do programa **Portugal 2030** mantém-se em valores reduzidos, registando apenas **138 milhões de euros** pelo terceiro mês consecutivo. [(link)](https://eco.sapo.pt/2026/03/17/portugal-2030-executa-apenas-138-milhoes-pelo-terceiro-mes-consecutivo/)
+- **António Costa** assegurou que a **União Europeia** irá aprovar mecanismos de apoio para mitigar a subida drástica dos preços da energia. [(link)](https://observador.pt/liveblogs/subida-dos-custos-de-energia-surge-em-momento-dramatico-diz-costa-presidente-do-conselho-europeu-confiante-de-que-ue-aprovara-medidas-para-enfrentar-aumento-de-precos/)
+- Novas regras para prevenir o branqueamento de capitais através de **criptoativos** deverão entrar em vigor em Portugal no mês de julho. [(link)](https://eco.sapo.pt/especiais/menos-faroeste-e-mais-wall-street-a-nova-era-dos-criptoativos/)
+- A revisão do **Código do Trabalho** permanece sem consenso social, com o processo legislativo estagnado em torno de vários artigos. [(link)](https://www.publico.pt/2026/03/17/economia/noticia/nada-novo-mudancas-codigo-trabalho-continuam-encalhadas-2168135)
+
+### ⚽ Desporto
+- A Federação de Futebol do **Irão** propôs a transferência dos seus jogos previstos para os Estados Unidos no **Mundial 2026** para território mexicano. [(link)](https://www.noticiasaominuto.com/desporto/2956835/irao-quer-transferir-jogos-do-mundial2026-para-o-mexico)

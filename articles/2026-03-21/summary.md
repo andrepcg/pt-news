@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- O conflito no **Médio Oriente** intensifica-se com ataques israelitas ao **Líbano** e ao regime iraniano, enquanto **Donald Trump** admite a possibilidade de abrandar operações contra o **Irão**. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/um-morto-e-dois-feridos-num-ataque-israelita-no-sul-do-libano_n1728168), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-trump-admite-abrandar-as-operacoes-contra-o-irao_a1_1728180), [(link)](https://www.noticiasaominuto.com/mundo/2959661/ao-minuto-petroleo-sancoes-suspensas-israel-ataca-regime-iraniano)
+- Dezasseis localidades em **Portugal** acolhem hoje manifestações pelo direito à habitação, protestando contra a atual crise no setor. [(link)](https://www.noticiasaominuto.com/pais/2959654/dezasseis-localidades-voltam-a-sair-a-rua-em-defesa-do-direito-a-habitacao), [(link)](https://www.cmjornal.pt/sociedade/detalhe/dezasseis-localidades-voltam-a-sair-a-rua-em-defesa-do-direito-a-habitacao)
+- As queixas por racismo em **Portugal** registaram um aumento de **40%** durante o ano de 2025, segundo dados hoje divulgados. [(link)](https://www.publico.pt/2026/03/21/sociedade/noticia/racista-24h-dia-aconteceu-nada-acusacoes-racismo-sobem-40-2168596)
+
+### 🇵🇹 Portugal
+- A **GNR** deteve **dez pessoas** este ano por incêndios florestais e alerta que **40%** dos proprietários ainda não efetuaram a limpeza obrigatória de terrenos. [(link)](https://www.publico.pt/2026/03/21/sociedade/noticia/incendios-florestais-gnr-ja-deteve-dez-pessoas-ano-40-proprietarios-na-limpam-terrenos-2168666)
+- O **Núncio Apostólico** confirmou a futura visita do **Papa Leão XIV** a **Fátima**, estando a data ainda dependente da janela de agenda do Pontífice. [(link)](https://www.cmjornal.pt/sociedade/detalhe/leao-xiv-vira-de-certeza-a-fatima-falta-avaliar-agenda)
+- A **Agência Portuguesa do Ambiente (APA)** apresenta hoje a nova estratégia nacional para o combate às alterações climáticas. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/06h-apa-apresenta-estatregia-de-combate-as-alteracoes-climaticas_a1_1728179)
+- Novas leis sobre identidade de género motivam o debate público em torno da proteção de menores e potenciais retrocessos sociais. [(link)](https://www.noticiasaominuto.com/pais/2959596/leis-de-identidade-de-genero-protegem-as-criancas-ou-retrocesso)
+
+### 🌍 Mundo
+- Um incêndio numa fábrica de automóveis na **Coreia do Sul** causou a morte a pelo menos **11 pessoas**. [(link)](https://www.noticiasaominuto.com/mundo/2959645/incendio-em-fabrica-automovel-na-coreia-do-sul-faz-pelo-menos-11-mortos)
+- A época das chuvas em **Moçambique** já vitimou **289 pessoas** e afetou mais de um milhão de cidadãos em todo o território. [(link)](https://www.cmjornal.pt/mundo/detalhe/epoca-das-chuvas-em-mocambique-com-289-mortos-e-ultrapassa-um-milhao-de-afetados)
+- A **Rússia** contabilizou **283 ataques** de drones ucranianos contra alvos em território russo nas últimas horas. [(link)](https://www.noticiasaominuto.com/mundo/2959650/moscovo-contabiliza-283-ataques-ucranianos-com-drones-contra-alvos-russos)
+- O **Irão** emitiu um aviso aos **Emirados Árabes Unidos** contra eventuais ataques dirigidos a ilhas disputadas no **Golfo Pérsico**. [(link)](https://www.noticiasaominuto.com/mundo/2959652/teerao-avisa-emirados-contra-ataques-que-visem-ilhas-disputadas-no-golfo)
+
+### 💵 Economia
+- O Ministro da Defesa instou **54 empresas** de **Vale de Cambra** a integrarem a cadeia de produção e manutenção da indústria militar nacional. [(link)](https://www.rtp.pt/noticias/economia/ministro-apela-a-54-empresas-de-vale-de-cambra-para-se-envolverem-na-producao-ou-manutencao-da-defesa_n1728151)
+- A **Agência Internacional de Energia** recomenda o incentivo ao teletrabalho como medida de eficiência e poupança energética mundial. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/05h-agencia-internacional-de-energia-recomenda-teletrabalho_a1_1728178)
+
+### ⚽ Desporto
+- O **Benfica** defronta hoje o **Vitória de Guimarães** num encontro crucial para as contas do título da **I Liga**. [(link)](https://www.cmjornal.pt/desporto/futebol/detalhe/benfica-recebe-vitoria-de-guimaraes-em-dia-de-muitos-jogos), [(link)](https://www.noticiasaominuto.com/desporto/2959074/problemas-em-barda-o-onze-provavel-do-benfica-contra-o-vitoria-sc)
+- O português **Neemias Queta** voltou a estar em destaque na **NBA** ao realizar um duplo-duplo na vitória dos **Boston Celtics**. [(link)](https://www.noticiasaominuto.com/desporto/2959651/nba-rendida-a-neemias-queta-apos-mais-um-duplo-duplo-nos-boston-celtics)
+- Seis seleções nacionais disputam hoje as últimas duas vagas disponíveis para o *play-off* de apuramento para o **Mundial 2026**. [(link)](https://www.publico.pt/2026/03/21/desporto/noticia/seis-equipas-dois-lugares-festa-mundial-2026-2168648)
+- A **DS Automobiles** anunciou a saída do campeonato de **Fórmula E** para concentrar os seus investimentos desportivos na vela. [(link)](https://www.noticiasaominuto.com/auto/2959313/ds-automobiles-deixa-a-formula-e-para-se-focar-na-vela)

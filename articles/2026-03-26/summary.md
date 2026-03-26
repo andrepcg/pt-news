@@ -1,0 +1,29 @@
+ ### 🗞️ Destaques
+- O **INE** divulga hoje os dados do saldo orçamental de **2025**, prevendo-se um excedente que poderá superar as estimativas oficiais do Governo. [(link)](https://observador.pt/liveblogs/divulgados-hoje-dados-do-saldo-orcamental-de-2025-ministro-das-financas-que-ja-antecipou-uma-boa-surpresa-fala-as-11h30/), [(link)](https://www.noticiasaominuto.com/economia/2961921/boa-surpresa-e-dia-de-conhecer-o-excedente-e-isto-e-o-que-se-preve)
+- A escalada do conflito entre **Israel** e **Irão** ressuscita receios de um choque petrolífero global, enquanto o Parlamento iraniano equaciona cobrar portagens no **Estreito de Ormuz**. [(link)](https://www.publico.pt/2026/03/26/economia/noticia/guerra-irao-faz-regressar-fantasma-choque-petrolifero-1973-2169147), [(link)](https://www.noticiasaominuto.com/mundo/2962277/parlamento-iraniano-quer-cobrar-portagem-no-estreito-de-ormuz)
+- A **Câmara Municipal de Lisboa** anunciou novas restrições para operadores **TVDE**, incluindo zonas proibidas e a obrigatoriedade de frotas **100% elétricas** até **2030**. [(link)](https://cnnportugal.iol.pt/uber/bolt/lisboa-cria-zonas-proibidas-para-tvde-e-exige-frota-eletrica-ate-2030/20260326/69c4e734d34e28842c822f2e)
+- Um ataque com mísseis intercetados em **Abu Dhabi** resultou em **duas mortes**, numa fase em que o exército israelita intensifica ofensivas de grande escala contra alvos iranianos. [(link)](https://observador.pt/liveblogs/irao-afirma-ter-atingido-varios-alvos-em-israel-e-nos-paises-do-golfo/), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/exercito-de-israel-anuncia-vaga-de-ataques-em-grande-escala-contra-o-irao)
+
+### 🇵🇹 Portugal
+- O ex-presidente do **INEM** acusou o Governo de desviar verbas do instituto e de falhas críticas nos concursos para helicópteros de emergência. [(link)](https://observador.pt/2026/03/26/ex-presidente-do-inem-lamenta-desvio-de-verbas-do-inem-e-culpa-atual-governo-pelas-falhas-nos-concursos-dos-helicopteros/)
+- As seguradoras liquidaram apenas **5%** das indemnizações devidas pelos prejuízos causados pela tempestade **Kristin**, segundo dados recentes. [(link)](https://cnnportugal.iol.pt/leiria/santarem/tempestade-kristin-seguradoras-so-adiantaram-indemnizacoes-em-5-dos-casos/20260326/69c4e030d34edcee7c624f0a)
+- Um jovem de **15 anos** foi baleado na **Amadora**, tendo o suspeito, de **16 anos**, entregado-se voluntariamente numa esquadra da **PSP**. [(link)](https://cnnportugal.iol.pt/damaia/tiros/jovem-de-15-anos-baleado-na-amadora-suspeito-de-16-anos-entregou-se-numa-esquadra-da-psp/20260326/69c4d875d34e28842c822f29)
+
+### 🌍 Mundo
+- A **Bielorrússia** e a **Coreia do Norte** reforçaram laços diplomáticos com a assinatura de um acordo de cooperação e amizade em **Pyongyang**. [(link)](https://www.noticiasaominuto.com/mundo/2962266/lukashenko-e-kim-assinam-acordo-de-amizade-e-cooperacao-em-pyongyang)
+- **Taiwan** confirmou ter recebido garantias de que o fornecimento de armamento pelos **Estados Unidos** continuará conforme planeado. [(link)](https://www.rtp.pt/noticias/mundo/taiwan-diz-que-vendas-de-armas-dos-eua-continuam-em-curso-apos-ter-obtido-garantias_n1729332)
+- A **China** manifestou otimismo quanto a possíveis negociações de paz no Médio Oriente, sinalizando que o **Irão** poderá estar aberto ao diálogo. [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/china-aponta-existencia-de-sinais-iranianos-a-favor-de-negociacoes-de-paz)
+
+### 💵 Economia
+- Comprar casa em **Lisboa** requer agora **102%** do salário mediano, evidenciando o agravamento da crise habitacional na capital. [(link)](https://eco.sapo.pt/opiniao/o-banco-de-portugal-acaba-de-declarar-o-obito-da-sua-casa/)
+- O setor agrícola português registou uma perda de **210 mil trabalhadores** num período de **30 anos**. [(link)](https://www.cmjornal.pt/economia/detalhe/agricultura-perde-210-mil-trabalhadores)
+- A **Goldman Sachs** reforçou o seu investimento na **Nearing Visabeira** com **50 milhões de euros**, após as vendas da empresa subirem **18%**. [(link)](https://eco.sapo.pt/2026/03/26/goldman-sachs-reforca-posicao-na-nearing-visabeira-vendas-sobem-18-para-22-mil-milhoes-em-2025/)
+- A disparidade de preços dos combustíveis, com o gasóleo **40 cêntimos** mais barato em **Espanha**, continua a atrair consumidores portugueses às zonas fronteiriças. [(link)](https://www.publico.pt/2026/03/26/economia/reportagem/gasoleo-40-centimos-barato-gas-metade-preco-portugueses-vao-espanha-2169056)
+
+### ⚽ Desporto
+- A **Seleção Nacional** iniciou o estágio em **Cancún** para preparar os jogos particulares no **México**, mantendo incertezas sobre a condição física de **Rúben Neves** e **Pote**. [(link)](https://www.rtp.pt/noticias/desporto/selecao-inicia-preparacao-em-cancun-para-duplo-amigavel_v1729334)
+- **Neemias Queta** destacou-se na vitória dos **Celtics** frente aos campeões da **NBA**, somando exibição sólida contra **Chet Holmgren**. [(link)](https://www.noticiasaominuto.com/desporto/2962264/neemias-queta-vira-pesadelo-para-holmgren-e-celtics-vencem-campeoes)
+- A **Fórmula 1** introduz novas regras de gestão de energia para o **Grande Prémio do Japão**, alterando a dinâmica estratégica da prova. [(link)](https://www.noticiasaominuto.com/auto/2962276/regras-de-gestao-de-energia-alteram-no-gp-do-japao-de-f1-o-que-muda)
+
+### 🔬 Ciência e Tecnologia
+- Investigadores utilizaram **Inteligência Artificial** para validar a existência de **118 novos exoplanetas** situados fora do nosso sistema solar. [(link)](https://www.noticiasaominuto.com/tech/2962235/validados-118-novos-planetas-fora-do-sistema-solar-com-ia)

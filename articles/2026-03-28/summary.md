@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O número de pedidos de asilo pendentes em **Portugal** duplicou, atingindo quase **8.800** processos. [(link)](https://www.publico.pt/2026/03/28/sociedade/noticia/pedidos-asilo-pendentes-duplicam-chegam-quase-8800-2169384), [(link)](https://www.noticiasaominuto.com/mundo/2963669/hoje-e-noticia-pedidos-de-asilos-duplicam-salgado-investigado-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- **Ricardo Salgado** está a ser alvo de uma investigação judicial na **Suíça**, num processo que corre em paralelo com os casos em Portugal. [(link)](https://www.noticiasaominuto.com/mundo/2963669/hoje-e-noticia-pedidos-de-asilos-duplicam-salgado-investigado-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- A **Seleção Nacional** defronta o **México** no **Estádio Azteca**, servindo o encontro como teste de preparação para o **Mundial 2026**. [(link)](https://www.noticiasaominuto.com/desporto/2963658/portugal-em-duelo-ante-o-mexico-no-azteca-num-teste-para-o-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+
+### 🇵🇹 Portugal
+- O segundo dia do **Congresso do PS** foca-se na estratégia política de **José Luís Carneiro** e na entrega das listas aos órgãos nacionais. [(link)](https://www.noticiasaominuto.com/politica/2963665/mocao-de-carneiro-e-entrega-de-listas-aos-orgaos-nacionais-marcam-2-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.publico.pt/2026/03/28/politica/opiniao/caminho-pedras-ps-2169371)
+- Os relógios devem ser adiantados **60 minutos** na próxima madrugada, assinalando a entrada na hora de verão. [(link)](https://www.cmjornal.pt/sociedade/detalhe/relogios-adiantam-uma-hora-na-proxima-madrugada)
+- A popularidade de ovos de Páscoa artesanais e fatiados regista um crescimento no mercado nacional durante a época festiva. [(link)](https://www.publico.pt/2026/03/28/publico-brasil/noticia/fatiado-recheio-montado-gosto-consumidor-ha-ovos-pascoa-2169033)
+
+### 🌍 Mundo
+- Ataques militares resultaram em **quatro mortos** nos territórios da **Ucrânia** e da **Rússia**, num momento de incerteza sobre o apoio dos **EUA** à **NATO**. [(link)](https://www.noticiasaominuto.com/mundo/2963666/ao-minuto-um-mes-de-guerra-eua-podem-nao-ajudar-a-nato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed), [(link)](https://www.noticiasaominuto.com/mundo/2963662/ataques-causam-tres-mortos-em-territorio-ucraniano-e-um-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- Um grupo de hackers pró-**Irão** reivindicou a invasão da conta pessoal do diretor do **FBI**. [(link)](https://www.cmjornal.pt/mundo/detalhe/grupo-de-hackers-pro-irao-revela-que-invadiu-a-conta-do-diretor-do-fbi)
+- A **Tailândia** anunciou um acordo com o **Irão** relativo à circulação no **Estreito de Ormuz**, ponto estratégico para o setor energético. [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/tailandia-diz-ter-chegado-a-acordo-com-teerao-sobre-estreito-de-ormuz)
+- Um condado nos **EUA** enfrenta um processo judicial após ter exigido a devolução de boletins de voto já emitidos. [(link)](https://www.noticiasaominuto.com/mundo/2963630/eua-condado-que-exigiu-devolucao-de-boletins-de-voto-enfrenta-governo-em-tribunal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+
+### ⚽ Desporto
+- O selecionador **Roberto Martínez** prepara experiências táticas na **Seleção Nacional**, equacionando a utilização de **Paulinho**. [(link)](https://www.noticiasaominuto.com/desporto/2963026/paulinho-duo-inedito-as-6-experiencias-no-horizonte-de-roberto-martinez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- O **Sporting CP** planeia o regresso do jogador **Faye** para reforçar a equipa na fase final da presente época. [(link)](https://www.noticiasaominuto.com/desporto/2963049/faye-na-incubadora-para-a-louca-reta-final-de-epoca-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+
+### 🚀 Ciência e Tecnologia
+- Foi lançada a **DUA 2.0**, a primeira Inteligência Artificial capaz de falar crioulo, com foco em criadores de conteúdo lusófonos. [(link)](https://www.noticiasaominuto.com/tech/2963667/dua-20-e-a-primeira-ia-a-falar-crioulo-e-foca-se-em-criadores-lusofonos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- Investigadores identificaram que a presença de fragmentos de **ADN tumoral** no sangue pode ajudar a prever recaídas em doentes com cancro. [(link)](https://www.noticiasaominuto.com/lifestyle/2963638/fragmentos-de-adn-tumoral-no-sangue-podem-a-ajudar-a-prever-recaida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
+- Astronautas da **NASA** encontram-se no local de lançamento para dar início a uma nova missão de exploração lunar. [(link)](https://www.cmjornal.pt/sociedade/detalhe/astronautas-ja-estao-no-local-de-lancamento-de-missao-a-lua-da-nasa)

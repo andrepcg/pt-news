@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- O conflito no **Médio Oriente** intensificou-se com ataques cruzados entre **Israel**, **EUA** e **Irão**, resultando na morte de **13 militares norte-americanos**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-nova-noite-de-sobressalto-com-ataques-de-israel-eua-e-irao_a1_1731365), [(link)](https://www.noticiasaominuto.com/mundo/2967162/ao-minuto-3-capacetes-azuis-feridos-morreram-13-soldados-dos-eua)
+- O **Ministério da Educação** autorizou a abertura de concursos para a contratação de **1406 técnicos especializados**, garantindo que todos os agrupamentos escolares terão pelo menos um psicólogo. [(link)](https://rr.pt/noticia/pais/2026/04/04/reforco-de-tecnicos-nas-escolas-todos-agrupamentos-terao-pelo-menos-um-psicologo/465549/?utm_medium=rss), [(link)](https://www.publico.pt/2026/04/04/sociedade/noticia/directores-ja-podem-abrir-concursos-contratarem-psicologos-terapeutas-tecnicos-informatica-2170172)
+- As autoridades do **Dubai** intercetaram um ataque contra a sede da multinacional norte-americana **Oracle**, num contexto de elevada tensão regional. [(link)](https://www.noticiasaominuto.com/mundo/2967150/dubai-interceta-ataque-contra-sede-da-norte-americana-oracle), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/dubai-interceta-ataque-contra-sede-da-norte-americana-oracle)
+
+### 🇵🇹 Portugal
+- **Portugal** registou **101 mortes** por consumo de droga em 2023, sendo que dez destes óbitos ocorreram na região dos **Açores**. [(link)](https://www.publico.pt/2026/04/04/sociedade/noticia/101-mortes-consumo-droga-portugal-2023-dez-acores-2169519)
+- A sinistralidade rodoviária em território nacional causou pelo menos **12 vítimas mortais** nos últimos dias. [(link)](https://www.noticiasaominuto.com/pais/2967157/pelo-menos-12-pessoas-morreram-nas-estradas-portuguesas-nos-ultimos-dias)
+- O incêndio fustigou **Vale de Cambra** entrou em fase de resolução após ceder aos meios de combate mobilizados. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-incendio-em-vale-de-cambra-em-resolucao_a1_1731362), [(link)](https://www.noticiasaominuto.com/pais/2967152/incendio-em-vale-de-cambra-a-ceder-aos-meios-de-combate)
+- O **PS** propôs que a administração da agência **Lusa** passe a ser escolhida por um **Conselho Geral Independente**. [(link)](https://www.noticiasaominuto.com/politica/2967160/ps-quer-administracao-da-lusa-escolhida-por-conselho-geral-independente)
+- O Governo anunciou um novo adiamento no concurso para a contratação de cientistas, prevendo-se agora que as novas entradas ocorram apenas em **2028**. [(link)](https://www.publico.pt/2026/04/04/ciencia/noticia/governo-volta-atrasar-concurso-contratar-cientistas-novas-entradas-so-2028-2169100)
+
+### 🌍 Mundo
+- Três elementos das forças de manutenção de paz da **ONU** ficaram feridos após uma explosão no sul do **Líbano**. [(link)](https://www.noticiasaominuto.com/mundo/2967156/nova-explosao-no-sul-do-libano-deixa-tres-capacetes-azuis-feridos)
+- O exército do **Haiti** declarou estado de alerta máximo em resposta à escalada de violência que atinge o país. [(link)](https://www.noticiasaominuto.com/mundo/2967130/exercito-do-haiti-declara-estado-de-alerta-maximo-face-a-violencia)
+- **Portugal** confirmou que irá acompanhar o processo de transição política na **Venezuela**, disponibilizando apoio conforme solicitado. [(link)](https://www.noticiasaominuto.com/pais/2967140/venezuela-portugal-vai-acompanhar-transicao-e-ajudar-no-que-for-pedido)
+- No âmbito da missão **Artemis II**, foi confirmado o lançamento bem-sucedido de novos satélites para apoio à exploração espacial. [(link)](https://www.noticiasaominuto.com/tech/2967125/satelies-que-seguiam-na-missao-espacial-artemis-ii-lancados-com-sucesso)
+
+### 💵 Economia
+- A **TAP** retomou esta quarta-feira, 4 de abril de 2026, os voos diretos para **Caracas**, assinalando os 50 anos de operação da companhia na **Venezuela**. [(link)](https://www.noticiasaominuto.com/economia/2967155/tap-retoma-voos-para-caracas-e-assinala-50-anos-na-venezuela), [(link)](https://www.cmjornal.pt/mundo/detalhe/tap-retoma-voos-para-caracas-e-assinala-50-anos-na-venezuela)
+- Em entrevista, especialistas alertam que a excessiva priorização do preço em projetos de infraestruturas de alta velocidade está a prejudicar a engenharia nacional. [(link)](https://www.publico.pt/2026/04/04/economia/entrevista/portugal-preco-factor-preponderante-assim-prejudicamos-engenharia-2168823)
+
+### ⚽ Desporto
+- O basquetebolista português **Neemias Queta** destacou-se com uma exibição de alto nível na vitória dos **Boston Celtics**. [(link)](https://www.noticiasaominuto.com/desporto/2967163/historico-neemias-queta-volta-a-brilhar-na-vitoria-categorica-dos-celtics)
+- Em **França**, ex-jogadores de râguebi foram condenados a penas de até **14 anos de prisão** por crime de violação. [(link)](https://www.noticiasaominuto.com/desporto/2967136/franca-condena-ex-jogadores-de-raguebi-ate-14-anos-de-prisao-por-violacao)
+- Confrontos entre claques de futebol no **Peru** resultaram em pelo menos um morto e **47 feridos**. [(link)](https://www.cmjornal.pt/mundo/detalhe/pelo-menos-um morto-e-47-feridos-em-concentracao-de-adeptos-de-futebol-no-peru)

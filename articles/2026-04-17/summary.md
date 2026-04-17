@@ -1,0 +1,28 @@
+ ### 🗞️ Destaques
+- **António José Seguro** preside à primeira reunião do **Conselho de Estado** do seu mandato, focada em temas de segurança e defesa com novos conselheiros. [(link)](https://observador.pt/liveblogs/seguro-preside-a-primeira-reuniao-do-conselho-de-estado-com-novos-conselheiros-milhares-manifestam-se-em-lisboa-contra-as-alteracoes-a-lei-laboral/), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-seguranca-e-defesa-marcam-primeiro-conselho-de-estado-de-seguro_a1_1734587), [(link)](https://www.noticiasaominuto.com/pais/2974381/seguro-preside-1-reuniao-do-conselho-de-estado-with-novos-conselheiros)
+- O cessar-fogo entre **Israel** e o **Líbano** apresenta sinais de fragilidade após o exército libanês denunciar diversas violações por parte das forças israelitas. [(link)](https://observador.pt/2026/04/17/exercito-do-libano-acusa-israel-de-violar-cessar-fogo/), [(link)](https://www.rtp.pt/noticias/mundo/onu-espera-contencao-cessar-fogo-entre-israel-e-libano-em-vigor-with-sinais-de-fragilidade_e1734592), [(link)](https://eco.sapo.pt/2026/04/17/exercito-do-libano-acusa-israel-de-violar-cessar-fogo/)
+- Milhares de trabalhadores saem às ruas em protestos convocados pela **CGTP** contra as recentes alterações à legislação laboral em Portugal. [(link)](https://observador.pt/2026/04/17/cgtp-espera-milhares-de-trabalhadores-nas-ruas-e-avisa-que-resposta-depende-da-dimensao-do-ataque/), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-dia-de-manifestacao-nacional-da-cgtp_a1_1734601)
+
+### 🇵🇹 Portugal
+- Uma sondagem coloca o **PS** na liderança das intenções de voto e aponta **José Luís Carneiro** como a figura preferida para liderar o Governo. [(link)](https://observador.pt/2026/04/17/sondagens-jose-luis-carneiro-e-o-preferido-para-governar-o-pais-ps-lidera-atualmente-as-intencoes-de-voto/)
+- O Governo bloqueou o projeto do **Museu do 25 de Abril**, deixando o futuro centro interpretativo sem financiamento ou espaço definido. [(link)](https://cnnportugal.iol.pt/executivo/25-de-abril/museu-do-25-de-abril-bloqueado-governo-trava-projeto-e-deixa-centro-interpretativo-sem-espaco-nem-financiamento/20260417/69e1d6fbd34edcee7c6322d0)
+- Duas pessoas morreram no **IC17** em **Odivelas** e quatro ficaram feridas na **EN235** em **Albufeira** em dois graves acidentes rodoviários esta sexta-feira. [(link)](https://www.noticiasaominuto.com/pais/2974413/acidente-no-ic17-em-odivelas-fez-dois-mortos), [(link)](https://observador.pt/2026/04/17/quatro-feridos-dois-em-estado-grave-em-colisao-na-en235-no-concelho-de-albufeira/)
+- O arranque do julgamento de ex-autarcas de **Montalegre** por crimes de corrupção decorre hoje no tribunal de **Murça**. [(link)](https://observador.pt/2026/04/17/ex-autarcas-de-montalegre-comecam-a-ser-julgados-esta-sexta-feira-em-murca/)
+- As temperaturas vão subir até aos **30ºC** este fim de semana, acompanhadas por um alerta de risco elevado de radiação **UV**. [(link)](https://cnnportugal.iol.pt/tempo/meteorologia/fim-de-semana-com-risco-de-radiacao-uv-em-portugal-maximas-chegam-aos-30-graus/20260417/69e1d363d34e28842c83031c)
+
+### 🌍 Mundo
+- O Ministro dos Negócios Estrangeiros, **Paulo Rangel**, visita **Beirute** para anunciar o apoio português à educação de crianças deslocadas no **Líbano**. [(link)](https://www.rtp.pt/noticias/mundo/mne-portugues-no-libano-para-anunciar-apoio-a-educacao-de-criancas-deslocadas_n1734595)
+- **Myanmar** anulou todas as sentenças de pena de morte no país após a tomada de posse do novo líder nacional. [(link)](https://observador.pt/2026/04/17/myanmar-anula-todas-as-condenacoes-a-morte/)
+- **Todd Lyons**, o diretor interino do **ICE** responsável pelo plano de deportação em massa da administração **Trump**, apresentou a sua demissão. [(link)](https://observador.pt/2026/04/17/todd-lyons-demite-se-do-cargo-de-diretor-interino-do-ice-foi-responsavel-pelo-plano-de-deportacao-em-massa-de-trump/)
+- O **G7** alertou para a urgência de conter o impacto económico global resultante do prolongamento do conflito no **Médio Oriente**. [(link)](https://observador.pt/2026/04/17/urgente-limitar-o-custo-para-a-economia-mundial-do-prolongamento-do-conflito-avisam-os-ministros-das-financas-do-g7/)
+
+### 💵 Economia
+- O **FMI** manifestou-se contra a aplicação de impostos sobre lucros extraordinários das empresas do setor energético. [(link)](https://eco.sapo.pt/2026/04/17/fmi-contra-imposto-sobre-lucros-extraordinarios-das-energeticas/)
+- O **Banco Mundial** retomou as relações formais com a **Venezuela** após um interregno de sete anos na cooperação financeira. [(link)](https://observador.pt/2026/04/17/banco-mundial-retoma-as-relacoes-com-a-venezuela-apos-sete-anos-de-pausa/)
+
+### ⚽ Desporto
+- O **Sporting de Braga** garantiu o apuramento para as meias-finais da **Liga Europa** após vencer o seu encontro na noite de quinta-feira. [(link)](https://www.noticiasaominuto.com/desporto/2974336/com-uma-horta-assim-nas-meias-braga-pode-sonhar-com-festa-europeia)
+
+### 🚀 Ciência e Cultura
+- Portugal planeia lançar o seu primeiro voo espacial dentro de dois meses, segundo a **Agência Espacial Portuguesa**. [(link)](https://rr.pt/especial/escala-global/2026/04/17/agencia-espacial-portuguesa-portugal-tem-primeiro-voo-espacial-dentro-de-dois-meses/467151/)
+- O **Palácio Nacional de Mafra** iniciou a sua primeira grande intervenção de requalificação patrimonial. [(link)](https://observador.pt/2026/04/17/palacio-nacional-de-mafra-com-primeira-grande-requalificacao/)

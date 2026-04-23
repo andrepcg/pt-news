@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- O **Serviço Nacional de Saúde** atingiu um gasto recorde de **152 milhões de euros** em psicofármacos em 2025, enquanto especialistas alertam para graves falhas no acesso a psicoterapia. [(link)](https://observador.pt/2026/04/23/consumo-de-psicofarmacos-atinge-maximo-e-sns-gasta-152-milhoes-em-2025/), [(link)](https://observador.pt/2026/04/23/especialistas-alertam-para-falhas-no-acesso-a-psicoterapia-no-sns/)
+- A **UGT** decide hoje a sua posição sobre a proposta final de alteração à legislação laboral, com pontos críticos focados no banco de horas e despedimentos. [(link)](https://observador.pt/liveblogs/ugt-reune-se-hoje-para-analisar-e-votar-a-proposta-final-de-alteracoes-a-legislacao-laboral/), [(link)](https://eco.sapo.pt/2026/04/23/banco-de-horas-outsourcing-e-despedimentos-os-pontos-que-podem-levar-a-ugt-a-rejeitar-um-acordo-na-reforma-laboral/)
+- Uma colisão frontal entre dois comboios na **Dinamarca** causou dezenas de feridos, dos quais quatro encontram-se em estado grave. [(link)](https://rr.pt/noticia/mundo/2026/04/23/colisao-entre-dois-comboios-na-dinamarca-faz-17-feridos-quatro-com-gravidade/468064/), [(link)](https://www.rtp.pt/noticias/mundo/dois-comboios-colidiram-na-dinamarca-provocando-varios-feridos_n1736216)
+- O **Sporting** eliminou o **FC Porto** e garantiu o apuramento para a final da **Taça de Portugal**. [(link)](https://www.rtp.pt/noticias/desporto/taca-de-portugal-sporting-elimina-fc-porto-e-segue-para-a-final_v1736204)
+
+### 🇵🇹 Portugal
+- Os internamentos sociais nos hospitais portugueses aumentaram **19%** num ano, ocupando cerca de **14%** das camas disponíveis com doentes que já têm alta médica. [(link)](https://observador.pt/2026/04/23/numero-de-pessoas-internadas-apos-terem-alta-aumenta-19-e-ultrapassa-as-2-800/), [(link)](https://www.rtp.pt/noticias/pais/cerca-de-14-das-camas-hospitalares-estao-ocupadas-por-pessoas-sem-resposta-social_n1736221)
+- A **GNR** deteve **59 pessoas** por crimes de incêndio no decorrer deste ano, sendo a maioria das detenções motivada por uso negligente do fogo. [(link)](https://www.noticiasaominuto.com/pais/2977885/gnr-deteve-este-ano-59-pessoas-por-fogo-maioria-por-uso-negligente)
+- Um sismo de magnitude **3,4** na escala de Richter foi registado na ilha **Terceira**, nos Açores, sem causar danos materiais ou pessoais. [(link)](https://observador.pt/2026/04/23/sismo-de-magnitude-34-na-escala-de-richter-registado-na-ilha-terceira/)
+- O evento **Comic Con Portugal** inicia hoje uma nova edição em **Santa Maria da Feira**. [(link)](https://observador.pt/2026/04/23/comic-con-portugal-arranca-esta-quinta-feira-em-santa-maria-da-feira/)
+- O **Hospital de Santa Cruz** atingiu o marco histórico de mais de **300 transplantes cardíacos** realizados ao longo de 40 anos. [(link)](https://observador.pt/2026/04/23/hospital-de-santa-cruz-realizou-mais-de-300-transplantes-cardiacos-em-40-anos/)
+
+### 🌍 Mundo
+- Líderes da **União Europeia** reúnem-se em **Chipre** sob fortes medidas de segurança para discutir a crise geopolítica no **Médio Oriente**. [(link)](https://www.cmjornal.pt/mundo/detalhe/lideres-da-ue-iniciam-hoje-reuniao-em-chipre-focada-na-guerra-no-medio-oriente/)
+- A **Coreia do Norte** e a **Rússia** reforçaram a sua cooperação estratégica com a inauguração de uma nova ponte transfronteiriça. [(link)](https://observador.pt/2026/04/23/coreia-do-norte-e-russia-concluem-ligacao-de-ponte-em-novo-gesto-de-aproximacao/)
+- Novos ataques aéreos entre **Ucrânia** e **Rússia** resultaram na morte de pelo menos três civis. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/troca-de-ataques-aereos-entre-kiev-e-moscovo-causa-tres-mortes_n1736198)
+
+### 💵 Economia
+- A **Microsoft** anunciou um investimento superior a **15 mil milhões de euros** para o desenvolvimento de infraestruturas de Inteligência Artificial na **Austrália**. [(link)](https://observador.pt/2026/04/23/microsoft-investe-mais-de-15-mil-milhoes-de-euros-na-australia/)
+- Vila Nova de **Gaia** vai acolher a construção da maior torre de apartamentos de luxo em Portugal. [(link)](https://eco.sapo.pt/2026/04/23/ceu-a-vista-maior-torre-de-apartamentos-do-pais-vai-nascer-em-gaia/)
+- A nova liquidatária do **BES** terá uma remuneração mensal fixada em **11.500 euros**. [(link)](https://eco.sapo.pt/2026/04/23/nova-liquidataria-do-bes-mau-recebe-11-500-euros-por-mes/)
+- O Governo indicou que a reconstrução pós-tempestades terá prioridade orçamental face aos apoios diretos ao setor da restauração. [(link)](https://eco.sapo.pt/2026/04/23/tempestades-vieram-alterar-as-prioridades-diz-castro-almeida-sobre-apoios-aos-restaurantes/)

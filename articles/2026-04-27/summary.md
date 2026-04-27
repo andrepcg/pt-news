@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O lucro da **Galp** cresceu **41%** no primeiro trimestre, atingindo os **272 milhões de euros**, impulsionado pela subida do preço do petróleo. [(link)](https://www.rtp.pt/noticias/economia/lucro-da-galp-dispara-41-para-272-milhoes-de-euros-no-1o-trimestre_n1737152), [(link)](https://eco.sapo.pt/2026/04/27/lucro-da-galp-dispara-41-para-272-milhoes-no-primeiro-trimestre-com-subida-do-preco-do-petroleo/)
+- O **Irão** apresentou uma proposta para a reabertura do **Estreito de Ormuz**, visando desbloquear o impasse geopolítico com os **Estados Unidos**. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-presenta-nova-proposta-para-reabrir-o-estreito-de-ormuz_n1737131), [(link)](https://eco.sapo.pt/2026/04/27/teerao-presenta-nova-proposta-para-reabrir-o-estreito-de-ormuz/)
+- O **FC Porto** está a uma vitória do título da **I Liga** após vencer o Estrela da Amadora, beneficiando do empate do Sporting na Vila das Aves. [(link)](https://www.rtp.pt/noticias/desporto/i-liga-dragao-vence-estrela-da-amadora-e-fica-a-um-passo-do-titulo_v1737141), [(link)](https://www.rtp.pt/noticias/desporto/i-liga-sporting-escorrega-na-vila-das-aves-e-complica-segundo-lugar_v1737142)
+
+### 🇵🇹 Portugal
+- A Ministra da Justiça revelou um aumento de agressores de violência doméstica em programas de reabilitação, defendendo que o combate ao crime passe pela disciplina de **Cidadania**. [(link)](https://www.rtp.pt/noticias/pais/aumentou-onumero-de-agressores-de-violencia-domestica-em-programas-de-reabilitacao_n1737129), [(link)](https://cnnportugal.iol.pt/violencia-domestica/crime/aumentou-o-numero-de-agressores-de-violencia-domestica-em-programas-de-reabilitacao-ministra-diz-que-crime-nao-se-combate-com-agravamento-de-penas/20260427/69ef029ed34e28842c835e30)
+- O Governo entrega hoje aos sindicatos uma nova proposta para o concurso de colocação de professores. [(link)](https://www.rtp.pt/noticias/pais/governo-entrega-hoje-aos-sindicatos-proposta-para-um-novo-concurso-de-professores_n1737148)
+- Os tribunais decidem hoje a instrução do processo de alegada tortura por agentes da **PSP** na esquadra do Rato. [(link)](https://www.rtp.pt/noticias/pais/decisao-instrutoria-dos-agentes-da-psp-do-rato-conhecida-hoje_n1737149)
+- Um movimento de cidadãos solicitou à **DGS** a proibição do uso de telemóveis nas escolas até ao **9.º ano**. [(link)](https://rr.pt/noticia/pais/2026/04/27/uso-de-ecras-nas-escolas-quando-e-que-a-dgs-se-pronuncia/468351/)
+- O **IPMA** colocou três distritos do continente sob aviso amarelo devido à previsão de chuva forte e trovoada. [(link)](https://observador.pt/2026/04/27/tres-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva/)
+
+### 🌍 Mundo
+- **Donald Trump** desvalorizou o tiroteio ocorrido em **Washington** e garantiu a segurança da visita do **Rei Carlos III** aos EUA. [(link)](https://observador.pt/2026/04/27/trump-diz-que-nao-ficou-preocupado-quando-soube-de-tiros-em-jantar-de-gala/), [(link)](https://rr.pt/noticia/mundo/2026/04/27/trump-suspeito-de-ataque-e-pessoa-bastante-perturbada/468555/)
+- A **Coreia do Norte** inaugurou um museu em memória dos soldados norte-coreanos mortos em combate no conflito na **Ucrânia**. [(link)](https://www.rtp.pt/noticias/mundo/coreia-do-norte-inaugura-museu-em-homenagem-aos-soldados-mortos_n1737134)
+
+### 💵 Economia
+- A tecnológica portuguesa **Orion Technik** anunciou um investimento de **2 milhões de dólares** para expandir operações no mercado de defesa dos EUA. [(link)](https://eco.sapo.pt/2026/04/27/portuguesa-orion-technik-investe-dois-milhoes-para-abrir-operacao-nos-eua/)
+- Os trabalhadores da **Monliz** iniciaram uma greve para exigir aumentos salariais e a redução do horário de trabalho. [(link)](https://observador.pt/2026/04/27/trabalhadores-da-monliz-esta-segunda-feira-em-greve-por-aumentos-salariais-e-reducao-do-horario/)
+
+### ⚽ Desporto
+- O **Marítimo** garantiu o regresso à **Primeira Liga**, três anos depois, com celebrações em massa nas ruas do Funchal. [(link)](https://www.noticiasaominuto.com/desporto/2979878/centenas-de-adeptos-do-maritimo-festejam-regresso-a-i-liga-3-anos-depois/)
+- O **Boavista FC** enfrenta um processo de insolvência que poderá levar o **Estádio do Bessa** a leilão por dívidas acumuladas. [(link)](https://rr.pt/artigo/explicador-renascenca/2026/04/27/boavista-insolvente-estadio-do-bessa-vai-mesmo-a-leilao/468560/)
+- O neerlandês **Xavi Simons** vai falhar o **Mundial 2026** devido a uma lesão grave contraída ao serviço do seu clube. [(link)](https://observador.pt/2026/04/27/xavi-simons-dos-paises-baixos-falha-fase-final-do-mundial2026/)

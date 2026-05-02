@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- O **FC Porto** pode sagrar-se hoje campeão nacional de futebol caso vença o **Alverca**, enquanto o **Benfica** visita o **Famalicão** focado no apuramento para a **Champions League**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-campeonato-dia-decisivo-para-o-fc-porto_a1_1738460), [(link)](https://www.noticiasaominuto.com/desporto/2982714/fc-porto-alverca-dragao-quer-fazer-a-festa-mas-tem-ribatejo-pelo-meio), [(link)](https://www.noticiasaominuto.com/desporto/2982673/famalicao-benfica-aguias-visitam-terreno-fertil-em-escorregadelas)
+- O **Japão** efetuou a primeira compra de petróleo russo desde o encerramento do **Estreito de Ormuz**, num contexto de instabilidade energética global. [(link)](https://www.noticiasaominuto.com/mundo/2982859/japao-adquire-pela-primeira-vez-petroleo-russo-desde-encerramento-de-ormuz), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/japao-adquire-pela-primeira-vez-petroleo-russo-desde-encerramento-de-ormuz)
+- O **PSD** adiou a proposta de revisão constitucional para **2027**, enquanto o **Chega** falhou a entrega do documento prometido dentro do prazo. [(link)](https://www.publico.pt/2026/05/02/politica/noticia/psd-atirou-revisao-constitucional-2027-chega-na-apresentao-proposta-prometida-2173263)
+
+### 🇵🇹 Portugal
+- A central sindical **UGT** mantém-se indecisa quanto à adesão à **Greve Geral**, após as celebrações do Dia do Trabalhador. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/5h-greve-geral-ugt-ainda-nao-tomou-decisao-sobre-adesao_a1_1738454), [(link)](https://www.noticiasaominuto.com/politica/2982819/pacote-laboral-e-greve-geral-marcam-dia-do-trabalhador-o-que-se-disse)
+- Os preços das habitações no **Parque das Nações**, em Lisboa, continuam em trajetória de subida acentuada. [(link)](https://www.publico.pt/2026/05/02/local/noticia/parque-nacoes-precos-casas-alta-gosto-viver-aqui-exagero-2172482)
+
+### 🌍 Mundo
+- **Donald Trump** sugeriu que os **EUA** poderão assumir o controlo de **Cuba** de forma imediata, em reação à crise em curso no **Irão**. [(link)](https://www.noticiasaominuto.com/mundo/2982846/eua-poderao-assumir-o-controlo-de-cuba-quase-de-imediato-diz-trump)
+- No **Irão**, a explosão acidental de bombas de fragmentação durante uma tentativa de desativação resultou na morte de **14 soldados**. [(link)](https://www.noticiasaominuto.com/mundo/2982869/irao-pelo-menos-14-soldados-morrem-ao-desativar-bombas-de-fragmentacao)
+- O governo do **Reino Unido** estuda a possibilidade de proibir manifestações de apoio à **Palestina** em território britânico. [(link)](https://www.noticiasaominuto.com/mundo/2982868/governo-britanico-admite-proibir-manifestacoes-pro-palestina)
+- Um tribunal norte-americano impôs restrições ao envio de pílulas abortivas por via postal, limitando o acesso ao fármaco nos **EUA**. [(link)](https://www.noticiasaominuto.com/mundo/2982835/tribunal-dos-eua-restringe-acesso-a-pilulas-abortivas-por-correio)
+- Os **EUA** anunciaram a retirada de **5.000 militares** destacados na **Alemanha**; em paralelo, a **China** reforça a sua influência nos países da **CPLP**. [(link)](https://www.noticiasaominuto.com/mundo/2982841/eua-anunciam-retirada-de-5000-soldados-da-alemanha), [(link)](https://www.noticiasaominuto.com/mundo/2982865/china-tem-consolidado-presenca-em-paises-lusofonos-africanos)
+
+### 💵 Economia
+- A companhia aérea **Spirit Airlines** anunciou o encerramento imediato de todas as operações de voo após **34 anos** de atividade. [(link)](https://www.cmjornal.pt/mundo/detalhe/spirit-airlines-anuncia-encerramento-imediato-de-operacoes-apos-34-anos-de-atividade)
+
+### ⚽ Desporto
+- No mercado de transferências, **Jorge Mendes** tenta mediar a saída de **Gonçalo Ramos** do **PSG** para o futebol italiano. [(link)](https://www.noticiasaominuto.com/desporto/2982864/jorge-mendes-tenta-convencer-goncalo-ramos-a-deixar-o-psg)
+- O **Sporting CP** equaciona a saída de **Fresneda** enquanto as negociações por **Vagiannidis** se tornam financeiramente mais exigentes. [(link)](https://www.noticiasaominuto.com/desporto/2982855/sporting-mexe-a-direita-fresneda-pode-sair-e-vagiannidis-fica-mais-caro)
+- Na **NBA**, os **LA Lakers** garantiram a passagem à fase seguinte dos playoffs sob a liderança de **LeBron James**. [(link)](https://www.noticiasaominuto.com/desporto/2982857/la-lakers-avancam-nos-playoffs-da-nba-a-boleia-de-lebron-james)

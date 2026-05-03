@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O **FC Porto** sagrou-se campeão nacional pela **31.ª vez**, após vencer com um golo de **Bednarek** num Estádio do Dragão que homenageou **Jorge Costa**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-fc-porto-conquista-o-31o-titulo-de-campeao-nacional_a1_1738606), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-golo-de-bednarek-da-titulo-ao-fc-porto_a1_1738605), [(link)](https://www.noticiasaominuto.com/desporto/2983197/fc-porto-sagra-se-campeao-mas-dragao-cala-se-para-homenagear-jorge-costa)
+- O **Governo** português acusou o **PS** de permitir que o país se tornasse a maior porta de entrada de imigração ilegal na **União Europeia**, mantendo a recusa em receber refugiados até à resolução de litígios. [(link)](https://www.cmjornal.pt/politica/detalhe/governo-considera-que-portugal-oi-a-porta-de-entrada-de-imigracao-ilegal-na-ue-mas-hoje-ja-nao-e), [(link)](https://www.noticiasaominuto.com/pais/2983187/portugal-mantem-recusa-de-receber-refugiados-ate-litigio-estar-concluido)
+- A **China** bloqueou sanções impostas pelos **EUA** a empresas chinesas com ligações ao **Irão** e criticou a viagem de **William Lai**, líder de **Taiwan**, ao **Essuatíni** após um sismo na ilha. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/pequim-bloqueia-sancoes-de-washington-contra-empresas-chinesas-por-ligacao-a-teerao_n1738595), [(link)](https://www.rtp.pt/noticias/mundo/china-afirma-que-william-lai-abandonou-taiwan-apos-sismo-para-viagem-a-essuatini_n1738604)
+
+### 🇵🇹 Portugal
+- Existem mais de **95 mil** pedidos pendentes para a realização de juntas médicas em Portugal, com tempos de espera que atingem quase um ano. [(link)](https://www.publico.pt/2026/05/03/sociedade/noticia/95-mil-pedidos-realizacao-junta-medica-quase-ano-espera-2172737)
+- A **Iniciativa Liberal** apresentou uma recomendação ao Executivo para a regulamentação urgente da gestação de substituição. [(link)](https://www.noticiasaominuto.com/politica/2983201/il-recomenda-ao-governo-que-regulamente-gestacao-de-substituicao)
+- **Macário Correia** alertou para a necessidade de combater o desperdício de água antes de se avançar com a construção de novas barragens. [(link)](https://www.publico.pt/2026/05/03/economia/entrevista/macario-correia-nao-podemos-barragens-resolver-desperdicio-agua-2173310)
+
+### 🌍 Mundo
+- O número de vítimas mortais subiu para seis após a ocorrência de fortes tempestades no nordeste do **Brasil**. [(link)](https://www.noticiasaominuto.com/mundo/2983183/sobe-para-6-o-n-de-mortos-no-nordeste-do-brasil-apos-fortes-tempestades)
+- Em **Díli**, uma exposição sobre **Saramago** marcou o início das celebrações da Língua Portuguesa em **Timor-Leste**. [(link)](https://www.noticiasaominuto.com/cultura/2983203/exposicao-sobre-saramago-abre-a-celebracao-da-lingua-portuguesa-em-dili)
+- A **Colômbia** enfrenta um impasse ambiental devido à superpopulação de hipopótamos descendentes dos animais importados por **Pablo Escobar**. [(link)](https://www.publico.pt/2026/05/03/mundo/noticia/hipopotamos-pablo-escobar-2173182)
+
+### ⚽ Desporto
+- **André Villas-Boas** celebrou a conquista do título nacional no balneário portista e desceu ao relvado para saudar os jogadores. [(link)](https://www.noticiasaominuto.com/desporto/2983202/da-danca-ao-shot-villas-boas-como-nunca-o-viu-no-balneario-do-fc-porto), [(link)](https://www.noticiasaominuto.com/desporto/2983194/villas-boas-desceu-ao-relvado-para-abracar-jogadores-de-zaidu-fez-isto)
+- Os **Boston Celtics** foram eliminados da **NBA** apesar de uma exibição de destaque do português **Neemias Queta**. [(link)](https://www.noticiasaominuto.com/desporto/2983196/surpresa-na-nba-neemias-queta-arrasa-mas-boston-celtics-sao-eliminados)
+- No mercado de transferências, o **Al Hilal** demonstrou interesse na contratação de **Luis Suárez**, atualmente ao serviço do **Sporting**. [(link)](https://www.noticiasaominuto.com/desporto/2983193/al-hilal-entra-em-cena-para-levar-luis-suarez-do-sporting)
+- O **Inter Miami** de **Lionel Messi** sofreu uma derrota por **3-4** num jogo em que esteve a vencer por três golos de vantagem. [(link)](https://www.noticiasaominuto.com/desporto/2983207/tombo-inacreditavel-de-messi-e-companhia-inter-miami-vai-de-3-0-a-3-4)
+
+### 🩺 Saúde e Sociedade
+- Um estudo associa a amamentação a um início mais tardio da puberdade nas raparigas. [(link)](https://www.publico.pt/2026/05/03/sociedade/noticia/amamentacao-associada-inicio-tardio-puberdade-raparigas-2172337)
+- Testemunhos masculinos alertam para a realidade da depressão pós-parto sentida pelos pais. [(link)](https://cnnportugal.iol.pt/depressao-pos-parto/depressao/a-depressao-pos-parto-tambem-se-vive-no-masculino-tenho-medo-de-estar-sozinho-com-o-meu-filho/20260503/69eb768ed34edcee7c636a93)

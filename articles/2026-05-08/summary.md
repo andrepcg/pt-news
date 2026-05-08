@@ -1,0 +1,25 @@
+ ### 🗞️ Destaques
+- O escalar da tensão entre os **EUA** e o **Irão**, com trocas de ataques e ameaças ao cessar-fogo, impulsionou o preço do petróleo **Brent** acima dos **100 dólares**. [(link)](https://eco.sapo.pt/2026/05/08/precos-do-petroleo-sobem-com-troca-de-ataques-entre-eua-e-irao-brent-volta-a-passar-100-dolares/), [(link)](https://www.rtp.pt/noticias/mundo/pancadinhas-de-amor-trump-garante-que-continua-cessar-fogo-apesar-de-novo-ataque_e1739807)
+- A **Argentina** e o **Reino Unido** reforçaram a vigilância sanitária após a confirmação de casos de **Hantavírus** associados a um navio de cruzeiro. [(link)](https://cnnportugal.iol.pt/navio-de-cruzeiro/surto/reino-unido-confirma-dois-casos-de-hantavirus-ligados-ao-cruzeiro-mv-hondius/20260508/69fd8179d34edcee7c63e7be), [(link)](https://www.publico.pt/2026/05/08/mundo/noticia/argentina-reforca-vigilancia-epidemiologica-hantavirus-2173963)
+- As escolas portuguesas são responsáveis pela denúncia de quase **um terço** das detenções efetuadas por abuso sexual de menores no país. [(link)](https://cnnportugal.iol.pt/policia-judiciaria/vitimas/escolas-denunciam-quase-un-terco-dos-casos-que-levam-a-detencoes-por-abuso-sexual-de-criancas/20260508/69fd8668d34e28842c83c87f)
+
+### 🇵🇹 Portugal
+- Seis distritos do continente estão sob **aviso amarelo** devido à previsão de chuva forte e persistente durante o dia de hoje. [(link)](https://www.rtp.pt/noticias/pais/seis-distritos-do-continente-hoje-sob-aviso-amarelo-devido-a-chuva_n1739808)
+- Os interrogatórios aos polícias detidos por alegada tortura na **Esquadra do Rato** prosseguem, com a direção da **PSP** a garantir que ninguém está acima da lei. [(link)](https://www.rtp.pt/noticias/pais/esquadra-do-rato-psp-prossegue-hoje-interrogatorio-aos-policias-detidos-no-caso-de-alegada-tortura_n1739809)
+- Trabalhadores precários das escolas protestam hoje junto ao **Ministério da Educação** exigindo o fim dos contratos instáveis no setor. [(link)](https://www.rtp.pt/noticias/pais/trabalhadores-das-escolas-protestam-junto-of-ministerio-pelo-fim-da-precariedade_n1739803)
+- O ex-vice-presidente da Câmara de **Gaia** conhece esta sexta-feira a decisão judicial no âmbito da **Operação Babel**. [(link)](https://www.noticiasaominuto.com/pais/2986244/operacao-babel-ex-vice-presidente-de-gaia-conhece-hoje-decisao-judicial)
+- A **Ministra do Trabalho** iniciou uma ronda de contactos para procurar apoio parlamentar para as novas alterações à lei laboral. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-ministra-do-trabalho-pede-apoio-dos-partidos-para-a-lei-laboral_a1_1739810)
+
+### 🌍 Mundo
+- A **Coreia do Norte** deslocou artilharia de longo alcance para a fronteira com a **Coreia do Sul**, aumentando a tensão geopolítica na região. [(link)](https://observador.pt/2026/05/08/pyongyang-desloca-artilharia-de-longo-alcance-para-fronteira-com-coreia-do-sul/)
+- O **Papa Leão XIV** celebra hoje o seu primeiro ano de pontificado, sendo descrito pelo Patriarca como um "ativista convicto da paz". [(link)](https://www.publico.pt/2026/05/08/mundo/noticia/ano-papado-sucessor-francisco-leao-sabe-rugir-2173661)
+- A **China** aplicou penas de morte suspensas a dois ex-ministros da Defesa por crimes de corrupção. [(link)](https://observador.pt/2026/05/08/china-aplica-penas-de-morte-suspensas-a-dois-ex-ministros-da-defesa-por-corrupcao/)
+- Na **Venezuela**, **María Corina Machado** denunciou a morte de um preso político sob custódia, classificando o incidente como "assassinio". [(link)](https://www.rtp.pt/noticias/mundo/lider-da-oposicao-na-venezuela-diz-que-morte-de-preso-politico-foi-assassinio_n1739798)
+
+### 💵 Economia
+- Um tribunal dos **EUA** declarou ilegais as tarifas temporárias de **10%** impostas pela administração **Trump**, num revés para a política comercial atual. [(link)](https://eco.sapo.pt/2026/05/08/tarifas-temporarias-de-10-impostas-por-trump-sao-ilegais/)
+- A **Agência Internacional de Energia (AIE)** recomenda que **Portugal** crie apoios diretos à compra de veículos elétricos usados para acelerar a descarbonização. [(link)](https://cnnportugal.iol.pt/agencia-internacional-de-energia/revisao-da-politica-energetica/aie-recomenda-apoios-a-compra-de-veiculos-eletricos-usados-em-portugal/20260508/69fd792cd34e28842c83c874)
+- A queda acentuada no consumo de gás em **Portugal**, para níveis previstos apenas para 2035, está a pressionar a sustentabilidade do terminal de **Sines**. [(link)](https://observador.pt/2026/05/08/consumo-de-gas-em-portugal-caiu-para-niveis-so-esperados-em-2035-e-isso-cria-um-problema-nos-precos-e-no-terminal-de-sines/)
+
+### ⚽ Desporto
+- O **Sporting de Braga** foi eliminado da **Liga Europa** após perder frente ao **Friburgo**, falhando assim o acesso à final da competição. [(link)](https://www.rtp.pt/noticias/desporto/liga-europa-minhotos-perdem-com-friburgo-e-falham-final_v1739805)

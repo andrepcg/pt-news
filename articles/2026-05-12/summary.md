@@ -1,0 +1,30 @@
+ ### 🗞️ Destaques
+- **Kiev** foi alvo de um ataque aéreo russo após o término de uma trégua de três dias, marcando o reatamento das hostilidades intensas na capital ucraniana. [(link)](https://observador.pt/2026/05/12/ataque-aereo-russo-sobre-kiev-apos-fim-de-tregua-de-tres-dias/), [(link)](https://www.rtp.pt/noticias/mundo/ataque-aereo-russo-sobre-kiev-apos-fim-de-tregua-de-tres-dias_n1740685/)
+- **Donald Trump** iniciou uma visita à **China** com uma comitiva de **16 executivos**, incluindo **Elon Musk**, propondo simultaneamente a suspensão de impostos sobre combustíveis. [(link)](https://eco.sapo.pt/2026/05/12/trump-quer-suspender-impostos-sobre-combustiveis-e-leva-elon-musk-a-china/), [(link)](https://www.rtp.pt/noticias/mundo/cimeira-eua-china-trump-sublinha-boa-relacao-com-xi-jinping_v1740712)
+- Enfermeiros de todos os setores cumprem hoje um dia de greve nacional, enquanto o Governo anuncia a atualização de preços para contratualizar cirurgias e consultas com o setor privado. [(link)](https://observador.pt/liveblogs/enfermeiros-de-todos-os-setores-cumprem-esta-terca-feira-um-dia-de-greve/), [(link)](https://eco.sapo.pt/2026/05/12/governo-vai-atualizar-precos-dos-contratos-com-hospitais-privados-para-consultas-e-cirurgias/)
+- A **AD** prepara-se para abandonar a proposta de perda de nacionalidade como pena acessória, recuando numa das medidas mais polémicas do seu programa para a justiça. [(link)](https://cnnportugal.iol.pt/perda-de-nacionalidade/governo/psd-prepara-se-para-abandonar-proposta-de-perda-da-nacionalidade-como-pena-acessoria/20260512/6a02cc4bd34e28842c83ea62), [(link)](https://www.noticiasaominuto.com/pais/2988181/hoje-e-noticia-perda-de-nacionalidade-ad-deixa-cair-queixas-por-ruido)
+
+### 🇵🇹 Portugal
+- A autenticação de dois fatores tornou-se obrigatória a partir desta terça-feira para todos os utilizadores do portal da **Segurança Social**. [(link)](https://observador.pt/2026/05/12/dupla-autenticacao-obrigatoria-a-partir-desta-terca-feira-no-portal-da-seguranca-social/), [(link)](https://eco.sapo.pt/2026/05/12/dupla-autenticacao-obrigatoria-a-partir-de-hoje-no-portal-da-seguranca-social/)
+- O Santuário de **Fátima** prepara-se para receber milhares de peregrinos nas celebrações de **13 de maio**, com forte dispositivo de segurança e assistência. [(link)](https://www.rtp.pt/noticias/pais/milhares-de-fieis-esperados-para-a-peregrinacao-de-maio-ao-santuario-de-fatima_n1740700)
+- A **ERS** revela que **21%** dos doentes oncológicos aguardam por cirurgia além do tempo máximo de resposta garantido. [(link)](https://www.rtp.pt/noticias/pais/relatorio-ers-21-dos-doentes-oncologicos-esperam-demasiado-por-cirurgia_v1740705)
+
+### 🌍 Mundo
+- **Israel** aprovou a criação de um tribunal especial e a aplicação da pena de morte para os envolvidos nos ataques de outubro de 2023. [(link)](https://www.rtp.pt/noticias/mundo/israel-cria-tribunal-especial-e-permite-pena-de-morte-para-ataques-de-2023_n1740696)
+- No **Reino Unido**, cerca de **70 deputados** trabalhistas exigem a demissão de **Keir Starmer** após os resultados eleitorais negativos do partido. [(link)](https://www.publico.pt/2026/05/12/mundo/noticia/perdeu-autoridade-partido-pais-70-deputados-trabalhistas-pedem-demissao-starmer-apos-fiasco-eleitoral-2174352)
+- A **ONU** alerta para o risco de uma crise humanitária grave na sequência do bloqueio no **Estreito de Ormuz**, com impactos diretos no comércio internacional. [(link)](https://www.rtp.pt/noticias/mundo/onu-alerta-bloqueio-em-ormuz-pode-desencadear-crise-humanitaria-grave_v1740713)
+- **Taiwan** procura estreitar a cooperação militar com os **EUA** para reforçar a capacidade de dissuasão face às tensões com a China. [(link)](https://www.rtp.pt/noticias/mundo/taiwan-quer-reforcar-cooperacao-with-estados-unidos-para-uma-dissuasao-eficaz_n1740697)
+- Os últimos voos de repatriamento de cidadãos infetados com **Hantavírus** chegaram aos **Países Baixos**, mas as autoridades descartam um cenário de alarme social. [(link)](https://observador.pt/liveblogs/dois-ultimos-voos-de-repatriamento-de-infetados-aterraram-nos-paises-baixos/)
+
+### 💵 Economia
+- O lucro da **Petrobras** registou uma queda de **7,2%** no primeiro trimestre de 2026, fixando-se nos **5,65 mil milhões de euros**. [(link)](https://www.rtp.pt/noticias/economia/lucro-da-petrobras-cai-72-ate-marco-para-565-mil-milhoes-de-euros_n1740686)
+- A **Volkswagen** foi condenada no **Brasil** ao pagamento de uma multa de **2,5 milhões de euros** por violação de normas ambientais. [(link)](https://www.rtp.pt/noticias/economia/brasil-multa-volkswagen-em-25-milhoes-de-euros-por-infringir-normas-ambientais_n1740681)
+
+### ⚽ Desporto
+- O **Benfica** disse praticamente adeus à qualificação para a **Champions League** após um empate a dois golos na última jornada da I Liga. [(link)](https://www.rtp.pt/noticias/desporto/i-liga-empate-a-dois-golos-afasta-benfica-da-champions_v1740703)
+- O **Sporting** goleou o **Rio Ave** por **4-1**, consolidando a sua posição na tabela classificativa antes da ronda final. [(link)](https://www.rtp.pt/noticias/desporto/i-liga-sporting-goleia-rio-ave-por-4-1-e-e-foca-se-na-derradeira-ronda_v1740702)
+
+### 🎭 Cultura e Ciência
+- O **Festival de Cannes 2026** tem início hoje, com uma programação focada no cinema de autor e na promoção de novos talentos. [(link)](https://observador.pt/2026/05/12/cannes-2026-comeca-com-vontade-de-dar-lugar-aos-novos/)
+- Os **Bandidos do Cante** disputam esta noite uma vaga na final da **Eurovisão**, numa semifinal onde as casas de apostas preveem dificuldades para a canção portuguesa. [(link)](https://rr.pt/noticia/vida/2026/05/12/eurovisao-casas-de-apostas-dao-bandidos-do-cante-fora-final/470420/)
+- Investigadores alertam para campanhas de desinformação que tentam negar a relação científica entre o consumo de carne vermelha e o risco de cancro. [(link)](https://www.publico.pt/2026/05/12/ciencia/noticia/desinformacao-simula-debate-cientifico-negar-risco-cancro-carne-vermelha-2174297)

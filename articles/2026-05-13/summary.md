@@ -1,0 +1,30 @@
+ ### 🗞️ Destaques
+- **Donald Trump** iniciou uma visita à **China** para uma cimeira de alto risco, enquanto gera polémica ao sugerir a **Venezuela** como o **51.º estado** dos **EUA**. [(link)](https://observador.pt/2026/05/13/trump-publica-imagem-em-que-retrata-venezuela-como-51-o-estado-dos-eua/), [(link)](https://cnnportugal.iol.pt/china/donald-trump/trump-chega-a-china-para-uma-cimeira-de-alto-risco-em-que-paira-a-gigante-sombra-da-guerra/20260513/6a034a17d34e28842c83f42d)
+- A **União Europeia** exigiu oficialmente a Caracas a libertação de todos os presos políticos na **Venezuela**, confirmando a existência de **cinco portugueses** entre os detidos. [(link)](https://www.publico.pt/2026/05/13/mundo/noticia/ue-pede-libertacao-presos-politicos-venezuela-ha-cinco-portugueses-2174499)
+- Mais de **250 mil pessoas** participaram na noite das velas no **Santuário de Fátima**, marcando a tradicional peregrinação de **13 de maio de 2026**. [(link)](https://www.rtp.pt/noticias/pais/fatima-250-mil-pessoas-na-noite-das-velas_v1740922)
+- A **Rússia** realizou testes com um novo míssil nuclear intercontinental, descrito como o mais poderoso do mundo, intensificando a tensão militar global. [(link)](https://www.rtp.pt/noticias/mundo/moscovo-testa-novo-missil-nuclear-intercontinental_v1740929)
+
+### 🇵🇹 Portugal
+- Um terço dos candidatos à **GNR** foi excluído em testes psicológicos, numa fase em que o Comandante-Geral reitera a tolerância zero a comportamentos contra os direitos humanos. [(link)](https://www.rtp.pt/noticias/pais/um-terco-dos-candidatos-a-gnr-chumbou-nos-testes-psicologicos_n1740903), [(link)](https://cnnportugal.iol.pt/gnr/comandante-geral/comandante-geral-diz-que-na-gnr-nao-ha-lugar-para-comportamentos-contra-direitos-humanos/20260513/6a0410b8d34e28842c83f791)
+- O **Parlamento** debate hoje o novo programa de voluntariado na **Defesa**, proposto pela coligação **PSD/CDS-PP**, que inclui benefícios como retribuição financeira e carta de condução gratuita. [(link)](https://observador.pt/liveblogs/parlamento-debate-programa-de-voluntariado-na-defesa-proposto-por-psd-cds-pp/)
+- O número de alunos com necessidades específicas aumentou **29%** numa década, gerando um alerta das escolas sobre a grave falta de recursos. [(link)](https://cnnportugal.iol.pt/alunos-com-necessidades/falta-de-recursos/alunos-com-necessidades-especificas-aumentaram-29-em-dez-anos-falta-de-recursos-preocupa-escolas/20260513/6a041d57d34e28842c83f79b)
+- A **Polícia Judiciária** está a investigar a morte de um homem cujo corpo foi encontrado numa antiga fábrica na **Amadora**. [(link)](https://cnnportugal.iol.pt/amadora/morto/homem-encontrado-morto-em-antiga-fabrica-na-amadora-pj-esta-a-investigar/20260513/6a04126bd34e28842c83f795)
+
+### 🌍 Mundo
+- A **China** reiterou a ameaça de responder pela força a qualquer tentativa de independência por parte de **Taiwan**. [(link)](https://www.rtp.pt/noticias/mundo/china-diz-se-pronta-para-esmagar-qualquer-tentativa-de-independencia-de-taiwan_n1740906)
+- Pequim solicitou ao **Paquistão** que intensifique o papel de mediador para aliviar as tensões diplomáticas entre os **EUA** e o **Irão**. [(link)](https://observador.pt/2026/05/13/china-pede-al-paquistao-que-intensifique-mediacao-entre-estados-unidos-e-irao/)
+- O número de casos confirmados de **Hantavírus** subiu para nove, após um jovem italiano que viajou no navio **Hondius** ter testado positivo. [(link)](https://www.rtp.pt/noticias/mundo/novo-caso-de-hantavirus-jovem-italiano-viajou-com-vitima-mortal_v1740926)
+- No **Reino Unido**, o **Rei Carlos III** realiza hoje o discurso do trono perante um clima de forte contestação política ao Governo de **Keir Starmer**. [(link)](https://www.rtp.pt/noticias/pais/carlos-iii-faz-hoje-o-discurso-do-rei-no-parlamento-britanico-em-ambiente-de-contestacao-a-starmer_n1740924)
+- Em **Angola**, o Presidente **João Lourenço** revelou a intenção de manter a liderança do **MPLA** para influenciar diretamente a escolha do seu sucessor. [(link)](https://www.publico.pt/2026/05/13/mundo/noticia/nao-presidente-joao-lourenco-quer-influenciar-proximo-desde-lideranca-mpla-2174488)
+
+### 💵 Economia
+- A empresa **Coindu** anunciou a entrada em regime de lay-off, uma medida que poderá afetar cerca de **500 trabalhadores** em **Vila Nova de Famalicão**. [(link)](https://www.rtp.pt/noticias/economia/coindu-vai-avancar-com-lay-off-que-pode-afetar-quase-500-trabalhadores_n1740915)
+- Os lucros do **BNU** em **Macau** registaram uma queda de **17%** durante o primeiro trimestre de 2026, totalizando valores abaixo do período homólogo. [(link)](https://www.rtp.pt/noticias/economia/lucros-do-bnu-em-macau-caiem-17-entre-janeiro-e-marco_n1740901)
+- O **Fisco** português disponibilizou a atualização da "lista negra" de devedores, detalhando as condições necessárias para a remoção de nomes da mesma. [(link)](https://www.noticiasaominuto.com/economia/2987801/veja-a-lista-negra-do-fisco-se-o-seu-nome-esta-la-saiba-como-retira-lo)
+
+### ⚽ Desporto
+- **Florentino Pérez** anunciou a antecipação das eleições no **Real Madrid**, embora tenha recusado apresentar a demissão imediata do cargo de presidente. [(link)](https://www.rtp.pt/noticias/desporto/real-madrid-florentino-antecipa-eleicoes-mas-nao-se-demite_v1740920)
+
+### 🚀 Tecnologia & Ciência
+- Um estudo científico associa a poluição atmosférica a **9 milhões** de novos casos anuais de **diabetes** a nível mundial. [(link)](https://observador.pt/2026/05/13/poluicao-atmosferica-pode-ser-a-causa-de-9-milhoes-de-casos-de-diabetes-por-ano/)
+- Na **Suécia**, abriu um café gerido por uma **Inteligência Artificial** chamada Mona, embora o serviço de mesa continue a ser assegurado por humanos. [(link)](https://observador.pt/2026/05/13/cafe-experimental-sueco-tem-baristas-humanos-mas-e-gerido-por-agente-de-ia/)

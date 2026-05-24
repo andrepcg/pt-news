@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- Um suspeito com historial de violência foi morto pelas autoridades após um tiroteio junto a um posto dos **Serviços Secretos** perto da **Casa Branca**. [(link)](https://www.rtp.pt/noticias/mundo/tiroteio-junto-a-casa-branca-trump-afirma-que-atirador-tinha-historico-de-violencia_n1743153), [(link)](https://www.noticiasaominuto.com/mundo/2994767/atirador-era-violento-e-parecia-obcecado-pela-casa-branca), [(link)](https://www.cmjornal.pt/mundo/detalhe/com-historial-violento-e-obcecado-pela-casa-branca-quem-e-o-suspeito-de-disparar-contra-posto-dos-servicos-secretos)
+- Os **EUA** e o **Irão** negoceiam um possível acordo que inclui a reabertura do **Estreito de Ormuz** sem portagens, com o **Paquistão** disponível para acolher nova ronda de conversações. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-em-cima-da-mesa-reabertura-do-estreito-de-ormuz-sem-portagens_a1_1743155), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-portal-axios-revela-detalhes-do-possivel-acordo-eua-irao_a1_1743152), [(link)](https://www.noticiasaominuto.com/mundo/2994755/irao-e-eua-paquistao-espera-acolher-em-breve-nova-ronda-de-negociações)
+- **Sporting** e **Torreense** enfrentam-se hoje no **Jamor** para disputar a final da **Taça de Portugal**, num embate marcado pelo favoritismo leonino frente à equipa de Torres Vedras. [(link)](https://www.noticiasaominuto.com/desporto/2994519/hoje-ha-final-da-taca-os-onzes-provaveis-de-sporting-e-torreense), [(link)](https://www.noticiasaominuto.com/desporto/2994500/sporting-torreense-david-contra-golias-na-final-da-taca-de-portugal), [(link)](https://www.noticiasaominuto.com/desporto/2994772/por-ca-do-romance-ao-sonho-ha-de-tudo-no-conto-de-fadas-do-jamor)
+
+### 🌍 Mundo
+- As autoridades do **Irão** executaram um homem condenado por alegada espionagem a favor dos serviços de inteligência de **Israel** e dos **Estados Unidos**. [(link)](https://www.noticiasaominuto.com/mundo/2994774/irao-executa-acusado-de-espionagem-a-favor-de-eua-e-israel)
+- Um incêndio numa loja no centro da **China** causou a morte a cinco pessoas este domingo. [(link)](https://www.cmjornal.pt/mundo/detalhe/cinco-mortos-em-incendio-numa-loja-no-centro-da-china)
+- Um ataque de tubarão resultou numa vítima mortal no nordeste da **Austrália**. [(link)](https://www.noticiasaominuto.com/mundo/2994771/homem-morre-apos-ataque-de-tubarao-no-nordeste-da-australia)
+
+### 🇵🇹 Portugal
+- Um estudo luso-brasileiro identifica os obstáculos persistentes enfrentados pelas mulheres no setor tecnológico em **Portugal** e no **Brasil**. [(link)](https://www.publico.pt/2026/05/24/publico-brasil/noticia/pesquisa-une-brasil-portugal-mostra-desafios-mulheres-tecnologia-2175754)
+- O apresentador **Nuno Markl** partilhou reflexões sobre um episódio televisivo gravado poucas horas antes de ter sofrido um **AVC**. [(link)](https://www.noticiasaominuto.com/fama/2994770/nuno-markl-e-o-episodio-gravado-horas-antes-de-sofrer-avc-duro-de-ver)
+
+### ⚽ Desporto
+- O **Palmeiras**, treinado por **Abel Ferreira**, venceu o **Flamengo** de **Leonardo Jardim** num encontro tenso e marcado por decisões polémicas. [(link)](https://www.noticiasaominuto.com/desporto/2994766/abel-varre-jardim-em-flamengo-palmeiras-recheado-de-polemica-e-confusao)
+- Especulações ligam o futuro de **José Mourinho** a uma possível movimentação de mercado envolvendo o **Real Madrid** e o **Benfica**. [(link)](https://www.noticiasaominuto.com/desporto/2993163/o-rumor-da-semana-mourinho-leva-mesmo-hjulmand-para-o-real-madrid), [(link)](https://www.noticiasaominuto.com/desporto/2994765/caldo-entornado-entre-benfica-jose-mourinho-e-real-madrid)
+- Na **NBA**, os **New York Knicks** encontram-se a apenas uma vitória de assegurar a presença nas finais da competição. [(link)](https://www.noticiasaominuto.com/desporto/2994768/rolo-compressor-deixa-new-york-knicks-a-um-passo-das-finais-da-nba)
+
+### 🎨 Cultura e Ciência
+- Morreu a poeta são-tomense **Conceição Lima**, voz de referência na literatura lusófona. [(link)](https://www.publico.pt/2026/05/24/culturaipsilon/noticia/conceicao-lima-silencio-franqueia-umbral-qualquer-2175413)
+- O Prémio Nobel **Duncan Haldane** alertou para o risco de a **Inteligência Artificial** limitar o conhecimento real se substituir o processo de aprendizagem humano. [(link)](https://www.publico.pt/2026/05/24/ciencia/entrevista/duncan-haldane-inteligencia-artificial-fizer-nao-sabera-nada-2170139)
+- Faleceu o cantor de flamenco espanhol **José Domínguez Muñoz**, conhecido artisticamente como **"El Cabrero"**. [(link)](https://www.publico.pt/2026/05/24/culturaipsilon/cronica/jose-dominguez-munoz-el-cabrero-19442026-cantautor-rebanhos-2175176)

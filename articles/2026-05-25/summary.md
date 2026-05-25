@@ -1,0 +1,29 @@
+ ### 🗞️ Destaques
+- A **TAP** registou um prejuízo de **39,9 milhões de euros** no primeiro trimestre de 2026, uma melhoria face ao período homólogo, apesar da pressão dos preços do combustível. [(link)](https://observador.pt/2026/05/25/prejuizos-da-tap-cairam-para-39-9-milhoes-de-euros-no-1-o-trimestre/), [(link)](https://www.rtp.pt/noticias/economia/prejuizos-da-tap-cairam-para-399-milhoes-de-euros-no-1o-trimestre_n1743273)
+- O **Torreense** conquistou a **Taça de Portugal**, uma vitória histórica que altera o quadro de qualificações europeias de clubes como o **Benfica**, **Braga** e **Famalhão**. [(link)](https://rr.pt/artigo/explicador-renascenca/2026/05/25/vitoria-de-torreense-trama-benfica-braga-e-famalicao-na-europa/472030/?utm_medium=rss), [(link)](https://www.noticiasaominuto.com/desporto/2995074/por-ca-torreense-vence-taca-e-faz-historia-e-estragos)
+- As principais economias da **União Europeia** defendem o endurecimento da política comercial face à **China**, enquanto a **Europa** reforça a necessidade de autonomia espacial perante os **EUA**. [(link)](https://www.noticiasaominuto.com/economia/2995070/principais-economias-da-ue-pedem-politica-mais-rigida-em-relacao-a-china), [(link)](https://www.publico.pt/2026/05/25/ciencia/noticia/europa-quer-ir-espaco-estados-unidos-precisamos-agir-rapidamente-2174813)
+
+### 🇵🇹 Portugal
+- O **Dia dos Açores** é assinalado hoje com uma sessão solene em **Ponta Delgada**, celebrando a autonomia regional. [(link)](https://observador.pt/2026/05/25/dia-dos-acores-celebrado-esta-segunda-feira-com-sessao-solene-em-ponta-delgada/), [(link)](https://www.noticiasaominuto.com/pais/2995068/dia-dos-acores-celebrado-hoje-com-sessao-solene-em-ponta-delgada/)
+- A transferência do **Campo de Tiro de Alcochete** para **Alter do Chão** está a suscitar contestação local e política. [(link)](https://www.rtp.pt/noticias/pais/transferencia-do-campo-de-tiro-de-alcochete-para-alter-do-chao-aumenta-contestacao_n1743272)
+- O **Chega** e a **IL** solicitaram a audição urgente do Ministro da Administração Interna no Parlamento sobre falhas no sistema **SIRESP**. [(link)](https://www.rtp.pt/noticias/pais/chega-e-il-querem-ouvir-mai-com-urgencia-no-parlamento_n1743269)
+- Seis distritos do continente estão sob **aviso amarelo** devido a chuva forte e trovoada, embora se preveja que as temperaturas subam até aos **40 graus** no decorrer da semana. [(link)](https://www.rtp.pt/noticias/pais/seis-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-e-trovoada_n1743265), [(link)](https://cnnportugal.iol.pt/videos/calor-vai-entrar-em-forca-esta-semana-esperam-se-temperaturas-perto-dos-40-graus/6a13f3320cf21fcd8377511a)
+- Utentes da **Gare do Oriente**, em Lisboa, denunciam dificuldades de acessibilidade devido a avarias recorrentes nos elevadores. [(link)](https://www.rtp.pt/noticias/pais/nunca-sei-o-que-me-espera-elevadores-sao-jogo-de-sorte-na-gare-do-oriente-em-lisboa_n1743154)
+
+### 🌍 Mundo
+- Um ataque com gás num centro comercial em **Tóquio**, no **Japão**, causou pelo menos **20 feridos** após um suspeito pulverizar uma substância desconhecida. [(link)](https://observador.pt/2026/05/25/homem-pulveriza-substancia-em-centro-comercial-de-toquio-e-faz-vinte-feridos/), [(link)](https://www.noticiasaominuto.com/mundo/2995076/homem-pulveriza-substancia-em-centro-comercial-de-toquio-ha-20-feridos)
+- **Israel** ordenou a evacuação de 10 aldeias no sul do **Líbano** antes de uma provável ofensiva militar na região. [(link)](https://www.noticiasaominuto.com/mundo/2995086/israel-ordena-evacuacao-de-10-aldeias-libanesas-para-previsivel-ataque)
+- **Macron** e **Lukashenko** discutiram a guerra na **Ucrânia** por telefone, no mesmo dia em que ataques atingiram infraestruturas energéticas em **Belgorod**, na **Rússia**. [(link)](https://observador.pt/2026/05/25/bielorrussia-informa-que-lukashenko-e-macron-falaram-por-telefone/), [(link)](https://www.publico.pt/2026/05/25/mundo/noticia/infraestruturas-energeticas-danificadas-ataque-regiao-russa-belgorod-2175878)
+- O **Irão** executou um homem detido durante os protestos de janeiro, gerando novas críticas sobre direitos humanos. [(link)](https://www.noticiasaominuto.com/mundo/2995083/irao-executou-homem-detido-durante-os-protestos-de-janeiro)
+- Um ex-líder do grupo **Proud Boys** está a tentar reclamar fundos da campanha de **Donald Trump** nos **EUA**. [(link)](https://observador.pt/2026/05/25/ex-lider-de-organizacao-de-extrema-direita-quer-milhoes-de-fundo-de-trump/)
+
+### 💵 Economia
+- Entram hoje em vigor sete alterações à **revisão laboral** em Portugal, introduzindo novas regras para trabalhadores e empresas. [(link)](https://www.noticiasaominuto.com/economia/2994355/sete-mudancas-que-a-revisao-laboral-do-governo-traz-para-os-trabalhadores)
+- O Governo lançou um novo programa de incentivos à aquisição de **veículos elétricos**, com candidaturas abertas até **11 de junho**. [(link)](https://www.rtp.pt/noticias/economia/governo-lanca-novo-apoio-a-compra-de-carros-eletricos-at-11-de-junho_n1743267)
+- O preço dos **combustíveis** voltou a subir hoje nos postos de abastecimento nacionais. [(link)](https://www.rtp.pt/noticias/pais/novas-mexidas-no-preco-dos-combustiveis_n1743276)
+
+### ⚽ Desporto
+- A festa do **Torreense** prossegue após a vitória na final da Prova Rainha, marcando um dos momentos mais surpreendentes do futebol nacional recente. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-a-festa-do-torreense_a1_1743268)
+
+### 🎨 Cultura
+- Santarém recebe a partir de hoje a **19.ª edição** do seu **Festival Internacional de Cinema**. [(link)](https://www.rtp.pt/noticias/cultura/santarem-recebe-hoje-a-19a-edicao-do-festival-internacional-de-cinema_n1743281)

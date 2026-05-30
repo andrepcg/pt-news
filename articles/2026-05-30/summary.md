@@ -1,0 +1,28 @@
+ ### 🗞️ Destaques
+- **Luís Montenegro** concorre hoje como candidato único em eleições diretas para um terceiro mandato na liderança do **PSD**, com cerca de **57 mil** militantes aptos a votar. [(link)](https://www.noticiasaominuto.com/politica/2998335/eleicoes-diretas-do-psd-acontecem-hoje-montenegro-e-candidato-unico), [(link)](https://www.cmjornal.pt/politica/detalhe/perto-de-57-mil-militantes-do-psd-podem-votar-hoje-na-reeleicao-de-montenegro-para-terceiro-mandato)
+- O **PSD**, **PS** e **Chega** estabeleceram um acordo parlamentar para a eleição de juízes para o **Tribunal Constitucional**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-acordo-entre-psd-chega-e-ps-para-juizes-do-constitucional_a1_1744455)
+- A **CGTP** rejeita a convocação de uma greve geral imediata, classificando-a como "extemporânea", mas defende o reforço da pressão social sobre o Governo. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-greve-geral-cgtp-insiste-que-e-preciso-pressionar-governo-e-ar_a1_1744456), [(link)](https://www.noticiasaominuto.com/economia/2998319/cgtp-rejeita-greve-geral-extemporanea-e-recusa-correr-atras-do-prejuizo)
+- Na **Operação Influencer**, o **Ministério Público** continua sem acesso a mensagens de correio eletrónico apreendidas há dois anos e meio. [(link)](https://www.publico.pt/2026/05/30/sociedade/noticia/operacao-influencer-ha-emails-apreendidos-ha-dois-anos-meio-mp-nao-acesso-2176508)
+
+### 🇵🇹 Portugal
+- Mais de **70 operacionais** e meios aéreos combatem um incêndio florestal na zona de **Campeã**, em **Vila Real**. [(link)](https://www.noticiasaominuto.com/pais/2998337/sete-dezenas-de-operacionais-combatem-chamas-em-campea-vila-real), [(link)](https://www.cmjornal.pt/portugal/detalhe/sete-dezenas-de-operacionais-combatem-chamas-em-vila-real)
+- O **Banco Alimentar Contra a Fome** inicia hoje uma nova campanha de recolha de alimentos em supermercados de todo o país. [(link)](https://www.noticiasaominuto.com/pais/2998329/banco-alimentar-inicia-nova-campanha-de-recolha-nos-supermercados), [(link)](https://www.cmjornal.pt/sociedade/detalhe/banco-alimentar-inicia-nova-campanha-de-recolha-nos-supermercados)
+- As universidades portuguesas registam **80 mil** estudantes estrangeiros, sendo que **56%** são oriundos de países da **CPLP**. [(link)](https://www.publico.pt/2026/05/30/publico-brasil/noticia/80-mil-estudantes-estrangeiros-universidades-portuguesas-56-sao-cplp-2176560)
+- Um diretor de recursos humanos de um hospital é acusado de prender uma funcionária a uma cadeira para a forçar a concluir uma tarefa. [(link)](https://www.publico.pt/2026/05/30/sociedade/noticia/director-recursos-humanos-hospital-acusado-prender-trabalhadora-cadeira-obrigar-terminar-trabalho-2176565)
+- **Paulo Rangel** reafirmou a importância do ensino da língua portuguesa durante uma visita oficial à comunidade em **Newark**, nos Estados Unidos. [(link)](https://www.noticiasaominuto.com/pais/2998338/rangel-destaca-ensino-da-lingua-durante-visita-a-newark)
+
+### 🌍 Mundo
+- A queda de um drone na **Roménia** levou a **ONU** a alertar para o risco de uma "escalada perigosa" no contexto da guerra na Europa. [(link)](https://www.noticiasaominuto.com/mundo/2998295/onu-alerta-para-risco-de-escalada-perigosa-apos-drone-atingir-romenia)
+- Onze pessoas, incluindo um socorrista, morreram na sequência de ataques aéreos israelitas realizados no sul do **Líbano**. [(link)](https://www.noticiasaominuto.com/mundo/2998292/onze-mortos-incluindo-socorrista-em-ataques-israelitas-no-sul-do-libano)
+- **EUA** e **China** iniciaram uma troca de expulsões de jornalistas após uma visita diplomática de **Donald Trump** a Pequim. [(link)](https://www.noticiasaominuto.com/mundo/2998293/eua-e-china-trocam-expulsoes-de-jornalistas-apos-visita-de-trump-a-pequim)
+- O médico pessoal de **Donald Trump** descreveu o estado de saúde do Presidente como "excelente". [(link)](https://www.noticiasaominuto.com/mundo/2998320/medico-de-trump-descreve-estado-de-saude-do-presidente-como-excelente)
+- O **Equador** anunciou o levantamento das tarifas comerciais aplicadas à **Colômbia**, com efeitos a partir de 1 de junho. [(link)](https://www.noticiasaominuto.com/mundo/2998305/presidente-do-equador-diz-que-levantara-tarifas-impostas-a-colombia)
+
+### ⚽ Desporto
+- **Bruno Fernandes** tornou-se o novo recordista do **Manchester United** ao superar uma marca histórica de **Cristiano Ronaldo**. [(link)](https://www.noticiasaominuto.com/desporto/2991519/bruno-fernandes-supera-cristiano-ronaldo-e-torna-se-recordista-no-united)
+- A final da **Champions League** terá o contingente português do **PSG** a defrontar o avançado sweco **Gyokeres**, do **Arsenal**. [(link)](https://www.noticiasaominuto.com/desporto/2997689/psg-arsenal-armada-portuguesa-contra-gyokeres-na-final-da-champions)
+
+### 🎨 Cultura e Ciência
+- **Caetano Veloso** e **Bonga** foram confirmados no cartaz do **Festival Coala**, que se realiza em **Cascais**. [(link)](https://www.noticiasaominuto.com/cultura/2998326/caetano-veloso-bonga-e-marina-sena-no-festival-coala-em-cascais)
+- Arqueólogos iniciaram o estudo da sétima piroga encontrada no **Rio Lima** após um período de três anos de espera. [(link)](https://www.publico.pt/2026/05/30/ciencia/reportagem/tres-anos-espera-setima-piroga-lima-comecou-finalmente-estudada-2175627)
+- Um tribunal espanhol recusou o pagamento a uma orquestra que desafinou e esqueceu as letras durante uma atuação. [(link)](https://www.cmjornal.pt/mundo/detalhe/juiz-espanhol-chumba-pagamento-a-orquestra-que-desafinou-e-desconhecia-as-letras)

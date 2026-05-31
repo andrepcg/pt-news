@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O governo de **Portugal** anunciou a mobilização de **2,3 mil milhões de euros** para enfrentar a crise de gestão de resíduos no país. [(link)](https://www.publico.pt/2026/05/31/azul/noticia/governo-quer-mobilizar-23-mil-milhoes-travar-crise-residuos-portugal-2176217)
+- **Donald Trump** afirmou não ter pressa para concluir um acordo com o **Irão**, tendo solicitado alterações às propostas de paz atuais. [(link)](https://www.noticiasaominuto.com/mundo/2998583/irao-se-se-tiver-pressa-nao-se-consegue-um-bom-acordo-afirma-trump), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/trump-reitera-que-nao-tem-pressa-para-chegar-a-um-acordo-de-paz), [(link)](https://www.noticiasaominuto.com/mundo/2998587/trump-tera-pedido-alteracoes-a-proposta-de-acordo-de-paz-com-teerao)
+- O **PSG** conquistou a **Liga dos Campeões**, num dia marcado por festejos violentos em **França** que resultaram em **336 detenções**. [(link)](https://www.noticiasaominuto.com/desporto/2998579/psg-conquista-liga-dos-campeoes-e-junta-se-ao-benfica-em-grupo-restrito), [(link)](https://www.noticiasaominuto.com/mundo/2998578/pelo-menos-336-detidos-em-franca-nas-celebracoes-da-vitoria-do-psg)
+
+### 🇵🇹 Portugal
+- Um estudo revela que os **bombeiros portugueses** enfrentam um risco cardiovascular acrescido devido a fatores ocupacionais. [(link)](https://www.noticiasaominuto.com/pais/2998601/novo-estudo-aponta-para-risco-cardiovascular-acrescido-em-bombeiros), [(link)](https://www.cmjornal.pt/sociedade/detalhe/investigadores-alertam-para-riscos-ocupacionais-nos-bombeiros-portugueses)
+- Assinala-se hoje, 31 de maio de 2026, o **Dia Mundial Sem Tabaco**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-assinala-se-hoje-o-dia-mundial-sem-tabaco_a1_1744573)
+- A enfermeira **Carmen Garcia** alertou, em entrevista, para o atual estado do tratamento dado aos idosos em **Portugal**. [(link)](https://www.publico.pt/2026/05/31/sociedade/entrevista/carmen-garcia-chegamos-ponto-animais-sao-confundidos-humanos-2176325)
+
+### 🌍 Mundo
+- A **Colômbia** realiza hoje eleições presidenciais, enquanto no **Peru** decorrem protestos massivos contra a candidata da ala direita. [(link)](https://www.publico.pt/2026/05/31/mundo/noticia/colombianos-procuram-urnas-solucao-traga-finalmente-paz-2176383), [(link)](https://www.noticiasaominuto.com/mundo/2998588/milhares-protestam-contra-candidata-presidencial-de-direita-no-peru)
+- **Israel** anunciou o alargamento das suas operações militares contra o **Hezbollah** a novas áreas no **Líbano**. [(link)](https://www.noticiasaominuto.com/mundo/2998600/israel-anuncia-que-operacao-no-libano-esta-a-alargar-se-a-outras-zonas)
+- Os **EUA** e o **Japão** aceleram a produção de mísseis, ao passo que a **Coreia do Sul** e o **Japão** preparam o primeiro exercício naval conjunto em **9 anos**. [(link)](https://www.noticiasaominuto.com/mundo/2998599/eua-e-japao-comprometem-se-a-acelerar-producao-de-misseis), [(link)](https://www.noticiasaominuto.com/mundo/2998589/seul-e-toquio-agendam-para-junho-1-exercicio-naval-conjunto-em-9-anos)
+- A **Austrália** reviu o acordo de defesa com Washington e passará a receber apenas submarinos nucleares usados dos **EUA**. [(link)](https://www.noticiasaominuto.com/mundo/2998590/australia-vai-receber-apenas-submarinos-nucleares-usados-dos-eua)
+- Uma explosão de um meteoro no sul dos **Estados Unidos** causou um forte impacto sonoro sentido em toda a região. [(link)](https://www.noticiasaominuto.com/mundo/2998581/meteoro-explode-no-sul-dos-estados-unidos-e-faz-se-ouvir-em-toda-a-regiao)
+
+### 💵 Economia
+- Especialistas preveem que a **Inteligência Artificial** altere profundamente o paradigma do comércio eletrónico a curto prazo. [(link)](https://www.publico.pt/2026/05/31/economia/noticia/comercio-electronico-beira-mudar-2174977)
+- Uma empreendedora brasileira residente em **Portugal** alcançou uma faturação anual de **170 mil euros** com o seu novo negócio. [(link)](https://www.publico.pt/2026/05/31/publico-brasil/noticia/cearense-reinventa-cria-empresa-fatura-170-mil-euros-ano-portugal-2176618)
+
+### ⚽ Desporto
+- No mercado de transferências, surgem rumores sobre a possível saída de **Marco Silva** do **Benfica** e o regresso de **André Silva** ao **FC Porto**. [(link)](https://www.noticiasaominuto.com/desporto/2997877/o-rumor-da-semana-marco-silva-no-benfica-com-companhia-espanhola), [(link)](https://www.noticiasaominuto.com/desporto/2998454/e-sempre-um-matador-andre-silva-tem-luz-verde-para-voltar-ao-fc-porto)
+- Os **San Antonio Spurs** garantiram a presença nas finais da **NBA** após vencerem os atuais campeões em título. [(link)](https://www.noticiasaominuto.com/desporto/2998606/san-antonio-spurs-atiram-campeoes-ao-tapete-e-estao-nas-finais-da-nba)

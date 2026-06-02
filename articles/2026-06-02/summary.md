@@ -1,0 +1,31 @@
+ ### 🗞️ Destaques
+- Um ataque massivo da **Rússia** contra várias cidades da **Ucrânia** causou pelo menos **11 mortos** e mais de uma centena de feridos durante a madrugada. [(link)](https://www.rtp.pt/noticias/mundo/ucrania-pelo-menos-11-mortos-e-mais-de-100-feridos-em-ataques-russos_n1744902), [(link)](https://www.publico.pt/2026/06/02/mundo/noticia/nove-mortos-dezenas-feridos-apos-ataques-russos-varias-cidades-ucrania-2176838)
+- O Governo português anunciou um investimento anual de **500 milhões de euros** até 2030 destinado ao Plano Nacional de Restauro da Natureza. [(link)](https://observador.pt/liveblogs/plano-nacional-de-restauro-da-natureza-e-hoje-apresentado-governo-preve-investimento-anual-de-500-milhoes-de-euros-ate-2030/), [(link)](https://www.rtp.pt/noticias/economia/plano-nacional-preve-quinhentos-milhoes-por-ano-ate-2030-para-restaurar-natureza_n1744895)
+- Uma **greve geral** agendada para amanhã ameaça paralisar setores críticos como transportes e saúde, com serviços mínimos já fixados para comboios e aviação. [(link)](https://rr.pt/especial/pais/2026/06/02/amanha-e-dia-de-greve-geral-guia-para-sobreviver-a-paralisacao/472932/), [(link)](https://eco.sapo.pt/2026/06/02/avioes-em-terra-e-comboios-na-estacao-sao-estes-os-servicos-minimos-ja-fixados-for-a-greve-geral/)
+- A **China** vai alocar **12,2 mil milhões de euros** para incentivos à natalidade, visando combater a crise demográfica no país. [(link)](https://observador.pt/2026/06/02/pequim-destina-122-mil-milhoes-de-euros-a-apoios-a-natalidade/), [(link)](https://www.rtp.pt/noticias/mundo/pequim-destina-122-mil-milhoes-de-euros-a-apoios-a-natalidade_n1744898)
+
+### 🇵🇹 Portugal
+- O Governo criou a **Pensão Social Única**, que prevê a suspensão do apoio por dois anos para quem recusar formação ou trabalho social. [(link)](https://cnnportugal.iol.pt/prestacao-social-unica/psu/quem-recusar-trabalho-social-ou-formacao-profissional-vai-ficar-sem-acesso-a-pensao-social-unica-durante-dois-anos/20260602/6a1e7de3d34e28842c84b780)
+- Uma burla com peças de aviação falsas resultou num prejuízo de **6,5 milhões de euros** para a **TAP**, estando o caso já sob investigação judicial. [(link)](https://cnnportugal.iol.pt/burla/tap/burla-milionaria-com-pecas-de-avioes-falsas-custou-6-5-milhoes-de-euros-a-tap/20260602/6a1e72cbd34e28842c84b774)
+- O Ministro dos Negócios Estrangeiros, **Paulo Rangel**, inaugurou na **ONU** uma exposição sobre o sucesso de Portugal na proteção dos oceanos. [(link)](https://observador.pt/2026/06/02/paulo-rangel-inaugura-na-onu-exposicao-com-exemplos-de-sucesso-na-protecao-dos-oceanos/)
+- As consultas do viajante e o acesso à vacinação internacional registam esperas de dois meses, gerando alertas sobre riscos de saúde pública. [(link)](https://www.publico.pt/2026/06/02/sociedade/noticia/vacinacao-internacional-consultas-viajante-espera-dois-meses-2176813)
+- Cinco organizações lançaram uma rede de apoio para facilitar o emprego e formação de **3.500 jovens** portugueses. [(link)](https://observador.pt/2026/06/02/cinco-organizacoes-criam-rede-para-ajudar-3-500-jovens-a-arranjar-trabalho/)
+
+### 🌍 Mundo
+- O **Japão** contabiliza nove feridos e **47 mil habitações** sem eletricidade após a passagem do tufão **Jangmi**. [(link)](https://observador.pt/2026/06/02/tufao-jangmi-deixa-nove-feridos-e-47-mil-casas-sem-energia-no-japao/)
+- No **Médio Oriente**, a **ONU** acusou **Israel** de violar a soberania libanesa, enquanto as defesas israelitas intercetaram dois projéteis vindos do **Líbano**. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-diz-ter-intercetado-dois-projecteis-vindos-do-libano_n1744887), [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/onu-acusa-israel-de-violar-soberania-libanesa-com-a-sua-presenca-a-norte-da-linha-azul_n1744880)
+- A queda de uma aeronave militar durante exercícios em **Taiwan** provocou a morte de dois pilotos. [(link)](https://www.rtp.pt/noticias/mundo/queda-de-aeronave-militar-durante-exercicio-mata-dois-pilotos-em-taiwan_n1744889)
+- Líderes militares da **China** e dos **EUA** reuniram-se no **Havai** para discutir a segurança marítima e estabilidade regional. [(link)](https://observador.pt/2026/06/02/dirigentes-militares-da-china-e-eua-discutem-seguranca-maritima-no-havai/)
+- **Donald Trump** manifestou otimismo quanto a um acordo com o **Irão** e intensificou a pressão política sobre **Benjamin Netanyahu**. [(link)](https://www.rtp.pt/noticias/mundo/trump-acredita-que-acordo-pode-ser-alcancado-na-proxima-semana_n1744875)
+
+### 💵 Economia
+- A **Alphabet** vendeu **68,8 mil milhões de euros** em ações para reforçar o financiamento de projetos de Inteligência Artificial. [(link)](https://www.rtp.pt/noticias/economia/alphabet-vende-acoes-no-valor-de-688mme-para-investir-em-ia_n1744878)
+- A **UTAO** alerta que as contas públicas portuguesas estariam em défice sem o contributo dos fundos europeus. [(link)](https://eco.sapo.pt/2026/06/02/sem-fundos-europeus-contas-publicas-entravam-no-vermelho-alerta-utao/)
+- O estado da **Florida** avançou com um processo judicial contra a **OpenAI** e **Sam Altman**, alegando omissão de riscos no **ChatGPT**. [(link)](https://www.rtp.pt/noticias/economia/florida-eua-processa-openai-e-sam-altman-por-ocultacao-de-riscos-do-chatgpt_n1744877)
+
+### ⚽ Desporto
+- A **Seleção Nacional** cumpre hoje o seu segundo dia de estágio para a preparação do **Mundial 2026**. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/rumo-ao-mundial2026-selecao-portuguesa-cumpre-segundo-dia-de-estagio)
+
+### 🌡️ Ciência e Tecnologia
+- O fenómeno **El Niño** tem **80% de probabilidade** de se instalar oficialmente entre os meses de junho e agosto. [(link)](https://www.publico.pt/2026/06/02/azul/noticia/el-nino-bate-porta-80-probabilidade-instalar-junho-agosto-2176793)
+- Uma nova sondagem revela disparidades geracionais profundas sobre a integração da **Inteligência Artificial** em contextos amorosos. [(link)](https://observador.pt/2026/06/02/sondagem-revela-profunda-divisao-geracional-sobre-o-amor-e-a-ia/)

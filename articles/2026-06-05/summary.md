@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- O Presidente da China, **Xi Jinping**, planeia visitar a Coreia do Norte na próxima semana, naquela que será a sua primeira deslocação oficial ao país desde **2019**. [(link)](https://observador.pt/2026/06/05/xi-jinping-visita-coreia-do-norte-na-proxima-semana-pela-primeira-vez-desde-2019/), [(link)](https://www.rtp.pt/noticias/mundo/xi-jinping-visita-coreia-do-norte-na-proxima-semana-pela-primeira-vez-desde-2019_n1745351)
+- A **Câmara dos Representantes dos EUA** aprovou um novo pacote de apoio à Ucrânia, acompanhado de sanções adicionais contra a Rússia. [(link)](https://www.noticiasaominuto.com/mundo/3000742/parlamento-dos-eua-aprova-apoio-a-ucrania-e-novas-sancoes-a-russia/), [(link)](https://cnnportugal.iol.pt/ucrania/camara-dos-representantes/camara-dos-representantes-dos-eua-aprova-apoio-a-kiev-e-novas-sancoes-a-russia/20260605/6a226479d34e28842c84d762)
+- A **Comissão Europeia** alertou que Portugal apresenta o segundo maior desvio da Zona Euro e deverá incumprir as metas de despesa em **2027**. [(link)](https://eco.sapo.pt/2026/06/05/bruxelas-ve-portugal-a-incumprir-metas-da-despesa-em-2027-tem-o-segundo-maior-desvio-da-zona-euro/)
+
+### 🇵🇹 Portugal
+- Uma greve nacional de trabalhadores não docentes está a afetar o funcionamento das escolas públicas nesta sexta-feira, com risco de encerramento de vários estabelecimentos. [(link)](https://www.rtp.pt/noticias/pais/trabalhadores-nao-docentes-das-escolas-estao-em-greve-esta-sexta-feira_n1745372)
+- Uma colisão entre um veículo ligeiro e um pesado de mercadorias no **IC2**, em **Coimbra**, provocou uma vítima mortal e condicionamentos no trânsito. [(link)](https://observador.pt/2026/06/05/colisao-entre-carro-e-camiao-faz-um-morto-em-coimbra/), [(link)](https://www.rtp.pt/noticias/pais/colisao-entre-ligeiro-e-pesado-de-mercadorias-deixa-um-morto-em-coimbra_n1745356)
+- O **Partido Socialista** exige que o Governo esclareça como foi atingida a meta de investimento de **2%** do PIB na Defesa. [(link)](https://www.publico.pt/2026/06/05/politica/noticia/ps-insiste-governo-explicar-atingiu-investimento-2-pib-defesa-2177148)
+- O Presidente da República, **António José Seguro**, visita o **Luxemburgo** no âmbito das celebrações do Dia de Portugal para contactar com a comunidade luso-descendente. [(link)](https://www.rtp.pt/noticias/pais/seguro-no-luxemburgo-emigrantes-esperam-proximidade-e-que-pr-quebre-distancias-com-a-diaspora_n1745364)
+- A meteorologia prevê uma subida gradual das temperaturas em todo o território nacional a partir do próximo fim de semana. [(link)](https://rr.pt/noticia/pais/2026/06/05/tempo-ligeira-subida-das-temperaturas-a-partir-do-fim-de-semana/473315/)
+
+### 🌍 Mundo
+- Israel e o **Hezbollah** trocaram ataques na fronteira, resultando em pelo menos um morto no sul do Líbano, apesar do cessar-fogo em vigor. [(link)](https://observador.pt/liveblogs/israel-e-hezbollah-trocam-ataques-apesar-de-cessar-fogo-pelo-menos-uma-pessoa-morreu-no-sul-do-libano/)
+- Líderes da União Europeia reúnem-se no **Montenegro** para tentar impulsionar o processo de adesão dos países dos Balcãs Ocidentais. [(link)](https://observador.pt/2026/06/05/ue-lideres-reunem-se-no-montenegro-para-incentivar-adesao-dos-balcas/)
+- No noroeste da **Nigéria**, homens armados raptaram sete estudantes de uma escola, num novo incidente de insegurança na região. [(link)](https://www.rtp.pt/noticias/mundo/homens-armados-raptam-sete-alunos-de-uma-escola-no-noroeste-da-nigeria_n1745353)
+- O Presidente da Colômbia acusou formalmente **Donald Trump** de apoiar traficantes de droga na América Latina. [(link)](https://www.rtp.pt/noticias/mundo/lider-da-colombia-acusa-presidente-dos-eua-de-apoiar-traficantes-de-droga_n1745348)
+- Um jornalista norte-americano declarou-se culpado em tribunal por atuar ilegalmente como agente ao serviço do governo da **China**. [(link)](https://www.rtp.pt/noticias/mundo/jornalista-norte-americano-declara-se-culpado-de-atuar-como-agente-ilegal-da-china_n1745352)
+
+### 💵 Economia & Tecnologia
+- O **Japão** anunciou um plano para substituir **14** reatores nucleares obsoletos por unidades de nova geração até ao ano de **2050**. [(link)](https://observador.pt/2026/06/05/japao-pretende-substituir-14-reatores-nucleares-obsoletos-ate-2050/)
+- A empresa de tecnologia **Anthropic** recomendou uma pausa no desenvolvimento de modelos avançados de Inteligência Artificial por receios de "auto-melhoria" descontrolada. [(link)](https://eco.sapo.pt/2026/06/05/anthropic-alerta-para-auto-melhoria-da-ia-e-sugere-pausa-no-seu-desenvolvimento/)
+- O sindicato dos atores ratificou um novo contrato que estabelece proteções rigorosas contra o uso de ferramentas de IA na produção cultural. [(link)](https://www.rtp.pt/noticias/cultura/membros-do-sindicato-dos-atores-ratificam-novo-contrato-com-mais-protecoes-anti-ia_n1745358)
+
+### ⚽ Desporto
+- A **FIFA** proibiu a entrada de garrafas de água reutilizáveis nos estádios durante o **Mundial 2026**, invocando razões de segurança. [(link)](https://eco.sapo.pt/2026/06/05/fifa-proibe-entrada-nos-estadios-do-mundial-com-garrafas-de-agua-reutilizaveis/)

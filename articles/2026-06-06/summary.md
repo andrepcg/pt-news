@@ -1,0 +1,29 @@
+ ### 🗞️ Destaques
+- O **Governo** português propõe a introdução de centros de triagem numa nova alteração à **Lei de Estrangeiros**, visando reformular a gestão de fluxos migratórios. [(link)](https://www.publico.pt/2026/06/06/politica/noticia/governo-propoe-sexta-alteracao-lei-estrangeiros-dois-anos-centros-triagem-2177294)
+- A **Estratégia Nacional de Segurança Rodoviária** fixa o objetivo de salvar **2.250** vidas e poupar **20 mil milhões de euros** até **2030**. [(link)](https://www.publico.pt/2026/06/06/politica/noticia/estrategia-rodoviaria-quer-salvar-2250-vidas-poupar-20-mil-milhoes-euros-ate-2030-2177307)
+- As tensões no **Médio Oriente** escalam com o **Irão** a atacar bases militares e o **Kuwait** a denunciar uma ofensiva com mísseis e drones. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-diz-que-kuwait-foi-atacado-por-misseis-e-drones_n1745552), [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/guarda-revolucionaria-anuncia-ataques-contra-bases-inimigas_n1745556)
+- **Portugal** inicia as comemorações do **10 de Junho** no **Luxemburgo** com a presença de **António José Seguro** e **Luís Montenegro**. [(link)](https://www.rtp.pt/noticias/pais/seguro-quer-reforco-da-cooperacao-com-o-luxemburgo-e-promete-ouvir-preocupacoes_n1745564), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-10-de-junho-seguro-e-montenegro-cruzam-agendas-no-luxemburgo_a1_1745567)
+
+### 🇵🇹 Portugal
+- Cerca de **50%** dos portugueses consumiu suplementos alimentares no último ano, num setor onde as notificações de novos produtos cresceram **80%** em uma década. [(link)](https://www.publico.pt/2026/06/06/ciencia/noticia/metade-populacao-portuguesa-tera-consumido-suplementos-alimentares-ultimo-ano-2176472), [(link)](https://www.publico.pt/2026/06/06/ciencia/noticia/notificacoes-suplementos-alimentares-cresceram-quase-80-dez-anos-2176476)
+- Especialistas defendem uma discussão alargada para a reforma que pretende unificar as prestações sociais em **Portugal**. [(link)](https://www.publico.pt/2026/06/06/sociedade/noticia/unificar-prestacoes-sociais-correcto-reforma-exige-discussao-alargada-2177266)
+- A **Serra da Estrela** é alvo de destaque internacional pela elevada relevância da sua biodiversidade e valores naturais. [(link)](https://www.noticiasaominuto.com/pais/3001370/serra-da-estrela-tem-valores-naturais-e-de-biodiversidade-incriveis)
+- A **Noite da Literatura Europeia** regressa a **Lisboa** este sábado com autores como **Grazia Calandrone** e **Barreto Guimarães**. [(link)](https://www.noticiasaominuto.com/cultura/3001393/barreto-guimaraes-e-grazia-calandrone-na-noite-da-literatura-europeia)
+
+### 🌍 Mundo
+- O **Papa Leão XIV** inicia uma visita a **Madrid** centrada na crise da imigração e na agenda humanitária. [(link)](https://www.rtp.pt/noticias/mundo/leao-xiv-chega-hoje-a-madrid-com-imigracao-no-centro-da-agenda_n1745566), [(link)](https://www.noticiasaominuto.com/mundo/3001401/papa-chega-este-sabado-a-madrid-com-imigracao-no-centro-da-agenda)
+- A **Rússia** afirma ter intercetado **86** drones ucranianos nas proximidades de **São Petersburgo**. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/russia-diz-que-intercetou-86-drones-perto-de-sao-petersburgo_n1745563)
+- A **Arménia** realiza eleições legislativas determinantes para definir o seu futuro posicionamento geopolítico. [(link)](https://www.publico.pt/2026/06/06/mundo/noticia/armenia-vai-votos-escolher-governo-futuro-geopolitico-2177153)
+- Na **Coreia do Norte**, **Kim Jong-un** inspeciona a frota naval antes da visita oficial do Presidente chinês **Xi Jinping**. [(link)](https://www.cmjornal.pt/mundo/detalhe/kim-jong-un-visita-navio-de-guerra-antes-da-visita-de-xi-a-coreia-do-norte)
+- O **Observatório Venezuelano de Prisões** denuncia a morte de mais um recluso sob custódia estatal. [(link)](https://www.cmjornal.pt/mundo/detalhe/observatorio-denuncia-morte-de-mais-um-preso-na-venezuela)
+
+### 💵 Economia
+- A **Google** acorda o pagamento mensal de **800 milhões de euros** à **SpaceX** para utilizar capacidade computacional de ponta. [(link)](https://www.rtp.pt/noticias/economia/google-vai-pagar-800me-mensais-a-spacex-por-capacity-computacional_n1745544)
+- O **Brasil** começa a exportar uvas para a **União Europeia** com tarifa zero, ao abrigo do acordo com o **Mercosul**. [(link)](https://www.publico.pt/2026/06/06/publico-brasil/noticia/brasil-exporta-uvas-europa-tarifas-dentro-acordo-mercosul-ue-2177296)
+- Um estudo revela que a **Europa** mantém níveis de investimento insuficientes em energia eólica e reabilitação urbana sustentável. [(link)](https://www.noticiasaominuto.com/economia/3001367/estudo-europa-investe-pouco-em-energia-eolica-e-renovacao-de-edificios)
+
+### ⚽ Desporto
+- A **Seleção Nacional** de futebol defronta hoje o **Chile** num jogo amigável de preparação para o **Mundial 2026**. [(link)](https://www.noticiasaominuto.com/desporto/3001099/portugal-chile-primeiro-teste-rumo-ao-sonho-de-todos-os-portugueses), [(link)](https://www.noticiasaominuto.com/desporto/3001110/roberto-martinez-surpreende-o-onze-provavel-de-portugal-contra-o-chile)
+- A **FIFA** autoriza o uso de garrafas de água descartáveis e seladas nos estádios durante o **Campeonato do Mundo**. [(link)](https://www.noticiasaominuto.com/desporto/3001381/fifa-permite-garrafas-de-agua-descartaveis-e-seladas-no-mundial2026)
+- Trabalhadores de estádios nos **Estados Unidos** votaram a favor de uma greve que pode afetar a logística do **Mundial 2026**. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/trabalhadores-de-estadio-do-mundial-2026-nos-estados-unidos-votam-a-favor-de-greve)
+- Na **NBA**, os **New York Knicks** anularam a vantagem caseira dos **Spurs** e relançaram-se na luta pelo título. [(link)](https://www.noticiasaominuto.com/desporto/3001384/vantagem-caseira-anulada-knicks-voltam-a-bater-spurs-e-sonham-com-titulo)

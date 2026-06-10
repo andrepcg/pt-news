@@ -1,0 +1,28 @@
+ ### 🗞️ Destaques
+- O **Irão** lançou ataques contra bases militares dos **EUA** no **Bahrein** e na **Jordânia**, instando os países do Golfo a impedirem contra-ofensivas norte-americanas. [(link)](https://www.noticiasaominuto.com/mundo/3003030/irao-anuncia-ataques-contra-bases-norte-americanas-no-bahrein-e-jordania), [(link)](https://www.noticiasaominuto.com/mundo/3003053/ao-minuto-resposta-muito-poderosa-tripulantes-de-apache-resgatados), [(link)](https://www.noticiasaominuto.com/mundo/3003043/teerao-insta-paises-do-golfo-a-impedirem-ataques-norte-americanos)
+- O Presidente da República, **António José Seguro**, celebra o **10 de Junho** em **Angra do Heroísmo**, marcando a sua primeira intervenção no Dia de Portugal nos Açores. [(link)](https://www.noticiasaominuto.com/pais/3003052/seguro-discursa-pela-primeira-vez-no-10-junho-em-angra-do-heroismo), [(link)](https://www.cmjornal.pt/politica/detalhe/seguro-discursa-pela-primeira-vez-no-dia-de-portugal-em-angra-do-heroismo)
+- O mês de **maio de 2026** foi confirmado como o segundo mais quente a nível global desde que há registos, mantendo a tendência de aquecimento extremo. [(link)](https://www.publico.pt/2026/06/10/azul/noticia/ano-verao-chegou-cedo-onda-calor-historica-maio-2177669), [(link)](https://www.noticiasaominuto.com/mundo/3003023/segundo-maio-mais-quente-de-sempre-no-mundo-foi-em-2026)
+- **Marco Silva** assume o comando técnico do **Benfica**, tornando-se o oitavo treinador do clube numa década, enquanto o **Sporting** enfrenta uma saída maciça de ativos. [(link)](https://www.publico.pt/2026/06/10/desporto/noticia/marco-silva-decada-espera-desafio-2177409), [(link)](https://www.noticiasaominuto.com/desporto/3003056/por-ca-danca-das-cadeiras-no-benfica-e-razia-no-sporting)
+
+### 🇵🇹 Portugal
+- O Governo e a oposição discutem a **Prestação Social Única**, com alertas sobre a inconstitucionalidade de regimes diferenciados para imigrantes. [(link)](https://www.publico.pt/2026/06/10/politica/noticia/prestacao-social-unica-regime-diferenciado-imigrantes-inconstitucional-2177656), [(link)](https://www.publico.pt/2026/06/10/sociedade/noticia/propostas-ocde-prestacao-social-unica-admitem-desde-corte-deducoes-salario-aumento-10-apoios-sociais-2177623)
+- As cidades de **Lisboa** e **Porto** acolhem manifestações contra o racismo este 10 de Junho, coincidindo com as celebrações nacionais. [(link)](https://www.noticiasaominuto.com/pais/3003039/manifestacoes-contra-o-racismo-saem-hoje-a-rua-em-lisboa-e-no-porto)
+- A **Ordem dos Médicos** emitiu um apelo à "coragem" política para assegurar a sustentabilidade e o futuro do sistema de saúde em Portugal. [(link)](https://www.cmjornal.pt/sociedade/detalhe/20260610-002618-ordem-dos-medicos-apela-a-coragem)
+- O partido **Chega** apresentou uma proposta parlamentar para evitar que a legislação sobre crimes de ódio limite a liberdade de expressão. [(link)](https://www.publico.pt/2026/06/10/politica/noticia/chega-quer-impedir-crime-odio-restrinja-liberdade-expressao-2177617)
+
+### 🌍 Mundo
+- O balanço do sismo nas **Filipinas** subiu para **46 mortos**, enquanto as operações de socorro continuam nas zonas afetadas. [(link)](https://www.noticiasaominuto.com/mundo/3003038/novo-balanco-eleva-para-46-mortos-resultantes-de-sismo-nas-filipinas)
+- O governo do **Canadá** planeia interditar o acesso a redes sociais a menores de **16 anos** para proteger a saúde mental dos jovens. [(link)](https://www.noticiasaominuto.com/tech/3003008/governo-canadiano-quer-proibir-uso-das-redes-sociais-a-menores-de-16-anos)
+- **Donald Trump** antecipou a nomeação do novo Diretor Nacional de Informações, acelerando a transição na estrutura de segurança dos **EUA**. [(link)](https://www.noticiasaominuto.com/mundo/3003012/trump-antecipa-entrada-em-funcoes-do-diretor-nacional-das-informacoes)
+
+### 💵 Economia
+- O **IGCP** realiza hoje dois leilões de dívida pública a 9 e 18 anos, com o objetivo de angariar até **1250 milhões de euros**. [(link)](https://www.noticiasaominuto.com/economia/3003055/igcp-realiza-dois-leiloes-de-ate-1250-milhoes-em-divida-a-9-e-18-anos)
+
+### ⚽ Desporto
+- A **Seleção Nacional** defronta a **Nigéria** no último jogo de preparação antes do arranque do **Mundial 2026**. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/mundial2026-portugal-faz-derradeiro-teste-frente-a-nigeria)
+- **Lionel Messi** qualificou a **Argentina** em apenas **119 segundos**, batendo novos recordes históricos na carreira. [(link)](https://www.noticiasaominuto.com/desporto/3003050/messi-desbloqueia-argentina-em-119-segundos-e-faz-historia)
+- **José Mourinho** é apontado ao **Real Madrid**, com a imprensa a avançar uma data para a sua estreia no banco merengue após a saída de Lisboa. [(link)](https://www.noticiasaominuto.com/desporto/3003037/mourinho-esquece-benfica-e-ja-tem-data-de-estreia-no-banco-do-real-madrid)
+
+### 🔬 Ciência e Cultura
+- Investigadores anunciaram progressos significativos em vacinas de **mRNA** contra o cancro, apesar dos cortes de financiamento nos **EUA**. [(link)](https://www.publico.pt/2026/06/10/ciencia/noticia/vacinas-cancro-baseadas-arnm-avancam-apesar-corte-fundos-eua-2177691)
+- O **Teatro Camões** acolhe hoje a estreia de "Relicário Perpétuo", a nova obra do compositor **Luís Tinoco**. [(link)](https://www.noticiasaominuto.com/cultura/3003034/relicario-perpetuo-de-luis-tinoco-estreia-se-hoje-no-teatro-camoes)

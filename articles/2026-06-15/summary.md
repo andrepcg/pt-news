@@ -1,0 +1,27 @@
+ ### 🗞️ Destaques
+- **Estados Unidos** e **Irão** alcançaram um acordo de paz histórico que resulta na reabertura do **Estreito de Ormuz**, provocando uma queda imediata de **4,6%** no preço do barril de **Brent**. [(link)](https://www.rtp.pt/noticias/mundo/fim-imediato-a-guerra-eua-e-irao-chegam-a-acordo-e-estreito-de-ormuz-reabre_n1747085), [(link)](https://eco.sapo.pt/2026/06/15/brent-cai-46-para-83-dolares-apos-anuncio-de-acordo-entre-washington-e-teerao/)
+- A **Rússia** lançou ataques aéreos de larga escala contra **Kiev** e **Kharkiv**, provocando pelo menos quatro mortos na capital ucraniana poucas horas após um contacto entre **Putin** e **Trump**. [(link)](https://www.rtp.pt/noticias/mundo/guerra-ucrania-russia-ataca-kiev-e-kharkiv-em-grande-escala_v1747086), [(link)](https://observador.pt/liveblogs/trump-diz-que-pode-retomar-ataques-contra-o-irao-caso-nao-seja-alcancado-acordo-final-sobre-o-nuclear-ataque-russo-a-kiev-faz-quatro-mortos/)
+- Os **Exames Nacionais** mobilizam hoje **166 mil alunos** e uma operação de segurança com **5 mil polícias**, num dia marcado também pelo início da greve de educadores e professores do 1.º ciclo. [(link)](https://www.publico.pt/2026/06/15/sociedade/podcast/exames-secundario-expectativa-ansiedade-166-mil-alunos-jogar-parte-futuro-2178194), [(link)](https://www.rtp.pt/noticias/pais/educadores-de-infancia-e-professores-do-1o-ciclo-em-greve_n1747093)
+
+### 🇵🇹 Portugal
+- O tribunal agenda para hoje a leitura do acórdão do agente da **PSP** envolvido na morte de **Odair Moniz**. [(link)](https://www.noticiasaominuto.com/pais/3005123/chega-hoje-ao-fim-julgamento-do-agente-da-psp-que-matou-odair-moniz)
+- As autoridades investigam uma rede criminosa suspeita de branquear **88 milhões de euros** enviados para a **China** através de vendas sem fatura na zona da **Varziela**. [(link)](https://cnnportugal.iol.pt/crime/branqueamento/rede-criminosa-tera-enviado-88-milhoes-de-euros-para-a-china-atraves-de-esquema-de-vendas-sem-fatura-na-varziela/20260615/6a2fa2bbd34e28842c852756)
+- O **IPMA** colocou cinco distritos do continente sob aviso amarelo devido à previsão de chuva forte e trovoada. [(link)](https://observador.pt/2026/06/15/cinco-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-e-trovoada/)
+- A **ponte móvel de Leixões** encerra hoje para obras de reabilitação que deverão prolongar-se por três meses. [(link)](https://eco.sapo.pt/2026/06/15/ponte-movel-de-leixoes-fechada-para-obras-durante-tres-meses/)
+- Uma campanha solidária de recolha de medicamentos arranca em **500 farmácias** para apoiar famílias carenciadas. [(link)](https://www.noticiasaominuto.com/pais/3005141/campanha-para-quem-precisa-de-medicamentos-arranca-hoje-em-500-farmacias)
+
+### 🌍 Mundo
+- A cimeira do **G7** em **França** foca a agenda nos conflitos na **Ucrânia** e no **Médio Oriente**, enquanto a **UE** discute a proibição do comércio com colonatos na **Cisjordânia**. [(link)](https://www.noticiasaominuto.com/mundo/3005118/ucrania-e-medio-oriente-dominam-agenda-da-cimeira-dos-g7-em-franca), [(link)](https://observador.pt/2026/06/15/ministros-dos-negocios-estrangeiros-da-ue-discutem-fim-de-comercio-com-colonatos-da-cisjordania/)
+- Na **Noruega**, **Marius Borg Høiby** foi condenado a quatro anos de prisão efetiva. [(link)](https://www.noticiasaominuto.com/fama/3005161/filho-da-princesa-mette-marit-marius-borg-condenado-a-4-anos-de-prisao)
+- Um incêndio na **Grécia** causou a morte a quatro idosos que se encontravam numa estrutura de alojamento temporário. [(link)](https://www.rtp.pt/noticias/mundo/quatro-idosos-morrem-em-incendio-num-contentor-na-grecia_n1747095)
+- Em **Espanha**, o governo de **Pedro Sánchez** enfrenta pressões devido a investigações judiciais envolvendo a sua mulher, **Begoña Gómez**. [(link)](https://rr.pt/artigo/explicador-renascenca/2026/06/15/quais-sao-os-crimes-de-que-a-mulher-de-pedro-sanchez-e-suspeita/474382/)
+
+### 💵 Economia
+- A energia eólica assegurou **25,4%** do consumo elétrico nacional em 2025, mas o setor alerta para a urgência de avançar com o leilão do **offshore** para manter o investimento. [(link)](https://www.rtp.pt/noticias/economia/energia-eolica-assegura-254-do-consumo-em-2025-metas-exigem-resposta-celere_n1747087)
+- O abrandamento da economia europeia, condicionado pelas políticas do **BCE**, coloca em risco as metas de crescimento estipuladas pelo Governo português. [(link)](https://www.publico.pt/2026/06/15/economia/noticia/economia-europeia-lenta-ameaca-previsoes-crescimento-governo-2178183)
+
+### ⚽ Desporto
+- Uma tempestade obrigou ao cancelamento do treino da **Seleção Nacional** no **Mundial 2026**, alterando os preparativos da equipa. [(link)](https://www.noticiasaominuto.com/desporto/3005095/treino-de-portugal-cancelado-devido-a-tempestade)
+
+### 💡 Ciência & Tecnologia
+- Investigadores portugueses publicaram o genoma do **priolo**, ave endémica dos **Açores**, e preparam o lançamento do modelo de IA em português "**Amália**" para o final do mês. [(link)](https://www.publico.pt/2026/06/15/ciencia/noticia/investigador-portugues-lidera-publicacao-genoma-priolo-ave-endemica-acores-2176808), [(link)](https://www.noticiasaominuto.com/tech/3005154/modelo-de-linguagem-ia-em-portugues-amalia-apresentado-este-mes)

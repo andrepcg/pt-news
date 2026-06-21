@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- O **PSD** encerra hoje o seu Congresso Nacional com o discurso de **Luís Montenegro** e a eleição dos novos órgãos sociais, num evento marcado pelo regresso de **Santana Lopes** como militante. [(link)](https://www.noticiasaominuto.com/politica/3008764/congresso-do-psd-termina-com-discurso-de-montenegro-e-eleicao-dos-orgaos), [(link)](https://www.noticiasaominuto.com/politica/3008727/santana-chega-perto-da-meia-noite-e-e-anunciado-como-militante-do-psd)
+- O vice-presidente dos **EUA**, **JD Vance**, já se encontra na **Suíça** para iniciar conversações diplomáticas de alto nível com o **Irão**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/6h-jd-vance-ja-esta-na-suica-para-as-conversacoes-com-o-irao_a1_1748470), [(link)](https://www.noticiasaominuto.com/mundo/3008760/jd-vance-chega-a-suica-para-inicio-das-negociacoes-de-paz-no-irao)
+- O **Japão** goleou a **Tunísia** no jogo **1.000** da história dos Campeonatos do Mundo, garantindo o apuramento e eliminando a seleção africana da prova. [(link)](https://www.noticiasaominuto.com/desporto/3008769/japao-goleia-tunisia-no-jogo-1000-dos-mundiais), [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/japao-goleia-e-elimina-a-tunisia-do-mundial-2026)
+- Um vazio legal na legislação portuguesa está a impedir a Justiça de aceder, em tempo real, a comunicações encriptadas de grupos suspeitos de terrorismo. [(link)](https://www.publico.pt/2026/06/21/sociedade/noticia/caso-mal-vazio-legal-trava-acesso-tempo-real-comunicacoes-encriptadas-grupo-terrorista-2178918), [(link)](https://www.noticiasaominuto.com/pais/3008779/hoje-e-noticia-vitimas-escolhidas-online-lei-trava-acesso-a-mensagens)
+
+### 🇵🇹 Portugal
+- O verão começa com avisos laranja em vários distritos devido a temperaturas extremas que podem atingir os **42ºC** e noites tropicais. [(link)](https://www.noticiasaominuto.com/pais/3008777/verao-ja-comecou-termometros-a-42c-noites-quentes-e-avisos-laranja)
+- A **GNR** deteve seis homens em **Olhão** por suspeitas de contrabando de combustível, no âmbito de uma operação de fiscalização. [(link)](https://www.noticiasaominuto.com/pais/3008768/detidos-seis-homens-suspeitos-de-contrabando-de-combustivel-em-olhao)
+- Especialistas alertam para o aumento de burlas online que utilizam **Inteligência Artificial** para potenciar a eficácia e velocidade dos ataques cibernéticos. [(link)](https://www.publico.pt/2026/06/21/sociedade/noticia/bemvindos-burlas-online-esteroides-ajuda-ia-2178457)
+- Em Loulé, o aumento demográfico levou à reabertura de escolas primárias na serra algarvia para acolher novas famílias residentes. [(link)](https://www.publico.pt/2026/06/21/sociedade/reportagem/loule-serra-algarvia-ha-escolas-reabrirem-chegada-novas-criancas-2176679)
+
+### 🌍 Mundo
+- Ataques russos em duas regiões da **Ucrânia** provocaram a morte a pelo menos três civis nas últimas 24 horas. [(link)](https://www.noticiasaominuto.com/mundo/3008763/ataques-russos-em-duas-regioes-ucranianas-causam-tres-mortos)
+- No **Reino Unido**, o Primeiro-Ministro **Keir Starmer** enfrenta pressão interna crescente de deputados trabalhistas para anunciar a sua demissão. [(link)](https://www.noticiasaominuto.com/mundo/3008734/starmer-devera-anunciar-saida-apos-pressao-de-deputados-trabalhistas)
+- O governo da **Colômbia** confirmou a morte de um influente chefe das dissidências das **FARC** durante operações militares. [(link)](https://www.noticiasaominuto.com/mundo/3008749/presidente-colombiano-anuncia-morte-de-chefe-de-dissidencia-das-farc)
+- Um incêndio numa habitação na **China** causou a morte a pelo menos seis pessoas, estando as causas sob investigação oficial. [(link)](https://www.noticiasaominuto.com/mundo/3008766/pelo-menos-seis-pessoas-morrem-em-incendio-de-habitacao-na-china)
+
+### ⚽ Desporto
+- A **Seleção Nacional** de Portugal realizou uma reunião restrita em **Palm Beach** para reforçar a coesão do grupo antes do duelo com o **Uzbequistão**. [(link)](https://observador.pt/2026/06/21/sabiamos-que-iamos-passar-por-isto-a-conversa-dos-jogadores-em-palm-beach-para-blindar-a-selecao/), [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/marroquino-jalad-jayed-dirige-jogo-entre-portugal-e-o-uzbequistao)
+- **André Villas-Boas** comentou os atuais rumores do mercado de transferências, incluindo a possível saída de **Rúben Amorim** para o **AC Milan**. [(link)](https://www.noticiasaominuto.com/desporto/3008761/de-lewandowski-a-ameaca-ao-sporting-villas-boas-nao-deixa-nada-por-dizer), [(link)](https://www.noticiasaominuto.com/desporto/3006743/o-rumor-da-semana-ruben-amorim-leva-trio-do-sporting-para-o-ac-milan)
+
+### 🎨 Cultura
+- O **Festival de Annecy**, prestigiado certame de animação, arranca hoje com diversas produções portuguesas em competição oficial. [(link)](https://www.noticiasaominuto.com/cultura/3008759/festival-de-annecy-comeca-com-cinema-portugues-de-animacao-na-competicao)

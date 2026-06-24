@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- **Portugal** goleia o **Uzbequistão** por **5-0** no Mundial 2026, com **Cristiano Ronaldo** a responder às críticas sobre a sua prestação. [(link)](https://www.rtp.pt/noticias/desporto/ronaldo-assertivo-na-resposta-as-criticas-a-sua-prestacao_v1749032), [(link)](https://www.rtp.pt/noticias/desporto/portugal-5-0-uzbequistao-portugueses-no-mundo-rendem-se-a-selecao_v1749022)
+- Cerca de **50 concelhos** do interior Norte e Centro estão em perigo máximo de incêndio, enquanto um fogo em **Loulé** foi dominado após ferir quatro pessoas. [(link)](https://www.rtp.pt/noticias/pais/cerca-de-50-concelhos-do-interior-norte-e-centro-em-perigo-maximo_n1749021), [(link)](https://cnnportugal.iol.pt/ameixial/incendio/grande-incendio-em-loule-dado-como-dominado-depois-de-rodear-varias-aldeias-e-fazer-quatro-feridos/20260624/6a3b7a9ad34edcee7c65a1d2)
+- **Donald Trump** vetou uma resolução do Senado norte-americano que visava limitar os seus poderes militares em eventuais conflitos contra o **Irão**. [(link)](https://observador.pt/liveblogs/trump-critica-senado-por-resolucao-que-limita-poderes-de-guerra-cerca-de-15-regioes-russas-impoem-restricoes-a-venda-de-combustivel/)
+- Mais de **500 doentes** com alta clínica permanecem retidos em hospitais portugueses devido à falta de tutores e atrasos em processos judiciais. [(link)](https://cnnportugal.iol.pt/saude/ministra-saude/ha-mais-de-500-pessoas-retidas-nos-hospitais-devido-a-processos-na-justica-pgr-ja-alertou-governo-para-o-problema/20260624/6a3a7f71d34e28842c857d58)
+
+### 🇵🇹 Portugal
+- O **Parlamento** debate hoje uma proposta do **PCP** para a realização de um referendo sobre a regionalização até ao ano de **2028**. [(link)](https://www.rtp.pt/noticias/politica/parlamento-debate-hoje-proposta-do-pcp-para-referendo-a-regionalizacao-ate-2028_n1749013)
+- Colégios de educação especial encerram esta quarta-feira em protesto, enquanto funcionários judiciais alertam para exaustão e falta de formação. [(link)](https://www.rtp.pt/noticias/pais/colegios-de-educacao-especial-em-protesto-esta-quarta-feira_n1749030), [(link)](https://rr.pt/especial/direito-a-justica/2026/06/24/funcionarios-judiciais-mais-novos-telefonam-a-chorar-dizem-que-nao-tem-formacao-suficiente-e-tem-medo-de-falhar/475528/)
+- O **PS** expulsou **Daniel Adrião** pela segunda vez, ignorando uma decisão anterior do **Tribunal Constitucional** favorável ao militante. [(link)](https://www.publico.pt/2026/06/24/politica/noticia/ps-nao-cumpre-decisao-tribunal-constitucional-expulsa-militante-duas-vezes-2179242)
+- Um despiste seguido de incêndio num camião obrigou ao corte da **Estrada Nacional 255** na zona de **Vila Viçosa**. [(link)](https://observador.pt/2026/06/24/en255-interrompida-perto-de-vila-vicosa-devido-a-despiste-de-camiao/)
+
+### 🌍 Mundo
+- **Taiwan** alertou para a redução do tempo de resposta a possíveis ataques da **China** após um porta-aviões chinês atravessar o Estreito. [(link)](https://observador.pt/2026/06/24/taiwan-alerta-que-tempo-de-resposta-a-ataque-chines-esta-a-diminuir/)
+- No **Peru**, **Keiko Fujimori** consolidou a liderança nas eleições presidenciais após a justiça rejeitar recursos apresentados pelo seu rival. [(link)](https://www.rtp.pt/noticias/mundo/fujimori-mantem-vantagem-em-eleicoes-no-peru-apos-rejeicao-de-recurso-do-rival_n1749019)
+- Ativistas de uma flotilha humanitária detidos na **Líbia**, incluindo uma cidadã portuguesa, estão em processo de libertação após um mês de detenção. [(link)](https://www.rtp.pt/noticias/mundo/flotilha-humanitaria-diz-que-ativistas-incluindo-portuguesa-vao-ser-libertados-na-libia_n1749001)
+- Um soldado da **Coreia do Norte** foi detido pelas autoridades de Seul após atravessar a fronteira para a **Coreia do Sul**. [(link)](https://observador.pt/2026/06/24/soldado-norte-coreano-detido-apos-atravessar-fronteira-com-coreia-do-sul/)
+- O ex-presidente da Bolívia, **Evo Morales**, alertou para o risco iminente de uma "guerra civil" devido à gestão do atual governo. [(link)](https://www.rtp.pt/noticias/mundo/governo-esta-a-empurrar-bolivia-para-guerra-civil-alerta-ex-presidente-evo-morales_n1749008)
+
+### 💵 Economia
+- Diversos municípios portugueses alertam para atrasos na execução do **PRR** e solicitam ao Governo novas linhas de financiamento para obras. [(link)](https://www.publico.pt/2026/06/24/politica/noticia/municipios-pedem-financiamento-obras-atrasadas-prr-governo-manda-apressalas-2179079)
+- A **Alemanha** retomou o tráfego ferroviário nacional após uma falha crítica nos sistemas de comunicações que paralisou os transportes. [(link)](https://observador.pt/2026/06/24/trafego-ferroviario-retomado-na-alemanha-apos-avaria-nas-comunicacoes/)
+
+### ⚽ Desporto
+- No Grupo de Portugal do **Mundial 2026**, a **Colômbia** venceu a **RD Congo** e assumiu a liderança provisória da tabela. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/colombia-vence-rd-congo-e-qualifica-se-para-os-16-avos-do-mundial2026)
+- A **Croácia** garantiu uma vitória sobre o **Panamá**, resultado que ditou a eliminação da seleção centro-americana da competição. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/croacia-vence-e-elimina-panama-com-golo-de-budimir)

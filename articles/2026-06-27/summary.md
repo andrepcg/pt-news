@@ -1,0 +1,29 @@
+ ### 🗞️ Destaques
+- **Portugal** e **Cabo Verde** garantiram o apuramento histórico para os 16avos de final do **Mundial 2026**, com a seleção cabo-verdiana a estrear-se nesta fase da competição. [(link)](https://www.noticiasaominuto.com/desporto/3012188/portugal-e-estreante-cabo-verde-nos-16-avos-de-final-do-mundial2026), [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/portugal-e-estreante-cabo-verde-nos-16-avos-de-final-do-mundial2026), [(link)](https://www.noticiasaominuto.com/desporto/3012190/diario-do-mundial2026-cabo-verde-historico-e-portugal-apura-se-no-sofa)
+- Uma missão portuguesa da **Força Aérea** partiu de **Beja** com destino à **Venezuela** para prestar auxílio após os sismos que afetaram o país. [(link)](https://www.noticiasaominuto.com/pais/3012179/missao-portuguesa-parte-de-beja-para-a-venezuela-em-avioes-da-forca-aerea), [(link)](https://www.cmjornal.pt/mundo/detalhe/missao-portuguesa-parte-de-beja-em-avioes-da-forca-aerea-apos-sismos-na-venezuela)
+- O **Irão** atacou posições dos **EUA** em retaliação a agressões anteriores, levando **Washington** a ameaçar responder com violência através do vice-presidente **Vance**. [(link)](https://www.noticiasaominuto.com/mundo/3012165/irao-ataca-posicoes-dos-eua-in-resposta-a-agressao-de-washington), [(link)](https://www.noticiasaominuto.com/mundo/3012157/vance-avisa-que-eua-vao-responder-a-qualquer-ataque-do-irao-com-violencia)
+
+### 🇵🇹 Portugal
+- Os arquipélagos dos **Açores** e da **Madeira** celebram 50 anos de autonomia, sublinhando os sucessos alcançados e os desafios contínuos do modelo autonómico. [(link)](https://www.publico.pt/2026/06/27/politica/noticia/autonomias-sucesso-continuam-exigir-luta-constante-2179612)
+- Jovens de bairros sociais de **Lisboa** integram um *bootcamp* focado em robótica e *gaming* para promover a literacia tecnológica. [(link)](https://www.noticiasaominuto.com/tech/3012203/jovens-de-bairros-sociais-de-lisboa-em-bootcamp-de-robotica-e-gaming)
+- O festival **Babell** leva a literatura infantil aos **Jardins do Palácio de Cristal**, no **Porto**, para celebrar a palavra junto dos mais novos. [(link)](https://www.publico.pt/2026/06/27/impar/noticia/festival-babell-celebra-palavra-tambem-novos-2179555)
+
+### 🌍 Mundo
+- A polícia brasileira concluiu que o senador **Flávio Bolsonaro** caluniou o Presidente **Lula da Silva** ao atribuir-lhe falsamente a prática de crimes. [(link)](https://www.noticiasaominuto.com/mundo/3012189/policia-conclui-que-flavio-bolsonaro-caluniou-lula-ao-atribuir-lhe-crimes), [(link)](https://www.cmjornal.pt/mundo/detalhe/policia-conclui-que-flavio-bolsonaro-caluniou-lula-ao-atribuir-lhe-varios-crimes)
+- **Israel** e o **Líbano** estabeleceram um acordo para a criação de duas zonas piloto destinadas à atuação do exército libanês na fronteira. [(link)](https://www.noticiasaominuto.com/mundo/3012216/acordo-com-israel-cria-duas-zonas-piloto-para-exercito-libanes)
+- Chuvas torrenciais causaram dois mortos em **Taiwan** e inundações severas no **Japão** devido à aproximação de tempestades tropicais. [(link)](https://www.noticiasaominuto.com/mundo/3012225/chuvas-torrenciais-causam-inundacoes-e-deixam-dois-mortos-em-taiwan), [(link)](https://www.noticiasaominuto.com/mundo/3012209/fortes-chuvas-atingem-o-japao-com-aproximacao-tempestades-tropicais)
+- A **Colômbia** iniciou o processo de transição presidencial após eleições renhidas, com o atual líder a preparar a entrega de pasta ao presidente eleito. [(link)](https://www.noticiasaominuto.com/mundo/3012196/transicao-de-presidentes-na-colombia-que-veniam-e-se-sentem)
+- Um sismo de magnitude **5,4** na escala de Richter foi registado no **Paquistão** este sábado. [(link)](https://www.noticiasaominuto.com/mundo/3012228/paquistao-regista-sismo-de-magnitude-5-4)
+
+### 💵 Economia
+- A **Galp Energia** e a **Petrogal** foram qualificadas para participar num leilão de exploração de petróleo no **Brasil**. [(link)](https://www.noticiasaominuto.com/economia/3012183/galp-energia-e-petrogal-qualificadas-para-leilao-de-petroleo-no-brasil)
+- Uma empresa brasileira procura estabelecer um acordo para permitir que cidadãos portugueses utilizem o **MB Way** em pagamentos no **Brasil**. [(link)](https://www.publico.pt/2026/06/27/publico-brasil/noticia/empresa-brasileira-busca-acordo-portugueses-possam-usar-mb-way-brasil-2179644)
+- Os **EUA** autorizaram cerca de **100 empresas** a utilizar o modelo mais avançado de inteligência artificial da **Anthropic**. [(link)](https://www.noticiasaominuto.com/tech/3012202/eua-deixam-100-empresas-usar-modelo-mais-avancado-de-ia-da-anthropic)
+
+### ⚽ Desporto
+- **Portugal** defronta hoje a **Colômbia** num encontro decisivo que definirá o vencedor do grupo no **Mundial 2026**. [(link)](https://www.publico.pt/2026/06/27/desporto/noticia/portugalcolombia-vale-tres-pontos-quantas-horas-sono-2179627)
+- A **Bélgica** goleou a **Nova Zelândia** e garantiu a passagem aos 16avos de final, acompanhada pelo **Senegal** no Grupo G. [(link)](https://rr.pt/bola-branca/noticia/mundial-2026/2026/06/27/belgica-goleia-nova-zelandia-e-acaba-em-primeiro-no-grupo-g/476124/)
+- O **Egito** fez história na competição ao garantir um empate dramático frente ao **Irão**. [(link)](https://www.noticiasaominuto.com/desporto/3012222/egito-empata-com-irao-em-final-dramatica-e-faz-historia)
+
+### 🎨 Cultura
+- **Rod Stewart** e **21 Savage** encerram as grandes atuações da 11.ª edição do **Rock in Rio Lisboa** nos últimos dois dias do festival. [(link)](https://www.noticiasaominuto.com/cultura/3012212/rod-stewart-e-21-savage-em-destaque-nos-ultimos-dias-do-rock-in-rio)

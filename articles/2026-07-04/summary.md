@@ -1,0 +1,22 @@
+ ### 🗞️ Destaques
+- **Portugal** mantém o alerta vermelho devido ao risco de incêndios, registando-se dois feridos em **Vouzela** e um fogo dominado em **Setúbal**. [(link)](https://www.noticiasaominuto.com/pais/3016302/ao-minuto-pais-mantem-se-em-alerta-vermelho-dois-feridos-em-vouzela), [(link)](https://www.noticiasaominuto.com/pais/3016279/dominado-incendio-em-setubal)
+- Milhares de pessoas iniciaram em **Teerão** as cerimónias fúnebres do antigo líder supremo do Irão, **Ali Khamenei**, que decorrerão durante seis dias. [(link)](https://www.noticiasaominuto.com/mundo/3016292/funeral-de-khamenei-arranca-hoje-em-teerao-e-prolong-se-por-seis-dias), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/milhares-no-arranque-das-cerimonias-funebres-do-antigo-lider-supremo-ali-khamenei)
+- A **Argentina** e a **Colômbia** garantiram o apuramento para os oitavos-de-final do **Mundial 2026**, eliminando Cabo Verde e a seleção de Carlos Queiroz, respetivamente. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/argentina-sofre-para-eliminar-cabo-verde-do-mundial-no-prolongamento), [(link)](https://www.noticiasaominuto.com/desporto/3016290/colombia-elimina-queiroz-fecha-lote-de-apurados-para-os-oitavos)
+
+### 🇵🇹 Portugal
+- A **Proteção Civil** mantém a vigilância máxima sobre o território nacional, com especial preocupação em contextos de orografia difícil. [(link)](https://www.noticiasaominuto.com/pais/3016302/ao-minuto-pais-mantem-se-em-alerta-vermelho-dois-feridos-em-vouzela)
+- O legado do **Padre João Felgueiras** em **Timor** foi alvo de homenagens oficiais, destacando-se o seu papel histórico na ligação entre os dois países. [(link)](https://www.noticiasaominuto.com/pais/3016281/seguro-presta-homenagem-a-inestimavel-legado-do-padre-joao-felgueiras), [(link)](https://www.noticiasaominuto.com/mundo/3016282/legado-de-padre-joao-felgueiras-vai-fica-ligado-a-historia-de-timor)
+
+### 🌍 Mundo
+- **Donald Trump** celebrou os **250 anos** dos **EUA** afirmando que a nação é a mais forte da história, num momento de profunda divisão política no país. [(link)](https://www.noticiasaominuto.com/mundo/3016300/donald-trump-diz-que-eua-sao-o-pais-mais-livre-e-mais-forte-da-historia), [(link)](https://www.publico.pt/2026/07/04/mundo/noticia/250-anos-eua-democracia-vive-crise-meia-idade-causa-congenita-2180493)
+- As autoridades de **Jerusalém** pretendem avançar com a cobrança de taxas municipais a instituições e igrejas cristãs na cidade. [(link)](https://www.noticiasaominuto.com/mundo/3016308/jerusalem-quer-cobrar-imposto-municipal-a-igrejas-cristas)
+- A **CPLP** enfrenta críticas por não ter conseguido acompanhar eficazmente o desenvolvimento da crise política na **Guiné-Bissau**. [(link)](https://www.noticiasaominuto.com/mundo/3016304/cplp-falha-no-acompanhamento-da-crise-politica-na-guine-bissau)
+
+### 💵 Economia
+- A agência de rating **Moody’s** alertou que o processo de reprivatização da **TAP** é complexo e poderá prolongar-se por vários anos. [(link)](https://www.publico.pt/2026/07/04/economia/noticia/moodys-venda-tap-podera-durar-varios-anos-2180473)
+
+### ⚽ Desporto
+- **Lionel Messi** marcou pelo oitavo jogo consecutivo no **Mundial 2026**, atingindo a marca dos **20 golos** na competição. [(link)](https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/messi-chega-aos-20-golos-e-fatura-pelo-oitavo-jogo-seguido)
+- A **Seleção Nacional** realizou o último treino em **Toronto** e parte agora para **Dallas** para disputar a próxima fase do torneio. [(link)](https://www.noticiasaominuto.com/desporto/3016301/selecao-treina-em-toronto-e-viaja-ate-dallas-onde-disputa-oitavos)
+- O **FC Porto** antecipa uma rentabilização elevada com a possível transferência de **Diogo Costa**, após as exibições destacadas do guarda-redes. [(link)](https://www.noticiasaominuto.com/desporto/3016157/diogo-costa-vira-heroi-silencioso-e-fc-porto-espreita-encaixe-milionario)
+- No mercado de verão, as atenções dividem-se entre os rumores de transferências e a análise à substituição de **Cristiano Ronaldo** em jogo decisivo. [(link)](https://www.noticiasaominuto.com/desporto/3016306/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao), [(link)](https://www.noticiasaominuto.com/desporto/3016037/tirar-cristiano-ronaldo-naquela-altura-de-desequilibrio-era-obrigatorio)

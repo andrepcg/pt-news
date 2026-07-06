@@ -1,0 +1,30 @@
+ ### 🗞️ Destaques
+- Um ataque russo de grande envergadura com mísseis e drones contra **Kiev** causou, pelo menos, **nove mortos** esta segunda-feira. [(link)](https://observador.pt/liveblogs/ataque-russo-com-misseis-balisticos-e-drones-mata-pelo-menos-cinco-pessoas-em-kiev/), [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/pelo-menos-nine-mortos-em-ataque-russo-com-misseis-e-drones-in-kiev_n1751623), [(link)](https://www.noticiasaominuto.com/mundo/3016944/pelo-menos-nove-mortos-em-ataque-russo-com-misseis-e-drones-em-kyiv)
+- A **Seleção Brasileira** foi eliminada do **Mundial 2026** e **Neymar** anunciou oficialmente a sua despedida da equipa nacional. [(link)](https://observador.pt/2026/07/06/a-ressaca-e-as-reacoes-a-eliminacao-de-um-brasil-que-parece-nao-ter-absorvido-as-licoes/), [(link)](https://www.noticiasaominuto.com/desporto/3016912/agora-acabou-neymar-anuncia-adeus-a-selecao-brasileira)
+- Mais de **100 concelhos** portugueses encontram-se em perigo máximo de incêndio, mantendo-se a situação de alerta e o reforço das detenções pela **GNR**. [(link)](https://www.rtp.pt/noticias/pais/mais-de-uma-centena-de-concelhos-em-perigo-maximo-situacao-de-alerta-mantem-se_n1751622), [(link)](https://www.publico.pt/2026/07/06/sociedade/noticia/perigo-maximo-incendio-100-concelhos-detencoes-fogo-aumentam-2180657), [(link)](https://www.rtp.pt/noticias/pais/gnr-ja-deteve-mais-de-130-pessoas-por-crime-de-incendio_n1751624)
+- A **AD** inicia hoje as suas jornadas parlamentares com a presença de **Durão Barroso**, mas com a ausência do Primeiro-Ministro **Luís Montenegro**. [(link)](https://www.noticiasaominuto.com/politica/3016942/ad-inicia-hoje-jornadas-parlamentares-com-durao-barroso-e-sem-montenegro), [(link)](https://www.cmjornal.pt/politica/detalhe/ad-inicia-hoje-jornadas-parlamentares-com-durao-barroso-mas-sem-montenegro)
+
+### 🇵🇹 Portugal
+- Um contingente de **360 polícias** reforça a partir de hoje o controlo de passageiros nos aeroportos nacionais para mitigar as filas. [(link)](https://observador.pt/2026/07/06/mais-de-360-policias-vao-reforcar-os-aeroportos-portugueses/), [(link)](https://rr.pt/noticia/pais/2026/07/06/filas-nos-aeroportos-mais-de-360-policias-reforcam-controlo-de-passageiros-esta-segunda-feira/477204/?utm_medium=rss)
+- Um incêndio numa loja em **Carnaxide** mobilizou 43 operacionais esta manhã, sem registo de feridos. [(link)](https://observador.pt/liveblogs/fogo-em-oeiras-mobiliza-43-operacionais-situacao-de-alerta-termina-esta-segunda-feira/), [(link)](https://cnnportugal.iol.pt/incendio/carnaxide/incendio-deflagra-em-loja-em-carnaxide-sem-causar-feridos/20260706/6a4b446bd34e28842c85f8c8)
+- A **GNR** contabiliza já mais de **130 detenções** por crime de incêndio florestal desde o início do ano de 2026. [(link)](https://www.rtp.pt/noticias/pais/gnr-ja-deteve-mais-de-130-pessoas-por-crime-de-incendio_n1751624)
+- A **Ordem dos Médicos Veterinários** lançou uma petição para reduzir o **IVA** dos serviços veterinários de 23% para **6%**. [(link)](https://observador.pt/2026/07/06/ordem-lanca-campanha-para-forcar-assembleia-da-republica-a-reduzir-iva-nos-servicos-veterinarios/), [(link)](https://rr.pt/noticia/pais/2026/07/06/taxados-como-bem-de-luxo-ordem-lanca-campanha-reduzir-iva-nos-servicos-veterinarios/477206/?utm_medium=rss)
+
+### 🌍 Mundo
+- O Presidente da Colômbia, **Gustavo Petro**, anunciou a antecipação da sua saída do cargo para o dia **20 de julho**. [(link)](https://www.rtp.pt/noticias/mundo/gustavo-petro-antecipa-saida-da-presidencia-da-colombia-para-20-de-julho_n1751611)
+- O **Peru** iniciou o processo de transferência de poder para a Presidente eleita, **Keiko Fujimori**. [(link)](https://www.rtp.pt/noticias/mundo/peru-inicia-transferencia-da-governacao-para-presidente-eleita-keiko-fujimori_n1751610)
+- O surto de **Ébola** na República Democrática do Congo agravou-se, ultrapassando a barreira das **500 mortes**. [(link)](https://www.rtp.pt/noticias/mundo/numero-de-mortos-por-ebola-na-rdcongo-ultrapassa-a-barreira-dos-500-obitos_n1751626)
+- **Austrália** e **Fiji** assinaram um tratado de defesa estratégico para conter a crescente influência da **China** na região do Pacífico. [(link)](https://www.rtp.pt/noticias/mundo/australia-assina-tratado-de-defesa-com-ilhas-fiji_n1751612)
+
+### 💵 Economia
+- Os preços dos **combustíveis** registaram uma subida no arranque desta semana em todo o país. [(link)](https://www.noticiasaominuto.com/economia/3015930/combustiveis-arrancam-a-semana-com-subida-saiba-onde-custam-menos)
+- Novos **Certificados do Tesouro** chegam hoje ao mercado, embora com rendibilidade inferior aos Certificados de Aforro e à inflação. [(link)](https://eco.sapo.pt/descodificador/novos-certificados-de-poupanca-chegam-hoje-quanto-rendem-valem-a-pena/)
+- O custo das **rendas** de casa baixou em apenas **18 dos 308 concelhos** portugueses, com destaque para a pressão em Sines e Algarve. [(link)](https://eco.sapo.pt/especiais/rendas-de-casas-queimam-salarios-em-sines-no-funchal-e-ao-longo-do-algarve-so-18-concelhos-tiveram-abrandamento/)
+
+### ⚽ Desporto
+- **Portugal** e **Espanha** defrontam-se hoje num duelo ibérico decisivo para o apuramento para os quartos de final do **Mundial 2026**. [(link)](https://www.publico.pt/2026/07/06/desporto/noticia/proximo-episodio-dallas-desavenca-familiar-portugal-espanha-2180629)
+- A **Inglaterra** garantiu a presença nos quartos de final ao vencer o **México** por **3-2**. [(link)](https://observador.pt/2026/07/06/jude-saiu-da-sombra-de-harry-para-acabar-com-o-amuleto-mexicano-a-cronica-do-mexico-inglaterra/)
+
+### 🔬 Ciência e Tecnologia
+- O **Telescópio Euclides** descobriu **31 dos quasares mais antigos** conhecidos, permitindo novos avanços no estudo do universo primitivo. [(link)](https://www.noticiasaominuto.com/tech/3016956/telescopio-euclides-descobre-31-dos-mais-antigos-quasares)
+- O investigador **Sérgio Jesus** foi premiado por um estudo que analisa a propensão da **Inteligência Artificial** para gerar conclusões precipitadas. [(link)](https://www.publico.pt/2026/07/06/ciencia/noticia/sergio-jesus-premiado-analisar-ia-tirar-conclusoes-precipitadas-2180393)

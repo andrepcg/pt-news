@@ -1,0 +1,25 @@
+ ### 🗞️ Destaques
+- O **Irão** encerrou o **Estreito de Ormuz** e trocou ataques militares com os **EUA** após incidentes navais, elevando a tensão no Médio Oriente. [(link)](https://www.rtp.pt/noticias/mundo/eua-atingem-alvos-militares-iranianos-teerao-ataca-centros-de-apoio-a-marinha-norte-americana_e1752794), [(link)](https://www.rtp.pt/noticias/mundo/irao-anuncia-encerramento-do-estreito-de-ormuz-ate-nova-ordem_n1752776)
+- A **Argentina** garantiu a presença nas meias-finais do **Mundial 2026** ao vencer a Suíça no prolongamento, num jogo marcado por críticas à arbitragem do português **João Pinheiro**. [(link)](https://www.rtp.pt/noticias/mundial-2026/argentina-vence-suica-no-prolongamento-e-esta-nas-meias-finais_d1752787), [(link)](https://www.noticiasaominuto.com/desporto/3020211/joao-pinheiro-arrasado-apos-argentina-suica-forte-contra-os-fracos)
+- A **FCT** recusa há um ano divulgar dados sobre o programa de contratação de doutorados, mantendo opacidade sobre os resultados da iniciativa. [(link)](https://www.publico.pt/2026/07/12/ciencia/noticia/ha-ano-fct-recusa-divulgar-dados-programa-contratacao-doutorados-2181226)
+- **Portugal** assegurou um lugar no **Conselho de Segurança da ONU** após superar a candidatura da Alemanha através de uma estratégia diplomática de proximidade. [(link)](https://www.publico.pt/2026/07/12/politica/noticia/ideias-atitude-gestos-cordiais-portugal-ganhou-alemanha-onu-2181188)
+
+### 🇵🇹 Portugal
+- O congresso partidário encerrado hoje confirmou **Mendes Lopes** e **Jorge Pinto** como a nova liderança bicéfala da força política. [(link)](https://www.noticiasaominuto.com/politica/3020196/congresso-termina-with-mendes-lopes-e-jorge-pinto-a-assumir-lideranca)
+- A **Faculdade de Direito de Lisboa** regista a matrícula de **670 alunos brasileiros**, sublinhando a crescente internacionalização da instituição. [(link)](https://www.publico.pt/2026/07/12/publico-brasil/noticia/brasilidade-tom-faculdade-direito-lisboa-sao-670-alunos-brasil-2181304)
+- Os **Buraka Som Sistema** regressaram aos palcos para atuar no encerramento do festival **NOS Alive**, perante uma receção entusiasta de milhares de pessoas. [(link)](https://www.publico.pt/2026/07/12/culturaipsilon/noticia/alive-lisboa-vergou-buraka-som-sistema-2181368)
+- A imprensa nacional destaca a libertação de detidos devido ao excesso de **prisão preventiva** em diversos processos judiciais. [(link)](https://www.noticiasaominuto.com/pais/3020185/hoje-e-noticia-libertados-por-excesso-de-preventiva-ja-bati-muito)
+
+### 🌍 Mundo
+- Os **EUA** concluíram uma ronda de ataques contra alvos militares iranianos, enquanto o **Qatar** e os **EAU** entraram em alerta máximo após disparos de mísseis. [(link)](https://www.rtp.pt/noticias/mundo/estados-unidos-anunciam-conclusao-de-ronda-de-ataques-contra-alvos-iranianos_n1752790), [(link)](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/emirados-arabes-unidos-denunciam-ataque-iraniano-e-qatar-interceta-misseis)
+- Um tiroteio num festival em **Toronto**, no Canadá, resultou em **dois mortos** e cinco feridos, motivando uma investigação policial urgente. [(link)](https://www.noticiasaominuto.com/mundo/3020204/dois-mortos-e-pelo-menos-cinco-feridos-em-tiroteio-em-festival-de-toronto)
+- O tufão **Bavi** atingiu a costa leste da **China**, provocando o cancelamento generalizado de voos e mantendo as autoridades em estado de alerta. [(link)](https://www.noticiasaominuto.com/mundo/3020191/china-mantem-alertas-depois-do-tufao-bavi-ter-atingido-costa-no-leste)
+- Na **Venezuela**, cientistas detetaram a formação de um novo vulcão de lama na sequência da recente atividade sísmica no país. [(link)](https://www.noticiasaominuto.com/mundo/3020175/cientistas-descobrem-vulcao-de-lama-formado-pelos-sismos-na-venezuela)
+- Morreu aos **91 anos** **Akihiro Miwa**, cantora e figura central da cultura drag e dos direitos LGBT no Japão. [(link)](https://www.publico.pt/2026/07/12/mundo/cronica/akihiro-miwa-19352026-crepusculo-deusa-2180645)
+
+### 💵 Economia
+- Um dos principais sindicatos da construção no **Canadá** apelou ao governo para reforçar canais de imigração devido à grave escassez de mão de obra no setor. [(link)](https://www.rtp.pt/noticias/economia/sindicato-da-construcao-defende-imigracao-devido-a-falta-de-mao-de-obra-no-canada_n1752793)
+
+### ⚽ Desporto
+- O **Benfica** saiu derrotado frente ao **Flamengo** num particular onde os novos reforços encarnados tiveram uma prestação discreta. [(link)](https://www.noticiasaominuto.com/desporto/3020169/reforcos-apagados-e-jovens-a-part-time-destaques-da-derrota-do-benfica)
+- A jornada do Mundial 2026 ficou ainda pontuada por golos decisivos de **Jude Bellingham** no apuramento da seleção inglesa. [(link)](https://www.noticiasaominuto.com/desporto/3020176/diario-do-mundial2026-hey-jude-ao-salvamento-em-die-marcado-por-morte)

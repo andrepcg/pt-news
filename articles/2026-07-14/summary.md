@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+- **Estados Unidos** e **Irão** protagonizam uma grave escalada de tensão no Médio Oriente com ataques militares mútuos e retaliações em larga escala. [(link)](https://observador.pt/liveblogs/irao-reivindica-ataque-a-uma-base-aerea-na-jordania/), [(link)](https://www.rtp.pt/noticias/mundo/trump-cumpre-promessa-e-lanca-forte-ofensiva-militar-contra-o-irao_v1753202)
+- O consórcio formado pela **Sacyr** e **DST** venceu a **Mota-Engil** no concurso para o segundo troço da linha de alta velocidade ferroviária. [(link)](https://eco.sapo.pt/2026/07/14/sacyr-e-dst-ganham-a-mota-engil-no-preco-do-segundo-troco-da-alta-velocidade/)
+- A **China** estabeleceu um novo recorde histórico na indústria automóvel ao exportar mais de **1 milhão** de veículos apenas durante o mês de junho. [(link)](https://www.publico.pt/2026/07/14/economia/noticia/china-exporta-milhao-automoveis-junho-2181559), [(link)](https://www.noticiasaominuto.com/auto/3021008/china-exporta-mais-de-um-milhao-de-automoveis-em-junho-e-um-recorde)
+- **França** e **Espanha** defrontam-se hoje para decidir o primeiro finalista do **Mundial 2026**. [(link)](https://www.publico.pt/2026/07/14/desporto/noticia/francaespanha-imparaveis-inamoviveis-2181503)
+
+### 🇵🇹 Portugal
+- A **Iniciativa Liberal** propõe o adiamento do debate do Estado da Nação, agendado para o Parlamento, até que sejam esclarecidas as falhas técnicas nos exames nacionais. [(link)](https://observador.pt/2026/07/14/il-quer-adiar-debate-do-estado-da-nacao-para-depois-dos-esclarecimentos-sobre-exames/), [(link)](https://www.rtp.pt/noticias/pais/il-quer-adiar-debate-do-estado-da-nacao-para-depois-dos-esclarecimentos-sobre-exames_n1753196)
+- Os imigrantes que procurem a **AIMA** para regularização passam a obter automaticamente o Número de Identificação da Segurança Social (**NISS**). [(link)](https://observador.pt/2026/07/14/imigrantes-que-se-dirijam-a-aima-para-regularizar-situacao-passam-a-receber-numero-da-seguranca-social-de-forma-automatica/), [(link)](https://cnnportugal.iol.pt/imigrantes/numero-da-seguranca-social/imigrantes-passam-a-receber-numero-da-seguranca-social-automaticamente-no-processo-de-regularizacao/20260714/6a55d3ddd34ef04b4f3f6535)
+- **Marcelo Rebelo de Sousa** defendeu que a redução do risco sísmico deve ser tratada como uma prioridade nacional contínua, independentemente dos ciclos políticos. [(link)](https://eco.sapo.pt/2026/07/14/seguro-exige-reducao-do-risco-sismico-como-prioridade-nacional-acima-dos-ciclos-politicos/)
+- O **Conselho para a Ação Climática** encontra-se bloqueado na Assembleia da República devido ao incumprimento das quotas de representação feminina. [(link)](https://www.publico.pt/2026/07/14/azul/noticia/conselho-accao-climatica-bloqueado-parlamento-falta-mulheres-2181499)
+- **André Ventura** afirmou não desejar eleições antecipadas, embora garanta que o **Chega** não teme um novo sufrágio perante os "pessimos sinais" do Governo. [(link)](https://www.rtp.pt/noticias/politica/nao-receamos-eleicoes-antecipadas-mas-tambem-nao-quero-diz-andre-ventura_v1753152)
+
+### 🌍 Mundo
+- O **Japão** manifestou apoio público ao **Tribunal Penal Internacional**, contrastando com a campanha de pressão dos **EUA** para o desmantelamento da instituição. [(link)](https://www.rtp.pt/noticias/mundo/japao-defende-tribunal-penal-internacional-against-campanha-dos-eua-para-o-desmantelar_n1753180)
+- Um incêndio num bar em **Banguecoque**, na Tailândia, resultou na morte de **27 pessoas**, muitas das quais ficaram presas nas casas de banho do estabelecimento. [(link)](https://www.rtp.pt/noticias/mundo/maioria-das-vitimas-de-incendio-em-bar-de-banguecoque-presa-em-casas-de-banho_n1753177)
+- A **Venezuela** nomeou o seu anterior representante nos EUA como novo Ministro dos Negócios Estrangeiros, num movimento de reestruturação diplomática. [(link)](https://observador.pt/2026/07/14/venezuela-caracas-nomeia-representante-nos-eua-como-ministro-dos-negocios-estrangeiros/)
+- A queda do último muro físico em **Gibraltar** e **La Línea**, devido aos acordos pós-Brexit, marca o fim de uma fronteira histórica na Europa continental. [(link)](https://www.rtp.pt/noticias/mundo/gibraltar-e-la-linea-perdem-fronteira-mas-mantem-desigualdade_n1753182)
+
+### 💵 Economia
+- O investimento imobiliário feito por cidadãos do **Brasil** em Portugal ultrapassou, pela primeira vez, o volume de capitais provenientes dos **Estados Unidos**. [(link)](https://www.publico.pt/2026/07/14/publico-brasil/noticia/brasileiros-ja-investimentos-imoveis-portugal-estados-unidos-2181543)
+
+### ⚽ Desporto
+- No **Mundial 2026**, as seleções de **França** e **Espanha** disputam esta noite o acesso à grande final do torneio. [(link)](https://www.publico.pt/2026/07/14/desporto/noticia/francaespanha-imparaveis-inamoviveis-2181503)

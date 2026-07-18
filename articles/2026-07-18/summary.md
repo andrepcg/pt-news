@@ -1,0 +1,22 @@
+ ### 🗞️ Destaques
+- O **Mundial 2026** aproxima-se do fim com a **França** e a **Inglaterra** a disputarem hoje o terceiro lugar; amanhã, **Lionel Messi** igualará o recorde de **Cafu** ao participar na sua terceira final. [(link)](https://rr.pt/bola-branca/noticia/mundial-2026/2026/07/18/o-jogo-de-3-e-4-lugar-nao-conta-para-nada-digam-isso-a-fontaine-e-sukur-e-a-carteira-do-medalha-de-bronze/478629/?utm_medium=rss), [(link)](https://rr.pt/bola-branca/noticia/mundial-2026/2026/07/18/desde-1930-apenas-um-homem-tinha-jogado-em-tres-finais-de-mundial-messi-vai-imita-lo/478460/?utm_medium=rss)
+- As tensões internacionais agravam-se com o **Irão** a prometer retaliação contra os **EUA** e um ataque ucraniano num centro logístico russo a causar **sete mortos** e **24 feridos**. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/05h-irao-promete-retaliar-caso-os-estados-unidos-nao-parem-com-os-ataques_a1_1754274), [(link)](https://www.noticiasaominuto.com/mundo/3023507/ataque-de-drones-ucranianos-em-centro-logistico-russo-causa-sete-mortos)
+- A oposição exige esclarecimentos ao **Ministro da Administração Interna** sobre a posse de bidões químicos em **Barcelos** por um empresário próximo do governo. [(link)](https://www.publico.pt/2026/07/18/sociedade/noticia/bidoes-quimicos-processar-droga-posse-amigo-ministro-2182165), [(link)](https://www.noticiasaominuto.com/politica/3023494/mai-deveexplicar-de-forma-clara-e-inequivoca-as-decisoes-que-tomou)
+
+### 🇵🇹 Portugal
+- A rede de transportes do **Porto** será testada com a entrada em vigor da gratuitidade, enquanto em **Matosinhos** foi controlada uma fuga de amoníaco na **Docapesca**. [(link)](https://www.publico.pt/2026/07/18/local/reportagem/autocarros-gratuitidade-promete-testar-rede-transportes-porto-2182169), [(link)](https://www.cmjornal.pt/portugal/detalhe/controlada-fuga-de-amoniaco-na-docapesca-em-matosinhos)
+- O Ministério da Educação esclarece hoje os alunos que receberam a nota "**suspenso**" nas pautas dos exames nacionais. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-alunos-que-viram-na-pauta-suspenso-vao-ser-hoje-esclarecidos_a1_1754279)
+- Os estudantes brasileiros já representam **15%** do corpo estudantil da **Universidade de Aveiro**, consolidando-se como o maior grupo estrangeiro da instituição. [(link)](https://www.publico.pt/2026/07/18/publico-brasil/noticia/brasileiros-ja-sao-maior-group-estrangeiro-universidade-aveiro-2182155)
+- O **Museu Gulbenkian** em Lisboa reabre hoje as suas portas com um novo jardim e entrada gratuita para os visitantes. [(link)](https://www.noticiasaominuto.com/cultura/3023498/gulbenkian-laboratorio-de-diversidade-em-jardim-privado-aberto-a-todos)
+
+### 🌍 Mundo
+- O Supremo Tribunal do **Brasil** manteve **Jair Bolsonaro** em prisão domiciliária, impondo restrições mais severas ao antigo Presidente. [(link)](https://www.noticiasaominuto.com/mundo/3023491/supremo-mantem-prisao-domiciliaria-de-bolsonaro-mas-endurece-restricoes)
+- Na **China**, continuam as equipas de salvamento a procurar sobreviventes de um deslizamento de terra, ao mesmo tempo que o país saúda a restauração de privilégios comerciais a **Hong Kong** pelos **EUA**. [(link)](https://www.noticiasaominuto.com/mundo/3023514/prosseguem-buscas-por-sobreviventes-de-deslizamento-de-terra-na-china), [(link)](https://www.noticiasaominuto.com/mundo/3023512/china-sauda-eua-por-restaurarem-privilegios-comerciais-for-hong-kong)
+- O Presidente **Zelensky** anunciou a intenção de divulgar arquivos históricos sobre o massacre de polacos na **Volínia** durante a II Guerra Mundial. [(link)](https://www.noticiasaominuto.com/mundo/3023470/zelensky-promete-divulgar-ficheiros-sobre-massacre-de-polacos-na-volinia)
+- Um surto de diarreia causado por um parasita em alfaces de cadeias de *fast food* está a afetar a saúde pública nos **Estados Unidos**. [(link)](https://www.noticiasaominuto.com/mundo/3023476/parasita-em-alface-vendida-em-fast-food-gera-surto-de-diarreia-nos-eua)
+
+### 💵 Economia
+- A **Venezuela** recebeu **346 milhões de dólares** do **FMI** destinados à recuperação das infraestruturas após os sismos que atingiram o país. [(link)](https://www.noticiasaominuto.com/mundo/3023485/sismos-caracas-obtem-346-milhoes-de-dolares-do-fmi-para-recuperacao)
+
+### ⚽ Desporto
+- O **Benfica** venceu o **Villarreal** num encontro particular de pré-época, marcado pela prestação positiva dos reforços. [(link)](https://www.noticiasaominuto.com/desporto/3023445/reforcos-antigos-resolvem-antes-da-estreia-benfica-villarreal-a-lupa)

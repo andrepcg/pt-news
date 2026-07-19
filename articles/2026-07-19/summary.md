@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- Os **EUA** bombardearam o **Irão** em resposta à morte de dois militares, gerando um alerta global e apelos dos **Emirados Árabes Unidos** para o fim da escalada de tensão no Médio Oriente. [(link)](https://www.rtp.pt/noticias/mundo/novos-bombardeamentos-dos-eua-apos-morte-de-dois-militares_n1754417), [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-eua-lancam-alerta-global-a-norte-americanos-e-emirados-apelam-a-fim-da-escalada_n1754402)
+- Os influenciadores **Andrew** e **Tristan Tate** foram detidos em **Miami** pelas autoridades norte-americanas, respondendo a um pedido de extradição emitido pelo **Reino Unido**. [(link)](https://www.rtp.pt/noticias/mundo/influenciadores-das-redes-sociais-andrew-e-tristan-tate-detidos-em-miami_n1754409), [(link)](https://www.publico.pt/2026/07/19/mundo/noticia/andrew-tate-irmao-detidos-eua-reino-unido-vai-pedir-extradicao-2182253)
+- O **Mundial 2026** chega hoje ao fim com a final entre **Espanha** e **Argentina**, após a **Inglaterra** ter garantido a medalha de bronze ao vencer a **França** por **6-4**. [(link)](https://www.publico.pt/2026/07/19/desporto/noticia/final-especial-maior-mundial-2182226), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-inglaterra-conquista-o-bronze-venceu-a-franca-por-6-4_a1_1754423)
+- Um incêndio no **Hospital CUF Descobertas**, em Lisboa, causou dois feridos ligeiros e mobilizou equipas de socorro para uma sala de funcionários no Parque das Nações. [(link)](https://www.rtp.pt/noticias/pais/extinto-fogo-em-sala-de-funcionarios-do-hospital-cuf-descobertas_n1754413), [(link)](https://www.cmjornal.pt/portugal/detalhe/dois-feridos-em-incendio-no-hospital-cuf-descobertas-no-parque-das-nacoes)
+
+### 🇵🇹 Portugal
+- A **Provedoria da Justiça** solicitou esclarecimentos ao Governo sobre os atrasos verificados na realização dos exames nacionais. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/05h-provedoria-da-justica-pede-explicacoes-ao-governo-sobre-atrasos-nos-exames-nacionais_a1_1754422)
+- Um dirigente da **Universidade do Porto** é suspeito de favorecer um concorrente ao enviar o caderno de encargos meses antes da abertura oficial de um concurso. [(link)](https://www.publico.pt/2026/07/19/sociedade/noticia/dirigente-up-tera-enviado-caderno-encargo-concorrente-meses-concurso-lancado-2181857)
+- A **ASAE** incentivou os consumidores a denunciarem erros de rotulagem em produtos, integrando esta colaboração no esforço de fiscalização. [(link)](https://www.noticiasaominuto.com/pais/3023762/asae-pede-denuncia-de-erros-de-rotulagem-parte-da-fiscalizacao)
+
+### 🌍 Mundo
+- Mais de **142 mil eleitores** em **São Tomé e Príncipe** votam este domingo para escolher o novo Presidente da República. [(link)](https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-mais-de-142-mil-eleitores-escolhem-hoje-o-proximo-presidente_n1754419)
+- Ataques aéreos de **Israel** em **Gaza** vitimaram pelo menos **11 pessoas**, incluindo uma família de cinco elementos. [(link)](https://www.rtp.pt/noticias/mundo/onze-mortos-em-ataques-israelitas-en-gaza_n1754411)
+- Um ataque de mísseis russos contra a capital ucraniana, **Kiev**, provocou pelo menos um morto e **16 feridos**. [(link)](https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/pelo-menos-um morto-e-16-feridos-em-ataque-russo-com-misseis-balisticos-contra-a-capital-da-ucrania)
+- O número de vítimas mortais num incêndio num bar em **Banguecoque**, na Tailândia, subiu para **34**. [(link)](https://www.rtp.pt/noticias/mundo/numero-de-mortos-em-incendio-de-bar-em-banguecoque-sobe-para-34_n1754418)
+- Na **Venezuela**, a Presidente interina condecorou **6 mil socorristas** pelo seu trabalho em prol da dignidade do país. [(link)](https://www.noticiasaominuto.com/mundo/3023745/presidente-interina-da-venezuela-condecora-6-mil-socorristas-dignidade)
+
+### 💵 Economia
+- O preço do **gasóleo** sofrerá um forte aumento na próxima segunda-feira, dia 20 de julho, motivando avisos para o abastecimento antecipado. [(link)](https://www.noticiasaominuto.com/economia/3022963/se-precisa-atestar-nao-deixe-para-amanha-gasoleo-fica-muito-mais-caro)
+
+### ⚽ Desporto
+- O **FC Porto** está em negociações avançadas para a contratação do jogador **Hwang**, com os detalhes do contrato e valores da transferência a serem finalizados. [(link)](https://www.noticiasaominuto.com/desporto/3023768/dia-de-hwang-no-fc-porto-os-milhoes-que-custa-e-o-contrato-na-mesa)

@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+- Um sismo na **Colômbia** provoca pelo menos **265 mortos**, levando à declaração do estado de emergência. [Sismo na Colômbia provoca pelo menos 265 mortos e leva à declaração de estado de emergência](link) [(link)](https://observador.pt/2026/08/13/sismo-numero-de-mortes-sobe-para-265-mortos-decretado-estado-de-emergencia/)
+- Quase todo o Interior e o Algarve estão sob risco máximo ou muito elevado de incêndio. [Quase todo o Interior e o Algarve estão sob risco máximo ou muito elevado de incêndio](link) [(link)](https://observador.pt/2026/08/13/quase-todo-o-interior-do-pais-e-algarve-em-perigo-maximo-ou-muito-elevado-de-incendio/)
+- **Taiwan** realiza um simulacro para testar a resposta a um possível bloqueio marítimo chinês. [Taiwan simula resposta a um possível bloqueio marítimo chinês](link) [(link)](https://observador.pt/2026/08/13/taiwan-realiza-simulacro-contra-possivel-bloqueio-maritimo-chines/)
+
+### 🇵🇹 Portugal
+- Trabalhadores do **INEM** contestam a reforma em curso do dispositivo de emergência, enquanto a presidência pede críticas construtivas. [INEM enfrenta contestação dos trabalhadores à reforma do dispositivo de emergência](link) [(link)](https://www.rtp.pt/noticias/noticiario-antena1/07h-trabalhadores-do-inem-contestam-reforma-em-curso_a1_1759174)
+- Dois portugueses são resgatados com vida após um naufrágio na **Croácia**. [Dois portugueses resgatados com vida após naufrágio na Croácia](link) [(link)](https://www.rtp.pt/noticias/mundo/dois-portugueses-resgatados-com-vida-apos-naufragio-na-croacia_v1759171)
+- Estudantes deslocados poderão ter acesso a apoio ao alojamento mesmo sem contrato de arrendamento. [Estudantes deslocados poderão receber apoio ao alojamento sem contrato de arrendamento](link) [(link)](https://cnnportugal.iol.pt/bolsas-de-estudo/alojamento-universitario/estudantes-deslocados-vao-poder-receber-apoio-ao-alojamento-sem-contrato-de-arrendamento/20260813/6a7d60aed34e511da0b320f7)
+- A **Quercus** pede às autarquias a criação de refúgios climáticos para responder ao calor extremo. [Quercus pede criação de refúgios climáticos contra o calor extremo](link) [(link)](https://www.cmjornal.pt/sociedade/detalhe/quercus-apela-as-autarquias-que-criem-refugios-climaticos-contra-o-calor-extremo)
+
+### 🌍 Mundo
+- A **Boeing** é condenada a pagar **25 milhões de euros** numa ação civil relacionada com um desastre de 2019. [Boeing condenada a pagar 25 milhões de euros pela morte de passageiro no desastre de 2019](link) [(link)](https://observador.pt/2026/08/13/boeing-condenada-a-pagar-25-milhoes-de-euros-em-acao-civil-por-desastre-de-2019/)
+- O Líbano acusa **Israel** de destruição sistemática no sul do país. [Líbano acusa Israel de destruição sistemática no sul do país](link) [(link)](https://observador.pt/2026/08/13/libano-acusa-israel-de-destruicao-sistematica-no-sul-do-pais/)
+- Mais de **200 pessoas** são resgatadas após um incêndio num barco na **Indonésia**, que provoca uma morte. [Mais de 200 pessoas são resgatadas após incêndio num barco na Indonésia](link) [(link)](https://www.rtp.pt/noticias/mundo/mais-de-200-passageiros-salvos-apos-incendio-que-fez-um-morto-em-barco-na-indonesia_n1759158)
+- As marinhas da **China** e da **Indonésia** terminam manobras navais inéditas perto de Taiwan. [China e Indonésia terminam manobras navais inéditas perto de Taiwan](link) [(link)](https://www.rtp.pt/noticias/mundo/marinhas-da-china-e-indonesia-terminam-manobras-sem-precedentes-perto-de-taiwan_n1759156)
+- O Irão afirma que não há avanços num possível acordo de paz com os **EUA**. [Irão afirma que não há avanços num possível acordo de paz com os EUA](link) [(link)](https://observador.pt/liveblogs/irao-diz-que-nao-ha-desenvolvimentos-sobre-acordo-de-paz-com-os-eua/)
+
+### 💵 Economia
+- Entram em vigor na **União Europeia** novas regras para veículos em fim de vida, com alterações às obrigações de reciclagem. [UE aplica novas regras para veículos em fim de vida](link) [(link)](https://www.rtp.pt/noticias/economia/entram-em-vigor-as-novas-regras-para-os-veiculos-em-fim-de-vida-na-ue_n1759063)
+- O Parlamento brasileiro aprova a redução dos impostos federais sobre os combustíveis. [Parlamento brasileiro aprova redução dos impostos sobre os combustíveis](link) [(link)](https://www.rtp.pt/noticias/economia/parlamento-do-brasil-aprova-reducao-dos-impostos-federais-sobre-os-combustiveis_n1759160)
+- Os fundos da **UE** elevam a ajuda militar à Ucrânia ao nível mais alto desde o fim do apoio dos EUA. [Fundos da UE elevam ajuda militar à Ucrânia ao máximo desde o fim do apoio dos EUA](link) [(link)](https://www.noticiasaominuto.com/mundo/3035826/fundos-da-ue-elevaram-ajuda-militar-a-maximo-desde-fim-do-apoio-dos-eua)
+
+### ⚽ Desporto
+- **Fatumata Diallo** conquista a medalha de bronze nos **400 metros barreiras** dos Europeus de Atletismo. [Fatumata Diallo conquista bronze nos Europeus de Atletismo](link) [(link)](https://www.rtp.pt/noticias/desporto/europeus-de-atletismo-fatumata-diallo-conquista-bronze-nos-400-metros-barreiras_v1759180)
+- O **Benfica** defende frente ao Hearts uma vantagem de cinco golos na Liga Europa. [Benfica defende vantagem de cinco golos frente ao Hearts na Liga Europa](link) [(link)](https://www.rtp.pt/noticias/desporto/benfica-na-escocia-com-alteracoes-no-onze-e-o-mercado-em-fundo_v1759179)

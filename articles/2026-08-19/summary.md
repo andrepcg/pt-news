@@ -1,36 +1,36 @@
  ### 🗞️ Destaques
 
-- Os incêndios continuam a dominar a atualidade nacional, com **Arouca**, **Torre de Moncorvo** e **Boticas** entre as ocorrências mais preocupantes e quase **1.250 operacionais** mobilizados. [(link)](https://rr.pt/noticia/pais/2026/08/19/incendio-de-arouca-coloca-aldeias-em-confinamento/482346/?utm_medium=rss), [(link)](https://www.noticiasaominuto.com/pais/3038864/incendio-de-arouca-ja-consumiu-1300-hectares-aldeias-fora-de-perigo)
-- A tensão no Médio Oriente agrava-se, com ameaças iranianas contra alvos norte-americanos na Europa e novos ataques israelitas em Gaza e na Síria. [(link)](https://www.rtp.pt/noticias/mundo/irao-ameaca-atacar-alvos-norte-americanos-na-europa_v1760449), [(link)](https://www.publico.pt/2026/08/19/mundo/noticia/eua-criticam-ataque-israelita-grave-preocupante-base-siria-2185494)
-- A inflação acelera para **2,9%** na zona euro, **3%** na União Europeia e **3,1% em Portugal**, enquanto o cabaz alimentar atinge **253,55 euros**. [(link)](https://www.rtp.pt/noticias/economia/inflacao-acelera-para-29-na-zona-euro-e-3-na-ue-em-julho_n1760320), [(link)](https://observador.pt/2026/08/19/cabaz-alimentar-sobe-148-euros-na-ultima-semana-para-25355-euros/)
+- Os incêndios de **Arouca**, **Torre de Moncorvo** e **Boticas** continuam a mobilizar centenas de operacionais, com quatro bombeiros feridos em Arouca, três dos quais com gravidade. Incêndios em Arouca, Torre de Moncorvo e Santo Tirso mobilizam quase 1.250 operacionais [(link)](https://www.noticiasaominuto.com/pais/3038720/tres-grandes-fogos-continuam-a-mobilizar-mais-de-1200-operacionais), Quatro bombeiros feridos, três com gravidade, em despiste de viatura de combate em Arouca [(link)](https://www.rtp.pt/noticias/pais/quatro-bombeiros-feridos-em-despiste-de-carro-de-combate-em-arouca_v1760349)
+- **Donald Trump** prevê um acordo com o Canadá que permita suspender tarifas de **50%**, após avanços nas negociações comerciais. Trump prevê acordo com o Canadá para suspender tarifas de 50% [(link)](https://www.rtp.pt/noticias/mundo/trump-preve-acordo-com-canada-para-suspender-tarifas-muito-justo-para-ambos-paises_n1760468)
+- O Exército israelita admite ter disparado contra o carro onde morreu **Hind Rajab**, de cinco anos, e abre um inquérito criminal. Exército israelita admite disparos contra carro onde morreu Hind Rajab [(link)](https://rr.pt/noticia/mundo/2026/08/19/exercito-de-israel-admite-ter-disparado-contra-carro-onde-seguia-hind-rajab-menina-de-cinco-anos-morta-em-gaza/482365/)
 
 ### 🇵🇹 Portugal
 
-- Quatro bombeiros ficam feridos, três com gravidade, num despiste em **Arouca**, onde o incêndio já consumiu cerca de **1.300 hectares**; em Santo Tirso, o fogo entra em fase de resolução. [(link)](https://www.rtp.pt/noticias/pais/quatro-bombeiros-feridos-em-despiste-de-carro-de-combate-em-arouca_v1760349), [(link)](https://www.rtp.pt/noticias/pais/incendio-de-santo-tirso-em-fase-de-resolucao-apos-reacendimentos_v1760446)
-- Dois trabalhadores morrem na queda de uma grua em **Sintra**, numa obra que não tinha licença de ocupação da via pública; as autoridades investigam responsabilidades. [(link)](https://www.rtp.pt/noticias/pais/colapso-de-grua-em-belas-obra-onde-morreram-dois-trabalhadores-nao-tinha-licenca_n1760380)
-- A PJ e a polícia espanhola apreendem **3,35 toneladas de cocaína** e desmantelam uma rede que transportava droga para Portugal. [(link)](https://www.rtp.pt/noticias/pais/operacao-eclipsehawara-pj-apreende-tres-toneladas-de-cocaina-em-conjunto-com-espanha_n1760317)
-- O Garcia de Orta suspende as interrupções voluntárias da gravidez por falta de recursos, enquanto a IGAS aponta falhas no modelo de urgências obstétricas de Setúbal. [(link)](https://www.rtp.pt/noticias/pais/interrupcoes-voluntarias-da-gravidez-suspensas-no-garcia-de-orta_v1760362), [(link)](https://observador.pt/2026/08/19/igas-aponta-falhas-as-urgencias-de-obstetricia-em-setubal-e-diz-que-modelo-rotativo-agravou-situacao/)
-- Um surto de gastroenterite no Faial, associado a um vírus de elevada transmissibilidade, leva quase **500 pessoas** às urgências. [(link)](https://observador.pt/2026/08/19/virus-de-elevada-transmissibilidade-estara-na-origem-de-surto-de-gastroenterite-no-faial/)
+- O Hospital Garcia de Orta suspende temporariamente as interrupções voluntárias da gravidez por falta de recursos, levando o Livre a pedir uma audição parlamentar.
+- Uma operação luso-espanhola apreende **3,35 toneladas de cocaína** e desmantela uma rede que transportava droga para Portugal.
+- Dois trabalhadores morrem na queda de uma grua em Belas, Sintra, numa obra que não tinha licença de ocupação da via pública.
+- Um surto de gastroenterite no Faial, associado a um vírus de elevada transmissibilidade, leva quase **500 pessoas** às urgências.
+- A mãe de duas crianças encontradas sozinhas em Braga é constituída arguida, e os menores são entregues à Segurança Social.
 
 ### 🌍 Mundo
 
-- A Ucrânia e a Rússia trocam **103 prisioneiros de guerra** de cada lado, enquanto os ataques russos em Kherson provocam pelo menos cinco mortos. [(link)](https://observador.pt/2026/08/19/kiev-e-moscovo-trocam-103-prisioneiros-de-guerra-de-cada-lado/), [(link)](https://rr.pt/noticia/mundo/2026/08/19/ataques-russos-com-drones-matam-cinco-pessoas-em-kherson/482301/?utm_medium=rss)
-- O Irão ameaça atacar alvos norte-americanos na Europa, mas **Donald Trump** admite retomar negociações com Teerão. [(link)](https://www.rtp.pt/noticias/mundo/irao-ameaca-atacar-alvos-norte-americanos-na-europa_v1760449), [(link)](https://www.rtp.pt/noticias/mundo/trump-admite-que-em-algum-momento-negociacoes-sejam-retomadas-com-teerao_n1760433)
-- Um sismo na Colômbia provoca pelo menos **314 mortos** e mais de **4.000 feridos**. [(link)](https://www.rtp.pt/noticias/mundo/sobe-para-314-numero-de-mortos-no-sismo-na-colombia_n1760370)
-- A ONU condena declarações de um ministro israelita sobre Gaza, enquanto Israel admite disparos contra o carro onde morreu **Hind Rajab**, de cinco anos, e abre um inquérito criminal. [(link)](https://observador.pt/2026/08/19/guterres-condena-declaracoes-perigosas-de-ministro-israelita-ben-gvir-sobre-gaza/), [(link)](https://www.publico.pt/2026/08/19/mundo/noticia/335-balas-voz-cinco-anos-israel-admite-disparado-carro-hind-rajab-2185503)
-- A China realiza a primeira aterragem controlada de um foguetão em terra, enquanto a Unitree estreia robôs humanoides na bolsa de Xangai com uma valorização de **629%**. [(link)](https://www.publico.pt/2026/08/19/ciencia/noticia/china-consegue-primeira-aterragem-controlada-foguetao-terra-2185501), [(link)](https://www.rtp.pt/noticias/economia/fabricante-chinesa-de-robos-unitree-estreia-se-na-bolsa-de-xangai-a-ganhar-629_n1760263)
+- **Ucrânia e Rússia** trocam **103 prisioneiros de guerra** de cada lado, no contexto de uma nova escalada de ataques.
+- O Irão ameaça atacar alvos militares norte-americanos na Europa e adverte países do Golfo contra apoio aos Estados Unidos.
+- Um sismo na Colômbia provoca pelo menos **314 mortos** e mais de **4.000 feridos**.
+- A epidemia de Ébola na República Democrática do Congo ultrapassa **5.000 casos**, com uma propagação descrita como sem precedentes.
+- A ONU e vários países condenam declarações do ministro israelita **Itamar Ben-Gvir** sobre Gaza.
 
 ### 💵 Economia
 
-- O Estado paga um prémio de **17%** para voltar a deter **13,7% da REN**, operação avançada sem consulta prévia ao PS e ao Chega. [(link)](https://eco.sapo.pt/2026/08/19/estado-paga-premio-de-17-para-reentrar-na-ren/), [(link)](https://observador.pt/2026/08/19/montenegro-mantem-ps-e-chega-as-escuras-na-operacao-ren/)
-- Peritos defendem alterações às reformas antecipadas e alertam que o fator de sustentabilidade poderá cortar **41%** da pensão se as regras não mudarem; o Governo afasta uma reforma estrutural nesta legislatura. [(link)](https://eco.sapo.pt/2026/08/19/peritos-estimam-que-fator-de-sustentabilidade-pode-vir-a-cortar-41-da-pensao-se-regra-nao-mudar/), [(link)](https://www.cmjornal.pt/politica/detalhe/governo-diz-que-relatorio-sobre-seguranca-social-e-contributo-para-debate-e-afasta-reforma-estrutural)
-- As receitas turísticas crescem **4,2%** e atingem **12,9 mil milhões de euros** no primeiro semestre, enquanto o hotel Cascais Miragem confirma o despedimento de **177 trabalhadores**. [(link)](https://www.rtp.pt/noticias/economia/receitas-turisticas-sobem-42-para-quase-13000-me-no-1o-semestre_n1760435), [(link)](https://www.rtp.pt/noticias/economia/hotel-cascais-miragem-despede-mais-de-170-funcionarios_v1760448)
-- **Donald Trump** suspende por três dias novas tarifas ao Canadá e Washington e Ottawa negoceiam reduzir de **50% para 25%** as tarifas sobre aço e alumínio. [(link)](https://www.publico.pt/2026/08/19/mundo/noticia/trump-alcancou-acordo-canada-suspende-temporariamente-novas-tarifas-2185453), [(link)](https://eco.sapo.pt/2026/08/19/eua-e-canada-negoceiam-reducao-de-tarifas-de-50-para-25-no-aco-e-aluminio/)
-- O Brent ultrapassa **92 dólares por barril** devido à tensão com o Irão, enquanto a Fed admite subir os juros se a inflação não baixar. [(link)](https://www.rtp.pt/noticias/mundo/brent-sobe-15-e-ultrapassa-os-92-dolares-por-barril_n1760431), [(link)](https://observador.pt/2026/08/19/alguns-membros-da-reserva-federal-norte-americana-recomendam-subida-dos-juros-se-inflacao-nao-diminuir/)
+- A inflação acelera para **2,9%** na zona euro, **3%** na União Europeia e **3,1%** em Portugal em julho.
+- As receitas turísticas crescem **4,2%** para **12,9 mil milhões de euros** no primeiro semestre.
+- Peritos defendem alterações às regras das reformas antecipadas, enquanto o Governo afasta uma reforma estrutural da Segurança Social nesta legislatura.
+- O Estado paga um prémio de **17%** para voltar a deter **13,7%** da REN.
+- A dívida pública dos Estados Unidos ultrapassa pela primeira vez os **40 biliões de dólares**.
 
 ### ⚽ Desporto
 
-- **Rodrigo Mora** assina pela Roma e o FC Porto oficializa uma transferência de **25 milhões de euros por agora**. [(link)](https://observador.pt/2026/08/19/rodrigo-encontrou-as-chaves-do-seu-anagrama-e-ja-nao-mora-na-invicta-fc-porto-oficializa-acordo-com-a-roma-por-25-milhoes-por-agora/)
-- O Benfica contrata o defesa-central australiano **Alessandro Circati** ao Parma. [(link)](https://www.rtp.pt/noticias/benfica/benfica-contrata-central-australiano-alessandro-circati-ao-parma_d1760436)
-- O Sporting de Braga reforça-se com o avançado sérvio **Jovan Milosevic**, por **8 milhões de euros**. [(link)](https://www.rtp.pt/noticias/futebol-nacional/avancado-internacional-servio-jovan-milosevic-e-reforco-do-sporting-de-braga_d1760418)
-- **Nick Kyrgios** é suspenso após um teste positivo a cocaína, enquanto **Nuno Mendes** fica suspenso por três jogos em França. [(link)](https://rr.pt/bola-branca/noticia/modalidades/2026/08/19/tenista-nick-kyrgios-suspenso-depois-de-acusar-cocaina/482291/), [(link)](https://www.rtp.pt/noticias/futebol-internacional/nuno-mendes-suspenso-por-tres-jogos-apos-expulsao-na-supertaca-francesa_d1760461)
+- **Rodrigo Mora** assina pela Roma, e o FC Porto confirma uma transferência de **25 milhões de euros** inicialmente.
+- O Benfica contrata o defesa-central australiano **Alessandro Circati** até 2031.
+- **Diego Moreira** assina pelo AC Milan, treinado por **Rúben Amorim**, até 2031.
+- **Nick Kyrgios** é suspenso após um teste positivo a cocaína.

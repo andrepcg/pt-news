@@ -1,0 +1,33 @@
+ ### 🗞️ Destaques
+
+- **Incêndios em Arouca e Boticas** mobilizam mais de **900 operacionais**, com o fogo ativo em Boticas e Arouca reduzido a uma frente. **Incêndios em Arouca e Boticas mobilizam mais de 900 operacionais** [(link)](https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760516), [(link)](https://www.publico.pt/2026/08/20/sociedade/noticia/dois-incendios-mobilizam-900-bombeiros-2185541)
+- Uma ofensiva russa provoca mortos na região de Kiev e Moscovo inicia operações contra o último grande reduto ucraniano no Donbass. **Ofensiva russa deixa mortos na região de Kiev** [(link)](https://www.rtp.pt/noticias/mundo/bombardeamentos-russos-deixam-seis-mortos-na-regiao-de-kiev_n1760497), **Rússia inicia ofensiva contra o último grande reduto ucraniano do Donbass** [(link)](https://cnnportugal.iol.pt/guerra/ucrania/comecou-a-batalha-pelo-cinturao-de-fortalezas-comecou-a-ofensiva-russa-contra-o-ultimo-grande-reduto-do-donbass/20260820/6a7dea58d34e511da0b3333a)
+- O INEM não assegurou o nível de socorro adequado a mais de **26 mil doentes críticos** em 2025. **Mais de 26 mil doentes críticos não receberam nível de socorro adequado pelo INEM em 2025** [(link)](https://www.publico.pt/2026/08/20/sociedade/noticia/inem-26-mil-doentes-estado-critico-nao-nivel-socorro-adequado-2025-2185509)
+- **Donald Trump** anuncia uma “guerra económica” contra o Irão, sem outros detalhes no título disponibilizado. **Trump anuncia “guerra económica” inédita contra o Irão** [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-anuncia-guerra-economica-inedita-contra-teerao_n1760493)
+
+### 🇵🇹 Portugal
+
+- O Governo rejeita avançar já com uma reforma estrutural da **Segurança Social**, depois de ter mandado estudar medidas nesse sentido. **Governo rejeita avançar já com reforma estrutural da Segurança Social** [(link)](https://cnnportugal.iol.pt/seguranca-social/reforma-governo/governo-mandou-estudar-medidas-tendentes-a-reforma-da-seguranca-social-agora-diz-que-processo-esta-fechado-gasto-desnecessario-do-dinheiro-dos-contribuintes/20260820/6a85db5fd34e511da0b342f2)
+- Acidentes com motociclos provocam **52 mortos** no primeiro semestre. **Acidentes com motociclos provocaram 52 mortos no primeiro semestre** [(link)](https://www.rtp.pt/noticias/pais/mais-de-50-mortos-em-acidentes-com-motociclos-no-primeiro-semestre_n1760520)
+- Os acidentes de trabalho matam, em média, **três pessoas por semana** em Portugal. **Acidentes de trabalho matam três pessoas por semana em Portugal** [(link)](https://cnnportugal.iol.pt/trabalho/acidentes/morrem-tres-pessoas-por-semana-em-acidentes-de-trabalho/20260820/6a869da8d34ed0733ba80c1c)
+- O Governo altera as regras de acesso a medicamentos gratuitos para reduzir desperdício no SNS. **Governo altera regras de acesso a medicamentos gratuitos para reduzir desperdício** [(link)](https://www.publico.pt/2026/08/20/sociedade/noticia/governo-altera-regras-acesso-medicamentos-gratuitos-travar-fenomenos-desperdicio-2185416)
+
+### 🌍 Mundo
+
+- O Reino Unido e a Alemanha pressionam Israel para suspender novos colonatos a leste de Jerusalém. **Reino Unido e Alemanha pressionam Israel para suspender novos colonatos junto a Jerusalém** [(link)](https://www.rtp.pt/noticias/mundo/reino-unido-e-alemanha-querem-que-israel-suspenda-colonatos-a-leste-de-jerusalem_n1760503)
+- Um antigo ministro da Zâmbia morre durante uma rusga policial à oposição. **Antigo ministro da Zâmbia morre durante rusga à oposição** [(link)](https://www.rtp.pt/noticias/mundo/ex-ministro-da-zambia-morto-durante-rusga-policial-contra-a-oposicao_n1760494)
+- São encontrados restos mortais de pelo menos **23 pessoas** em três valas comuns no Kosovo. **Restos mortais de pelo menos 23 pessoas encontrados em valas comuns no Kosovo** [(link)](https://www.rtp.pt/noticias/mundo/restos-mortais-de-pelo-menos-23-pessoas-exumados-de-tres-valas-comuns-no-kosovo_n1760490)
+- **Ramos-Horta** defende uma parceria estratégica com a Austrália para reforçar a segurança marítima de Timor-Leste. **Ramos-Horta defende parceria estratégica com a Austrália para segurança marítima** [(link)](https://www.rtp.pt/noticias/economia/pr-timorense-defende-parceria-estrategica-com-a-australia-para-seguranca-maritima_n1760506)
+- As autocracias abrangem **74% da população mundial**, enquanto os EUA perdem o estatuto de democracia liberal, segundo a notícia baseada num estudo. **Autocracias já abrangem 74% da população mundial; EUA perdem estatuto de democracia liberal** [(link)](https://www.publico.pt/2026/08/20/politica/noticia/populacao-mundial-autocracias-sobe-74-eua-perdem-estatuto-democracia-liberal-2185478)
+
+### 💵 Economia
+
+- O fundador da Evergrande é condenado a prisão perpétua na China. **Fundador da Evergrande condenado a prisão perpétua na China** [(link)](https://www.rtp.pt/noticias/mundo/justica-da-china-condena-fundador-da-imobiliaria-evergrande-a-prisao-perpetua_n1760510)
+- Pequim ameaça retaliar contra a investigação comercial da União Europeia à JD.com. **China ameaça retaliar contra investigação comercial da UE à JD.com** [(link)](https://www.rtp.pt/noticias/economia/china-ameaca-retaliacao-por-investigacao-comercial-da-uniao-europeia-a-jdcom_n1760496)
+- A empresa Unitree prevê que os robôs humanoides atinjam um “momento ChatGPT” dentro de **dois a dez anos**. **Robôs humanoides poderão atingir um “momento ChatGPT” dentro de dois a dez anos** [(link)](https://www.rtp.pt/noticias/economia/robos-humanoides-devem-atingir-momento-chatgpt-em-dois-a-dez-anos-assegura-unitree_n1760508)
+
+### ⚽ Desporto
+
+- O **Benfica** recebe o Aarhus, da Dinamarca, em busca de vantagem no play-off da Liga Europa. **Benfica recebe Aarhus para ganhar vantagem no play-off da Liga Europa** [(link)](https://www.noticiasaominuto.com/desporto/3038678/benfica-aarhus-dinamarqueses-sao-ultimo-obstaculo-rumo-a-liga-europa)
+- O **Sp. Braga** defronta o Áustria Viena após uma semana marcada por infeções no plantel. **Sp. Braga recebe Áustria Viena após semana marcada por infeções no plantel** [(link)](https://www.noticiasaominuto.com/desporto/3038933/sporting-de-braga-recebe-austria-viena-apos-semana-dificil-no-plantel)
+- **Nuno Borges** é eliminado por Brandon Nakashima nos oitavos de final do torneio de Cincinnati. **Nuno Borges eliminado por Nakashima nos oitavos de final de Cincinnati** [(link)](https://observador.pt/2026/08/20/tenista-portugues-nuno-borges-perde-com-nakashima-nos-oitavos-de-cincinnati/)

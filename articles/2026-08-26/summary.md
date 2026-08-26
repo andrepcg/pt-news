@@ -1,31 +1,27 @@
  ### 🗞️ Destaques
-
-- **Portugal** regista **92 mortes por afogamento** até 31 de julho, o valor mais elevado dos últimos dez anos. [(link)](https://observador.pt/2026/08/26/morreram-92-pessoas-afogadas-ate-31-de-julho/), [(link)](https://www.rtp.pt/noticias/pais/morreram-92-pessoas-afogadas-ate-31-de-julho_n1761570)
-- Um incêndio num hospital de **Islamabad** provoca a morte de pelo menos **14 recém-nascidos**, embora outra fonte aponte para **15 vítimas**. [(link)](https://www.rtp.pt/noticias/mundo/incendio-mata-15-recem-nascidos-em-hospital-na-capital-do-paquistao_n1761560), [(link)](https://www.publico.pt/2026/08/26/mundo/noticia/morreram-14-recemnascidos-incendio-hospital-paquistao-2186114)
-- Quase **3.950 crianças** morreram ou ficaram feridas em quatro anos de guerra na **Ucrânia**, segundo os dados divulgados hoje. [(link)](https://www.rtp.pt/noticias/mundo/quase-3950-criancas-morreram-ou-ficaram-feridas-em-quatro-anos-de-guerra-na-ucrania_n1761575)
-- A guerra e a escassez de aviões deverão reduzir para metade os lucros das companhias aéreas. [(link)](https://www.rtp.pt/noticias/economia/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas_n1761549)
+- **Portugal** regista **92 mortes por afogamento** até 31 de julho, o valor mais elevado da última década. [Afogamentos em Portugal atingem máximo de dez anos: 92 mortos desde janeiro](link)(https://cnnportugal.iol.pt/afogamentos/rios/afogamentos-em-portugal-atingem-maximo-de-dez-anos-92-mortos-desde-janeiro/20260826/6a8e9e0ed34e511da0b3559b)
+- Um incêndio num hospital de Islamabad provoca a morte de **pelo menos 14 recém-nascidos**, embora alguns relatos apontem para **15 vítimas**. [Incêndio mata 15 recém-nascidos em hospital no Paquistão](link)(https://www.rtp.pt/noticias/mundo/incendio-mata-15-recem-nascidos-em-hospital-na-capital-do-paquistao_n1761560)
+- Os Estados Unidos suspendem pedidos de visto para reforçar o controlo da imigração, enquanto as detenções atingem **50 mil** em julho. [EUA suspendem pedidos de visto para reforçar controlo da imigração](link)(https://www.rtp.pt/noticias/mundo/estados-unidos-suspendem-pedidos-de-visto-a-imigrantes_n1761586)
 
 ### 🇵🇹 Portugal
-
-- Chuva forte, granizo e rajadas até **90 km/h** colocam **14 distritos** sob aviso amarelo. [(link)](https://www.noticiasaominuto.com/pais/3041520/lisboa-e-oeste-amanhecem-sob-chuva-e-trovoada-os-conselhos-e-imagens)
-- Ministério da Saúde, **INEM** e sindicato negoceiam uma possível greve em setembro. [(link)](https://www.publico.pt/2026/08/26/sociedade/noticia/ministerio-saude-inem-sindicato-reunemse-quartafeira-greve-setembro-agenda-2186120)
-- A **ONU** pede a retirada ou alteração dos projetos do PSD, Chega e CDS sobre identidade de género. [(link)](https://observador.pt/2026/08/26/onu-apela-a-retirada-de-projetos-do-psd-chega-e-cds-sobre-identidade-de-genero/)
-- Dois homens ficam em prisão preventiva por **35 furtos** em cinco concelhos de Aveiro e Viseu. [(link)](https://rr.pt/noticia/pais/2026/08/26/dois-homens-ficam-em-prisao-preventiva-apos-35-furtos-em-cinco-concelhos/483047/)
+- Chuva forte, granizo e trovoada colocam **14 distritos** sob aviso amarelo, com rajadas que podem atingir **90 km/h**. [Chuva forte, granizo e rajadas até 90 km/h colocam 14 distritos sob aviso amarelo](link)(https://cnnportugal.iol.pt/meteorologia/ipma/chuva-forte-granizo-e-rajadas-ate-90-km-h-14-distritos-sob-aviso-amarelo/20260826/6a8ea44fd34e511da0b355a3)
+- Ministério da Saúde, INEM e sindicato negoceiam uma solução para evitar a greve prevista para setembro. [Ministério da Saúde, INEM e sindicato tentam evitar greve em setembro](link)(https://www.publico.pt/2026/08/26/sociedade/noticia/ministerio-saude-inem-sindicato-reunemse-quartafeira-greve-setembro-agenda-2186120)
+- A ONU pede a retirada ou alteração dos projetos do PSD, Chega e CDS sobre identidade de género, mas o Chega recusa retirar a sua iniciativa. [Chega recusa retirar proposta sobre identidade de género após apelo da ONU](link)(https://www.noticiasaominuto.com/pais/3041551/chega-recusa-retirar-iniciativa-sobre-identidade-de-genero-apos-apelo-da-onu)
+- Um atropelamento em Albufeira causa **16 feridos**; o condutor estava alcoolizado e vai a tribunal. [Atropelamento em Albufeira deixa 16 feridos; condutor estava alcoolizado](link)(https://rr.pt/noticia/pais/2026/08/26/ja-tiveram-alta-os-14-feridos-ligeiros-de-atropelamento-em-albufeira-feridos-graves-continuam-internados/483054/)
+- A APAV apoiou mais de **1200 homens** vítimas de violência doméstica em 2025. [APAV apoiou mais de 1200 homens vítimas de violência doméstica em 2025](link)(https://observador.pt/2026/08/26/apav-apoiou-mais-de-1-200-homens-vitimas-de-violencia-domestica-em-2025-aumentam-em-137-os-casos-nos-ultimos-cinco-anos/)
 
 ### 🌍 Mundo
-
-- Um homem mata **oito familiares** durante um jantar no estado norte-americano de Montana. [(link)](https://www.publico.pt/2026/08/26/mundo/noticia/homem-mata-oito-pessoas-jantar-familia-montana-eua-2186117)
-- Mais de **1.400 pessoas** morrem no Haiti entre abril e junho, segundo a ONU. [(link)](https://www.noticiasaominuto.com/mundo/3041417/mais-de-1400-pessoas-mortas-no-haiti-entre-abril-e-junho-onu)
-- O Panamá declara o estado de emergência nacional devido ao fenómeno **El Niño**. [(link)](https://www.rtp.pt/noticias/mundo/panama-declara-estado-de-emergencia-nacional-devido-ao-fenomeno-el-nino_n1761552)
+- Quase **3950 crianças** morreram ou ficaram feridas na guerra da Ucrânia ao longo de quatro anos. [Quase 3950 crianças morreram ou ficaram feridas na guerra na Ucrânia](link)(https://observador.pt/2026/08/26/quase-3-950-criancas-morreram-ou-ficaram-feridas-em-quatro-anos-de-guerra-na-ucrania/)
+- A Rússia confirma a visita do diretor da CIA a Moscovo, enquanto uma refinaria russa é atingida por drones ucranianos e fica em chamas. [Rússia confirma visita do director da CIA a Moscovo](link)(https://www.publico.pt/2026/08/26/mundo/noticia/russia-confirma-visita-director-cia-moscovo-2186122), [Refinaria russa atacada por drones ucranianos fica em chamas](link)(https://observador.pt/liveblogs/refinaria-russa-em-chamas-apos-ataque-com-drones-ucranianos/)
+- O Panamá decreta o estado de emergência nacional e El Salvador eleva para alerta máximo a resposta à seca associada ao fenómeno **El Niño**. [Panamá declara estado de emergência devido ao fenómeno El Niño](link)(https://observador.pt/2026/08/26/panama-declara-estado-de-emergencia-nacional-devido-ao-fenomeno-el-nino/)
 
 ### 💵 Economia
-
-- O **Brent** recua **2,17%**, para **86,66 dólares por barril**, perante a possibilidade de reabertura do estreito de Ormuz. [(link)](https://www.rtp.pt/noticias/mundo/cotacao-do-brent-caiu-217-atingindo-os-8666-dolares-por-barril_n1761563)
-- O BCE admite que as taxas de juro poderão ter de subir novamente devido à inflação. [(link)](https://eco.sapo.pt/2026/08/26/taxas-de-juro-tem-de-subir-ainda-mais-alerta-schnabel-do-bce/)
-- O Canadá anuncia tarifas no valor de **20 mil milhões de dólares** sobre produtos norte-americanos. [(link)](https://www.rtp.pt/noticias/economia/canada-contra-ataca-eua-com-tarifas-no-aco-lacticinios-e-eletrodomesticos_v1761557)
-- A Autoeuropa deverá escapar à revisão global da Volkswagen. [(link)](https://www.noticiasaominuto.com/economia/3041478/volkswagen-esta-a-rever-tudo-mas-autoeuropa-devera-escapar-a-cortes)
+- Guerra e escassez de aviões deverão reduzir para metade os lucros das companhias aéreas. [Guerra e escassez de aviões reduzem para metade os lucros das companhias aéreas](link)(https://observador.pt/2026/08/26/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas/)
+- O BCE admite que as taxas de juro poderão subir novamente devido à inflação. [BCE admite novo aumento das taxas de juro devido à inflação](link)(https://eco.sapo.pt/2026/08/26/taxas-de-juro-tem-de-subir-ainda-mais-alerta-schnabel-do-bce/)
+- O Canadá anuncia tarifas no valor de **20 mil milhões de dólares** sobre produtos norte-americanos. [Canadá anuncia tarifas de 20 mil milhões de dólares sobre produtos dos EUA](link)(https://www.rtp.pt/noticias/economia/canada-contra-ataca-eua-com-tarifas-no-aco-lacticinios-e-eletrodomesticos_v1761557)
+- A Autoeuropa deverá escapar à revisão global da Volkswagen, segundo as informações divulgadas. [Autoeuropa deverá escapar à revisão global da Volkswagen](link)(https://www.noticiasaominuto.com/economia/3041478/volkswagen-esta-a-rever-tudo-mas-autoeuropa-devera-escapar-a-cortes)
 
 ### ⚽ Desporto
-
-- **Seko Fofana** regressa ao FC Porto por empréstimo. [(link)](https://rr.pt/bola-branca/noticia/porto/2026/08/26/seko-fofana-chega-a-portugal-para-ser-reforco-do-fc-porto/483048/)
-- **Palhinha** deverá ser apresentado pelo Benfica esta quarta-feira. [(link)](https://cnnportugal.iol.pt/videos/palhinha-apresentado-no-benfica-esta-quarta-feira/6a8ea77e0cf2f6a1a1e7541e)
+- **Seko Fofana** regressa ao FC Porto por empréstimo. [Seko Fofana regressa ao FC Porto por empréstimo](link)(https://rr.pt/bola-branca/noticia/porto/2026/08/26/seko-fofana-chega-a-portugal-para-ser-reforco-do-fc-porto/483048/)
+- **Palhinha** deverá ser apresentado pelo Benfica esta quarta-feira. [Palhinha deverá ser apresentado pelo Benfica esta quarta-feira](link)(https://cnnportugal.iol.pt/videos/palhinha-apresentado-no-benfica-esta-quarta-feira/6a8ea77e0cf2f6a1a1e7541e)
+- O presidente da European Leagues afirma que não há futuro para **Gianni Infantino** na FIFA. [Presidente da European Leagues diz que não há futuro para Infantino na FIFA](link)(https://rr.pt/bola-branca/noticia/futebol-internacional/2026/08/26/nao-ha-futuro-para-infantino-na-fifa-diz-presidente-da-european-leagues/483041/)

@@ -1,0 +1,26 @@
+ ### 🗞️ Destaques
+
+- Um incêndio num hospital de **Islamabad** mata pelo menos **14 recém-nascidos**, segundo várias fontes. *Incêndio mata 14 recém-nascidos em hospital de Islamabad* [(link)](https://www.rtp.pt/noticias/mundo/incendio-mata-14-recem-nascidos-em-hospital-na-capital-do-paquistao_n1761560) [(link)](https://www.publico.pt/2026/08/26/mundo/noticia/morreram-14-recemnascidos-incendio-hospital-paquistao-2186114)
+- **11 distritos** do continente ficam sob aviso amarelo devido a chuva forte e trovoada. *Chuva forte e trovoada colocam 11 distritos sob aviso amarelo* [(link)](https://observador.pt/2026/08/26/onze-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-e-trovoada-3/) [(link)](https://rr.pt/noticia/pais/2026/08/26/chuva-forte-e-trovoada-colocam-onze-distritos-sob-aviso-amarelo-esta-quarta-feira/483038/)
+- O Ministério da Saúde, o INEM e um sindicato negoceiam uma greve prevista para setembro. *Ministério da Saúde, INEM e sindicato negoceiam greve de setembro* [(link)](https://eco.sapo.pt/2026/08/26/ministerio-da-saude-inem-e-sindicato-reunem-se-hoje-com-greve-de-setembro-na-agenda/) [(link)](https://www.noticiasaominuto.com/pais/3041448/ministerio-inem-e-sindicato-reunem-se-com-greve-de-setembro-na-agenda)
+- Guerra e escassez de aviões deverão reduzir para metade os lucros das companhias aéreas. *Guerra e falta de aviões deverão reduzir para metade os lucros da aviação* [(link)](https://www.rtp.pt/noticias/economia/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas_n1761549) [(link)](https://eco.sapo.pt/2026/08/26/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas/)
+
+### 🇵🇹 Portugal
+
+- A ONU pede a retirada de projetos do **PSD, Chega e CDS** sobre identidade de género, alertando para riscos. *ONU pede retirada de projetos do PSD, Chega e CDS sobre identidade de género* [(link)](https://rr.pt/noticia/politica/2026/08/26/onu-quer-travar-projetos-do-psd-chega-e-cds-sobre-identidade-de-genero-e-alerta-para-riscos/483036/) [(link)](https://www.noticiasaominuto.com/pais/3041473/onu-apela-a-retirada-de-projetos-do-psd-chega-e-cds-sobre-identidade-de-genero)
+- O SNS poderá ultrapassar **um milhão de teleconsultas** em 2026. *SNS poderá ultrapassar um milhão de teleconsultas em 2026* [(link)](https://eco.sapo.pt/2026/08/26/sns-a-caminho-de-superar-um-milhao-de-teleconsultas-em-2026/)
+- A fábrica da **Autoeuropa** deverá escapar à revisão global da Volkswagen. *Autoeuropa deverá escapar à revisão global da Volkswagen* [(link)](https://www.noticiasaominuto.com/economia/3041478/volkswagen-esta-a-rever-tudo-mas-autoeuropa-devera-escapar-a-cortes)
+
+### 🌍 Mundo
+
+- Uma operação nos Estados Unidos resgata mais de **160 crianças** de redes criminosas ligadas a abusos. *Mais de 160 crianças resgatadas de redes criminosas nos EUA* [(link)](https://www.rtp.pt/noticias/noticiario-antena1/7h-cerca-de-160-criancas-resgatadas-de-redes-criminosas_a1_1761562) [(link)](https://www.noticiasaominuto.com/mundo/3041418/mais-de-160-criancas-resgatadas-em-operacao-nos-eua-contra-abusos-incluindo-no-brasil)
+- Mais de **1.400 pessoas** morrem no Haiti entre abril e junho, segundo a ONU. *Mais de 1.400 pessoas morreram no Haiti entre abril e junho* [(link)](https://www.noticiasaominuto.com/mundo/3041417/mais-de-1400-pessoas-mortas-no-haiti-entre-abril-e-junho-onu)
+- O Panamá declara emergência nacional devido ao fenómeno **El Niño**, enquanto El Salvador decreta alerta máxima pela seca. *Panamá declara emergência nacional devido ao fenómeno El Niño* [(link)](https://www.rtp.pt/noticias/mundo/panama-declara-estado-de-emergencia-nacional-devido-ao-fenomeno-el-nino_n1761552) *El Salvador decreta alerta máxima devido à seca associada ao El Niño* [(link)](https://observador.pt/2026/08/26/el-salvador-em-alerta-maximo-devido-a-seca-associada-ao-fenomeno-el-nino/)
+- As detenções da polícia de imigração norte-americana atingem o recorde de **50 mil** em julho. *Detenções da polícia de imigração dos EUA atingem recorde de 50 mil em julho* [(link)](https://www.noticiasaominuto.com/mundo/3041414/eua-policia-de-imigracao-dos-eua-atinge-recorde-de-50000-detencoes-em-julho)
+- **Seul** mobiliza caças após alegada entrada de aeronaves militares russas na sua zona de defesa. *Seul mobiliza caças após entrada de aeronaves russas na zona de defesa* [(link)](https://www.rtp.pt/noticias/mundo/seul-diz-que-aeronaves-militares-russas-entraram-em-zona-de-defesa-sul-coreana_n1761548)
+
+### 💵 Economia
+
+- O **Canadá** anuncia tarifas no valor de **20 mil milhões de dólares** sobre produtos dos Estados Unidos. *Canadá anuncia tarifas de 20 mil milhões de dólares sobre produtos dos EUA* [(link)](https://www.rtp.pt/noticias/economia/canada-contra-ataca-eua-com-tarifas-no-aco-lacticinios-eletrodomesticos_v1761557)
+- Um sismo poderá retirar **0,27 pontos percentuais** ao crescimento do PIB da Colômbia. *Sismo na Colômbia poderá retirar 0,27 pontos percentuais ao crescimento do PIB* [(link)](https://observador.pt/2026/08/26/sismo-pode-cortar-o-crescimento-do-pib-da-colombia-em-027-pontos-percentuais/)
+- Uma refinaria russa fica em chamas após um ataque com drones ucranianos. *Refinaria russa atacada por drones ucranianos fica em chamas* [(link)](https://observador.pt/liveblogs/refinaria-russa-em-chamas-apos-ataque-com-drones-ucranianos/)

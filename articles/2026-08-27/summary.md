@@ -1,32 +1,33 @@
  ### 🗞️ Destaques
 
-- As enxurradas no **Nepal e no Tibete** provocam pelo menos **168 mortos** e deixam mais de **1.300 desaparecidos**, entre os quais dois portugueses. *Enxurradas no Nepal e no Tibete deixam mais de 1.300 desaparecidos e pelo menos 168 mortos* [(link)](https://observador.pt/liveblogs/mais-de-165-mortos-confirmados-em-enxurrada-no-nepal-2-portugueses-entre-os-1300-desaparecidos/) [(link)](https://www.rtp.pt/noticias/mundo/mais-de-1300-desaparecidos-no-nepal-e-tibete-apos-enxurradas_n1761787)
-- A tensão no **estreito de Ormuz** aumenta depois de um petroleiro ser atingido por um projétil de origem desconhecida, enquanto o Irão bloqueia inspeções da ONU às instalações nucleares danificadas. *Petroleiro é atingido por projétil desconhecido no estreito de Ormuz* [(link)](https://www.rtp.pt/noticias/mundo/petroleiro-atingido-no-estreito-de-ormuz-por-projetil-desconhecido_n1761784) *Irão bloqueia inspeções da ONU às instalações nucleares danificadas* [(link)](https://www.rtp.pt/noticias/mundo/impasse-nuclear-teerao-bloqueia-inspecoes-da-onu_v1761797)
+- Enxurradas no **Nepal e Tibete** provocam pelo menos **168 mortos** e deixam mais de **1.300 desaparecidos**, incluindo **dois portugueses**. [(link)](https://www.publico.pt/2026/08/27/mundo/noticia/cheias-nepal-168-mortos-dois-portugueses-1300-desaparecidos-2186228)
+- **Porto, Aveiro, Coimbra e Braga** estão sob aviso laranja devido a chuva forte, granizo e trovoada. [(link)](https://www.publico.pt/2026/08/27/sociedade/noticia/porto-aveiro-coimbra-braga-aviso-laranja-devido-chuva-forte-2186230)
+- A tensão no **Médio Oriente** mantém o estreito de **Ormuz** paralisado há seis meses, enquanto um petroleiro é atingido por um projétil de origem desconhecida. [(link)](https://observador.pt/2026/08/27/petroleiro-atingido-no-estreito-de-ormuz-por-projetil-desconhecido/)
 
 ### 🇵🇹 Portugal
 
-- Quatro distritos do Norte e do Centro estão sob aviso laranja devido a chuva forte, granizo e trovoada, enquanto outros distritos permanecem sob aviso amarelo. *Quatro distritos do Norte e Centro sob aviso laranja devido a chuva forte e granizo* [(link)](https://www.rtp.pt/noticias/pais/quatro-distritos-do-norte-sob-aviso-laranja-devido-a-chuva-forte_n1761773) [(link)](https://www.ipma.pt/)
-- Técnicos superiores das escolas são chamados a devolver milhares de euros e perdem pontos na progressão da carreira. *Técnicos superiores das escolas são chamados a devolver milhares de euros* [(link)](https://eco.sapo.pt/2026/08/27/tecnicos-superiores-das-escolas-chamados-a-devolver-milhares-de-euros/)
+- Técnicos superiores das escolas são chamados a devolver milhares de euros e perdem pontos na progressão da carreira. [(link)](https://eco.sapo.pt/2026/08/27/tecnicos-superiores-das-escolas-chamados-a-devolver-milhares-de-euros/)
+- A Segurança Social deteta **159 milhões de euros** em apoios indevidos no último ano e meio. [(link)](https://www.noticiasaominuto.com/economia/3042062/seguranca-social-detetou-159-milhoes-em-apoios-indevidos-no-ultimo-ano)
+- **António Costa** alerta os líderes europeus durante as negociações do próximo orçamento da União Europeia. [(link)](https://www.rtp.pt/noticias/economia/orcamento-ue-antonio-costa-lanca-alerta-aos-27_v1761796)
 
 ### 🌍 Mundo
 
-- Incêndios florestais no nordeste da **Argélia** causam pelo menos **12 mortos**. *Incêndios florestais matam pelo menos 12 pessoas no nordeste da Argélia* [(link)](https://observador.pt/2026/08/27/incendios-florestais-causam-pelo-menos-12-mortos-no-nordeste-da-argelia/)
-- A **CIA** avisa a **Rússia** contra uma escalada de tensão nos países bálticos, num contexto de preocupação europeia com a **NATO**. *CIA avisa Rússia para não escalar tensão nos países bálticos* [(link)](https://www.rtp.pt/noticias/mundo/visita-da-cia-a-moscovo-reflete-receios-europeus-com-a-nato_v1761798)
-- A Ucrânia enfrenta novos ataques russos, enquanto drones pressionam a defesa antiaérea de Moscovo. *Ucrânia enfrenta ataques russos enquanto drones pressionam defesa antiaérea de Moscovo* [(link)](https://cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/incendio-de-grandes-dimensoes-deflagra-em-armazens-perto-de-kiev-apos-ataque-russo)
-- O tufão **Saudel** aproxima-se do leste da **China**, depois da passagem do **Narra** pelo sul do país. *Tufão Saudel aproxima-se do leste da China após passagem do Narra* [(link)](https://observador.pt/2026/08/27/tufao-saudel-aproxima-se-do-leste-da-china-apos-passagem-do-narra-pelo-sul/)
-- **China e Índia** acordam novos mecanismos para tentar resolver a disputa fronteiriça. *China e Índia reforçam mecanismos para resolver disputa fronteiriça* [(link)](https://www.rtp.pt/noticias/mundo/china-e-india-acordam-novos-mecanismos-para-tentar-resolver-disputa-fronteirica_n1761776)
+- Incêndios florestais no nordeste da **Argélia** causam pelo menos **12 mortos**. [(link)](https://www.rtp.pt/noticias/mundo/incendios-florestais-causam-pelo-menos-12-mortos-no-nordeste-da-argelia_n1761772)
+- O **Irão** bloqueia as inspeções da ONU às instalações nucleares danificadas. [(link)](https://www.rtp.pt/noticias/mundo/impasse-nuclear-teerao-bloqueia-inspecoes-da-onu_v1761797)
+- A CIA avisa a **Rússia** para não escalar a tensão nos países bálticos, enquanto prosseguem os ataques na guerra na Ucrânia. [(link)](https://www.rtp.pt/noticias/mundo/visita-da-cia-a-moscovo-reflete-receios-europeus-com-a-nato_v1761798)
+- A **China e a Índia** criam novos grupos de trabalho para tentar resolver a disputa fronteiriça. [(link)](https://observador.pt/2026/08/27/china-e-india-acordam-novos-mecanismos-para-tentar-resolver-disputa-fronteirica/)
 
 ### 💵 Economia
 
-- **Trump** declara emergência nacional na rede elétrica dos **EUA** para limitar a utilização de equipamentos chineses. *Trump declara emergência nacional na rede elétrica dos EUA para limitar equipamentos chineses* [(link)](https://eco.sapo.pt/2026/08/27/trump-declara-emergencia-nacional-na-rede-eletrica-para-evitar-equipamentos-chineses/)
-- Os **Certificados de Aforro** regressam à taxa máxima. *Certificados de Aforro regressam à taxa máxima* [(link)](https://www.cmjornal.pt/economia/detalhe/certificados-de-aforro-voltam-a-taxa-maxima)
-- **Mercosul e Vietname** iniciam negociações para um acordo comercial. *Mercosul e Vietname iniciam negociações para acordo comercial* [(link)](https://www.rtp.pt/noticias/economia/mercosul-e-vietname-iniciam-negociacoes-para-acordo-comercial_n1761775)
-- Os lucros das empresas industriais chinesas aumentam **17,6%** até julho. *Lucros das empresas industriais chinesas sobem 17,6% até julho* [(link)](https://www.rtp.pt/noticias/economia/lucros-das-empresas-industriais-chinesas-sobem-176-ate-julho_n1761781)
+- Os **Certificados de Aforro** regressam à taxa máxima. [(link)](https://www.cmjornal.pt/economia/detalhe/certificados-de-aforro-voltam-a-taxa-maxima)
+- Cada contribuinte paga mais **3.063 euros** em impostos do que há dez anos. [(link)](https://cnnportugal.iol.pt/impostos/carga-fiscal/cada-contribuinte-paga-mais-3-063-euros-em-impostos-do-que-ha-10-anos/20260827/6a8fd8e3d34ed0733ba82091)
+- O **Mercosul e o Vietname** iniciam negociações para um acordo comercial. [(link)](https://www.rtp.pt/noticias/economia/mercosul-e-vietname-iniciam-negociacoes-para-acordo-comercial_n1761775)
 
 ### ⚽ Desporto
 
-- **Benfica** e **Sporting de Braga** defendem vantagens no acesso às respetivas provas europeias. *Benfica e Sporting de Braga defendem vantagens no acesso às provas europeias* [(link)](https://www.publico.pt/2026/08/27/desporto/noticia/tranquilos-descansados-nao-garantidos-benfica-sp-braga-passo-europa-2186208)
+- O **Benfica** defende uma vantagem de dois golos frente ao Aarhus para chegar à fase de liga da Liga Europa. [(link)](https://www.rtp.pt/noticias/futebol-internacional/benfica-defende-dois-golos-de-avanco-no-reduto-do-aarhus_d1761804)
+- O **Sporting de Braga** procura confirmar em Viena o apuramento para a fase de liga da Liga Conferência; **FC Porto** e **Sporting** conhecem os adversários na Liga dos Campeões. [(link)](https://observador.pt/2026/08/27/sporting-de-braga-em-vantagem-para-carimbar-fase-de-liga-em-viena/), [(link)](https://www.rtp.pt/noticias/sporting/fc-porto-e-sporting-conhecem-oito-adversarios-na-fase-de-liga_d1761806)
 
-### 🎨 Cultura
+### 🎭 Cultura
 
-- A artista japonesa **Yayoi Kusama**, conhecida como a “Rainha das Bolinhas”, morre aos **97 anos**. *Yayoi Kusama, a “Rainha das Bolinhas”, morre aos 97 anos* [(link)](https://observador.pt/2026/08/27/artista-japonesa-yayoi-kusama-morre-aos-97-anos/)
+- **Yayoi Kusama**, artista japonesa conhecida pelas instalações imersivas e pelas “bolinhas”, morre aos **97 anos**. [(link)](https://www.publico.pt/2026/08/27/culturaipsilon/noticia/artista-japonesa-yayoi-kusama-morre-97-anos-2186229)

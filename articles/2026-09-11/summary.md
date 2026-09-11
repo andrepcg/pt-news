@@ -1,31 +1,24 @@
  ### 🗞️ Destaques
-
-- **Portugal** assinala os **25 anos dos atentados de 11 de Setembro**, com homenagens às vítimas e destaque para a democracia e as alianças transatlânticas. [(link)](https://www.rtp.pt/noticias/mundo/as-nossas-democracias-resistiram-as-nossas-sociedades-permaneceram-livres-costa-e-von-der-leyen-assinalam-legado-dos-atentados-do-11-de-setembro_n1764794)
-- O ano letivo começa com cerca de **2.700 horários de professores por preencher** e restrições ao uso de smartphones até ao **9.º ano**. [(link)](https://www.rtp.pt/noticias/pais/aulas-comecam-com-falta-de-professores-e-proibicao-de-smartphones-ate-ao-9o-ano_n1764753)
-- A União Europeia aprova **6,1 mil milhões de euros** para reforçar a defesa aérea e a guerra eletrónica da Ucrânia. [(link)](https://www.noticiasaominuto.com/mundo/3049869/ucrania-ue-aprova-verba-de-6-1-mil-me-para-a-defesa-aerea-e-guerra-eletronica)
+- As cerimónias dos **25 anos do 11 de Setembro** recordam as vítimas e o impacto dos atentados nas democracias e nas alianças internacionais. [25 anos do 11 de Setembro: homenagens recordam vítimas e impacto global dos atentados](https://www.rtp.pt/noticias/mundo/queda-das-torres-gemeas-foi-ha-25-anos_v1764841)
+- O arranque do ano letivo é marcado por cerca de **2.700 horários de professores por preencher**, pela proibição de smartphones até ao 9.º ano e por protestos contra o Governo. [Aulas começam com cerca de 2700 horários de professores por preencher](https://www.cmjornal.pt/cmtv/videos/detalhe/20260911-153929-aulas-comecam-com-falta-de-professores-e-proibicao-de-smartphones-ate-ao-9-ano)
+- A escalada no Médio Oriente mantém o petróleo acima dos **100 dólares**, enquanto persistem riscos para a navegação no estreito de Ormuz. [Tensões no Médio Oriente ameaçam navegação em Ormuz e fazem disparar o petróleo](https://www.publico.pt/2026/09/11/mundo/noticia/passagens-navios-ormuz-voltam-diminuir-trump-tera-recusado-atacar-houthis-2187706)
 
 ### 🇵🇹 Portugal
-
-- A greve dos técnicos do **INEM**, prevista para 14 e 28 de setembro, é desconvocada após um acordo com o Governo. [(link)](https://www.rtp.pt/noticias/pais/desconvocada-greve-do-inem_v1764835)
-- O julgamento de dois polícias da esquadra do **Rato**, acusados de tortura e violação, decorre à porta fechada. [(link)](https://www.rtp.pt/noticias/pais/julgamento-dos-dois-policias-acusados-de-tortura-vai-decorrer-a-porta-fechada_n1764787)
-- Um naufrágio ao largo de **Sesimbra** deixa uma pessoa desaparecida e seis resgatadas. [(link)](https://www.rtp.pt/noticias/pais/seis-pescadores-resgatados-e-um-desaparecido-em-naufragio-em-sesimbra_n1764819)
-- Um incêndio em **Mértola** mobiliza **115 operacionais** e **oito meios aéreos**. [(link)](https://rr.pt/noticia/pais/2026/09/11/incendios-fogo-em-mertola-mobiliza-115-operacionais-e-oito-meios-aereos/485086/)
+- A greve dos técnicos do **INEM** é desconvocada após um acordo com o Governo para melhorar a resposta de emergência médica. [Greve dos técnicos do INEM desconvocada após acordo com o Governo](https://www.rtp.pt/noticias/pais/desconvocada-greve-do-inem_v1764835)
+- O julgamento de dois polícias da esquadra do Rato, acusados de tortura e violação, decorre à porta fechada. [Julgamento dos polícias do Rato começa com acusações de tortura](https://www.cmjornal.pt/cmtv/videos/detalhe/comecou-hoje-o-julgamento-dos-policias-da-esquadra-do-rato-acusados-de-tortura)
+- Um naufrágio ao largo de **Sesimbra** deixa uma pessoa desaparecida e seis resgatadas. [Naufrágio ao largo de Sesimbra deixa um desaparecido e seis pessoas resgatadas](https://observador.pt/2026/09/11/naufragio-em-sesimbra-uma-pessoa-desaparecida-e-seis-resgatadas-com-sinais-de-hipotermia/)
+- Um incêndio em **Mértola** mobiliza **115 operacionais** e **oito meios aéreos**, num dia em que nove concelhos permanecem em perigo máximo de incêndio rural. [Incêndio em Mértola mobiliza 115 operacionais e oito meios aéreos](https://observador.pt/2026/09/11/incendio-em-mertola-mobiliza-115-operacionais-e-oito-meios-aereos/)
 
 ### 🌍 Mundo
-
-- Os ataques do 11 de Setembro são recordados em Nova Iorque e por líderes europeus **25 anos** depois, com homenagens às vítimas. [(link)](https://www.rtp.pt/noticias/mundo/queda-das-torres-gemeas-foi-ha-25-anos_v1764841)
-- Um incêndio num ferry nas **Filipinas** provoca cinco mortos e deixa **84 pessoas desaparecidas**. [(link)](https://www.rtp.pt/noticias/mundo/socorristas-aguardam-entrada-em-embarcacao-ardida-nas-filipinas-com-84-desaparecidos_n1764750)
-- As tensões no Médio Oriente ameaçam a navegação no estreito de **Ormuz**, enquanto o petróleo supera os **100 dólares**. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-e-arabia-saudita-discutem-o-conflito-no-iemen_n1764782)
-- A epidemia de ébola alastra à sétima província da República Democrática do Congo. [(link)](https://observador.pt/2026/09/11/ebola-epidemia-alastra-se-a-uma-setima-provincia-na-republica-democratica-do-congo/)
+- A União Europeia aprova **6,1 mil milhões de euros** para reforçar a defesa aérea e a guerra eletrónica da Ucrânia, enquanto novos ataques provocam mortes em Kiev e na Rússia. [UE aprova 6,1 mil milhões de euros para defesa aérea e guerra eletrónica da Ucrânia](https://www.noticiasaominuto.com/mundo/3049869/ucrania-ue-aprova-verba-de-6-1-mil-me-para-a-defesa-aerea-e-guerra-eletronica)
+- Um incêndio num navio nas Filipinas provoca pelo menos cinco mortos e leva à recuperação de mais **30 corpos**, mantendo-se desaparecidas dezenas de pessoas. [Resgatados mais 30 corpos de navio incendiado nas Filipinas](https://www.rtp.pt/noticias/mundo/autoridades-filipinas-recuperam-mais-30-corpos-de-navio-incendiado_n1764856)
+- A epidemia de ébola alastra à sétima província da República Democrática do Congo. [Epidemia de ébola alastra à sétima província da República Democrática do Congo](https://observador.pt/2026/09/11/ebola-epidemia-alastra-se-a-uma-setima-provincia-na-republica-democratica-do-congo/)
 
 ### 💵 Economia
-
-- As taxas **Euribor** sobem para máximos desde 2024, aumentando a pressão sobre as prestações do crédito à habitação. [(link)](https://www.rtp.pt/noticias/economia/taxas-euribor-sobem-a-6-e-12-meses-para-novos-maximos-desde-novembro-e-agosto-de-2024_n1764808)
-- O estudo coordenado por **Passos Coelho** aponta a baixa produtividade como principal travão ao crescimento da economia portuguesa. [(link)](https://www.rtp.pt/noticias/economia/estudo-coordenado-por-passos-coelho-conclui-que-baixa-produtividade-trava-economia_n1764757)
-- O gasóleo deverá subir e a gasolina descer na próxima semana. [(link)](https://www.rtp.pt/noticias/economia/litro-de-gasoleo-deve-subir-4-centimos-e-gasolina-descer-6-na-proxima-semana_n1764809)
+- As taxas **Euribor** sobem para máximos de 2024, aumentando a pressão sobre as prestações do crédito à habitação. [Taxas Euribor sobem a 6 e 12 meses para novos máximos desde novembro e agosto de 2024](https://www.rtp.pt/noticias/economia/taxas-euribor-sobem-a-6-e-12-meses-para-novos-maximos-desde-novembro-e-agosto-de-2024_n1764808)
+- O gasóleo deverá subir e a gasolina descer na próxima semana, enquanto os revendedores exigem uma redução da carga fiscal sobre os combustíveis. [Combustíveis: gasóleo deverá subir e gasolina descer na próxima semana](https://rr.pt/noticia/economia/2026/09/11/precos-dos-combustiveis-gasoleo-sobe-gasolina-desce-para-a-semana/485080/)
+- O Estado compra **13,7% da REN** e admite aumentar a participação até aos **20%**. [Estado compra 13,7% da REN e admite aumentar participação para 20%](https://www.noticiasaominuto.com/economia/3050161/compra-de-13-7-na-ren-e-primeira-fase-para-estado-deter-ate-20)
 
 ### ⚽ Desporto
-
-- **Eddie Dunbar** vence a 19.ª etapa da Vuelta e **Enric Mas** mantém a liderança. [(link)](https://www.rtp.pt/noticias/outras-modalidades/eddie-dunbar-vence-19a-etapa-e-enric-mas-continua-a-liderar_d1764867)
-- Portugal perde com a Espanha e falha as meias-finais da Liga Europeia de futebol de praia. [(link)](https://www.rtp.pt/noticias/selecao-nacional/portugal-perde-com-espanha-e-falha-meias-da-liga-europeia-de-futebol-de-praia_d1764880)
-- **Aryna Sabalenka** e **Elena Rybakina** apuram-se para a final feminina do US Open. [(link)](https://www.rtp.pt/noticias/outras-modalidades/sabalenka-na-final-do-us-open_d1764791), [(link)](https://www.rtp.pt/noticias/outras-modalidades/rybakina-no-jogo-do-titulo-do-us-open_d1764792)
+- **Eddie Dunbar** vence a 19.ª etapa da Vuelta e **Enric Mas** mantém a liderança. [Eddie Dunbar vence a 19.ª etapa da Vuelta; Enric Mas mantém liderança](https://www.rtp.pt/noticias/outras-modalidades/eddie-dunbar-vence-19a-etapa-e-enric-mas-continua-a-liderar_d1764867)
+- Portugal perde com a Bulgária no Europeu de voleibol. [Portugal perde com a Bulgária no Europeu de voleibol](https://www.rtp.pt/noticias/outras-modalidades/portugal-derrotado-pela-anfitria-bulgaria-no-europeu-de-voleibol_d1764891)

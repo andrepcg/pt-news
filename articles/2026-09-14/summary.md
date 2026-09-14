@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- Um ataque a um oleoduto na Arábia Saudita faz disparar o preço do petróleo e aumenta a pressão sobre os mercados. *Ataque a oleoduto saudita faz disparar preço do petróleo* [(link)](https://www.rtp.pt/noticias/economia/preco-do-petroleo-inicia-semana-com-subida-acentuada_n1765212)
+- O Tribunal Constitucional analisa o pedido de extinção do **Chega**, com uma juíza a considerar “muito difícil” proibir um partido por ser classificado como fascista. *Tribunal Constitucional analisa pedido de extinção do Chega* [(link)](https://www.rtp.pt/noticias/pais/e-muito-dificil-proibir-um-partido-e-dizer-que-e-fascista-assumiu-juiza-do-tc_n1765231)
+- A Indonésia retoma as buscas após um naufrágio que deixa **129 pessoas desaparecidas**. *Naufrágio na Indonésia deixa 129 pessoas desaparecidas* [(link)](https://www.rtp.pt/noticias/mundo/indonesia-retoma-buscas-apos-naufragio-que-deixou-129-desaparecidos_n1765230)
+
+### 🇵🇹 Portugal
+- **Mais de 50 concelhos** estão em perigo máximo de incêndio, enquanto **15 distritos** do continente e a Madeira permanecem sob aviso amarelo devido ao calor. *Mais de 50 concelhos estão em perigo máximo de incêndio* [(link)](https://www.noticiasaominuto.com/pais/3050869/incendios-mais-de-50-concelhos-de-sete-distritos-em-perigo-maximo) *Calor coloca 15 distritos e a Madeira sob aviso amarelo* [(link)](https://observador.pt/2026/09/14/quinze-distritos-do-continente-e-madeira-sob-aviso-amarelo-devido-ao-calor/)
+- A reforma do Tribunal de Contas expõe divergências entre o Governo, a oposição e o próprio tribunal durante as audições parlamentares. *Reforma do Tribunal de Contas divide Governo e oposição* [(link)](https://www.publico.pt/2026/09/14/politica/noticia/vazio-legal-lei-bem-audicoes-reforma-tdc-realcam-divergencias-2187571)
+- O Estado é condenado a indemnizar trabalhadores despedidos pela TAP em **1993**. *Estado condenado a indemnizar trabalhadores despedidos pela TAP em 1993* [(link)](https://eco.sapo.pt/2026/09/14/estado-condenado-a-indemnizar-trabalhadores-despedidos-pela-tap-em-1993/)
+- O PS propõe uma licença parental de **150 dias paga a 100%**, que poderá chegar aos 180 dias quando partilhada. *PS propõe licença parental de 150 dias paga a 100%* [(link)](https://www.publico.pt/2026/09/14/politica/noticia/ps-propoe-licenca-parental-150-dias-100-ir-ate-180-partilhada-2187906)
+
+### 🌍 Mundo
+- O primeiro-ministro polaco, **Donald Tusk**, alerta que a escalada russa está cada vez mais próxima das fronteiras europeias. *Tusk alerta para uma escalada russa cada vez mais próxima das fronteiras europeias* [(link)](https://observador.pt/liveblogs/donald-tusk-alerta-que-a-escalada-russa-esta-a-aproximar-se-cada-vez-mais-das-nossas-fronteiras/)
+- As eleições na Suécia dão uma vantagem mínima à centro-esquerda, com os sociais-democratas disponíveis para coligações. *Eleições na Suécia dão vantagem mínima à centro-esquerda* [(link)](https://www.rtp.pt/noticias/mundo/eleicoes-na-suecia-centro-esquerda-em-vantagem_v1765236)
+- A Coreia do Norte confirma o lançamento de mísseis balísticos num exercício de ataque. *Coreia do Norte confirma lançamento de mísseis balísticos* [(link)](https://www.rtp.pt/noticias/mundo/coreia-do-norte-confirma-lancamento-de-misseis-balisticos-em-exercicio-de-ataque_n1765232)
+- **Donald Trump** desvaloriza as alegações de que a China terá fornecido informações ao Irão. *Trump desvaloriza alegado fornecimento chinês de informações ao Irão* [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-desvaloriza-alegado-fornecimento-de-informacoes-chinesas-ao-irao_n1765226)
+
+### 💵 Economia
+- Uma empresa chinesa de inteligência artificial pretende captar mais de **4,3 mil milhões de euros** através da venda de ações e obrigações. *Empresa chinesa de inteligência artificial quer captar 4,3 mil milhões de euros* [(link)](https://www.rtp.pt/noticias/economia/empresa-chinesa-zai-vai-captar-mais-de-4300-me-com-venda-de-acoes-e-obrigacoes_n1765227)
+- A TAP vende por **um euro** a participação no negócio de handling à Menzies. *TAP vende participação no handling à Menzies por um euro* [(link)](https://eco.sapo.pt/2026/09/14/tap-vendeu-por-um-euro-participacao-no-handling-a-menzies/)
+
+### ⚽ Desporto
+- O Sporting deixa escapar a vitória frente ao Famalicão com um autogolo aos **90 minutos** e empata o encontro. *Sporting deixa escapar vitória frente ao Famalicão com autogolo aos 90 minutos* [(link)](https://www.rtp.pt/noticias/desporto/i-liga-autogolo-infeliz-aos-90-dita-empate-do-sporting-em-famalicao_v1765235)

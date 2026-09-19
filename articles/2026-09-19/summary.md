@@ -1,0 +1,24 @@
+ ### 🗞️ Destaques
+
+- Um ataque contra um quartel-general da polícia no Paquistão provoca **31 mortos**. [Ataque no Paquistão](https://www.noticiasaominuto.com/mundo/3054047/ataque-a-quartel-general-da-pol%C3%ADcia-no-paquistao-causa-31-mortos), [CM](https://www.cmjornal.pt/mundo/detalhe/ataque-a-quartel-general-da-pol%C3%ADcia-no-paquistao-causa-31-mortos)
+- Os gastos dos **Estados Unidos** na guerra contra o Irão ultrapassam **38 mil milhões de dólares** até setembro. [Custos da guerra](https://www.noticiasaominuto.com/mundo/3054014/medio-oriente-gastos-dos-eua-na-guerra-contra-irao-superam-38mil-me-ate-setembro)
+- **FC Porto** e **Benfica** elevam a expectativa para o clássico, com a participação de **Froholdt** ainda em avaliação. [Clássico](https://www.noticiasaominuto.com/desporto/3054051/por-ca-classico-mundial-entre-benfica-e-fc-porto-a-aquecer), [surpresas](https://www.noticiasaominuto.com/desporto/3053774/a-febre-do-classico-quem-podem-ser-as-surpresas-no-fc-porto-e-benfica), [Froholdt](https://www.noticiasaominuto.com/desporto/3054046/dia-decisivo-farioli-sabe-se-conta-com-froholdt-para-o-fc-porto-benfica)
+
+### 🇵🇹 Portugal
+
+- A nova Lei de Programação Militar deverá decidir a substituição dos caças **F-16**. [Lei de Programação Militar](https://www.noticiasaominuto.com/pais/3054034/substituicao-dos-cacas-f-16-decidida-na-nova-lei-de-programacao-militar)
+- Portugal começa a produzir satélites ainda este ano, segundo o Chefe do Estado-Maior-General das Forças Armadas. [Produção de satélites](https://www.noticiasaominuto.com/economia/3054033/entrevista-portugal-comeca-a-produzir-satelites-este-ano-e-e-exemplo-na-europa-cemgfa)
+- É convocado, no Porto, um protesto contra o aumento dos combustíveis. [Protesto no Porto](https://www.rtp.pt/noticias/noticiario-antena1/7h-convocado-protesto-no-porto-contra-aumento-dos-combustiveis)
+- Um incêndio num edifício em obras na Avenida dos Aliados, no Porto, é dominado. [RTP](https://www.rtp.pt/noticias/noticiario-antena1/5h-dominado-o-fogo-em-prediio-na-avenida-dos-aliados_a1_1766442), [CM](https://www.cmjornal.pt/portugal/detalhe/incendio-deflagra-em-edificio-em-obras-na-avenida-dos-aliados-no-porto)
+
+### 🌍 Mundo
+
+- **Donald Trump** promulga sanções contra a Rússia que permitem impor tarifas a terceiros, enquanto possíveis encontros com **Xi Jinping** podem atrasar vendas de armas dos EUA a Taiwan. [Sanções](https://www.noticiasaominuto.com/mundo/3054011/ucrania-trump-promulganovas-sancoes-a-russiaque-permitemimpor-tarifas-a-terceiros), [Taiwan](https://www.noticiasaominuto.com/mundo/3054025/encontros-entre-trump-e-xi-podem-atrasar-vendas-de-armas-dos-eua-a-taiwan-jornal)
+- **Estados Unidos** e **Coreia do Sul** defendem a liberdade de navegação no estreito de Ormuz. [Navegação em Ormuz](https://www.noticiasaominuto.com/mundo/3054050/estados-unidos-e-coreia-do-sul-defendem-liberdade-de-navegacao-no-estreito-de-ormuz), [CM](https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/estados-unidos-e-coreia-do-sul-defendem-liberdade-de-navegacao-no-estreito-de-ormuz)
+- A **Coreia do Norte** rejeita a exigência da AIEA para abandonar o programa nuclear, e os EUA admitem ter perdido confiança nos resultados atuais das missões de paz da ONU. [Coreia do Norte](https://www.noticiasaominuto.com/mundo/3054029/coreia-do-norte-rejeita-exigencia-da-aiea-para-abandonar-programa-nuclear), [ONU](https://www.noticiasaominuto.com/mundo/3054015/eua-admitem-ter-perdido-confianca-nos-resultados-atuais-das-missoes-de-paz-da-onu)
+- A Casa Branca confirma uma reunião entre **Trump** e **Delcy Rodríguez**, enquanto a Human Rights Watch pede reformas urgentes na Venezuela. [Reunião](https://www.noticiasaominuto.com/mundo/3054026/casa-branca-confirma-reuniao-entre-trump-e-delcy-rodriguez-em-nova-iorque), [direitos humanos](https://www.noticiasaominuto.com/mundo/3054024/venezuela-necessarias-reformas-urgentes-em-materia-de-direitos-humanos-hrw)
+- A **Arábia Saudita** ativa um alerta aéreo pela primeira vez desde o agravamento do conflito no Iémen, e Cuba enfrenta o sétimo apagão nacional do ano. [Arábia Saudita](https://www.noticiasaominuto.com/mundo/3054043/riade-ativa-alerta-aereo-1-vez-desde-agravamento-do-conflito-no-iemen), [Cuba](https://www.noticiasaominuto.com/mundo/3054010/cuba-sofre-o-setimo-apagao-do-ano-em-todo-o-pais)
+
+### Desporto
+
+- O clássico entre **FC Porto** e **Benfica** concentra a atenção desportiva do dia, com as equipas a prepararem um encontro de grande expectativa. [Antevisão](https://www.noticiasaominuto.com/desporto/3054051/por-ca-classico-mundial-entre-benfica-e-fc-porto-a-aquecer)

@@ -1,0 +1,22 @@
+ ### 🗞️ Destaques
+- Mais de **60 concelhos** de **10 distritos** estão em perigo máximo de incêndio, num dia com temperaturas que podem chegar aos **37 graus**. [Mais de 60 concelhos em perigo máximo de incêndio](https://observador.pt/2026/09/21/incendios-mais-de-60-concelhos-de-10-distritos-em-perigo-maximo-2/)
+- Os combustíveis atingem máximos históricos em Portugal. [Combustíveis atingem máximos históricos](https://www.rtp.pt/noticias/economia/precos-dos-combustiveis-atingem-hoje-maximos-historicos-em-portugal_n1766730)
+- Chefes de espionagem europeus alertam para a possibilidade de um ataque russo à NATO nos próximos meses. [Chefes de espionagem europeus alertam para possível ataque russo à NATO](https://cnnportugal.iol.pt/russia/ucrania/poderia-envolver-uma-incursao-limitada-chefes-de-espionagem-europeus-alertam-para-possivel-ataque-russo-a-nato-em-meses-nao-anos/20260921/6ab0caf4d34e53c759c73035)
+
+### 🇵🇹 Portugal
+- O incêndio em **Castro Daire** está dominado, segundo a Proteção Civil. [Incêndio em Castro Daire está dominado](https://observador.pt/2026/09/21/incendio-em-castro-daire-ja-esta-dominado/)
+- A **Alzheimer Portugal** pede uma resposta urgente do Estado e acesso equitativo aos novos tratamentos. [Alzheimer Portugal pede resposta urgente](https://rr.pt/noticia/pais/2026/09/21/alzheimer-portugal-exige-resposta-urgente-do-estado-e-alerta-para-desigualdade-no-acesso-a-novos-tratamentos/486080/)
+- O início do ano letivo chega aos alunos do ensino secundário. [Começa o ano letivo para os alunos do ensino secundário](https://www.rtp.pt/noticias/pais/comeca-o-ano-letivo-para-os-alunos-do-ensino-secundario_n1766732)
+- A Ponte 25 de Abril fica condicionada devido a obras de repavimentação. [Ponte 25 de Abril condicionada](https://www.rtp.pt/noticias/pais/ponte-25-de-abril-vai-estar-condicionada_n1766733)
+- A investigação sobre uma comissão paga antes da queda do **BES** leva a **Goldman Sachs** a tribunal. [Comissão milionária antes da queda do BES](https://cnnportugal.iol.pt/banca/goldman-sachs/comissao-milionaria-entregue-antes-da-queda-do-bes-leva-goldman-sachs-a-tribunal/20260921/6aabfa91d34e53c759c7297f)
+
+### 🌍 Mundo
+- Os **EUA** propõem à **China** um mecanismo de alerta para incidentes relacionados com inteligência artificial. [EUA propõem mecanismo de alerta sobre IA](https://observador.pt/2026/09/21/estados-unidos-propoem-a-china-mecanismo-de-alerta-sobre-incidentes-de-ia/)
+- O **Paquistão** afirma ter matado **28 militantes** em ataques aéreos no Afeganistão. [Paquistão diz ter matado 28 militantes](https://www.noticiasaominuto.com/mundo/3054662/paquistao-diz-que-ataques-aereos-mataram-28-militantes-no-afeganistao)
+- A ONU alerta para uma escalada do risco nuclear, enquanto os houthis acusam a Arábia Saudita de **28 ataques** contra o Iémen em 24 horas. [ONU alerta para risco nuclear](https://observador.pt/2026/09/21/ex-presidentes-da-assembleia-geral-da-onu-alertam-para-escalada-nuclear/), [Ataques no Iémen](https://www.rtp.pt/noticias/mundo/huthis-acusam-arabia-saudita-de-lancar-28-ataques-contra-o-iemen-em-24-horas_n1766721)
+- **Emmanuel Macron** apoia a associação do Canadá à União Europeia, e o partido de **Vladimir Putin** aproxima-se da maioria parlamentar na Rússia. [Macron apoia associação do Canadá à UE](https://observador.pt/2026/09/21/presidente-frances-apoia-associacao-do-canada-a-uniao-europeia/), [Partido de Putin perto da maioria](https://www.noticiasaominuto.com/mundo/3054667/partido-de-putin-perto-de-garantir-maioria-parlamentar-com-90-dos-votos-apurados)
+
+### 💵 Economia
+- O preço do combustível para aviação volta a subir, e a **TAP** é apontada como a companhia menos protegida. [Preço do jet fuel dispara](https://eco.sapo.pt/2026/09/21/preco-do-jet-fuel-volta-a-disparar-e-tap-e-a-menos-protegida/)
+- A venda da **Azores Airlines** atrai companhias aéreas, fundos e empresas do setor. [Venda da Azores Airlines](https://eco.sapo.pt/2026/09/21/venda-da-azores-airlines-atrai-companhias-aereas-fundos-e-empresas-do-setor/)
+- **Mário Centeno** terá pedido a **António Costa** para deixar as Finanças e assumir um cargo transversal ligado à reforma da Saúde. [Centeno pediu a Costa para sair das Finanças](https://observador.pt/2026/09/21/centeno-pediu-a-costa-para-sair-das-financas-para-cargo-transversal-que-reformasse-saude/)

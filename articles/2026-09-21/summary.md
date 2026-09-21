@@ -1,27 +1,26 @@
  ### 🗞️ Destaques
-- Mais de **60 concelhos** estão em perigo máximo de incêndio, num período de calor com temperaturas até **37 graus** e avisos ativos até quinta-feira. — *Mais de 60 concelhos em perigo máximo de incêndio, com temperaturas até 37 graus* [(link)](https://www.rtp.pt/noticias/pais/incendios-mais-de-60-concelhos-de-10-distritos-em-perigo-maximo_n1766729)
-- Os combustíveis atingem máximos históricos em Portugal, enquanto a subida da **Euribor** pressiona os custos do crédito à habitação. — *Combustíveis atingem máximos históricos em Portugal* [(link)](https://www.rtp.pt/noticias/economia/precos-dos-combustiveis-atingem-hoje-maximos-historicos-em-portugal) — *Euribor sobe em todos os prazos* [(link)](https://observador.pt/2026/09/21/euribor-sobe-em-todos-os-prazos-e-a-seis-meses-para-maximo-desde-outubro-de-2024/)
-- O partido de **Vladimir Putin** alcança a maioria constitucional na Duma, enquanto a Rússia reclama ter abatido **244 drones ucranianos** durante a noite. — *Partido de Putin consegue melhor resultado de sempre* [(link)](https://www.noticiasaominuto.com/mundo/3054744/russiaeleicoes-putin-renova-maioria-parlamentar-com-recorde-de-deputados) — *Rússia diz ter abatido 244 drones ucranianos* [(link)](https://rr.pt/noticia/mundo/2026/09/21/russia-reclama-ter-abatido-244-drones-ucranianos-durante-noite-de-domingo/486213/?utm_medium=rss)
+- **Mais de 60 concelhos**, em **10 distritos**, estão em perigo máximo de incêndio, com temperaturas até **37 graus** e avisos de calor prolongados até quinta-feira. [(link)](https://www.rtp.pt/noticias/pais/incendios-mais-de-60-concelhos-de-10-distritos-em-perigo-maximo_n1766729) [(link)](https://observador.pt/2026/09/21/calor-ipma-poe-varios-distritos-sob-aviso-amarelo-entre-esta-segunda-feira-e-quinta-feira/)
+- Os combustíveis atingem máximos históricos em Portugal, agravando os custos das famílias e das empresas. [(link)](https://www.rtp.pt/noticias/economia/combustiveis-nos-valores-mais-altos-de-sempre-quais-os-setores-mais-afetados_n1766777)
+- O partido de **Vladimir Putin** renova a maioria constitucional na Duma e alcança o seu melhor resultado de sempre, segundo os resultados divulgados. [(link)](https://observador.pt/2026/09/21/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados/)
+- Um novo ataque no estreito de Ormuz incendeia um navio e faz **dois feridos**, aumentando a tensão no Médio Oriente. [(link)](https://www.noticiasaominuto.com/mundo/3054777/irao-novo-ataque-no-estreito-de-ormuz-incendeia-navio-e-faz-dois-feridos)
 
 ### 🇵🇹 Portugal
-- O incêndio de **Castro Daire** está dominado, mas o risco permanece elevado devido ao calor e às condições meteorológicas.
-- Começa o ano letivo no ensino secundário com falta de professores; no **Amadora-Sintra**, doentes urgentes esperam quase **10 horas**.
-- A ministra da Saúde promete alterar a lei dos tarefeiros e apresentar soluções até ao final do ano, enquanto a IGAS propõe taxas moderadoras para não residentes.
-- A Ponte 25 de Abril fica condicionada devido a obras de repavimentação, e a reconstrução do nó do IP4, em Vila Real, deverá terminar em abril.
-- Um homem morre a tiro em Lisboa e os suspeitos estão em fuga; em Portimão, dois agentes da PSP são atropelados por um condutor alcoolizado. — *Homem morto a tiro em Lisboa* [(link)](https://observador.pt/2026/09/21/lisboa-homem-morto-a-tiro-no-bairro-da-serafina-suspeitos-estao-em-fuga/)
+- Doentes urgentes esperam quase **10 horas** no Hospital Amadora-Sintra, enquanto a ministra da Saúde promete mudanças na lei dos tarefeiros até ao final do ano. [(link)](https://www.cnnportugal.iol.pt/urgencias/sns/doentes-urgentes-esperam-quase-10-horas-para-serem-vistos-no-amadora-sintra/20260921/6ab1063ad34e53c759c73092) [(link)](https://observador.pt/2026/09/21/ministra-da-saude-avisa-que-missao-do-executivo-nao-e-governar-para-agradar-as-corporacoes/)
+- O ano letivo começa para o ensino secundário com falta de professores em várias escolas. [(link)](https://www.rtp.pt/noticias/pais/comeca-o-ano-letivo-para-os-alunos-do-ensino-secundario-com-falta-de-professores_n1766732)
+- A Procuradoria-Geral da República pede ao Parlamento medidas contra o enfraquecimento das entidades de combate à corrupção. [(link)](https://www.rtp.pt/noticias/pais/combate-a-corrupcao-pgr-quer-que-parlamento-assuma-responsabilidades_n1766776)
+- Dois homens são detidos no aeroporto de Lisboa com **342 mil doses de cocaína**. [(link)](https://www.noticiasaominuto.com/pais/3054762/apanhados-pela-pj-no-aeroporto-traziam-342-mil-doses-de-cocaina)
 
 ### 🌍 Mundo
-- Os Estados Unidos propõem à China um mecanismo de alerta para incidentes de inteligência artificial; **Xi Jinping** visita **Donald Trump** entre 23 e 25 de setembro.
-- Chefes de espionagem europeus alertam para a possibilidade de um ataque russo à NATO nos próximos meses, enquanto a UE ameaça sancionar responsáveis por eleições em zonas ocupadas da Ucrânia.
-- O Paquistão afirma ter matado **28 militantes** em ataques aéreos no Afeganistão, que os talibãs denunciam como novos ataques.
-- A tensão no Médio Oriente mantém-se elevada: os huthis acusam a Arábia Saudita de lançar **28 ataques** contra o Iémen em 24 horas e o Irão ameaça com novas armas e alvos.
-- Na Alemanha, a AfD e o Die Linke ganham terreno e pressionam a CDU de **Friedrich Merz**; a ONU alerta para a escalada do risco nuclear.
+- **Xi Jinping** visita **Donald Trump** nos Estados Unidos entre 23 e 25 de setembro, com a estabilidade estratégica, o comércio e Taiwan na agenda. [(link)](https://www.rtp.pt/noticias/mundo/estabilidade-estrategica-china-confirma-visita-de-xi-jinping-aos-eua-esta-semana_n1766761)
+- Chefes de espionagem europeus alertam para a possibilidade de um ataque russo limitado à NATO nos próximos meses, sem confirmação de uma decisão nesse sentido. [(link)](https://cnnportugal.iol.pt/russia/ucrania/poderia-envolver-uma-incursao-limitada-chefes-de-espionagem-europeus-alertam-para-possivel-ataque-russo-a-nato-em-meses-nao-anos/20260921/6ab0caf4d34e53c759c73035)
+- O Irão ameaça recorrer a novas armas e atingir novos alvos, enquanto o Presidente iraniano viaja para a Assembleia Geral da ONU. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-diz-que-o-mundo-ficara-surpreendido-com-as-suas-novas-armas_n1766751) [(link)](https://rr.pt/noticia/mundo/2026/09/21/presidente-do-irao-viaja-para-nova-iorque-e-vai-marcar-presenca-na-onu/486210/)
+- O tufão **Dujuan** aproxima-se do Japão, provoca chuvas intensas e cancela cerca de **500 voos** em Tóquio. [(link)](https://cnnportugal.iol.pt/tufao-dujuan/toquio/tufao-dujuan-obriga-ao-cancelamento-de-cerca-de-500-voos-nos-aeroportos-de-toquio/20260921/6ab1042ad34e53c759c7308d)
 
 ### 💵 Economia
-- A possível escassez de combustível para a aviação ameaça a Europa, com o preço do jet fuel a subir e a **TAP** apontada como a companhia menos protegida.
-- A venda da **Azores Airlines** atrai companhias aéreas, fundos e empresas do setor.
-- A **Goldman Sachs** enfrenta um processo judicial relacionado com uma comissão milionária recebida antes da queda do BES.
-- A Irlanda multa a **Google** em **403 milhões de euros** por tratamento de dados de localização, enquanto a Volkswagen deixa o índice Stoxx 50 pela primeira vez em 15 anos.
+- A **Euribor** sobe nos três prazos e a seis meses atinge o valor mais alto desde outubro de 2024, pressionando o crédito à habitação. [(link)](https://eco.sapo.pt/2026/09/21/euribor-sobe-em-todos-os-prazos-e-a-seis-meses-para-maximo-desde-outubro-de-2024/)
+- O Governo estima que a inteligência artificial possa representar **8% do PIB** e reduzir em **60%** o tempo dos licenciamentos. [(link)](https://eco.sapo.pt/2026/09/21/governo-estima-que-ia-possa-valer-8-do-pib-e-cortar-60-ao-tempo-dos-licenciamentos/)
+- Os Certificados de Aforro captam mais de **750 milhões de euros** em agosto e atingem um novo recorde. [(link)](https://eco.sapo.pt/2026/09/21/certificados-de-aforro-captam-mais-de-750-milhoes-em-agosto-e-batem-novo-recorde/)
+- A Goldman Sachs vai a tribunal por uma comissão milionária recebida antes da queda do BES. [(link)](https://www.noticiasaominuto.com/economia/3054702/goldman-sachs-em-tribunal-por-comissao-milionaria-antes-da-queda-do-bes)
 
 ### ⚽ Desporto
-- **Rui Costa** critica a arbitragem na derrota do Benfica frente ao FC Porto no clássico do Dragão. — *Rui Costa critica arbitragem na derrota do Benfica frente ao FC Porto* [(link)](https://www.rtp.pt/noticias/benfica/rui-costa-critica-arbitragem-do-classico-do-dragao_d1766757)
+- **Rui Costa** critica a arbitragem na derrota do Benfica frente ao FC Porto no clássico do Dragão. [(link)](https://www.rtp.pt/noticias/benfica/rui-costa-critica-arbitragem-do-classico-do-dragao_d1766757)

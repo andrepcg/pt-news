@@ -1,0 +1,23 @@
+ ### 🗞️ Destaques
+- **Mais de 70 concelhos** permanecem em perigo máximo de incêndio, enquanto os fogos de **Odemira** e **Resende** continuam ativos. [Mais de 70 concelhos continuam em perigo máximo de incêndio](https://observador.pt/2026/09/25/incendios-mais-de-70-concelhos-em-perigo-maximo-no-norte-centro-e-algarve/), [Incêndio em Odemira continua ativo e já abrange Silves](https://www.rtp.pt/noticias/pais/fogo-em-odemira-continua-ativo-com-reforco-de-meios-de-combate_n1767604), [Incêndio em Resende continua ativo e mobiliza mais de 200 operacionais](https://www.rtp.pt/noticias/pais/fogo-em-resende-continua-ativo_n1767606)
+- Mais de **400 camiões** participam numa marcha lenta contra o preço dos combustíveis. [Mais de 400 camiões avançam em marcha lenta contra o preço dos combustíveis](https://observador.pt/liveblogs/mais-de-400-camioes-esperados-em-marcha-lenta-do-setor-de-terraplanagens-contra-preco-dos-combustiveis/)
+- A China pede a **Donald Trump** uma posição correta sobre a independência de Taiwan, durante a receção a **Xi Jinping** nos Estados Unidos. [Xi Jinping pede a Trump uma posição correta sobre a independência de Taiwan](https://cnnportugal.iol.pt/taiwan/china/xi-jinping-avisa-trump-para-manter-uma-postura-correta-contra-independencia-de-taiwan/20260925/6ab60d11d34e9a786e7598d5)
+
+### 🇵🇹 Portugal
+- O Governo quer criar um serviço militar voluntário destinado aos jovens. [Governo quer criar serviço militar voluntário para jovens](https://rr.pt/especial/escala-global/2026/09/25/governo-quer-avancar-com-servico-militar-voluntario-a-juventude-e-fundamental-nas-forcas-armadas/486717/)
+- Uma nova unidade de defesa em Braga prevê **20 milhões de euros** de investimento e a criação de **200 empregos**. [Nova unidade de defesa em Braga prevê 20 milhões de euros de investimento e 200 empregos](https://eco.sapo.pt/2026/09/25/nova-unidade-de-20-milhoes-quer-criar-polo-industrial-de-defesa-em-braga-e-vai-criar-200-empregos/)
+- A inteligência artificial já assegura um terço das marcações de consultas e exames no Hospital da Luz. [Inteligência artificial já assegura um terço das marcações no Hospital da Luz](https://eco.sapo.pt/2026/09/25/inteligencia-artificial-ja-suporta-um-terco-das-marcacoes-de-consultas-e-exames-no-hospital-da-luz/)
+
+### 🌍 Mundo
+- O Presidente do Irão mantém disponibilidade para alcançar um acordo com os Estados Unidos. [Presidente do Irão mantém disponibilidade para chegar a acordo com os EUA](https://www.rtp.pt/noticias/guerra-no-medio-oriente/presidente-do-irao-diz-que-continua-disposto-a-chegar-a-acordo-com-eua_n1767605)
+- A Casa Branca restringe o acesso da **CNN** e da **MS NOW** durante a receção a Xi Jinping. [Casa Branca restringe acesso da CNN e da MS NOW durante receção a Xi Jinping](https://www.rtp.pt/noticias/mundo/casa-branca-barra-emissoras-cnn-e-ms-now-a-chegada-de-xi-para-jantar-com-trump_n1767609)
+- **Emmanuel Macron** nega um alerta da CIA sobre um possível ataque russo, mas admite a existência de risco. [Macron nega alerta da CIA sobre possível ataque russo, mas admite risco](https://observador.pt/2026/09/25/macron-nega-que-cia-tenha-alertado-para-possivel-ataque-russo-com-drones-na-europa/)
+- O tufão Dujuan provoca pelo menos **12 mortos** no Japão. [Tufão Dujuan provoca pelo menos 12 mortos no Japão](https://www.rtp.pt/noticias/mundo/novo-balanco-da-passagem-do-tufao-dujuan-pelo-japao-aponta-para-12-mortos_n1767603)
+
+### 💵 Economia
+- Reduzir os impostos sobre os combustíveis para o nível espanhol teria um custo estimado de **2,29 mil milhões de euros**. [Reduzir impostos sobre combustíveis para o nível espanhol custaria 2,29 mil milhões de euros](https://eco.sapo.pt/2026/09/25/taxar-os-combustiveis-ao-nivel-de-espanha-custaria-229-mil-milhoes-de-euros-a-portugal/)
+- **Lufthansa** e **Air France** apresentam a **30 de setembro** ofertas melhoradas pela TAP. [Lufthansa e Air France apresentam ofertas melhoradas pela TAP a 30 de setembro](https://eco.sapo.pt/2026/09/25/lufthansa-e-air-france-entregam-oferta-melhorada-pela-tap-no-dia-30/)
+- A taxa mista passa de **10% para 80%** do crédito à habitação em três anos. [Taxa mista domina crédito à habitação e passa de 10% para 80% em três anos](https://eco.sapo.pt/2026/09/25/taxa-mista-do-credito-a-habitacao-dispara-de-10-para-80-em-tres-anos/)
+- Os Estados Unidos apelam ao apoio de **Elon Musk** na contestação à multa aplicada pela União Europeia. [EUA apelam a Musk para contestar multa aplicada pela União Europeia](https://www.noticiasaominuto.com/tech/3057051/eua-apelam-a-apoio-a-musk-na-contestacao-a-multa-aplicada-pela-ue)
+
+### Desporto

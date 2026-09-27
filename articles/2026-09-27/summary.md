@@ -1,24 +1,30 @@
  ### 🗞️ Destaques
-- **São Tomé e Príncipe** realiza eleições legislativas e autárquicas com mais de **146 mil eleitores**, inicialmente com baixa afluência, mas sem incidentes relevantes. [(link)](https://www.noticiasaominuto.com/mundo/3057921/mais-de-146-mil-chamados-hoje-a-votar-nas-eleicoes-em-sao-tome-e-principe), [(link)](https://www.rtp.pt/noticias/mundo/eleicoes-em-sao-tome-e-principe-decorrem-com-tranquilidade_v1768041)
-- A tensão no **estreito de Ormuz** mantém-se elevada, enquanto o Irão aguarda uma posição definitiva dos Estados Unidos sobre o plano para reabrir a passagem. [(link)](https://www.rtp.pt/noticias/economia/teerao-aguarda-posicao-definitiva-dos-eua-sobre-plano-para-reabrir-ormuz_n1767971)
-- Dois tiroteios na **África do Sul**, em Joanesburgo e no Cabo, provocam **27 mortos**. [(link)](https://www.rtp.pt/noticias/mundo/africa-do-sul-dois-tiroteios-em-joanesburgo-e-no-cabo-fazem-27-mortes-no-total_n1767990)
+- O número de palestinianos mortos na Faixa de Gaza ultrapassa **74 mil**, enquanto Israel impõe um bloqueio geral de uma semana na Cisjordânia ocupada. [Número de palestinianos mortos na Faixa de Gaza ultrapassa os 74 mil](link) [Israel impõe bloqueio geral na Cisjordânia ocupada durante uma semana](link)
+- A epidemia de ébola na República Democrática do Congo aproxima-se dos **8 mil casos** e ultrapassa **3.800 mortes**. [Epidemia de Ébola na República Democrática do Congo aproxima-se dos 8 mil casos e já matou mais de 3.800 pessoas](link)
+- A crise da habitação domina o debate político em Portugal, com o PS a acusar o Governo de facilitar os despejos através da nova Lei das Rendas. [Carneiro acusa Governo de querer facilitar os despejos através da nova Lei das Rendas](link)
+- Portugal defronta a Noruega em Oslo num jogo pela liderança, com **Cristiano Ronaldo** em dúvida para o onze inicial. [Cristiano Ronaldo pode começar no banco frente à Noruega](link)
 
 ### 🇵🇹 Portugal
-- O incêndio na **Chamusca** entra em fase de vigilância, enquanto um fogo rural na **Madeira** mobiliza **29 bombeiros** e um meio aéreo. [(link)](https://observador.pt/2026/09/27/incendio-na-chamusca-prestes-a-entrar-na-fase-de-vigilancia/), [(link)](https://observador.pt/2026/09/27/incendios-fogo-rural-na-madeira-mobiliza-29-bombeiros-e-meio-aereo/)
-- A **GNR** regista mais de **2.600 casos** de abandono e maus-tratos a animais desde 2024. [(link)](https://www.rtp.pt/noticias/pais/maus-tratos-a-animais-mais-de-2600-casos-registados-pela-gnr-desde-2024_v1768034)
-- Sete pessoas são detidas em **Sintra** após agressões e arremesso de pedras contra polícias no final de um evento musical. [(link)](https://www.rtp.pt/noticias/pais/sete-detidos-em-sintra-por-apedrejarem-policias-no-final-de-evento-musical_n1768012)
-- **Mário Centeno** critica uma governação baseada no medo, enquanto a crise da habitação provoca novo confronto político entre Governo e oposição. [(link)](https://www.rtp.pt/noticias/economia/governar-sob-o-medo-e-pessimo-centeno-desafia-montenegro-a-apresentar-explicacoes_v1767736), [(link)](https://www.rtp.pt/noticias/politica/lei-das-rendas-carneiro-acusa-governo-de-querer-facilitar-os-despejos_v1768042)
+- A GNR registou mais de **2.600 casos** de abandono e maus-tratos a animais desde 2024. [GNR registou mais de 2.600 casos de maus-tratos e abandono de animais desde 2024](link)
+- O incêndio na Chamusca entrou em fase de vigilância, enquanto um fogo rural na Madeira mobiliza **29 bombeiros** e um meio aéreo. [Incêndio na Chamusca entra na fase de vigilância](link) [Incêndio rural na Madeira mobiliza 29 operacionais e um meio aéreo](link)
+- Sete pessoas foram detidas em Sintra após agressões e arremesso de pedras contra polícias no final de um evento musical. [Sete detidos em Sintra após agressões e arremesso de pedras contra polícias](link)
+- Um trabalhador de **23 anos** morreu soterrado na antiga Feira Popular de Lisboa. [Trabalhador de 23 anos morre soterrado na antiga Feira Popular de Lisboa](link)
+- Os Açores estão sob aviso amarelo devido à previsão de chuva forte e trovoada. [Açores sob aviso amarelo devido a chuva forte e trovoada](link)
 
 ### 🌍 Mundo
-- O número de mortos na **Faixa de Gaza** ultrapassa os **74 mil**, segundo os dados divulgados. [(link)](https://www.noticiasaominuto.com/mundo/3057947/numero-de-palestinianos-mortos-na-faixa-de-gaza-ultrapassou-os-74000)
-- Chuvas torrenciais no nordeste da **Índia** provocam pelo menos **56 mortos**, enquanto o consumo de álcool adulterado causa mais **19 mortes** no país. [(link)](https://www.noticiasaominuto.com/mundo/3057963/chuvas-torrenciais-causam-pelo-menos-56-mortos-no-nordeste-da-india), [(link)](https://www.noticiasaominuto.com/mundo/3057993/pelo-menos-19-mortos-por-consumo-de-alcool-adulterado-na-india)
-- Uma epidemia de **ébola** na República Democrática do Congo aproxima-se dos **8.000 casos** e ultrapassa **3.800 mortes**. [(link)](https://www.noticiasaominuto.com/mundo/3058015/ebola-epidemia-na-rdcongo-ultrapassa-as-3800-mortes-e-aproxima-se-de-8000-casos)
-- Cinco homens são detidos no Reino Unido por suspeita de terrorismo junto a uma base aérea usada pelos Estados Unidos. [(link)](https://www.noticiasaominuto.com/mundo/3058024/policia-britanica-detem-cinco-homens-perto-de-base-aerea-por-suspeita-de-ato-terrorista)
+- Dois tiroteios na África do Sul, em Joanesburgo e no Cabo, provocaram **27 mortos**. [Dois tiroteios na África do Sul provocam pelo menos 27 mortos](link)
+- O Irão aguarda uma posição definitiva dos Estados Unidos sobre o plano para reabrir o estreito de Ormuz e afirma preparar-se para uma nova ofensiva. [Irão prepara-se para nova ofensiva dos EUA numa fase crítica da guerra](link)
+- As eleições legislativas e autárquicas em São Tomé e Príncipe decorrem de forma pacífica, apesar da baixa afluência inicial, com mais de **146 mil eleitores** chamados às urnas. [Eleições em São Tomé e Príncipe decorrem de forma pacífica](link) [Eleições em São Tomé e Príncipe mobilizam mais de 146 mil eleitores](link)
+- Cinco homens foram detidos no Reino Unido por suspeita de planearem um ataque terrorista junto a uma base aérea usada pelos Estados Unidos. [Cinco homens detidos no Reino Unido por suspeita de planearem ataque terrorista](link)
+- A China realizou exercícios navais e aéreos junto de um atol disputado com as Filipinas, antes da visita de **Xi Jinping** aos Estados Unidos. [China realiza exercícios militares junto de atol disputado com as Filipinas](link) [China considera visita de Xi Jinping aos EUA um sinal positivo de aproximação](link)
 
 ### 💵 Economia
-- O preço dos combustíveis desce a partir de amanhã, num contexto de agravamento do custo de vida associado à crise energética. [(link)](https://www.noticiasaominuto.com/economia/3057324/espere-por-amanha-para-abastecer-o-carro-preco-dos-combustiveis-vai-cair), [(link)](https://www.rtp.pt/noticias/economia/semanario-crise-dos-combustiveis-aumenta-o-custo-de-vida-e-a-insatisfacao_n1768000)
-- **Lisboa** e **Porto** deverão receber **157 novos hotéis**, segundo um levantamento sobre a expansão da oferta hoteleira. [(link)](https://eco.sapo.pt/2026/09/27/lisboa-e-porto-vao-ter-157-novos-hoteis/)
+- O preço dos combustíveis desce a partir de segunda-feira, enquanto a crise energética continua a pressionar o custo de vida. [Preço dos combustíveis vai descer a partir de amanhã](link) [Crise dos combustíveis agrava custo de vida e insatisfação](link)
+- Lisboa e Porto deverão receber **157 novos hotéis**, segundo um levantamento sobre a expansão da hotelaria. [Lisboa e Porto vão receber 157 novos hotéis](link)
+- A CP não utiliza a nova bifurcação da Mealhada por falta de maquinistas habilitados. [CP não utiliza nova bifurcação da Mealhada por falta de maquinistas habilitados](link)
+- A Armani prepara negociações para vender uma participação de **15%**. [Armani prepara venda de uma participação de 15%](link)
 
 ### ⚽ Desporto
-- **Portugal** defronta a **Noruega**, em Oslo, num encontro pela liderança, com **Cristiano Ronaldo** em dúvida para o onze inicial. [(link)](https://www.rtp.pt/noticias/desporto/ronaldo-pode-comecar-no-banco-frente-a-noruega_v1768032), [(link)](https://www.publico.pt/2026/09/27/desporto/noticia/portugal-medo-noruega-haaland-mete-medo-2189426)
-- O etíope **Guye Adola** vence a Maratona de Berlim pela segunda vez. [(link)](https://observador.pt/2026/09/27/etiope-guye-adola-vence-a-maratona-de-berlim-pela-segunda-vez/)
+- **Miguel Oliveira** abandona novamente uma corrida do Mundial de Superbikes após uma queda em Cremona. [Miguel Oliveira abandona novamente após queda no Mundial de Superbikes](link)
+- O etíope **Guye Adola** vence pela segunda vez a Maratona de Berlim. [Guye Adola vence a Maratona de Berlim pela segunda vez](link)
+- A venda ilegal de bilhetes do **FC Porto** terá gerado milhões de euros, segundo a investigação noticiada. [Venda ilegal de bilhetes do FC Porto terá gerado milhões de euros](link)

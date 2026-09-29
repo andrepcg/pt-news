@@ -1,23 +1,32 @@
  ### 🗞️ Destaques
-- A criminalidade nas escolas ultrapassa **4.000 ocorrências** no último ano letivo, com armas e ofensas corporais em máximos de cinco anos. [Criminalidade nas escolas aumenta](https://www.rtp.pt/noticias/pais/ocorrencias-nas-escolas-aumentaram-no-ultimo-ano-letivo-para-mais-de-4000_n1768351) [(link)](https://www.rtp.pt/noticias/pais/psp-armas-e-ofensas-corporais-nas-escolas-em-maximos-de-cinco-anos_n1768352)
-- **Teerão** aguarda uma resposta dos **Estados Unidos** após conversações indiretas destinadas a pôr fim à guerra no Médio Oriente. [Teerão aguarda resposta dos EUA](https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-afirma-que-aguarda-resposta-dos-eua-apos-conversacoes-indiretas_n1768333)
-- As ações da **Shein** caem até **14%** em Hong Kong, depois de o lucro ajustado recuar **66,6%**. [Ações da Shein caem](https://www.rtp.pt/noticias/economia/acoes-da-shein-caem-ate-14-em-hong-kong-apos-queda-de-666-do-lucro-ajustado_n1768337)
+
+- A criminalidade nas escolas ultrapassa **4.000 ocorrências** no último ano letivo, com armas e ofensas corporais em máximos de cinco anos, levando a PSP a reforçar a prevenção. [Criminalidade nas escolas aumenta: PSP regista mais de 4.000 ocorrências e máximos de armas e agressões](link)(https://www.rtp.pt/noticias/pais/ocorrencias-nas-escolas-aumentaram-no-ultimo-ano-letivo-para-mais-de-4000_n1768351) [(link)](https://www.rtp.pt/noticias/pais/psp-armas-e-ofensas-corporais-nas-escolas-em-maximos-de-cinco-anos_n1768352)
+- O **Irão** admite travar o enriquecimento de urânio em troca de alívio de sanções, enquanto aguarda uma resposta dos **Estados Unidos** após conversações indiretas. [(link)](https://www.rtp.pt/noticias/mundo/irao-aceita-travar-programa-nuclear-em-troca-de-alivio-de-sancoes-dos-eua_v1768374) [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-afirma-que-aguarda-resposta-dos-eua-apos-conversacoes-indiretas_n1768333)
+- Novos ataques russos na **Ucrânia** provocam mais de **80 feridos**, atingindo infraestruturas portuárias e ferroviárias em Kiev e Odessa. [(link)](https://www.rtp.pt/noticias/mundo/ucrania-mais-de-80-feridos-em-nova-vaga-de-ataques-russos_v1768373)
 
 ### 🇵🇹 Portugal
-- **PSP** e **GNR** retomam as negociações com o Governo sobre carreiras, suplementos e salários. [Negociações com o Governo](https://www.rtp.pt/noticias/pais/mai-volta-hoje-a-reunir-se-com-sindicatos-da-psp-e-associacoes-gnr_n1768338)
-- O IPMA coloca **oito distritos** do continente sob aviso amarelo devido à chuva forte. [Aviso amarelo por chuva](https://observador.pt/2026/09/29/oito-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-forte/)
-- Jovens entre os **15 e os 24 anos** atingem o máximo de reinternamento psiquiátrico dos últimos seis anos. [Reinternamento psiquiátrico de jovens](https://rr.pt/fotoreportagem/renascenca-reportagem/2026/09/29/taxa-de-reinternamento-psiquiatrico-de-jovens-atinge-maximo-em-seis-anos-a-unica-pessoa-que-me-compreende-neste-mundo-e-a-amalia/486561/)
+
+- O Governo retoma as negociações com sindicatos da **PSP** e associações da **GNR** sobre carreiras, suplementos e salários. [(link)](https://www.rtp.pt/noticias/pais/mai-volta-hoje-a-reunir-se-com-sindicatos-da-psp-e-associacoes-da-gnr_n1768338) [(link)](https://observador.pt/2026/09/29/mai-volta-a-reunir-se-com-sindicatos-da-psp-e-associacoes-da-gnr/)
+- Oito distritos do continente ficam sob aviso amarelo devido a chuva forte, com previsão de agravamento das condições meteorológicas. [(link)](https://observador.pt/2026/09/29/oito-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-forte/)
+- Quatro suspeitos de homicídio no Bairro da Serafina, em Lisboa, ficam em prisão preventiva. [(link)](https://observador.pt/2026/09/29/prisao-preventiva-para-quatro-suspeitos-de-homicidio-no-bairro-da-serafina-em-lisboa/)
+- Dois trabalhadores morrem soterrados em **Porto Covo**, num acidente de trabalho. [(link)](https://www.noticiasaominuto.com/pais/3058733/trabalhadores-morrem-soterrados-em-porto-covo-quem-eram-e-o-que-se-sabe)
+- Jovens entre os **15 e os 24 anos** atingem o máximo de reinternamentos psiquiátricos dos últimos seis anos. [(link)](https://rr.pt/fotoreportagem/renascenca-reportagem/2026/09/29/taxa-de-reinternamento-psiquiatrico-de-jovens-atinge-maximo-em-seis-anos-a-unica-pessoa-que-me-compreende-neste-mundo-e-a-amalia/486561/)
 
 ### 🌍 Mundo
-- O Governo espanhol prepara um decreto para proteger inquilinos perante a crise da habitação. [Decreto espanhol para a habitação](https://www.rtp.pt/noticias/mundo/governo-espanhol-pressionado-nas-ruas-a-aprovar-hoje-decreto-para-habitacao_n1768346)
-- O ACNUR alerta que a redução da ajuda ameaça **8,3 milhões** de refugiados e deslocados. [Redução da ajuda humanitária](https://www.rtp.pt/noticias/mundo/reducao-da-ajuda-ameaca-mais-de-oito-milhoes-de-refugiados-e-deslocados-alerta-acnur_n1768341)
-- **Donald Trump** revoga normas de proteção de alunos LGBTI contra discriminação sexual. [Revogação de normas de proteção](https://observador.pt/2026/09/29/trump-revoga-normas-que-protegem-alunos-lgbti-de-discriminacao-sexual/)
-- A **China** exige ao **Japão** uma retificação da posição sobre Taiwan para ultrapassar a crise bilateral. [China exige retificação ao Japão](https://www.rtp.pt/noticias/mundo/china-pede-ao-japao-que-retifique-posicao-sobre-taiwan-para-superar-crise-bilateral_n1768342)
+
+- Em **São Tomé e Príncipe**, os dois principais partidos reclamam a vitória nas eleições, sem resultado consensual divulgado. [(link)](https://www.rtp.pt/noticias/mundo/eleicoes-sao-tome-ambos-os-partidos-reclamam-vitoria_v1768358)
+- Um ataque aéreo contra um mercado no **Myanmar** provoca pelo menos **50 mortos**. [(link)](https://www.cmjornal.pt/mundo/detalhe/pelo-menos-50-mortos-em-ataque-aereo-contra-mercado-no-myanmar)
+- O ACNUR alerta que a redução do financiamento ameaça a assistência a **8,3 milhões** de refugiados e deslocados. [(link)](https://www.rtp.pt/noticias/mundo/reducao-da-ajuda-ameaca-mais-de-oito-milhoes-de-refugiados-e-deslocados-alerta-acnur_n1768341)
+- O Governo espanhol prepara medidas para proteger inquilinos perante a crise da habitação, sob pressão de protestos contra despejos e subida das rendas. [(link)](https://www.rtp.pt/noticias/mundo/governo-espanhol-pressionado-nas-ruas-a-aprovar-hoje-decreto-para-habitacao_n1768346) [(link)](https://eco.sapo.pt/2026/09/29/sanchez-pressionado-nas-ruas-a-aprovar-decreto-contra-despejos-e-subida-das-rendas/)
+- A China exige ao Japão que retifique a sua posição sobre **Taiwan**, num contexto de tensão bilateral. [(link)](https://www.rtp.pt/noticias/mundo/china-pede-ao-japao-que-retifique-posicao-sobre-taiwan-para-superar-crise-bilateral_n1768342)
 
 ### 💵 Economia
-- A prestação da casa aumenta mais de **100 euros** desde o início da guerra no Irão. [Subida da prestação da casa](https://cnnportugal.iol.pt/habitacao/prestacao-da-casa/prestacao-da-casa-ja-aumentou-mais-de-100-euros-desde-o-inicio-da-guerra-no-irao/20260929/6abb5ad1d34e9a786e75a06a)
-- O Governo brasileiro processa **17 sites de apostas** e reclama **169 milhões de euros** em danos morais. [Processo contra sites de apostas](https://eco.sapo.pt/2026/09/29/governo-brasileiro-processa-sites-de-apostas-e-pede-169-milhoes-em-danos-morais/)
+
+- As ações da **Shein** caem até **14%** em Hong Kong após uma quebra de **66,6%** no lucro ajustado. [(link)](https://www.rtp.pt/noticias/economia/acoes-da-shein-caem-ate-14-em-hong-kong-apos-queda-de-666-do-lucro-ajustado_n1768337)
+- A prestação da casa aumenta mais de **100 euros** desde o início da guerra no Irão, com nova subida possível em outubro. [(link)](https://cnnportugal.iol.pt/habitacao/prestacao-da-casa/prestacao-da-casa-ja-aumentou-mais-de-100-euros-desde-o-inicio-da-guerra-no-irao/20260929/6abb5ad1d34e9a786e75a06a)
+- O Governo brasileiro processa **17 sites de apostas** e pede **169 milhões de euros** em danos morais. [(link)](https://eco.sapo.pt/2026/09/29/governo-brasileiro-processa-sites-de-apostas-e-pede-169-milhoes-em-danos-morais/)
 
 ### ⚽ Desporto
-- A Seleção portuguesa treina em Malmö com **Francisco Conceição** em dúvida. [Treino da Seleção em Malmö](https://observador.pt/2026/09/29/liga-nacoes-selecao-portuguesa-treina-em-malmo-com-conceicao-em-duvida/)
-- A **FIFA** acusa a **UEFA** de promover uma campanha de desinformação sobre os direitos comerciais do Mundial. [FIFA acusa UEFA](https://rr.pt/bola-branca/noticia/futebol-internacional/2026/09/29/fifa-acusa-uefa-de-campanha-de-desinformacao/487164/)
+
+- Portugal procura aproximar-se do apuramento frente à **Dinamarca**, em Copenhaga, com a seleção orientada por **Jorge Jesus**. [(link)](https://www.rtp.pt/noticias/selecao-nacional/portugal-vitorioso-com-jesus-tenta-ficar-perto-do-apuramento-em-copenhaga_d1768377)
+- **Vasco Vilaça** sagra-se campeão do mundo de triatlo e aponta à participação nos Jogos Olímpicos. [(link)](https://rr.pt/bola-branca/especial/modalidades/2026/09/29/faco-parte-da-elite-portuguesa-o-suspiro-de-alivio-do-campeao-do-mundo-vasco-vilaca/487163/)

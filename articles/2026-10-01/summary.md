@@ -1,30 +1,24 @@
  ### 🗞️ Destaques
-
-- **Cristiano Ronaldo** abandona o estágio da Seleção após o conflito com **Jorge Jesus**, enquanto Portugal enfrenta a Dinamarca sob forte polémica. [Cristiano Ronaldo abandona a Seleção após polémica com Jorge Jesus](https://www.rtp.pt/noticias/desporto/ronaldo-nao-gostou-das-palavras-de-jesus_v1768875)
-- O **PS** anuncia a abstenção no **Orçamento do Estado para 2027**, permitindo a sua viabilização e provocando críticas da oposição. [PS anuncia abstenção no Orçamento do Estado para 2027](https://observador.pt/2026/10/01/ventura-acusa-ps-de-tornar-oe2027-inutil-com-abstencao-governo-fara-o-que-entender-sem-negociar/)
-- O ataque com faca num voo da **Flydubai** para Telavive leva Israel a investigar uma possível ligação ao Irão, ainda sem confirmação oficial. [Ataque com faca num voo entre o Dubai e Telavive](https://www.rtp.pt/noticias/mundo/esfaqueamento-a-bordo-israel-nao-descarta-envolvimento-do-irao_v1768981)
+- O **PS** anuncia que se abstém na votação do **Orçamento do Estado para 2027**, permitindo a sua viabilização e desencadeando críticas da oposição. [(link)](https://www.publico.pt/2026/10/01/politica/noticia/desde-fim-geringonca-nao-anunciava-tao-cedo-viabilizacao-orcamento-2189936)
+- **Portugal** regista a maior subida dos preços das casas na União Europeia, enquanto as novas regras do arrendamento avançam no Parlamento. [(link)](https://observador.pt/2026/10/01/portugal-com-maior-subida-do-preco-das-casas-na-ue/)
+- As negociações entre os **Estados Unidos** e o **Irão** fracassam, e Washington ordena a saída da delegação iraniana do país. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/rubio-ordenou-que-delegacao-do-irao-abandonasse-eua-apos-fracasso-de-negociacoes_n1768775)
 
 ### 🇵🇹 Portugal
-
-- O surto de gripe A num lar de Estremoz provoca **sete mortes**, e a **IGAS** mantém um inquérito ao caso. [Sube para sete o número de vítimas do surto de gripe A](https://www.cmjornal.pt/sociedade/detalhe/sobe-para-sete-o-numero-de-vitimas-do-lar-de-estremoz-com-surto-de-gripe-a)
-- Bombeiros sapadores concentram-se junto à sede do Governo, num protesto que termina com confrontos com a PSP e bastonadas. [Protesto de bombeiros termina com confrontos e bastonadas](https://www.publico.pt/2026/10/01/sociedade/noticia/protesto-bombeiros-junto-sede-governo-afastado-recurso-bastonadas-2190004)
-- O Parlamento aprova alterações à lei do arrendamento, incluindo o fim da comissão de reembolso antecipado nos créditos à habitação de taxa variável. [Parlamento aprova alterações à lei do arrendamento](https://www.rtp.pt/noticias/politica/arrendamento-quatro-alteracoes-a-introduzir-em-especialidade_v1768976)
-- **62 professores** são afastados por condenações incompatíveis com o trabalho com crianças. [62 professores afastados após condenações](https://www.publico.pt/2026/10/01/sociedade/noticia/violencia-domestica-maustratos-crimes-sexuais-condenacoes-62-professores-afastados-ministerio-2189956)
+- A **IGAS** abre um inquérito depois de o número de mortes num lar de Estremoz associado a um surto de gripe A subir para **sete**. [(link)](https://www.cmjornal.pt/sociedade/detalhe/sobe-para-sete-o-numero-de-vitimas-do-lar-de-estremoz-com-surto-de-gripe-a)
+- O protesto de bombeiros sapadores junto à sede do Governo termina com confrontos e bastonadas. [(link)](https://www.rtp.pt/noticias/pais/tensao-com-a-psp-bombeiros-concentraram-se-junto-a-sede-do-governo_n1768946)
+- Todos os arguidos do caso do **Movimento Armilar Lusitano** vão a julgamento por terrorismo. [(link)](https://www.rtp.pt/noticias/pais/decisao-instrutoria-manda-julgar-todos-os-arguidos-no-caso-do-movimento-armilar-lusitano_n1768952)
+- O Governo aprova uma linha de até **200 milhões de euros** para concluir projetos do PRR até ao final de 2027. [(link)](https://observador.pt/2026/10/01/governo-aprova-linha-de-ate-200-milhoes-para-concluir-obras-do-prr-ate-final-de-2027/)
 
 ### 🌍 Mundo
-
-- EUA e Irão terminam negociações sem acordo, após a ordem para a delegação iraniana abandonar os Estados Unidos. [Fracassam negociações entre os EUA e o Irão](https://www.rtp.pt/noticias/guerra-no-medio-oriente/rubio-ordenou-que-delegacao-irao-abandonasse-eua-apos-fracasso-de-negociacoes_n1768775)
-- As cheias em Moçambique afetam mais de **201 mil habitações** e causam prejuízos equivalentes a **2% do PIB**. [Cheias em Moçambique já afetaram mais de 201 mil habitações](https://observador.pt/2026/10/01/cruz-vermelha-assistiu-mais-de-80-mil-pessoas-afetadas-pelas-cheias-em-mocambique/)
-- Os glaciares suíços perdem mais de **5%** do volume de gelo após uma onda de calor extrema. [Glaciares suíços perdem mais de 5% do gelo](https://www.publico.pt/2026/10/01/azul/noticia/glaciares-suicos-perdem-5-gelo-apos-onda-calor-precedentes-2189898)
+- Um ataque com faca num voo da **Flydubai** entre o Dubai e Telavive deixa Israel a investigar uma possível ligação ao Irão, ainda sem confirmação. [(link)](https://www.rtp.pt/noticias/mundo/esfaqueamento-a-bordo-israel-nao-descarta-envolvimento-do-irao_v1768981)
+- **Rússia** e **Ucrânia** continuam a atacar infraestruturas energéticas, enquanto drones russos atingem alvos em Kyiv. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/ouvidos-de-mercador-a-trump-moscovo-e-kiev-continuam-ataques-a-setor-energetico_n1768835)
+- As cheias em **Moçambique** já afetaram mais de **201 mil habitações** e provocaram prejuízos equivalentes a **2% do PIB**. [(link)](https://observador.pt/2026/10/01/cruz-vermelha-assistiu-mais-de-80-mil-pessoas-afetadas-pelas-cheias-em-mocambique/)
 
 ### 💵 Economia
-
-- Portugal regista a maior subida dos preços das casas na União Europeia no segundo trimestre. [Portugal regista a maior subida dos preços das casas na UE](https://observador.pt/2026/10/01/portugal-com-maior-subida-nos-precos-das-casas-no-2-o-trimestre-na-ue/)
-- As tarifas reguladas aumentam **6,4%** no gás natural e **2,7%** na eletricidade. [Tarifas de gás e eletricidade aumentam](https://www.publico.pt/2026/10/01/economia/noticia/tarifas-gas-electricidade-mercado-regulado-sobem-partir-hoje-2189910)
-- O Governo aprova uma linha de até **200 milhões de euros** para concluir obras do PRR até ao final de 2027. [Governo aprova linha de 200 milhões para o PRR](https://observador.pt/2026/10/01/governo-aprova-linha-de-ate-200-milhoes-para-concluir-obras-do-prr-ate-final-de-2027/)
+- As tarifas reguladas aumentam **6,4%** no gás natural e **2,7%** na eletricidade, pressionando as despesas das famílias. [(link)](https://www.publico.pt/2026/10/01/economia/noticia/tarifas-gas-electricidade-mercado-regulado-sobem-partir-hoje-2189910)
+- A produção industrial recua **3,8%** em agosto, devido à contração das indústrias transformadoras. [(link)](https://eco.sapo.pt/2026/10/01/producao-industrial-trava-38-em-agosto-com-contracao-nos-setores-transformadores/)
+- O consumo de eletricidade em Portugal atinge um recorde nos primeiros nove meses de 2026, com as renováveis a cobrirem **64%** da procura. [(link)](https://observador.pt/2026/10/01/consumo-de-eletricidade-em-portugal-bate-recorde-historico-nos-primeiros-nove-meses-de-2026-com-aumento-de-34/)
 
 ### ⚽ Desporto
-
-- Portugal adianta-se frente à Dinamarca, com golos de **João Cancelo** e **Gonçalo Ramos**, num jogo marcado pela ausência de Ronaldo. [Portugal adianta-se frente à Dinamarca](https://www.rtp.pt/noticias/desporto/cancelo-marca-para-portugal_v1768990)
-- **Rafael Leão** veste a camisola **7** da Seleção, enquanto **Bruno Fernandes** ou **Bernardo Silva** assumem a capitania. [Rafael Leão herda o número 7](https://eco.sapo.pt/2026/10/01/rafael-leao-herda-numero-7-de-ronaldo-bruno-ou-bernardo-sao-os-novos-capitaes-da-selecao-nacional/)
-- **Lionel Messi** torna-se proprietário do Eldense, clube da segunda divisão espanhola. [Messi compra o Eldense](https://observador.pt/2026/10/01/messi-torna-se-proprietario-do-clube-da-segunda-divisao-espanhola-eldense/)
+- **Portugal** vence a **Dinamarca por 4-2** e mantém-se invicto, apesar da saída polémica de **Cristiano Ronaldo**, que abandona o estágio após o conflito com **Jorge Jesus**. [(link)](https://observador.pt/2026/10/01/goncalo-e-a-prova-de-que-as-equipas-nao-ficam-orfas-a-cronica-do-dinamarca-portugal/)
+- **Rafael Leão** herda a camisola **7** de Ronaldo no encontro e a Seleção segue em frente sem o capitão histórico. [(link)](https://www.rtp.pt/noticias/selecao-nacional/rafael-leao-alinha-com-camisola-7-da-selecao-portuguesa-frente-a-dinamarca_d1768829)

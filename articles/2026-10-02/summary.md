@@ -1,0 +1,30 @@
+ ### 🗞️ Destaques
+
+- A greve de **24 horas da Função Pública** ameaça afetar escolas, saúde e outros serviços públicos em todo o país. [Greve de 24 horas na Função Pública pode paralisar escolas e vários serviços](https://observador.pt/liveblogs/greve-de-24-horas-na-funcao-publica-pode-paralisar-escolas-e-varios-servicos/), [(link)](https://www.rtp.pt/noticias/pais/greves-esta-sexta-feira-podem-afetar-escolas-saude-e-outros-servicos-publicos_n1769062)
+- A paralisação dos tripulantes da **easyJet** começa com **80% dos voos cancelados**. [Greve da easyJet começa com 80% dos voos cancelados](https://rr.pt/noticia/economia/2026/10/02/greve-dos-tripulantes-da-easyjet-arranca-com-80-dos-voos-ja-cancelados/487628/?utm_medium=rss), [(link)](https://eco.sapo.pt/2026/10/02/greve-dos-tripulantes-da-easyjet-arranca-esta-sexta-feira-com-80-dos-voos-ja-cancelados/)
+- Portugal vence a **Dinamarca por 4-2**, num jogo marcado pela saída de **Cristiano Ronaldo**. [Portugal vence a Dinamarca por 4-2 sob tensão após saída de Cristiano Ronaldo](https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-exibicao-%C3%A9-mais-importante-do-que-tudo-o-resto_d1769067), [(link)](https://www.noticiasaominuto.com/desporto/3060559/portugal-ignora-ronaldo-e-outro-mago-de-manchester-pega-na-batuta-nordica)
+- Um ataque russo a **Kyiv** provoca uma morte e leva ao encerramento de uma ponte sobre o **Dniepre**. [Ataque russo a Kyiv mata uma pessoa e encerra ponte sobre o Dniepre](https://www.noticiasaominuto.com/mundo/3060610/ataque-russo-a-kiev-mata-uma-pessoa-e-encerra-ponte-sobre-o-rio-dniepre)
+
+### 🇵🇹 Portugal
+
+- **António Costa** acusa o **Ministério Público** de ter cometido um “atentado ao Estado de direito” no âmbito da Operação Influencer. [António Costa acusa Ministério Público de atentado ao Estado de direito](https://www.rtp.pt/noticias/pais/operacao-influencer-antonio-costa-acusa-o-ministerio-publico-de-atentado-ao-estado-de-direito_n1769064), [(link)](https://rr.pt/noticia/pais/2026/10/02/antonio-costa-acusa-ministerio-publico-de-atentado-ao-estado-de-estado-de-direito/487630/?utm_medium=rss)
+- Portugal tem **102 processos** por incumprimento na transposição de diretivas europeias. [Portugal tem 102 processos por incumprimento na transposição de diretivas europeias](https://observador.pt/2026/10/02/portugal-tem-102-processos-por-infracao-na-transposicao-de-diretivas-europeias/), [(link)](https://www.noticiasaominuto.com/pais/3060608/portugal-tem-102-processos-por-infracao-na-transposicao-de-diretivas)
+- Os médicos tarefeiros aguardam uma portaria do Governo que fixe os valores a receber. [Médicos tarefeiros aguardam portaria sobre valores a receber](https://www.rtp.pt/noticias/pais/medicos-tarefeiros-reunem-se-com-o-governo-a-espera-da-portaria-sobre-valores-a-receber_n1769060), [(link)](https://www.noticiasaominuto.com/pais/3060605/medicos-tarefeiros-reunem-se-com-o-governo-a-espera-da-portaria-sobre-valores-a-receber)
+- Um incêndio numa habitação em **Arcos de Valdevez** provoca um ferido grave. [Um ferido grave em incêndio numa habitação em Arcos de Valdevez](https://www.noticiasaominuto.com/pais/3060603/um-ferido-grave-em-fogo-numa-habitacao-no-concelho-de-arcos-de-valdevez), [(link)](https://www.cmjornal.pt/portugal/detalhe/um-ferido-grave-em-fogo-numa-habitacao-no-concelho-de-arcos-de-valdevez)
+- Empresários e antigos ministros de **PSD** e **PS** defendem um acordo de bloco central. [Empresários e ex-ministros defendem acordo de bloco central entre PSD e PS](https://eco.sapo.pt/2026/10/02/empresarios-e-ex-ministros-de-cavaco-e-guterres-pedem-acordo-de-bloco-central/)
+
+### 🌍 Mundo
+
+- **Donald Trump** ameaça o **Irão** com “consequências graves” caso não seja alcançado um acordo com Washington. [Trump ameaça o Irão com “consequências graves” se não houver acordo](https://observador.pt/liveblogs/trump-ameaca-irao-com-consequencias-muito-graves-se-teerao-nao-chegar-a-acordo-com-washington/)
+- Um debate presidencial no **Brasil** é cancelado depois de **Flávio Bolsonaro** desistir da participação. [Debate presidencial no Brasil é cancelado após desistência de Flávio Bolsonaro](https://www.rtp.pt/noticias/mundo/tv-globo-cancela-debate-eleitoral-apos-desistencia-de-ultima-hora-de-flavio_n1769042), [(link)](https://www.rtp.pt/noticias/mundo/candidatos-da-terceira-via-atiram-se-ao-judiciario-apos-cancelamento-de-debate_n1769043)
+- O verão é considerado o mais quente de sempre na **Europa Ocidental**, segundo o **Copernicus**. [Verão foi o mais quente de sempre na Europa Ocidental](https://www.noticiasaominuto.com/mundo/3060583/verao-foi-o-mais-quente-de-sempre-registado-na-europa-ocidental-copernicus)
+- O Parlamento espanhol vota medidas para a habitação enquanto milhares de pessoas protestam nas ruas. [Parlamento espanhol vota medidas para a habitação sob pressão das ruas](https://www.noticiasaominuto.com/mundo/3060591/parlamento-espanhol-vota-medidas-para-habitacao-com-pressao-de-milhares-nas-ruas)
+- A **ONU** alerta que quase metade das crianças refugiadas não frequenta a escola. [ONU alerta que quase metade das crianças refugiadas não frequenta a escola](https://www.noticiasaominuto.com/mundo/3060574/onu-alerta-que-quase-metade-das-criancas-refugiadas-nao-vai-a-escola)
+
+### 💵 Economia
+
+- Uma startup brasileira com operações em Lisboa vence um prémio mundial de inteligência artificial. [Startup brasileira com operações em Lisboa vence prémio mundial de inteligência artificial](https://www.noticiasaominuto.com/tech/3060588/startup-brasileira-com-operacoes-em-lisboa-vence-premio-mundial-de-ia)
+
+### 🩺 Saúde e Ciência
+
+- Um estudo indica que a **obesidade** pode prejudicar o relaxamento do coração. [Obesidade pode prejudicar o relaxamento do coração, revela estudo](https://www.noticiasaominuto.com/lifestyle/3060570/cientistas-descobrem-que-obesidade-pode-prejudicar-relaxamento-do-coracao), [(link)](https://www.cmjornal.pt/viver-com-saude/detalhe/cientistas-descobrem-que-obesidade-pode-alterar-e-prejudicar-relaxamento-do-coracao)

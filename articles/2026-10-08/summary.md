@@ -1,0 +1,31 @@
+ ### 🗞️ Destaques
+
+- O Governo entrega a proposta do **Orçamento do Estado para 2027**, com medidas previstas para pensões, IRS e salários. “Governo entrega proposta do Orçamento do Estado para 2027” [(link)](https://observador.pt/liveblogs/governo-entrega-hoje-a-proposta-do-orcamento-do-estado-2027/) [(link)](https://www.rtp.pt/noticias/politica/governo-apresenta-proposta-de-orcamento-do-estado-para-2027_e1770215)
+- A Organização Meteorológica Mundial alerta que o **El Niño** pode tornar-se um dos fenómenos mais intensos desde **1950**. “El Niño pode tornar-se um dos fenómenos mais intensos desde 1950” [(link)](https://www.rtp.pt/noticias/mundo/el-nino-em-curso-podera-tornar-se-um-dos-mais-intensos-desde-1950-alerta-omm_n1770211) [(link)](https://www.noticiasaominuto.com/mundo/3063202/el-nino-em-curso-podera-tornar-se-um-dos-mais-intensos-desde-1950)
+- Portugal goleia o Brasil e apura-se para as meias-finais do Mundial de hóquei feminino. “Portugal goleia Brasil e chega às meias-finais do Mundial de hóquei feminino” [(link)](https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-feminino-portugal-vence-brasil-com-goleada-expressiva_v1770223)
+
+### 🇵🇹 Portugal
+
+- O Governo prepara uma reforma do SNS que prevê a fusão de organismos e a criação de uma nova agência pública de saúde. “Governo prepara reforma da Saúde com fusão de organismos e nova agência pública” [(link)](https://www.rtp.pt/noticias/politica/governo-prepara-mudanca-de-peso-no-servico-nacional-de-saude_n1770230) [(link)](https://cnnportugal.iol.pt/saude/nova-agencia-de-saude-publica/governo-prepara-reforma-da-saude-com-fusao-de-organismos-e-criacao-de-nova-agencia-de-saude-publica/20261008/6ac7394ed34e9a786e75b3ac)
+- Uma operação no Porto contra o tráfico de droga resulta em **16 detenções**. “Dezasseis detidos em operação contra tráfico de droga no Porto” [(link)](https://www.rtp.pt/noticias/pais/dezasseis-detidos-em-operacao-contra-trafico-de-droga-no-porto_n1770222) [(link)](https://www.noticiasaominuto.com/pais/3063219/dezasseis-detidos-em-operacao-contra-trafico-de-droga-no-porto)
+- O Governo mantém as restrições a fornecedores de alto risco nas redes **5G**, excluindo a Huawei. “Portugal mantém restrições a fornecedores de alto risco nas redes 5G” [(link)](https://eco.sapo.pt/2026/10/08/governo-renova-restricoes-que-excluiram-huawei-das-redes-5g/)
+- A Quercus pede um plano estruturado e abrangente para controlar o aumento da população de javalis. “Quercus pede plano estruturado para controlar aumento de javalis” [(link)](https://www.noticiasaominuto.com/pais/3063214/quercus-defende-plano-estruturado-para-controlar-aumento-de-javalis)
+
+### 🌍 Mundo
+
+- Os **Huthis** reivindicam um ataque com míssil ao aeroporto de Riade, enquanto a ONU condena ataques a aeroportos sauditas. “Huthis reivindicam ataque com míssil ao aeroporto de Riade” [(link)](https://www.noticiasaominuto.com/mundo/3063199/huthis-reivindicam-ataque-ao-aeroporto-de-riade-com-missil-balistico) [(link)](https://www.rtp.pt/noticias/mundo/onu-condena-ataques-dos-houthis-a-aeroportos-na-arabia-saudita_v1770226)
+- O Japão exige à China respeito pela primeira-ministra, enquanto a Coreia do Norte pede mais respeito a Seul para retomar o diálogo. “Japão exige à China respeito pela primeira-ministra” [(link)](https://observador.pt/2026/10/08/japao-exige-a-china-o-devido-respeito-pela-primeira-ministra-sanae-takaichi/) “Coreia do Norte exige mais respeito de Seul para retomar o diálogo” [(link)](https://www.rtp.pt/noticias/mundo/coreia-do-norte-exige-mais-respeito-de-seul-para-retoma-do-dialogo_n1770213)
+- **Tsai Ing-wen** denuncia nos Estados Unidos a crescente pressão militar chinesa sobre Taiwan. “Tsai Ing-wen denuncia crescente pressão militar chinesa sobre Taiwan” [(link)](https://www.rtp.pt/noticias/mundo/ex-lider-de-taiwan-denuncia-nos-estados-unidos-crescente-pressao-chinesa_n1770207)
+- Myanmar promete repatriar cidadãos detidos na Malásia assim que possível. “Myanmar promete repatriar cidadãos detidos na Malásia” [(link)](https://www.rtp.pt/noticias/mundo/myanmar-acolhe-cidadaos-repatriados-da-malasia-assim-que-possivel_n1770214)
+- A violência de género e a exclusão agravam os problemas de saúde mental e o risco entre adolescentes na Venezuela. “Saúde mental agrava-se entre adolescentes na Venezuela” [(link)](https://www.rtp.pt/noticias/mundo/violencia-de-genero-e-exclusao-fazem-disparar-risco-de-morte-em-jovens-venezuelanos_n1770212)
+
+### 💵 Economia
+
+- A chinesa **Anta Sports** torna-se a maior acionista da **Puma** após investir **1,5 mil milhões de euros** e comprar **29%** da marca alemã. “Anta Sports torna-se maior acionista da Puma após investimento de 1,5 mil milhões de euros” [(link)](https://www.rtp.pt/noticias/economia/empresa-chinesa-anta-torna-se-maior-acionista-da-alema-puma-por-1505-milhoes-de-euros_n1770209)
+- A **Samsung** prevê um lucro recorde de **71,7 mil milhões de euros** no terceiro trimestre. “Samsung prevê lucro recorde de 71,7 mil milhões de euros no terceiro trimestre” [(link)](https://eco.sapo.pt/2026/10/08/samsung-preve-lucro-recorde-de-717-mil-milhoes-de-euros-no-terceiro-trimestre/)
+- O stresse e os problemas psicológicos no trabalho custam às empresas **1,5 milhões de euros por hora**. “Stresse e problemas psicológicos no trabalho custam 1,5 milhões de euros por hora às empresas” [(link)](https://www.rtp.pt/noticias/economia/stresse-e-problemas-psicologicos-no-trabalho-custam-15-milhoes-por-hora-as-empresas_n1770210)
+- A China rejeita limitar as exportações de carros híbridos para a União Europeia. “China rejeita limitar exportações de carros híbridos para a União Europeia” [(link)](https://www.noticiasaominuto.com/auto/3063200/china-diz-nao-a-ue-e-rejeita-limitar-exportacoes-de-carros-hibridos)
+
+### ⚽ Desporto
+
+- Portugal vence o Brasil por margem expressiva e garante presença nas meias-finais do Mundial feminino de hóquei em patins. “Portugal goleia Brasil e chega às meias-finais do Mundial de hóquei feminino” [(link)](https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-feminino-portugal-vence-brasil-com-goleada-expressiva_v1770223)

@@ -1,26 +1,29 @@
 ### 🗞️ Destaques
 
-- **Portugal** debate o Orçamento do Estado para 2027, enquanto o Governo admite uma intervenção no **BCP** e uma sondagem coloca o **Chega** à frente do **PS**.
-- Quase **90%** das crianças e jovens com doenças graves continuam sem acesso a cuidados paliativos.
-- Organizações não governamentais acusam **Israel** de violar o cessar-fogo em **Gaza**, que dizem existir apenas “no nome”.
+- O **OE2027** prevê alívio no IRS, mas aumenta as propinas do ensino superior, enquanto os estudantes pedem ao Parlamento que mantenha os valores atuais. [(link)](https://www.cnnportugal.iol.pt/oe2027/irs/oe2027-nao-e-uma-enorme-descida-de-impostos-mas-todos-ganham-algo-com-descida-do-irs/20261009/6ac7d441d34e53c759c75b72c), [(link)](https://www.cnnportugal.iol.pt/oe2027/orcamento-do-estado/oe2027-estudantes-do-ensino-superior-tecnico-pedem-ao-parlamento-que-mantenha-o-valor-das-propinas/20261009/6ac89828d34e53c759c75a66)
+- Quase **90% das crianças e jovens com doenças graves** continuam sem acesso a cuidados paliativos, segundo notícias divulgadas no Dia Mundial dos Cuidados Paliativos. [(link)](https://www.rtp.pt/noticias/pais/quase-90-das-criancas-e-jovens-sem-acesso-a-cuidados-paliativos_n1770551), [(link)](https://www.publico.pt/2026/10/09/sociedade/noticia/quase-90-criancas-jovens-doenca-cronica-acesso-cuidados-paliativos-2190774)
+- O Governo admite adquirir até **5% do BCP** para travar a entrada de acionistas espanhóis no banco. [(link)](https://eco.sapo.pt/2026/10/09/governo-admite-comprar-ate-5-do-bcp-para-travar-entrada-de-acionistas-espanhois/), [(link)](https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/governo-estuda-entrada-no-bcp-inferior-a-5)
 
 ### 🇵🇹 Portugal
 
-- **Luís Montenegro** regressa ao Parlamento para o debate quinzenal, um dia depois de o Governo entregar a proposta de Orçamento do Estado para 2027. *Montenegro regressa ao Parlamento para debate sobre o Orçamento do Estado para 2027* [(link)](https://www.noticiasaominuto.com/null/3063922/primeiro-ministro-regressa-hoje-ao-parlamento-um-dia-depois-da-entrega-do-oe2027)
-- A associação de cuidados paliativos pede ao Governo que assuma esta área como prioridade, perante a falta de resposta para a maioria das crianças e jovens com doença grave. *Quase 90% das crianças e jovens com doenças graves continuam sem acesso a cuidados paliativos* [(link)](https://www.rtp.pt/noticias/pais/quase-90-das-criancas-e-jovens-sem-acesso-a-cuidados-paliativos_n1770551)
-- Uma sondagem coloca o **Chega** à frente do **PS** e **André Ventura** como o líder nas preferências para Primeiro-Ministro. *Sondagem coloca o Chega à frente do PS e André Ventura lidera preferência para primeiro-ministro* [(link)](https://eco.sapo.pt/2026/10/09/sondagem-coloca-chega-a-frente-do-ps-e-ventura-lidera-confianca-para-primeiro-ministro/)
+- **Luís Montenegro** regressa ao Parlamento para o debate quinzenal, um dia depois da entrega da proposta de Orçamento do Estado para 2027. [(link)](https://www.noticiasaominuto.com/null/3063922/primeiro-ministro-regressa-hoje-ao-parlamento-um-dia-depois-da-entrega-do-oe2027)
+- Crianças retiradas às famílias são internadas em hospitais por falta de respostas sociais adequadas. [(link)](https://observador.pt/2026/10/09/criancas-retiradas-as-familias-sao-internadas-em-hospitais-por-falta-de-respostas-sociais-e-casos-estao-a-aumentar/)
+- Uma colisão entre carruagens do Metro Sul do Tejo, em Almada, faz **dois feridos** e interrompe a circulação. [(link)](https://observador.pt/2026/10/09/colisao-entre-carruagens-do-metro-sul-do-tejo-em-almada/)
+- A GNR apreende quase **quatro toneladas de cocaína** na Costa Vicentina e detém três homens. [(link)](https://pt.euronews.com/2026/10/09/gnr-apreende-quase-quatro-toneladas-de-cocaina-na-costa-vicentina-tres-homens-foram-detido)
 
 ### 🌍 Mundo
 
-- ONG acusam **Israel** de violar o cessar-fogo em Gaza, que consideram existir apenas formalmente. *ONG acusam Israel de violar o cessar-fogo em Gaza, que existe apenas “no nome”* [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/ong-denunciam-que-cessar-fogo-em-gaza-existe-apenas-no-nome_n1770542)
-- Quase **15 mil** pessoas detidas pelo **ICE** no sul da Califórnia foram deportadas, segundo as informações divulgadas. *Quase 15 mil imigrantes detidos pelo ICE no sul da Califórnia foram deportados* [(link)](https://www.rtp.pt/noticias/mundo/quase-15-mil-pessoas-detidas-pelo-ice-no-sul-da-california-foram-deportadas_n1770539)
-- Chuvas intensas provocam inundações em **Santiago do Chile**, levando o líder chileno a decretar o estado de catástrofe. *Chuvas intensas provocam inundações e estado de catástrofe em Santiago do Chile* [(link)](https://www.rtp.pt/noticias/mundo/lider-do-chile-decreta-estado-de-catastrofe-em-santiago-devido-a-chuvas-intensas_n1770536)
-- **Cabo Verde** deixa a lista norte-americana de países com tráfico humano significativo. *Cabo Verde sai da lista norte-americana de países com tráfico humano significativo* [(link)](https://www.rtp.pt/noticias/mundo/cabo-verde-sai-da-lista-de-paises-com-trafico-humano-muito-significativo_n1770548)
+- ONG acusam **Israel** de violar o cessar-fogo em Gaza, que dizem existir apenas “no nome”. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/ong-denunciam-que-cessar-fogo-em-gaza-existe-apenas-no-nome_n1770542)
+- O Chile decreta estado de catástrofe em Santiago após chuvas intensas provocarem inundações e arrastarem veículos. [(link)](https://pt.euronews.com/2026/10/09/chile-seis-feridos-em-fortes-chuvas-que-arrastam-carros-e-inundam-casas)
+- Quase **15 mil pessoas** detidas pelo ICE no sul da Califórnia são deportadas. [(link)](https://www.publico.pt/2026/10/09/mundo/noticia/quase-15-mil-pessoas-detidas-ice-sul-california-deportadas-2190776)
+- Cabo Verde sai da lista norte-americana de países com tráfico humano significativo. [(link)](https://www.rtp.pt/noticias/mundo/cabo-verde-sai-da-lista-de-paises-com-trafico-humano-muito-significativo_n1770548)
 
 ### 💵 Economia
 
-- O Governo admite comprar até **5% do BCP** para impedir a entrada de acionistas espanhóis no banco. *Governo admite comprar até 5% do BCP para impedir entrada de acionistas espanhóis* [(link)](https://eco.sapo.pt/2026/10/09/governo-admite-comprar-ate-5-do-bcp-para-travar-entrada-de-acionistas-espanhois/)
+- A **União Europeia** exige resultados concretos à China para reduzir o défice comercial, enquanto Pequim protesta contra um relatório do Parlamento Europeu. [(link)](https://observador.pt/2026/10/09/comissario-europeu-exige-resultados-concretos-nas-negociacoes-comerciais-com-a-china/), [(link)](https://www.rtp.pt/noticias/economia/china-apresenta-protesto-a-ue-por-relatorio-repleto-de-preconceitos_n1770560)
+- A UE poderá ter de reduzir em **7%** o consumo de gás durante o próximo inverno. [(link)](https://pt.euronews.com/2026/10/09/uniao-europeia-pode-ter-de-reduzir-consumo-de-gas-no-inverno-em-7-alerta-ieefa)
 
 ### ⚽ Desporto
 
-- Sem notícias relevantes nas fontes disponibilizadas.
+- A **FC Porto SAD** regressa aos prejuízos, com um resultado negativo de **26,3 milhões de euros**. [(link)](https://rr.pt/bola-branca/noticia/porto/2026/10/09/fc-porto-sad-regista-prejuizo-de-263-milhoes-de-euros/488497/)
+- **Jorge Fonseca** é eliminado na primeira ronda dos Mundiais de judo, em Baku. [(link)](https://www.record.pt/modalidades/judo/detalhe/jorge-fonseca-eliminado-nos-mundiais-de-judo-em-baku)

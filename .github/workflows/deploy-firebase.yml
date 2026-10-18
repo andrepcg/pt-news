@@ -26,15 +26,6 @@ jobs:
           NEXT_PUBLIC_MEILISEARCH_URL: ${{ vars.NEXT_PUBLIC_MEILISEARCH_URL }}
           NEXT_PUBLIC_MEILISEARCH_KEY: ${{ vars.NEXT_PUBLIC_MEILISEARCH_KEY }}
 
-      # Functions first: the hosting rewrite for /subscribe needs the function to exist
-      - name: Deploy Firebase Functions
-        run: |
-          npm ci --prefix functions
-          printf '%s' "$SERVICE_ACCOUNT" > "$RUNNER_TEMP/sa.json"
-          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" npx -y firebase-tools@14 deploy --only functions --project "${{ vars.FIREBASE_PROJECT_ID }}" --force
-        env:
-          SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:

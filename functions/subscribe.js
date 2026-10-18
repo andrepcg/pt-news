@@ -1,17 +1,11 @@
+import { onRequest } from "firebase-functions/v2/https";
+import { defineSecret } from "firebase-functions/params";
+
+const RESEND_API_KEY = defineSecret("RESEND_API_KEY");
 
 const SEGMENTS = {
   daily: "9e00cfcc-cdce-42db-af81-02e815093ada",
   weekly: "73154a15-5665-42b9-89a8-1f2afcc9e186",
-}
-
-function jsonResponse(data, status = 200) {
-  return new Response(
-    JSON.stringify(data),
-    {
-      status,
-      headers: { "Content-Type": "application/json" }
-    }
-  );
 }
 
 function validateEmail(email) {
@@ -78,38 +72,40 @@ async function addContactToSegment(email, segmentId, apiKey) {
   return response;
 }
 
-export async function onRequest(context) {
-  // Only allow POST requests
-  if (context.request.method !== "POST") {
-    return jsonResponse({ error: "Method not allowed" }, 405);
-  }
-
-  const apiKey = context.env.RESEND_API_KEY;
-
-  try {
-    // Parse request body
-    const body = await context.request.json();
-    const { email, frequency } = body;
-
-    // Validate input
-    const validation = validateInput(email, frequency);
-    if (!validation.valid) {
-      return jsonResponse({ error: validation.error }, 400);
+export const subscribe = onRequest(
+  { region: "europe-west1", secrets: [RESEND_API_KEY] },
+  async (req, res) => {
+    // Only allow POST requests
+    if (req.method !== "POST") {
+      return res.status(405).json({ error: "Method not allowed" });
     }
 
-    // Try to create the contact (handles existing contacts gracefully)
-    await createContact(email, apiKey);
+    const apiKey = RESEND_API_KEY.value();
 
-    // Add contact to segment
-    await addContactToSegment(email, validation.segmentId, apiKey);
+    try {
+      // Body is pre-parsed for application/json requests
+      const { email, frequency } = req.body || {};
 
-    // Success!
-    return jsonResponse({
-      success: true,
-      message: `Successfully subscribed ${email} to ${frequency} newsletter`
-    });
+      // Validate input
+      const validation = validateInput(email, frequency);
+      if (!validation.valid) {
+        return res.status(400).json({ error: validation.error });
+      }
 
-  } catch (error) {
-    return jsonResponse({ error: error.message || "Invalid request body" }, 400);
+      // Try to create the contact (handles existing contacts gracefully)
+      await createContact(email, apiKey);
+
+      // Add contact to segment
+      await addContactToSegment(email, validation.segmentId, apiKey);
+
+      // Success!
+      return res.json({
+        success: true,
+        message: `Successfully subscribed ${email} to ${frequency} newsletter`
+      });
+
+    } catch (error) {
+      return res.status(400).json({ error: error.message || "Invalid request body" });
+    }
   }
-}
+);

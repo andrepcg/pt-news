@@ -15,7 +15,7 @@ export default function NewsletterSubscribe() {
     setErrorMessage('');
 
     try {
-      const response = await fetch('/subscribe', {
+      const response = await fetch('/subscribe/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -28,7 +28,7 @@ export default function NewsletterSubscribe() {
 
       if (!response.ok) {
         const error = await response.json();
-        throw new Error(error.message || 'Erro ao subscrever');
+        throw new Error(error.error || 'Erro ao subscrever');
       }
 
       setStatus('success');

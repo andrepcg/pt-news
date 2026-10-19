@@ -1,0 +1,21 @@
+### 🗞️ Destaques
+- **José Sócrates** começa a ser julgado por branqueamento de capitais no âmbito da Operação Marquês, que classifica como um “absurdo”. [(link)](https://rr.pt/noticia/pais/2026/10/19/operacao-marques-jose-socrates-comeca-a-ser-julgado-por-branqueamento/489714/?utm_medium=rss)
+- O primeiro debate presidencial no Brasil termina com ataques pessoais, acusações de corrupção e poucas propostas entre **Lula da Silva** e **Flávio Bolsonaro**. [(link)](https://www.rtp.pt/noticias/mundo/debate-marcado-por-poucas-propostas-ataques-e-acusacoes-de-corrupcao_n1772573)
+- A economia chinesa cresce **4,5%** no terceiro trimestre, enquanto os preços das casas novas caem pelo **40.º mês consecutivo**. [(link)](https://www.rtp.pt/noticias/economia/crescimento-da-economia-da-china-acelera-para-45-no-terceiro-trimestre_n1772577) [(link)](https://www.rtp.pt/noticias/economia/precos-das-casas-novas-na-china-caem-pelo-40o-mes-consecutivo-em-setembro_n1772581)
+
+### 🇵🇹 Portugal
+- O Tribunal decide se **59 arguidos** do processo Tutti Frutti vão a julgamento por alegada corrupção em autarquias. [(link)](https://www.observador.pt/2026/10/19/tutti-frutti-tribunal-decide-esta-segunda-feira-se-arguidos-serao-julgados-por-corrupcao-em-autarquias/)
+- O Governo negoceia com os sindicatos os salários da função pública para **2027**, num dia marcado também pelo risco de encerramento de escolas devido a uma greve de trabalhadores não docentes. [(link)](https://observador.pt/2026/10/19/governo-recebe-sindicatos-da-funcao-publica-para-negociar-salarios-de-2027/)
+- Milhares de mulheres continuam sem resposta adequada no SNS para a menopausa, segundo profissionais e utentes. [(link)](https://rr.pt/noticia/pais/2026/10/19/nao-podemos-normalizar-o-sofrimento-menopausa-deixa-milhares-de-mulheres-sem-resposta-adequada-no-sns/489580/?utm_medium=rss)
+- Políticos envolvidos na alteração das leis do arrendamento detêm mais de **mil imóveis**, avaliados em **55,6 milhões de euros**, segundo os dados divulgados. [(link)](https://cnnportugal.iol.pt/arrendamento/habitacao/politicos-que-aprovam-mudancas-no-arrendamento-tem-mais-de-mil-imoveis-avaliados-em-55-6-milhoes-de-euros/20261019/6ad5bc33d34e53c759c7703b)
+
+### 🌍 Mundo
+- O Irão afirma que um petroleiro atingiu uma mina e incendiou-se no Estreito de Ormuz. [(link)](https://www.rtp.pt/noticias/mundo/irao-diz-que-petroleiro-atingiu-mina-e-incendiou-se-em-ormuz_n1772570)
+- **Marco Rubio** nega que os Estados Unidos tenham suspendido a partilha de informações com a Ucrânia. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/marco-rubio-nega-pausa-na-partilha-de-informacoes-com-kiev_n1772602)
+- Um ataque ucraniano deixa refinarias russas em chamas, enquanto a guerra mantém pressão sobre as infraestruturas energéticas. [(link)](https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/ataque-ucraniano-deixa-refinarias-russas-em-chamas)
+- A tempestade Adam provoca **dois mortos** e chuvas torrenciais em Valência; na Cisjordânia, Israel detém **dez suspeitos** do ataque a um jornalista. [(link)](https://rr.pt/noticia/mundo/2026/10/19/tempestade-adam-atinge-valencia-com-chuvas-torrenciais-e-imprevisiveis-e-faz-dois-mortos/489710/?utm_medium=rss) [(link)](https://www.rtp.pt/noticias/mundo/autoridades-prenderam-suspeitos-de-ataque-a-jornalista-na-cisjordania_n1772605)
+
+### 💵 Economia
+- A Lufthansa terá de garantir **mil milhões de euros** para avançar com a compra da TAP e pagará uma taxa de **15% ao ano** até à conclusão do negócio. [(link)](https://eco.sapo.pt/2026/10/19/lufthansa-paga-uma-taxa-de-15-ao-ano-ate-fechar-a-compra-da-tap/)
+- Os preços das casas em Portugal sobem mais de **70% desde 2021**, enquanto o gasóleo fica mais caro e a gasolina desce esta semana. [(link)](https://www.rtp.pt/noticias/pais/habitacao-os-aumentos-expressivos-nos-ultimos-cinco-anos_n1772604) [(link)](https://rr.pt/noticia/economia/2026/10/19/combustiveis-gasoleo-esta-mais-caro-e-a-gasolina-mais-barata-esta-semana/489715/?utm_medium=rss)
+- A produção industrial chinesa cresce **5,5%** em setembro, apesar da fraqueza persistente do mercado imobiliário. [(link)](https://www.rtp.pt/noticias/economia/producao-industrial-chinesa-cresce-55-em-setembro_n1772582)

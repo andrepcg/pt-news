@@ -1,21 +1,30 @@
 ### 🗞️ Destaques
-- O último debate antes das presidenciais brasileiras coloca **Lula da Silva** e **Flávio Bolsonaro** em confronto sobre corrupção, segurança, saúde, salário mínimo e políticas sociais. [Lula e Flávio Bolsonaro trocam acusações no último debate antes das presidenciais brasileiras](link)(https://observador.pt/liveblogs/lula-da-silva-e-flavio-bolsonaro-defrontam-se-no-ultimo-debate-televisivo-antes-das-eleicoes/)
-- O agravamento da tensão no Médio Oriente inclui explosões em **dois superpetroleiros** no estreito de Ormuz e a interceção de um míssil dirigido a Riade. [Explosões atingem mais dois superpetroleiros no estreito de Ormuz](link)(https://www.rtp.pt/noticias/guerra-no-medio-oriente/guarda-revolucionaria-iraniana-reporta-explosoes-em-mais-dois-superpetroleiros-no-estreito-de-ormuz)
-- A crise da habitação domina a agenda nacional: os preços sobem mais de **20%** em quase metade dos municípios e realizam-se protestos em várias cidades. [Preços das casas aumentam mais de 20% em quase metade dos municípios portugueses](link)(https://www.publico.pt/2026/10/24/economia/noticia/precos-casas-sobem-20-quase-metade-territorio-nacional-2192419)
+
+- Os preços das casas aumentam mais de **20%** em quase metade dos municípios portugueses, enquanto se realizam protestos pelo direito à habitação em várias cidades. [(link)](https://www.publico.pt/2026/10/24/economia/noticia/precos-casas-sobem-20-quase-metade-territorio-nacional-2192419), [(link)](https://www.publico.pt/2026/10/24/sociedade/noticia/habitacao-protestos-continuam-neste-sabado-varias-cidades-pais-2192499)
+- **Lula da Silva** e **Flávio Bolsonaro** trocam acusações no último debate antes das eleições presidenciais brasileiras, centrado em corrupção, segurança, economia e políticas sociais. [(link)](https://www.rtp.pt/noticias/mundo/debate-eleitoral-lula-e-bolsonaro-trocam-acusacoes_n1773945), [(link)](https://www.noticiasaominuto.com/mundo/3072175/lula-e-flavio-discutem-corrupcao-e-seguranca-no-ultimo-debate-eleitoral)
+- A tensão no Médio Oriente agrava-se com uma operação israelita na Cisjordânia após a morte de dois soldados e explosões em mais dois superpetroleiros no estreito de Ormuz. [(link)](https://www.noticiasaominuto.com/mundo/3072144/israel-inicia-operacao-contraterrorista-pontual-e-limitada-na-regiao-de-hebron), [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/guarda-revolucionaria-iraniana-reporta-explosoes-em-mais-dois-superpetroleiros-no-estreito-de-ormuz_n1773944)
 
 ### 🇵🇹 Portugal
-- O Tribunal Constitucional abre caminho ao regresso de funcionários públicos à **Caixa Geral de Aposentações**. [Tribunal Constitucional abre caminho ao regresso de funcionários à Caixa Geral de Aposentações](link)(https://www.publico.pt/2026/10/24/economia/noticia/voltar-caixa-geral-aposentacoes-muda-decisao-tc-2192474)
-- O Ministério Público acusa **45 pessoas e 24 empresas** de fraude relacionada com falências. [MP acusa 45 pessoas e 24 empresas de fraude em falências](link)(https://www.publico.pt/2026/10/24/sociedade/noticia/fraude-falencias-farmacia-valorizou-390-mil-euros-minutos-2192483)
-- Os relógios atrasam uma hora na madrugada de domingo, com o regresso ao horário de inverno. [Relógios atrasam uma hora na madrugada de domingo](link)(https://observador.pt/2026/10/24/relogios-atrasam-uma-hora-na-proxima-madrugada-3/)
+
+- O Tribunal Constitucional abre caminho ao regresso de funcionários públicos à **Caixa Geral de Aposentações**. [(link)](https://www.publico.pt/2026/10/24/economia/noticia/voltar-caixa-geral-aposentacoes-muda-decisao-tc-2192474)
+- O Ministério Público acusa **45 pessoas** e **24 empresas** de fraude relacionada com falências. [(link)](https://www.publico.pt/2026/10/24/sociedade/noticia/fraude-falencias-farmacia-valorizou-390-mil-euros-minutos-2192483)
+- Os relógios atrasam uma hora na madrugada de domingo, com a entrada em vigor do horário de inverno. [(link)](https://observador.pt/2026/10/24/relogios-atrasam-uma-hora-na-proxima-madrugada-3/)
+- O Presidente da República homenageia os militares no Dia do Exército e agradece o serviço prestado num contexto “cada vez mais complexo”. [(link)](https://www.rtp.pt/noticias/pais/presidente-agradece-a-todos-os-que-servem-no-exercito-num-contexto-cada-vez-mais-complexo_n1773947)
+- A pesca portuguesa depende maioritariamente de trabalhadores imigrantes. [(link)](https://rr.pt/noticia/pais/2026/10/24/pesca-portuguesa-ja-depende-dos-imigrantes-que-sao-a-maioria/490239/)
 
 ### 🌍 Mundo
-- Israel lança uma operação na Cisjordânia após um ataque que matou **dois soldados**, enquanto a ONU alerta para as consequências do bloqueio à população. [Israel inicia operação militar na Cisjordânia após ataque que matou dois soldados](link)(https://www.noticiasaominuto.com/mundo/3072144/israel-inicia-operacao-contraterrorista-pontual-e-limitada-na-regiao-de-hebron)
-- Um duplo sismo junto a Vanuatu provoca um alerta de tsunami, entretanto cancelado; o tufão Champi deixa **um morto e 171 feridos** em Taiwan antes de avançar para o Japão. [Duplo sismo junto a Vanuatu provoca alerta de tsunami, entretanto cancelado](link)(https://www.noticiasaominuto.com/mundo/3072191/alerta-de-tsunami-cancelado-apos-duplo-sismo-perto-de-vanuatu) [Tufão Champi avança para o Japão após causar mortos e feridos em Taiwan](link)(https://www.rtp.pt/noticias/mundo/tufao-champi-ruma-ao-japao-apos-provocar-um-morto-e-171-feridos-em-taiwan_n1773936)
-- A República Democrática do Congo inicia um ensaio clínico de uma vacina contra o Ébola. [Arranca ensaio clínico de vacina contra o Ébola no Congo](link)(https://www.rtp.pt/noticias/mundo/arranca-ensaio-clinico-de-vacina-contra-o-ebola-na-republica-democratica-do-congo_n1773923)
+
+- Um tufão **Champi** deixa **um morto e 171 feridos** em Taiwan e dirige-se ao Japão. [(link)](https://www.rtp.pt/noticias/mundo/tufao-champi-ruma-ao-japao-apos-provocar-um-morto-e-171-feridos-em-taiwan_n1773936)
+- Dois sismos fortes junto a Vanuatu provocam um alerta de tsunami, entretanto cancelado. [(link)](https://www.noticiasaominuto.com/mundo/3072191/alerta-de-tsunami-cancelado-apos-duplo-sismo-perto-de-vanuatu)
+- O Kremlin anuncia sanções contra opositores russos no exílio. [(link)](https://www.rtp.pt/noticias/mundo/kremlin-divulga-lista-de-opositores-no-exilio-sujeitos-a-sancoes_n1773914)
+- Um ataque contra uma igreja na Jordânia provoca **sete mortos e 34 feridos**, segundo as autoridades citadas. [(link)](https://www.noticiasaominuto.com/mundo/3072133/medio-oriente-secretario-geral-da-onu-condena-ataque-terrorista-contra-igreja-no-centro-da-jordania)
+- Arranca na República Democrática do Congo um ensaio clínico de uma vacina contra o Ébola. [(link)](https://www.rtp.pt/noticias/mundo/arranca-ensaio-clinico-de-vacina-contra-ebola-na-republica-democratica-do-congo_n1773923)
 
 ### 💵 Economia
-- A Moody’s mantém a classificação de França, mas alerta para a dívida e a instabilidade política. [Moody’s mantém rating de França, mas alerta para a dívida e a instabilidade](link)(https://pt.euronews.com/2026/10/24/franca-moodys-mantem-nota-ligeiro-alivio-nao-voto-de-confianca)
-- Moçambique altera o Orçamento do Estado para integrar receitas provenientes do gás. [Moçambique altera Orçamento do Estado para incorporar receitas do gás](link)(https://www.noticiasaominuto.com/mundo/3072216/parlamento-mocambicano-reune-se-em-sessao-extraordinaria-para-alterar-oe)
+
+- **Moody’s** mantém o rating de França, mas alerta para a dívida e a instabilidade política. [(link)](https://pt.euronews.com/2026/10/24/franca-moodys-mantem-nota-ligeiro-alivio-nao-voto-de-confianca)
+- Moçambique altera o Orçamento do Estado para incorporar receitas provenientes do gás. [(link)](https://www.noticiasaominuto.com/mundo/3072216/parlamento-mocambicano-reune-se-em-sessao-extraordinaria-para-alterar-oe)
 
 ### ⚽ Desporto
-- **Quatro portugueses** são nomeados para a Bola de Ouro. [Quatro portugueses nomeados para a Bola de Ouro](link)(https://www.noticiasaominuto.com/desporto/3072213/bola-de-ouro-quatro-portugueses-sonham-imitar-eusebio-figo-e-ronaldo)
+
+- Quatro portugueses são nomeados para a **Bola de Ouro**. [(link)](https://www.noticiasaominuto.com/desporto/3072213/bola-de-ouro-quatro-portugueses-sonham-imitar-eusebio-figo-e-ronaldo)

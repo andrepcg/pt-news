@@ -1,0 +1,16 @@
+### 🗞️ Destaques
+- **Lula da Silva** é reeleito no Brasil, mas **Flávio Bolsonaro** contesta o resultado e anuncia um pedido de anulação das eleições; a **União Europeia** felicita o Presidente brasileiro. [Flávio Bolsonaro contesta a derrota e pede a anulação das eleições](https://www.rtp.pt/noticias/mundo/lula-reeleito-presidente-louva-derrota-do-negacionismo-bolsonaro-quer-anulacao-das-eleicoes_e1774136) [(link)](https://cnnportugal.iol.pt/brasil/eleicoes/flavio-bolsonaro-nao-aceita-resultado-e-vai-pedir-anulacao-das-eleicoes/20261026/6adeb141d34e53c759c77f62)
+- A **Lista dos Estudantes** vence as eleições na Sérvia e encerra a era política de **Aleksandar Vučić**. [Lista dos Estudantes vence eleições sérvias e põe fim à era Vučić](https://pt.euronews.com/2026/10/26/servia-terramoto-politico-poe-fim-a-era-vucic-e-leva-lista-dos-estudantes-ao-poder)
+- A **Galp** alcança lucros recorde de **1,494 mil milhões de euros** até setembro, enquanto falham as negociações para integrar os negócios de refinação e distribuição com a Moeve. [Galp regista lucros recorde de 1,494 mil milhões de euros até setembro](https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-alcanca-lucros-recorde-de-1-494-milhoes-de-euros-ate-setembro) [(link)](https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-e-moeve-terminam-negociacoes-para-combinar-negocios-de-refinacao-e-distribuicao)
+
+### 🇵🇹 Portugal
+- Detidos nos protestos pela habitação em **Lisboa** e no **Porto** são presentes a tribunal, enquanto manifestantes mantêm vigílias de apoio. [Protestos pela habitação: detidos em Lisboa e no Porto são presentes a tribunal](https://www.rtp.pt/noticias/pais/tribunais-ouvem-detidos-em-cargas-policiais-no-porto-e-em-lisboa_e1774360)
+
+### 🌍 Mundo
+- **Xi Jinping** apresenta um plano para reforçar a disciplina interna do Partido Comunista Chinês, após purgas nas Forças Armadas e antes de um congresso decisivo. [China reúne Comité Central após purgas militares para reforçar disciplina do partido](https://www.rtp.pt/noticias/mundo/china-reune-comite-central-apos-purgas-militares-e-a-um-ano-de-congresso-decisivo_n1774344)
+- A China regista, pela primeira vez, mais idosos do que menores face à população ativa. [China ultrapassa pela primeira vez o número de idosos face ao de menores](https://www.rtp.pt/noticias/mundo/china-tem-pela-primeira-vez-mais-idosos-do-que-menores-face-a-populacao-ativa_n1774352)
+- **Volodymyr Zelensky** confirma uma reunião trilateral com a Rússia e os Estados Unidos em novembro, com vista à paz. [Zelensky confirma reunião trilateral com a Rússia e os EUA em novembro](https://www.rtp.pt/noticias/mundo/zelensky-confirma-reuniao-com-russia-e-eua-em-novembro-com-vista-a-paz_n1774265)
+- Ataques e tensões no Médio Oriente mantêm elevados os preços do petróleo e os receios sobre o estreito de Ormuz. [Escalada no Médio Oriente mantém petróleo caro e aumenta receios sobre Ormuz](https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/ja-ha-mais-crude-em-ormuz-mas-tensoes-e-novos-ataques-mantem-precos-elevados)
+
+### 💵 Economia
+- O **gasóleo** sobe e a **gasolina** desce em Portugal. [Preço dos combustíveis: gasóleo sobe e gasolina desce em Portugal](https://rr.pt/noticia/economia/2026/10/26/preco-dos-combustiveis-gasoleo-sobe-e-gasolina-desce/490700/?utm_medium=rss)

@@ -1,0 +1,19 @@
+### 🗞️ Destaques
+- O Parlamento inicia o debate do **Orçamento do Estado para 2027**, num contexto de pressão política e social devido à crise da habitação. [Parlamento inicia debate do Orçamento do Estado para 2027 sob pressão da crise da habitação](https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610)
+- O partido de **Flávio Bolsonaro** reconhece a vitória de **Lula da Silva** nas presidenciais brasileiras. [Partido de Flávio Bolsonaro reconhece a vitória de Lula da Silva](https://www.rtp.pt/noticias/mundo/partido-de-flavio-bolsonaro-reconhece-vitoria-de-lula-da-silva_n1774596)
+- A aquisição pela **Timor GAP** da participação da Woodside no campo de gás **Greater Sunrise** reforça a posição de Timor-Leste no projeto. [Timor GAP compra participação da Woodside no campo de gás Greater Sunrise](https://www.rtp.pt/noticias/economia/petrolifera-australiana-woodside-acorda-vender-participacao-no-greater-sunrise-a-timor-gap_n1774592)
+
+### 🇵🇹 Portugal
+- **55 manifestantes** detidos em Lisboa aguardam a decisão do Ministério Público sobre um eventual julgamento por desobediência, no âmbito dos protestos pela habitação. [55 manifestantes detidos em Lisboa conhecem decisão do Ministério Público](https://www.rtp.pt/noticias/pais/manifestantes-detidos-ha-uma-semana-em-lisboa-conhecem-decisao-do-mp_n1774604)
+- O **IPO do Porto** perde seis anestesiologistas, e o sindicato alerta para riscos na segurança dos doentes. [IPO do Porto perdeu seis anestesiologistas e sindicato alerta para riscos clínicos](https://www.rtp.pt/noticias/pais/ipo-porto-perde-anestesiologistas-e-poe-em-risco-a-seguranca-dos-doentes_n1774609)
+
+### 🌍 Mundo
+- Um tribunal impede a Administração **Trump** de bloquear **20 mil votos** na Califórnia. [Tribunal impede Administração Trump de bloquear 20 mil votos na Califórnia](https://www.rtp.pt/noticias/mundo/tribunal-rejeita-pedido-da-administracao-trump-para-travar-20000-votos-na-california_n1774590)
+- Eurodeputados deslocam-se à **China** para discutir as tensões comerciais entre Pequim e a União Europeia. [Eurodeputados deslocam-se à China para discutir tensões comerciais com a UE](https://www.rtp.pt/noticias/economia/eurodeputados-em-visita-oficial-a-china-para-abordar-tensoes-comerciais-com-a-ue_n1774586)
+- O Senado francês rejeita a reforma constitucional destinada a conceder autonomia à **Córsega**. [Senado francês rejeita reforma constitucional para autonomia da Córsega](https://pt.euronews.com/2026/10/27/senado-frances-trava-autonomia-da-corsega-ao-rejeitar-reforma-constitucional)
+
+### 💵 Economia
+- Os preços do gás natural na Europa triplicam e ameaçam aumentar as faturas durante o inverno. [Preços do gás natural na Europa triplicam e ameaçam encarecer as faturas de inverno](https://pt.euronews.com/2026/10/27/europa-precos-do-gas-natural-disparam-e-pesam-nas-faturas-de-inverno)
+- Um défice de **70 mil milhões de euros** da Ucrânia pode condicionar o próximo orçamento da União Europeia. [Défice de 70 mil milhões da Ucrânia ameaça condicionar o próximo orçamento da UE](https://pt.euronews.com/2026/10/27/defice-de-70-mil-milhoes-de-euros-da-ucrania-pode-ser-determinante-no-proximo-orcamento-da)
+- A China autoriza novos testes de condução autónoma da **Xpeng** e da **Volkswagen**. [China autoriza novos testes de táxis autónomos da Xpeng e da Volkswagen](https://www.rtp.pt/noticias/economia/china-autoriza-novos-testes-de-conducao-autonoma-a-xpeng-e-volkswagen_n1774601)
+- A **Oxfam** afirma que os super-ricos geram uma parcela desproporcionada da poluição mundial, superior à de quase metade da humanidade. [Super-ricos são responsáveis por uma parcela desproporcionada da poluição mundial](https://www.noticiasaominuto.com/mundo/3073436/cop31-super-ricos-poluem-mais-do-que-quase-metade-da-humanidade-oxfam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)

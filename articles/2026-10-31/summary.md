@@ -1,0 +1,21 @@
+### 🗞️ Destaques
+
+- O Conselho de Redação da **Lusa** pede à **ERC** um parecer urgente sobre a nomeação da nova diretora de informação. “Conselho de Redação da Lusa pede parecer urgente à ERC sobre nova diretora” [(link)](https://www.noticiasaominuto.com/economia/3076150/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora), [(link)](https://www.rtp.pt/noticias/economia/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora_n1775782)
+- **Flávio Bolsonaro** contesta a vitória de **Lula** nas eleições brasileiras e considera o resultado “matematicamente impossível”, sem que sejam apresentadas, nos títulos disponíveis, provas dessa alegação. “Flávio Bolsonaro contesta vitória de Lula e fala em resultado ‘matematicamente impossível’” [(link)](https://www.noticiasaominuto.com/mundo/3076171/flavio-bolsonaro-diz-que-vitoria-de-lula-e-matematicamente-impossivel), [(link)](https://www.cmjornal.pt/mundo/detalhe/flavio-bolsonaro-diz-que-reeleicao-de-lula-e-matematicamente-impossivel)
+- A **COP17 da biodiversidade** termina com um acordo, mas enfrenta críticas à lentidão na aplicação das medidas de proteção da natureza. “COP17 da biodiversidade termina com acordo, mas críticas ao ritmo das medidas” [(link)](https://www.publico.pt/2026/10/31/azul/noticia/cop17-termina-acordo-criticas-progresso-glacial-proteccao-natureza-2193289), [(link)](https://www.noticiasaominuto.com/mundo/3076162/equador-vai-organizar-a-cop18-sobre-biodiversidade)
+
+### 🇵🇹 Portugal
+
+- **André Ventura** recandidata-se sem oposição à liderança do **Chega**, sendo o único candidato à presidência do partido. “André Ventura recandidata-se sem oposição à liderança do Chega” [(link)](https://www.noticiasaominuto.com/politica/3076179/ventura-vai-hoje-a-votos-como-candidato-unico-a-presidencia-do-chega), [(link)](https://www.cmjornal.pt/politica/detalhe/andre-ventura-vai-hoje-a-votos-como-candidato-unico-a-presidencia-do-chega)
+- A crise da habitação está a empurrar idosos para a habitação social, perante a dificuldade em suportar rendas elevadas. “Crise da habitação empurra idosos para a habitação social” [(link)](https://www.publico.pt/2026/10/31/sociedade/reportagem/crise-habitacao-empurra-idosos-casas-sociais-nao-podiamos-meter-casa-pagar-mil-euros-2193000)
+
+### 🌍 Mundo
+
+- Os **EUA** planeiam deportar mais de **150 afegãos**, apesar dos riscos de perseguição no país de origem. “EUA planeiam deportar mais de 150 afegãos apesar do risco de perseguição” [(link)](https://www.noticiasaominuto.com/mundo/3076157/eua-planeiam-deportar-150-afegaos-apesar-do-risco-de-perseguicao)
+- As autoridades norte-americanas investigam um eventual envolvimento da **Coreia do Norte** no ataque à **Binance**. “EUA investigam eventual envolvimento norte-coreano no ataque à Binance” [(link)](https://www.noticiasaominuto.com/tech/3076158/eua-investigam-se-coreia-do-norte-esta-por-tras-do-ataque-a-binance)
+- O Governo do **Iémen** denuncia novos ataques dos **Huthis** contra infraestruturas civis. “Iémen denuncia novos ataques dos Huthis contra infraestruturas civis” [(link)](https://www.noticiasaominuto.com/mundo/3076155/medio-orientegoverno-do-iemen-condena-novos-ataques-huthis-contra-infra-estruturas-civis)
+
+### 💵 Economia
+
+- As famílias portuguesas poupam mais, mas a habitação e a inflação absorvem uma parte crescente do rendimento disponível. “Famílias portuguesas poupam mais, mas a habitação e a inflação absorvem o rendimento” [(link)](https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-pouparam-302-milhoes-de-euros-extra-em-2025-inflacao-corroeu-ainda-mais), [(link)](https://www.rtp.pt/noticias/economia/apos-uma-decada-a-crescer-capacidade-de-poupanca-das-familias-comeca-a-diminuir_n1775730)
+- A atividade industrial da **China** entra em contração em outubro. “Atividade industrial da China entra em contração em outubro” [(link)](https://www.noticiasaominuto.com/economia/3076166/atividade-industrial-da-china-cai-em-outubro-entra-em-contracao)

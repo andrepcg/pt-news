@@ -1,0 +1,20 @@
+### 🗞️ Destaques
+- O estreito de **Ormuz** permanece sob tensão, após o Irão relatar incêndios em **dois petroleiros e um rebocador**, enquanto a Coreia do Sul reforça a sua missão naval na zona. [Ormuz sob tensão: Irão relata incêndios em dois petroleiros e num rebocador](link)(https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-relata-incendios-em-dois-petroleiros-e-um-rebocador-no-estreito-de-ormuz_n1777012) [Coreia do Sul reforça missão naval junto ao estreito de Ormuz](link)(https://www.rtp.pt/noticias/guerra-no-medio-oriente/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz_n1776990)
+- O Governo reúne-se com **PS** e **Chega** para negociar medidas para a habitação, num dia em que se mantêm acampadas de protesto em Lisboa e no Porto. [Governo reúne-se com PS e Chega para negociar medidas para a habitação](link)(https://www.rtp.pt/noticias/economia/habitacao-governo-inicia-reunioes-com-partidos-parlamentares_n1777011) [Protestos pela habitação mantêm acampadas em Lisboa e no Porto](link)(https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-acampada-do-porto-vai-reunir-se-com-o-presidente-da-republica_a1_1776987)
+- **Duarte Lima** começa a ser julgado pelo homicídio de **Rosalina Ribeiro**, **17 anos** depois do crime, com a defesa a alegar prescrição. [Duarte Lima começa a ser julgado pelo homicídio de Rosalina Ribeiro, 17 anos depois](link)(https://www.rtp.pt/noticias/pais/duarte-lima-comeca-a-ser-julgado-pelo-homicidio-de-rosalina-ribeiro_n1777000)
+
+### 🇵🇹 Portugal
+- Mais de **780 mil pessoas** saíram de Portugal nos últimos cinco anos, segundo uma revisão das estatísticas do **INE**. [Mais de 780 mil pessoas saíram de Portugal nos últimos cinco anos, segundo revisão do INE](link)(https://www.publico.pt/2026/11/05/sociedade/noticia/emigracao-ine-reve-estatisticas-conclui-780-mil-pessoas-sairam-portugal-cinco-anos-2193754)
+- O Governo quer tornar a **Matemática obrigatória** do 10.º ao 12.º ano. [Governo quer tornar a Matemática obrigatória no ensino secundário](link)(https://www.rtp.pt/noticias/noticiario-antena1/1h-o-governo-quer-a-matematica-obrigatoria-do-decimo-ao-decimo-segundo-ano_a1_1776985)
+- Mais de **40% dos cuidadores informais** dizem não sentir benefícios do estatuto criado para os apoiar. [Cuidadores informais continuam sem sentir benefícios do estatuto](link)(https://www.rtp.pt/noticias/pais/mais-de-40-dos-cuidadores-informais-nao-sentem-beneficios-do-estatuto_n1776976)
+
+### 🌍 Mundo
+- **Joshua Wong** é condenado a mais **10 anos de prisão** em Hong Kong. [Joshua Wong condenado a mais 10 anos de prisão em Hong Kong](link)(https://www.rtp.pt/noticias/mundo/ativista-pro-democracia-joshua-wong-condenado-a-mais-10-anos-de-prisao-em-hong-kong_n1776989)
+- **China e Estados Unidos** acordam reforçar a comunicação militar para reduzir riscos de conflito. [China e EUA reforçam comunicação militar para reduzir riscos de conflito](link)(https://www.rtp.pt/noticias/mundo/china-e-eua-acordam-reforcar-comunicacao-militar-para-reduzir-riscos-de-conflito_n1776995)
+- A China acusa formalmente de corrupção um antigo membro do **Politburo**. [China acusa formalmente antigo membro do Politburo de corrupção](link)(https://www.rtp.pt/noticias/mundo/china-acusa-formalmente-de-corrupcao-antigo-membro-do-politburo_n1776998)
+
+### 💵 Economia
+- Os portugueses são a **7.ª população da UE** que mais sente o aumento do custo de vida, segundo um inquérito do **Banco Europeu de Investimento**. [Portugueses estão entre os cidadãos da UE que mais sentem o aumento do custo de vida](link)(https://www.rtp.pt/noticias/mundo/portugueses-sao-7a-populacao-da-ue-que-mais-sente-aumento-do-custo-de-vida_n1776992)
+
+### 💻 Tecnologia
+- A **Google** vai desativar por defeito as suas ferramentas de inteligência artificial para alunos. [Google vai desativar por defeito as ferramentas de IA para alunos](link)(https://www.rtp.pt/noticias/mundo/google-vai-desativar-por-defeito-as-suas-ferramentas-de-ia-para-alunos_n1776981)

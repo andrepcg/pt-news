@@ -1,25 +1,33 @@
 ### 🗞️ Destaques
-- A tensão no estreito de **Ormuz** aumenta com incêndios relatados em dois petroleiros e num rebocador, enquanto a **Coreia do Sul** reforça a sua missão naval na zona. [Ormuz sob tensão: Irão relata incêndios em dois petroleiros e num rebocador](https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-relata-incendios-em-dois-petroleiros-e-um-rebocador-no-estreito-de-ormuz_n1777012) [Coreia do Sul reforça missão naval junto ao estreito de Ormuz](https://www.rtp.pt/noticias/guerra-no-medio-oriente/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz_n1776990)
-- Uma revisão do **INE** indica que mais de **780 mil pessoas** saíram de Portugal nos últimos cinco anos. [INE revê estatísticas: mais de 780 mil pessoas saíram de Portugal em cinco anos](https://www.jornaldenegocios.pt/economia/detalhe/ine-reve-estatisticas-mais-de-780-mil-pessoas-sairam-do-pais-em-cinco-anos)
-- O **FC Porto** vence o Nápoles por **4-1** na Liga dos Campeões. [FC Porto goleia Nápoles por 4-1 na Liga dos Campeões](https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-fc-porto-vence-napoles-por-4-1_v1777020)
+
+- O Irão relata incêndios em **dois petroleiros e um rebocador** no estreito de Ormuz, enquanto a **Coreia do Sul** reforça a missão naval na zona. [Ormuz sob tensão: Irão relata incêndios em dois petroleiros e num rebocador](link) [Coreia do Sul reforça missão naval junto ao estreito de Ormuz](link)
+- Uma revisão do **INE** conclui que mais de **780 mil pessoas** saíram de Portugal nos últimos cinco anos, num contexto em que os portugueses estão entre os cidadãos da UE que mais sentem o aumento do custo de vida. [Mais de 780 mil pessoas emigraram de Portugal em cinco anos](link) [Portugueses estão entre os cidadãos da UE que mais sentem o aumento do custo de vida](link)
+- França enfrenta uma greve geral com centenas de milhares de pessoas nas ruas, enquanto as eleições intercalares nos EUA colocam pressão sobre o futuro político de **Donald Trump** e do trumpismo. [Greve geral em França mobiliza centenas de milhares de pessoas](link) [Derrota nas intercalares coloca em causa o futuro político de Trump e do trumpismo](link)
 
 ### 🇵🇹 Portugal
-- O Governo reúne-se com **PS** e **Chega** para negociar medidas para a habitação, enquanto prosseguem acampadas de protesto em Lisboa e no Porto. [Governo reúne-se com PS e Chega para negociar medidas para a habitação](https://www.rtp.pt/noticias/economia/habitacao-governo-inicia-reunioes-com-partidos-parlamentares_n1777011) [Protestos pela habitação mantêm acampadas em Lisboa e no Porto](https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-acampada-do-porto-vai-reunir-se-com-o-presidente-da-republica_a1_1776987)
-- **Duarte Lima** começa a ser julgado pelo homicídio de **Rosalina Ribeiro**, 17 anos depois do crime, com a defesa a alegar prescrição. [Duarte Lima começa a ser julgado pelo homicídio de Rosalina Ribeiro, 17 anos depois](https://www.rtp.pt/noticias/pais/duarte-lima-comeca-a-ser-julgado-pelo-homicidio-de-rosalina-ribeiro_n1777000)
-- O Governo quer tornar a **Matemática obrigatória até ao 12.º ano**. [Governo quer tornar a Matemática obrigatória até ao 12.º ano](https://www.rtp.pt/noticias/pais/governo-quer-matematica-obrigatoria-ate-ao-12o-ano_v1777026)
-- A **IGAS** abre um inquérito à morte de um idoso nas urgências do Hospital de Portimão. [IGAS abre inquérito à morte de idoso nas urgências de Portimão](https://www.noticiasaominuto.com/pais/3078889/igas-abre-inquerito-a-caso-de-idoso-que-morreu-nas-urgencias-de-portimao)
+
+- O Governo reúne-se com **PS** e **Chega** para negociar medidas para a habitação, enquanto prosseguem as acampadas de protesto em Lisboa e no Porto. [Governo reúne-se com PS e Chega para negociar medidas para a habitação](link) [Protestos pela habitação mantêm acampadas em Lisboa e no Porto](link)
+- O Governo quer tornar a **Matemática obrigatória até ao 12.º ano**. [Governo quer tornar a Matemática obrigatória até ao 12.º ano](link)
+- **Duarte Lima** começa a ser julgado pelo homicídio de **Rosalina Ribeiro**, 17 anos depois do crime. [Começa julgamento de Duarte Lima pelo homicídio de Rosalina Ribeiro](link)
+- Mais de **40% dos cuidadores informais** dizem não sentir benefícios do estatuto, incluindo descanso adequado. [Cuidadores informais continuam sem sentir benefícios do estatuto](link)
+- A **IGAS** abre um inquérito à morte de um idoso nas urgências de Portimão; a Madeira fica sob aviso amarelo devido à chuva forte. [IGAS abre inquérito à morte de idoso nas urgências de Portimão](link) [Madeira sob aviso amarelo devido à chuva forte](link)
 
 ### 🌍 Mundo
-- **Joshua Wong** é condenado a mais **10 anos de prisão** em Hong Kong; os EUA pedem a sua libertação e a China rejeita as críticas. [Joshua Wong condenado a dez anos de prisão em Hong Kong](https://www.publico.pt/2026/11/05/mundo/noticia/activista-prodemocracia-joshua-wong-condenado-hong-kong-dez-anos-prisao-2193835)
-- **China e EUA** acordam reforçar a comunicação militar para reduzir os riscos de conflito. [China e EUA reforçam comunicação militar para reduzir riscos de conflito](https://www.rtp.pt/noticias/mundo/china-e-eua-acordam-reforcar-comunicacao-militar-para-reduzir-riscos-de-conflito_n1776995)
-- Uma greve geral em **França** mobiliza centenas de milhares de pessoas, com **70 mil polícias** destacados. [Greve geral em França mobiliza centenas de milhares de pessoas](https://www.rtp.pt/noticias/noticiario-antena1/09h-os-efeitos-da-greve-geral-em-franca_a1_1777037)
-- Um voo entre **Dublin e Roma** é desviado para França após uma ameaça de bomba. [Ameaça de bomba obriga voo entre Dublin e Roma a desviar-se para França](https://www.rtp.pt/noticias/mundo/aviao-que-partiu-de-dublin-para-roma-foi-desviado-para-a-franca-devido-a-ameaca-de-bomba_n1777038)
+
+- **Joshua Wong** é condenado a mais dez anos de prisão em Hong Kong, uma decisão criticada pelos EUA e por Taiwan. [Joshua Wong condenado a dez anos de prisão em Hong Kong](link) [EUA pedem libertação de Joshua Wong após nova condenação em Hong Kong](link)
+- **China e EUA** acordam reforçar a comunicação militar para reduzir os riscos de conflito. [China e EUA reforçam comunicação militar para reduzir riscos de conflito](link)
+- Um ataque russo com drones e mísseis provoca um incêndio na região de Kiev, enquanto mais de **7.000 pessoas** fogem de novos ataques em Cabo Delgado, Moçambique. [Ataque russo com drones e mísseis provoca incêndio na região de Kiev](link) [Mais de 7.000 pessoas fugiram de novos ataques em Cabo Delgado](link)
+- Um voo entre Dublin e Roma é desviado para França após uma ameaça de bomba. [Ameaça de bomba obriga voo entre Dublin e Roma a desviar-se para França](link)
+- A ONU aprova uma classificação internacional de locais de morte criada na **Universidade de Coimbra**. [ONU aprova classificação internacional de locais de morte criada em Coimbra](link)
 
 ### 💵 Economia
-- Os portugueses são a **sétima população da UE** que mais sente o aumento do custo de vida, segundo um inquérito do **Banco Europeu de Investimento**. [Portugueses estão entre os cidadãos da UE que mais sentem o aumento do custo de vida](https://www.rtp.pt/noticias/mundo/portugueses-sao-7a-populacao-da-ue-que-mais-sente-aumento-do-custo-de-vida_n1776992)
-- O lucro da **Emirates** cai **66%**, para **889 milhões de euros**, devido à guerra e ao petróleo caro. [Lucro da Emirates cai 66% devido à guerra e ao petróleo caro](https://www.rtp.pt/noticias/economia/lucro-do-grupo-emirates-caiu-66-no-1o-semestre-do-ano-fiscal_n1777028)
-- A **Maersk** aumenta o lucro em **52%**, para **3.967 milhões de euros**, entre janeiro e setembro. [Lucro da Maersk sobe 52% para 3.967 milhões de euros](https://www.jornaldenegocios.pt/empresas/detalhe/lucro-da-dinamarquesa-maersk-sobe-52-entre-janeiro-e-setembro)
-- A **BYD** pondera instalar uma fábrica de baterias em **Matosinhos**. [BYD pondera instalar fábrica de baterias em Matosinhos](https://eco.sapo.pt/2026/11/05/byd-pondera-instalar-fabrica-de-baterias-em-matosinhos/)
+
+- O emprego regista no verão a maior travagem em dois anos. [Emprego regista no verão a maior travagem em dois anos](link)
+- O lucro da **Emirates** cai **66%** devido à guerra e ao petróleo caro, enquanto o da **Maersk** sobe **52% para 3.967 milhões de euros**. [Lucro da Emirates cai 66% devido à guerra e ao petróleo caro](link) [Lucro da Maersk sobe 52% para 3.967 milhões de euros](link)
+- A **BYD** pondera instalar uma fábrica de baterias em Matosinhos, e o setor português das fintech triplica receitas numa década. [BYD pondera instalar fábrica de baterias em Matosinhos](link) [Setor português das fintech triplicou receitas numa década](link)
+- A União Europeia suaviza a meta de emissões para automóveis em 2035, fixando o novo alvo em **87,5%**. [UE suaviza meta de emissões para automóveis em 2035](link)
 
 ### ⚽ Desporto
-- **Paulo Fonseca** é apresentado como novo treinador do **Sporting**. [Paulo Fonseca é apresentado como novo treinador do Sporting](https://www.rtp.pt/noticias/desporto/sporting-paulo-fonseca-apresentado-como-novo-treinador_v1777023)
+
+- O **FC Porto** goleia o Nápoles por **4-1** na Liga dos Campeões. [FC Porto goleia Nápoles por 4-1 na Liga dos Campeões](link)
+- **Paulo Fonseca** é apresentado como novo treinador do **Sporting**. [Paulo Fonseca é apresentado como novo treinador do Sporting](link)

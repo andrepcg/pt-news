@@ -1,22 +1,27 @@
 ### 🗞️ Destaques
 
-- A tempestade **Charles** provoca **137 ocorrências** na Madeira e regista ventos de **130 km/h**. [Tempestade Charles provoca 137 ocorrências na Madeira e ventos de 130 km/h](https://www.noticiasaominuto.com/pais/3082180/mau-tempo-madeira-com-137-ocorrencias-ate-as-0630-sem-vitimas)
-- O surto de ébola na **República Democrática do Congo** ultrapassa **11 mil casos**. [Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos](https://www.rtp.pt/noticias/mundo/surto-de-ebola-na-republica-democratica-do-congo-ultrapassa-11-mil-casos_n1778334)
-- A Anthropic prepara uma possível entrada em bolsa com uma avaliação potencial de **1,25 biliões de dólares**. [Anthropic prepara IPO com avaliação potencial de 1,25 biliões de dólares](https://pt.euronews.com/2026/11/11/estados-unidos-ipo-da-anthropic-revela-planos-da-empresa-de-ia)
+- A tempestade **Charles** provoca **137 ocorrências** na Madeira, com ventos de **130 km/h**, e deixa o continente em alerta; um homem de 80 anos é resgatado com vida após ser arrastado pelas águas. [(link)](https://www.noticiasaominuto.com/pais/3082180/mau-tempo-madeira-com-137-ocorrencias-ate-as-0630-sem-vitimas), [(link)](https://www.rtp.pt/noticias/pais/resgatado-com-vida-homem-arrastado-pelas-aguas-na-madeira_v1778347)
+- O surto de ébola na **República Democrática do Congo** ultrapassa **11 mil casos**. [(link)](https://www.rtp.pt/noticias/mundo/surto-de-ebola-na-republica-democratica-do-congo-ultrapassa-11-mil-casos_n1778334)
+- **China, Estados Unidos e Rússia** negoceiam regras para o uso de inteligência artificial em armas nucleares, enquanto eurodeputados debatem ataques informáticos contra infraestruturas europeias. [(link)](https://www.rtp.pt/noticias/mundo/china-eua-e-russia-negoceiam-acordo-sobre-uso-de-ia-em-armas-nucleares_n1778341), [(link)](https://www.noticiasaominuto.com/mundo/3082158/eurodeputados-debatem-recentes-ataques-informaticos-a-ue)
 
 ### 🇵🇹 Portugal
 
-- Portugal sobe um lugar, para o **11.º**, no índice de desempenho climático. [Portugal sobe para o 11.º lugar no índice de desempenho climático](https://www.rtp.pt/noticias/pais/portugal-sobe-um-lugar-para-11o-em-indice-de-desempenho-climatico_n1778320)
+- A chuva intensa provoca inundações e perturbações no país, incluindo o cancelamento de mais de **200 voos** em Lisboa; a Autoridade Marítima alerta para ondas até **10 metros**. [(link)](https://jornaleconomico.sapo.pt/noticias/mais-de-200-voos-cancelados-no-aeroporto-de-lisboa/), [(link)](https://jornaleconomico.sapo.pt/noticias/autoridade-maritima-alerta-para-agravamento-do-estado-do-mar/)
+- Portugal sobe um lugar, para o **11.º**, no índice de desempenho climático. [(link)](https://www.rtp.pt/noticias/pais/portugal-sobe-um-lugar-para-11o-em-indice-de-desempenho-climatico_n1778320)
 
 ### 🌍 Mundo
 
-- A **Meta** é multada no Brasil por alegado tratamento desigual de **Lula** e **Flávio Bolsonaro** durante a campanha presidencial. [Meta multada no Brasil por tratamento desigual de Lula e Flávio Bolsonaro](https://www.rtp.pt/noticias/economia/meta-multada-por-tratamento-desigual-de-rivais-nas-presidenciais-do-brasil_n1778304)
-- Espanha aprova um investimento de **11,86 mil milhões de euros** na Defesa, enquanto uma greve geral contesta a crise da habitação e os baixos salários. [Espanha aprova investimento de 11,86 mil milhões de euros na Defesa](https://www.noticiasaominuto.com/mundo/3082102/governo-espanhol-aprova-11-86-mil-milhoes-de-euros-nas-forcas-armadas), [Greve geral em Espanha protesta contra crise da habitação e baixos salários](https://pt.euronews.com/2026/11/11/greve-geral-em-espanha-em-protesto-contra-a-crise-da-habitacao-e-os-baixos-salarios)
-- Eurodeputados debatem os recentes ataques informáticos contra infraestruturas da **União Europeia**. [Eurodeputados debatem ataques informáticos contra infraestruturas da União Europeia](https://www.noticiasaominuto.com/mundo/3082158/eurodeputados-debatem-recentes-ataques-informaticos-a-ue)
-- O Parlamento timorense aprova na generalidade o Orçamento do Estado para **2027**. [Parlamento timorense aprova na generalidade o Orçamento do Estado para 2027](https://www.rtp.pt/noticias/economia/parlamento-timorense-aprova-na-generalidade-orcamento-geral-do-estado-para-2027_n1778317)
+- A **Meta** é multada no Brasil por alegado tratamento desigual de **Lula** e **Flávio Bolsonaro** durante a campanha presidencial. [(link)](https://www.rtp.pt/noticias/economia/meta-multada-por-tratamento-desigual-de-rivais-nas-presidenciais-do-brasil_n1778304)
+- Espanha aprova um investimento de **11,86 mil milhões de euros** na Defesa, enquanto uma greve geral contesta a crise da habitação e os baixos salários. [(link)](https://www.noticiasaominuto.com/mundo/3082102/governo-espanhol-aprova-11-86-mil-milhoes-de-euros-nas-forcas-armadas), [(link)](https://pt.euronews.com/2026/11/11/greve-geral-em-espanha-em-protesto-contra-a-crise-da-habitacao-e-os-baixos-salarios)
+- O Irão informa que um petroleiro está em chamas no estreito de Ormuz. [(link)](https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-do-irao-diz-que-petroleiro-esta-em-chamas-em-ormuz_n1778346)
+- O Programa Alimentar Mundial alerta que Moçambique entra num período crítico devido ao conflito e à insegurança alimentar. [(link)](https://www.rtp.pt/noticias/mundo/programa-alimentar-mundial-alerta-que-mocambique-esta-a-entrar-em-periodo-critico_n1778348)
 
 ### 💵 Economia
 
-- Os lucros da **Petrobras** aumentam **46%** nos primeiros nove meses do ano. [Lucros da Petrobras aumentam 46% nos primeiros nove meses do ano](https://www.rtp.pt/noticias/economia/lucros-da-petrobras-sobem-46-nos-primeiros-nove-meses-do-ano_n1778307)
-- O festival chinês do **Dia dos Solteiros** evidencia a persistente fraqueza do consumo interno. [Dia dos Solteiros confirma fraqueza do consumo interno chinês](https://www.rtp.pt/noticias/economia/festival-de-compras-na-china-revela-persistente-fraqueza-do-consumo-interno_n1778314)
-- Os **EUA** defendem uma relação comercial mais equilibrada com a **China** antes do encontro entre os líderes. [EUA defendem relação comercial mais equilibrada com a China](https://www.rtp.pt/noticias/economia/eua-defendem-relacao-comercial-mais-equilibrada-com-china-antes-de-encontro-entre-lideres_n1778306)
+- Os lucros da **Petrobras** aumentam **46%** nos primeiros nove meses do ano. [(link)](https://www.rtp.pt/noticias/economia/lucros-da-petrobras-sobem-46-nos-primeiros-nove-meses-do-ano_n1778307)
+- O petróleo sobe para perto dos **92 dólares**, enquanto as bolsas asiáticas avançam impulsionadas pelo interesse na inteligência artificial. [(link)](https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-em-alta-com-impulso-de-maior-apetite-pela-ia-tsmc-salta-quase-5)
+- A fábrica da **Stellantis** em Mangualde bate o recorde de produção de furgões elétricos. [(link)](https://www.jornaldenegocios.pt/empresas/automovel/detalhe/furgoes-eletricos-ao-preco-dos-diesel-dao-recorde-a-mangualde)
+
+### ⚽ Desporto
+
+- O **FC Porto** destaca-se nas bolas paradas na Liga portuguesa e na Liga dos Campeões. [(link)](https://www.publico.pt/2026/11/11/desporto/noticia/fc-porto-continua-dar-licoes-bolas-paradas-ca-dentro-2194511)

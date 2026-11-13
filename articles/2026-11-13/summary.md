@@ -1,0 +1,26 @@
+### 🗞️ Destaques
+
+- Uma falha global continua a afetar **Outlook, Teams e Copilot**; a Microsoft admite que as medidas de recuperação não produzem os efeitos esperados e afasta um ataque informático. “Falha global da Microsoft continua a afetar Outlook, Teams e Copilot” [(link)](https://www.noticiasaominuto.com/tech/3083437/servicos-microsoft-365-para-empresas-estao-a-ser-retomados-apos-falha-global) [(link)](https://cnnportugal.iol.pt/microsoft/ataque-informatico/microsoft-afasta-ataque-informatico-como-causa-da-falha-global-que-afetou-outlook-teams-e-outros-servicos/20261113/6af6b49cd34e5a653d7340e8)
+- Movimentos pela habitação reúnem-se com o **Presidente da República** em Belém, num dia marcado pela crise do acesso à casa. “Movimentos pela habitação reúnem-se com o Presidente da República em Belém” [(link)](https://www.rtp.pt/noticias/pais/crise-na-habitacao-marca-a-agenda-politica-desta-sexta-feira-em-belem_n1778847)
+- Portugal regista **70.399 novos casos de diabetes** nos cuidados de saúde primários em 2025, num universo estimado de cerca de **960 mil pessoas** com a doença. “Diabetes: 70.399 novos casos registados em Portugal em 2025” [(link)](https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839) [(link)](https://cnnportugal.iol.pt/diabetes/cuidados-de-saude-primarios/diabetes-ja-afeta-960-mil-pessoas-em-portugal-registados-70-399-novos-casos-em-2025/20261113/6af6bed0d34e9ce6f1b44446)
+
+### 🇵🇹 Portugal
+
+- As cadeias portuguesas têm **1.163 reclusos acima da lotação**, além de falta de guardas e de celas. “Cadeias portuguesas têm mais 1163 reclusos e falta de guardas” [(link)](https://www.cmjornal.pt/portugal/detalhe/cadeias-com-1163-reclusos-a-mais-guardas-e-celas-a-menos)
+- Ficam por preencher **426 vagas** de formação médica especializada. “426 vagas de especialidade médica ficam por preencher” [(link)](https://observador.pt/2026/11/13/estudantes-de-medicina-lamentam-que-426-vagas-para-especialidades-fiquem-por-preencher/)
+- Sete distritos do continente estão sob aviso amarelo devido à previsão de chuva forte. “Sete distritos sob aviso amarelo devido à chuva forte” [(link)](https://www.noticiasaominuto.com/pais/3083451/sete-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva)
+- A Câmara de Lisboa propõe aumentar **8,8%** a dotação global do orçamento municipal para 2027. “Câmara de Lisboa propõe aumento de 8,8% no orçamento para 2027” [(link)](https://www.noticiasaominuto.com/pais/3083472/camara-de-lisboa-apresenta-orcamento-para-2027-com-aumento-de-8-8)
+- A CP suspende a circulação ferroviária entre **Campolide e Alcântara-Terra**. “CP suspende circulação ferroviária entre Campolide e Alcântara” [(link)](https://observador.pt/2026/11/13/cp-suspende-circulacao-de-comboios-entre-campolide-e-alcantara-terra/)
+
+### 🌍 Mundo
+
+- Os líderes da UE discutem quem representará o bloco nas negociações de paz sobre a Ucrânia e a Rússia. “UE discute quem representará a Europa nas negociações de paz sobre a Ucrânia” [(link)](https://www.noticiasaominuto.com/mundo/3083470/uecimeira-lideres-europeus-discutem-hoje-representacao-do-bloco-em-negociacoes-com-a-russia)
+- Uma operação internacional contra utilizadores da dark web termina com **354 detenções**. “Operação internacional contra a dark web termina com 354 detenções” [(link)](https://cnnportugal.iol.pt/dark-web/operacao-tornado/operacao-contra-trafico-na-dark-web-termina-com-354-detencoes-e-apreensao-de-toneladas-de-droga-armas-e-milhoes-em-dinheiro/20261113/6af6b33cd34e5a653d7340e7)
+- Taiwan regista uma redução da atividade militar chinesa nas proximidades da ilha. “Taiwan regista redução da atividade militar chinesa junto à ilha” [(link)](https://www.rtp.pt/noticias/mundo/taiwan-regista-reducao-na-atividade-militar-chinesa-perto-da-ilha_n1778831)
+- Um ataque ucraniano provoca pelo menos **quatro mortos** na região russa de Volgogrado. “Ataque ucraniano provoca pelo menos quatro mortos na região russa de Volgogrado” [(link)](https://www.rtp.pt/noticias/mundo/pelo-menos-quatro-mortos-em-ataque-ucraniano-contra-regiao-russa_n1778848)
+
+### 💵 Economia
+
+- A **SC Investments**, ligada à Sonae, compra **36,5%** da gestora Optimize, que administra **875 milhões de euros** em ativos. “SC Investments, ligada à Sonae, compra 36,5% da gestora Optimize” [(link)](https://www.jornaldenegocios.pt/mercados/detalhe/dona-da-sonae-compra-36-5-da-optimize-que-gere-875-milhoes-de-euros-de-ativos)
+- O Senado brasileiro aprova o plano fiscal de **Lula da Silva**, que prevê poupar **7,2 mil milhões de euros** e travar o défice. “Senado brasileiro aprova plano fiscal de Lula para travar o défice” [(link)](https://cnnportugal.iol.pt/brasil/lula-da-silva/senado-brasileiro-aprova-plano-de-lula-da-silva-para-poupar-7-2-mil-milhoes-de-euros-e-travar-defice-publico/20261113/6af6ae88d34e9ce6f1b4443a)
+- O FBI apreende **mil milhões de euros** em criptomoedas roubadas à Binance. “FBI apreende mil milhões de euros em criptomoedas roubadas à Binance” [(link)](https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/fbi-apreendeu-mil-milhoes-em-criptomoedas-roubadas-a-binance)

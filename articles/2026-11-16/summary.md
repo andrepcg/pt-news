@@ -1,24 +1,31 @@
 ### 🗞️ Destaques
-- **Xi Jinping**, **Donald Trump** e **Vladimir Putin** reúnem-se na quinta-feira, em Shenzhen, numa cimeira que a China apresenta como destinada a promover a “estabilidade estratégica”. [China confirma cimeira](https://www.rtp.pt/noticias/noticiario-antena1/2h-china-confirma-cimeira-a-tres-com-xi-jinping-donald-trump-e-vladimir-putin_a1_1779403) [Objetivo da cimeira](https://www.noticiasaominuto.com/mundo/3084666/china-aponta-estabilidade-estrategica-como-objetivo-da-cimeira-entre-xi-trump-e-putin#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed)
-- A Rússia afirma ter abatido **1.336 drones ucranianos** numa das maiores ofensivas aéreas da guerra, enquanto a Ucrânia ataca a ponte da Crimeia e interrompe a circulação. [Ofensiva de drones](https://www.rtp.pt/noticias/guerra-na-ucrania/russia-abate-1-336-drones-ucranianos-num-dos-maiores-ataques-da-guerra_n1779418) [Ponte da Crimeia](https://cnnportugal.iol.pt/ucrania/crimeia/ucrania-ataca-ponte-da-crimeia-e-interrompe-circulacao-numa-das-principais-ligacoes-a-russia/20261116/6afabfc7d34e9ce6f1b4488b)
-- A União Europeia prepara novo apoio financeiro e militar à Ucrânia antes do inverno, enquanto **Kaja Kallas** rejeita cedências à Rússia e **António Guterres** pede um cessar-fogo imediato. [Apoio europeu](https://www.rtp.pt/noticias/noticiario-antena1/5h-chefes-da-diplomacia-dos-27-reunem-se-em-bruxelas-para-discutir-apoio-a-ucrania_a1_1779411) [Kallas](https://observador.pt/2026/11/16/kaja-kallas-pede-a-uniao-europeia-para-nao-ceder-nada-enquanto-a-russia-mantiver-exigencias-absurdas-nas-negociacoes-de-paz-com-a-ucrania/) [Guterres](https://www.noticiasaominuto.com/mundo/3084659/guterres-reforca-apelo-por-cessar-fogo-e-integridade-territorial)
+
+- **Xi Jinping**, **Donald Trump** e **Vladimir Putin** reúnem-se na quinta-feira, em Shenzhen, numa cimeira que a China apresenta como destinada a promover a “estabilidade estratégica”. [(link)](https://www.rtp.pt/noticias/noticiario-antena1/2h-china-confirma-cimeira-a-tres-com-xi-jinping-donald-trump-e-vladimir-putin_a1_1779403), [(link)](https://www.noticiasaominuto.com/mundo/3084575/china-confirma-encontro-entre-xi-trump-e-putin-na-quinta-feira-em-shenzhen)
+- A Rússia afirma ter abatido **1.336 drones ucranianos** numa das maiores ofensivas da guerra, enquanto a UE prepara novo apoio financeiro e militar a Kiev antes do inverno. [(link)](https://www.rtp.pt/noticias/guerra-na-ucrania/russia-abate-1-336-drones-ucranianos-num-dos-maiores-ataques-da-guerra_n1779418), [(link)](https://www.rtp.pt/noticias/noticiario-antena1/5h-chefes-da-diplomacia-dos-27-reunem-se-em-bruxelas-para-discutir-apoio-a-ucrania_a1_1779411)
+- Uma explosão nas Caldas da Rainha provoca **três feridos graves**, incluindo uma criança. [(link)](https://www.rtp.pt/noticias/pais/explosao-faz-tres-feridos-nas-caldas-da-rainha_n1779463), [(link)](https://www.publico.pt/2026/11/16/local/noticia/explosao-provoca-tres-feridos-graves-caldas-rainha-2195078)
+- **José Maria Neves** é reeleito Presidente de Cabo Verde com cerca de **64% dos votos**. [(link)](https://www.dn.pt/internacional/uma-grande-vitria-jos-maria-neves-reeleito-presidente-de-cabo-verde)
 
 ### 🇵🇹 Portugal
-- Uma explosão nas Caldas da Rainha provoca **três feridos graves**, incluindo uma criança, e causa o desabamento de uma habitação. [Explosão nas Caldas da Rainha](https://www.rtp.pt/noticias/pais/explosao-faz-tres-feridos-nas-caldas-da-rainha_n1779463)
-- O **PS** garante a eliminação, em **2027**, da comissão pelo reembolso antecipado do crédito à habitação. [Crédito à habitação](https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/ps-garante-eliminacao-da-taxa-de-reembolso-antecipado-do-credito-a-habitacao)
-- Sindicatos da **PSP** e associações da **GNR** aguardam propostas concretas do Ministério da Administração Interna sobre salários e suplementos. [Negociações](https://www.dn.pt/sociedade/psp-e-gnr-renem-se-com-lus-neves-esperam-que-lhes-sejam-apresentadas-propostas-concretas)
-- Portugal tem **15 dias** para demonstrar a Bruxelas que está a proteger os golfinhos. [Proteção dos golfinhos](https://www.publico.pt/2026/11/16/azul/noticia/portugal-15-dias-provar-bruxelas-proteger-golfinhos-2194899)
+
+- O PS garante a eliminação, em **2027**, da comissão pelo reembolso antecipado do crédito à habitação. [(link)](https://www.publico.pt/2026/11/16/politica/noticia/ps-garante-eliminacao-taxa-reembolso-antecipado-credito-habitacao-2194270)
+- A PSP e a GNR aguardam propostas concretas do Ministério da Administração Interna sobre salários e suplementos. [(link)](https://www.dn.pt/sociedade/psp-e-gnr-renem-se-com-lus-neves-esperam-que-lhes-sejam-apresentadas-propostas-concretas)
+- Portugal tem **15 dias** para demonstrar a Bruxelas que está a proteger os golfinhos. [(link)](https://www.publico.pt/2026/11/16/azul/noticia/portugal-15-dias-provar-bruxelas-proteger-golfinhos-2194899)
+- A Escola Nacional de Bombeiros tem **175 mil euros** por pagar a formadores externos. [(link)](https://www.publico.pt/2026/11/16/sociedade/noticia/escola-nacional-bombeiros-dificuldades-financeiras-pagar-formacao-2195070)
 
 ### 🌍 Mundo
-- **José Maria Neves** é reeleito Presidente de Cabo Verde com cerca de **64% dos votos**. [Resultados em Cabo Verde](https://www.dn.pt/internacional/uma-grande-vitria-jos-maria-neves-reeleito-presidente-de-cabo-verde)
-- Um incêndio num edifício em Phuket, na Tailândia, provoca pelo menos **11 mortos** e dezenas de feridos. [Incêndio em Phuket](https://www.noticiasaominuto.com/mundo/3084625/incendio-em-edificio-na-tailandia-faz-11-mortos-e-dezenas-de-feridos)
-- Um ataque aéreo no Sudão causa **15 mortos**, incluindo quatro crianças. [Ataque no Sudão](https://www.noticiasaominuto.com/mundo/3084650/quinze-mortos-em-ataque-aereo-do-exercito-no-sudao)
+
+- Um incêndio num edifício em Phuket, na Tailândia, provoca pelo menos **11 mortos** e dezenas de feridos. [(link)](https://www.noticiasaominuto.com/mundo/3084625/incendio-em-edificio-na-tailandia-faz-11-mortos-e-dezenas-de-feridos)
+- Um ataque aéreo no Sudão causa **15 mortos**, incluindo quatro crianças. [(link)](https://www.noticiasaominuto.com/mundo/3084650/quinze-mortos-em-ataque-aereo-do-exercito-no-sudao)
+- A COP31 entra na semana decisiva, marcada por divergências sobre o fim dos combustíveis fósseis. [(link)](https://www.rtp.pt/noticias/mundo/resistencia-ao-fim-dos-combustiveis-fosseis-e-a-pedra-na-engrenagem-na-cop-31_n1779438)
+- Timor-Leste assumirá a presidência da ASEAN em **2029**. [(link)](https://www.noticiasaominuto.com/mundo/3084570/asean-decide-oficialmente-que-timor-leste-assume-presidencia-da-organizacao-em-2029)
 
 ### 💵 Economia
-- A KPMG estima que a economia portuguesa cresça **2,3% em 2026** e **1,9% em 2027**. [Previsões da KPMG](https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/kpmg-ve-economia-portuguesa-crescer-2-3-em-2026-e-1-9-em-2027)
-- Os preços dos combustíveis descem esta semana: a gasolina recua cerca de **dois cêntimos** e o gasóleo **seis**. [Preços dos combustíveis](https://www.rtp.pt/noticias/economia/descida-de-precos-dos-combustiveis-esta-semana_n1779455)
-- Os EUA exigem explicações à **Nvidia** sobre alegado contrabando de chips de inteligência artificial para a China. [Caso Nvidia](https://www.rtp.pt/noticias/economia/secretario-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips_n1779409)
-- A produção industrial chinesa cresce **4,8%** em outubro, abaixo das expectativas. [Indústria chinesa](https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/producao-industrial-na-china-cresce-4-8-em-outubro-abaixo-das-expectativas)
+
+- A KPMG estima que a economia portuguesa cresça **2,3% em 2026** e **1,9% em 2027**. [(link)](https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/kpmg-ve-economia-portuguesa-crescer-2-3-em-2026-e-1-9-em-2027)
+- Os combustíveis descem esta semana: a gasolina recua cerca de dois cêntimos e o gasóleo seis. [(link)](https://www.rtp.pt/noticias/economia/descida-de-precos-dos-combustiveis-esta-semana_n1779455)
+- Os EUA exigem explicações à **Nvidia** sobre alegado contrabando de chips para a China. [(link)](https://www.rtp.pt/noticias/economia/secretario-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips_n1779409)
+- A economia do Japão contrai **0,02%** no terceiro trimestre, pressionada pela queda do consumo. [(link)](https://www.rtp.pt/noticias/economia/queda-do-consumo-leva-economia-do-japao-a-contrair-0-02-entre-julho-e-setembro_n1779404)
 
 ### ⚽ Desporto
-- Portugal prepara o primeiro jogo oficial no País de Gales, no âmbito da Liga das Nações. [Seleção Nacional](https://www.rtp.pt/noticias/selecao-nacional/portugal-com-o-primeiro-jogo-oficial-nas-terras-do-pais-de-gales_d1779453)
+
+- Portugal prepara o primeiro jogo oficial no País de Gales, no âmbito da Liga das Nações. [(link)](https://www.rtp.pt/noticias/selecao-nacional/portugal-com-o-primeiro-jogo-oficial-nas-terras-do-pais-de-gales_d1779453)

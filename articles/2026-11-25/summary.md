@@ -1,0 +1,28 @@
+### 🗞️ Destaques
+
+- A greve dos maquinistas da **CP** cancela mais de metade dos comboios, com serviços mínimos concentrados nas horas de ponta — *Greve dos maquinistas da CP cancela mais de metade dos comboios* [(link)](https://www.rtp.pt/noticias/economia/greve-dos-maquinistas-da-cp-cancela-mais-de-metade-dos-comboios_n1781484).
+- Os **EUA** preparam novas tarifas sobre a **China**, a **União Europeia** e outras 14 economias — *EUA preparam novas tarifas sobre a China, a UE e outras 14 economias* [(link)](https://www.jornaldenegocios.pt/empresas/comercio/detalhe/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias).
+- Dois petroleiros incendiam-se depois de colidirem com minas no estreito de **Ormuz**, aumentando a tensão na segurança marítima regional — *Dois petroleiros incendeiam-se após colidirem com minas no estreito de Ormuz* [(link)](https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/mais-dois-petroleiros-colidem-com-minas-marinhas-em-ormuz).
+
+### 🇵🇹 Portugal
+
+- **António José Seguro** estreia-se na sessão solene do **25 de Novembro**, enquanto o **PCP** volta a não participar — *António José Seguro estreia-se na sessão solene do 25 de Novembro* [(link)](https://rr.pt/noticia/pais/2026/11/25/25-novembro-seguro-discursa-pela-primeira-vez-na-sessao-e-pcp-de-novo-ausente/494992/).
+- A **PSP** realiza uma operação contra o tráfico de droga e armas na Alta de Lisboa, com **16 mandados de busca domiciliária** e detenções noticiadas — *PSP realiza megaoperação contra o tráfico de droga na Alta de Lisboa* [(link)](https://www.cnnportugal.iol.pt/psp/alta-de-lisboa/lisboa-psp-faz-megaoperacao-contra-trafico-de-droga-e-armas-e-ja-ha-detencoes/20261125/6b068a040cf2c0fc744b779b).
+- As autoridades registam mais de **23 mil participações de violência doméstica** até setembro e **13 mulheres mortas** até 31 de outubro — *Violência doméstica já provocou mais de 23 mil participações este ano* [(link)](https://rr.pt/especial/pais/2026/11/25/violencia-domestica-responsavel-por-mais-de-23-mil-participacoes-a-psp-e-gnr-ate-setembro/494969/).
+- Moradores afetados pelo projeto de **TGV no Porto** terão de abandonar as casas até ao final de junho de **2027** — *Moradores afetados pelo TGV no Porto terão de sair de casa até junho de 2027* [(link)](https://www.jornaldenegocios.pt/empresas/transportes/detalhe/moradores-afetados-pelo-tgv-no-porto-tem-de-sair-de-casa-ate-final-de-junho-de-2027).
+- Uma sondagem indica que a avaliação negativa do Governo atinge um máximo, embora a maioria rejeite eleições antecipadas — *Avaliação negativa do Governo atinge máximo, mas maioria rejeita eleições antecipadas* [(link)](https://eco.sapo.pt/2026/11/25/avaliacao-negativa-do-governo-atinge-maximo-mas-maioria-rejeita-eleicoes-antecipadas/).
+
+### 🌍 Mundo
+
+- A oposição israelita apresenta um acordo de coligação com o objetivo de substituir **Benjamin Netanyahu** — *Oposição israelita avança com acordo de coligação para substituir Netanyahu* [(link)](https://www.rtp.pt/noticias/mundo/eisenkot-apresenta-acordo-de-coligacao-para-dar-um-governo-a-israel_n1781443).
+- Um ataque russo à região de **Kiev** provoca uma morte — *Ataque russo à região de Kiev provoca uma morte* [(link)](https://observador.pt/liveblogs/um-morto-em-ataque-russo-contra-regiao-de-kiev/).
+- Mais de **2.000 migrantes** chegam a **El Hierro** num único dia, num fluxo descrito como sem precedentes — *Mais de 2.000 migrantes chegam a El Hierro num único dia* [(link)](https://pt.euronews.com/2026/11/25/el-hierro-recebe-cerca-de-2100-migrantes-num-dia-sem-precedentes).
+- As forças colombianas resgatam todos os reféns retidos durante mais de 12 horas num supermercado de **Cartagena** — *Todos os reféns são resgatados de supermercado na Colômbia* [(link)](https://pt.euronews.com/2026/11/25/colombia-forcas-resgatam-todos-os-refens-em-assalto-a-supermercado-de-cartagena).
+- **Bangladesh** aumenta o salário mínimo do setor têxtil após semanas de protestos — *Bangladesh aumenta salário mínimo no setor têxtil após protestos* [(link)](https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/bangladesh-aumenta-salario-minimo-no-setor-textil-apos-semanas-de-protestos).
+
+### 💵 Economia
+
+- A **Lufthansa** contacta partidos portugueses para obter uma participação de **100% na TAP** — *Lufthansa contacta partidos para ficar com 100% da TAP* [(link)](https://eco.sapo.pt/2026/11/25/lufthansa-em-contacto-com-partidos-para-chegar-a-100-da-tap/).
+- A **EDP** quer entrar no top 3 da comercialização de energia no Brasil e mira leilões no valor de **6,4 mil milhões de euros** — *EDP quer entrar no top 3 da comercialização de energia no Brasil* [(link)](https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-as-compras-no-brasil-e-faz-mira-a-leiloes-de-6-4-mil-milhoes).
+- A **Shein** paga **100 milhões de dólares** para resolver acusações relacionadas com práticas enganosas para consumidores — *Shein paga 100 milhões de dólares por práticas enganosas* [(link)](https://www.jornaldenegocios.pt/empresas/comercio/detalhe/shein-paga-100-milhoes-de-dolares-apos-acusacoes-de-enganar-consumidores).
+- O preço mediano das casas na **Madeira** é cerca de **20% superior** à média nacional, enquanto salários e pensões ficam abaixo do nível do país — *Preço das casas na Madeira é 20% superior à média nacional* [(link)](https://observador.pt/2026/11/25/madeira-tem-casas-20-mais-caras-do-que-a-media-nacional-mas-salarios-e-pensoes-ficam-aquem-do-pais/).
